@@ -2,7 +2,7 @@
     package="iocikun.juj.lojban.dictionary">
 
     <application
-        android:icon="@drawable/android:star_big_on"
+        android:icon="@drawable/star_big_on"
         android:label="@string/app_name"
         android:debuggable="true">
 
