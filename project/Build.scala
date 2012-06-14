@@ -23,7 +23,7 @@ object General {
     proguardSettings ++
     AndroidManifestGenerator.settings ++
     AndroidMarketPublish.settings ++ Seq (
-      keyalias in Android := "change-me",
+      keyalias in Android := "yoshikuni",
       libraryDependencies += "org.scalatest" %% "scalatest" % "1.8.RC1" % "test"
     )
 }
