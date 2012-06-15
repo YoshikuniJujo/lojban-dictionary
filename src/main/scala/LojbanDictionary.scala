@@ -20,6 +20,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val textView = findView(TR.textview).asInstanceOf[TextView]
 	lazy val button = findView(TR.lojen).asInstanceOf[Button]
 	lazy val enloj = findView(TR.enloj).asInstanceOf[Button]
+	lazy val rafsi = findView(TR.rafsi).asInstanceOf[Button]
 	lazy val cmavo = new BufferedReader(new InputStreamReader(
 		getAssets().open("cmavo.txt"), "UTF-8"));
 	lazy val reader = new BufferedReader(new InputStreamReader(
@@ -49,6 +50,12 @@ class LojbanDictionary extends Activity with TypedActivity {
 		enloj.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				enlojFun()
+			}
+		})
+
+		rafsi.setOnClickListener(new View.OnClickListener() {
+			def onClick(v: View) {
+				rafsiFun()
 			}
 		})
 
@@ -86,6 +93,20 @@ class LojbanDictionary extends Activity with TypedActivity {
 		}
 		for(line <- clist) {
 			if (line.slice(20, 100).startsWith(str)) {
+				textView.setText(line)
+			}
+		}
+	}
+
+	def rafsiFun() {
+		textView.setText(editText.getText.toString() +
+			reader.readLine())
+		var str = editText.getText.toString()
+		var line = ""
+		for(line <- list) {
+			if (line.slice(7, 10).startsWith(str) ||
+				line.slice(11, 14).startsWith(str) ||
+				line.slice(15, 19).startsWith(str)) {
 				textView.setText(line)
 			}
 		}
