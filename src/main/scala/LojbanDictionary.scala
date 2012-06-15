@@ -19,9 +19,12 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val editText = findView(TR.input).asInstanceOf[EditText]
 	lazy val textView = findView(TR.textview).asInstanceOf[TextView]
 	lazy val button = findView(TR.button).asInstanceOf[Button]
+	lazy val cmavo = new BufferedReader(new InputStreamReader(
+		getAssets().open("cmavo.txt"), "UTF-8"));
 	lazy val reader = new BufferedReader(new InputStreamReader(
 		getAssets().open("gismu.txt"), "UTF-8"));
 	var list: List[String] = List()
+	var clist: List[String] = List()
 
 	override def onCreate(bundle: Bundle) {
 		super.onCreate(bundle)
@@ -30,6 +33,10 @@ class LojbanDictionary extends Activity with TypedActivity {
 		var line = ""
 		while({line = reader.readLine(); line != null}) {
 			list ::= line
+		}
+
+		while({line = cmavo.readLine(); line != null}) {
+			clist ::= line
 		}
 
 		button.setOnClickListener(new View.OnClickListener() {
@@ -49,7 +56,13 @@ class LojbanDictionary extends Activity with TypedActivity {
 		var str = editText.getText.toString()
 		var line = ""
 		for(line <- list) {
-			if (line.startsWith(" " + str) ||
+			if (line.slice(1, 100).startsWith(str) ||
+				line.slice(20, 100).startsWith(str)) {
+				textView.setText(line)
+			}
+		}
+		for(line <- clist) {
+			if (line.slice(1, 100).startsWith(str) ||
 				line.slice(20, 100).startsWith(str)) {
 				textView.setText(line)
 			}
