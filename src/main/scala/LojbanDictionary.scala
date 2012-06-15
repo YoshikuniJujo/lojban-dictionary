@@ -38,8 +38,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 			}
 		})
 
-		findView(TR.textview).setText("hello, scala world!" + fun(10) +
-			list(0))
+		findView(TR.textview).setText("Hello! It's lojban dictinary")
 	}
 
 	def fun(n: Int): Int = if (n == 0) 1 else n * fun(n - 1)
@@ -49,9 +48,9 @@ class LojbanDictionary extends Activity with TypedActivity {
 			reader.readLine())
 		var str = editText.getText.toString()
 		var line = ""
-//		while({line = reader.readLine(); line != null}) {
 		for(line <- list) {
-			if (line.startsWith(" " + str)) {
+			if (line.startsWith(" " + str) ||
+				line.slice(20, 100).startsWith(str)) {
 				textView.setText(line)
 			}
 		}
