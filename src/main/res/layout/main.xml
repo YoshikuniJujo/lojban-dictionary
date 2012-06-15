@@ -5,22 +5,36 @@
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content">
 
-  <EditText
+<EditText
 	android:id="@+id/input"
 	android:layout_width="fill_parent"
 	android:layout_height="wrap_content"
 	android:inputType="text"
 	/>
 
-  <Button
-        android:id="@+id/button"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content">
+
+<Button
+        android:id="@+id/lojen"
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
-	android:text="button"
+	android:text="lojban -> en"
 	/>
 
+<Button
+        android:id="@+id/enloj"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="en -> lojban"
+	/>
 
-  <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+</LinearLayout>
+
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
             android:id="@+id/textview"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
