@@ -14,7 +14,11 @@ import _root_.android.widget.Button
 import _root_.android.widget.EditText
 import _root_.android.content.res.AssetManager
 
+import iocikun.juj.lojban.dictionary.ReadDictionary
+
 class LojbanDictionary extends Activity with TypedActivity {
+
+	var readDic: ReadDictionary = null;
 
 	lazy val editText = findView(TR.input).asInstanceOf[EditText]
 	lazy val textView = findView(TR.textview).asInstanceOf[TextView]
@@ -59,7 +63,9 @@ class LojbanDictionary extends Activity with TypedActivity {
 			}
 		})
 
-		findView(TR.textview).setText("Hello! It's lojban dictinary")
+
+		readDic = new ReadDictionary(getAssets())
+		findView(TR.textview).setText(readDic.initialString)
 	}
 
 	def fun(n: Int): Int = if (n == 0) 1 else n * fun(n - 1)
@@ -68,17 +74,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 		textView.setText(editText.getText.toString() +
 			reader.readLine())
 		var str = editText.getText.toString()
-		var line = ""
-		for(line <- list) {
-			if (line.slice(1, 100).startsWith(str)) {
-				textView.setText(line)
-			}
-		}
-		for(line <- clist) {
-			if (line.slice(1, 100).startsWith(str)) {
-				textView.setText(line)
-			}
-		}
+		textView.setText(readDic.lojToEn(str))
 	}
 
 	def enlojFun() {
