@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><valsi word="ma" type="cmavo"><selmaho >KOhA7</selmaho><definition >pro-sumti: sumti question (what/who/how/why/etc.); appropriately fill in sumti blank.</definition></valsi>
+<valsi word="ma'a" type="cmavo"><selmaho >KOhA3</selmaho><definition >pro-sumti: me/we the speaker(s)/author(s) RefEntity "amp" you the listener(s) RefEntity "amp" others unspecified.</definition></valsi>
+<valsi word="ma'agni" type="fu'ivla"><definition >$x_1$ is a mahogany of species $x_2$.</definition></valsi>
+<valsi word="ma'arbakni" type="lujvo"><definition >$b_1$ is a yak of species/type $b_2$</definition></valsi>
+<valsi word="ma'arbi'i" type="lujvo"><definition >$j_1$ is a valley between mountains/hills $c_1=j_2$ in terrain $c_2$.</definition><notes >Cf. {ma'arfe'a}, {cmana}, {punli}, {kevna}</notes></valsi>
+<valsi word="ma'arfe'a" type="lujvo"><definition >$f_1$ is a canyon/ravine/chasm in mountain $f_2=c_1$ in terrain $c_2$.</definition><notes >Cf. {ma'arbi'i}, {cmana}, {fenra}, {kevna}</notes></valsi>
+<valsi word="ma'arjipci" type="lujvo"><definition >$p_1$ is a Copper Pheasant / Syrmaticus soemmerringii species of breed $p_2$</definition></valsi>
+<valsi word="ma'e" type="cmavo"><selmaho >BAI</selmaho><definition >marji modal, 1st place                            material in object/substance ...</definition></valsi>
+<valsi word="ma'ekla" type="lujvo"><definition >$k_1=m_2$ drives to $k_2$ from $k_3$ via route $k_4=m_3$ by means $m_1$.</definition><notes >Cf. {marce}, {klama}, {litru}.</notes></valsi>
+<valsi word="ma'ersrogau" type="lujvo"><definition >$g_1$ parks vehicle $m_1=s_2$ in/at $s_3$.</definition></valsi>
+<valsi word="ma'i" type="cmavo"><selmaho >BAI</selmaho><definition >manri modal, 1st place (by standard 2)            in reference frame ...</definition></valsi>
+<valsi word="ma'o" type="cmavo"><selmaho >MAhO</selmaho><definition >convert letteral string or other mathematical expression (mex) operand to mex operator.</definition></valsi>
+<valsi unofficial="true" word="ma'oi" type="experimental cmavo"><selmaho >ZO</selmaho><definition >selma'o quote; quotes a word (a cmavo) and uses it to name a selma'o.</definition><notes >Example: ma'oi coi is equivalent to COI. See also {ra'oi}. </notes></valsi>
+<valsi word="ma'oste" type="lujvo"><definition >$x_1=l_1$ is a list of structure words $x_2=l_2=c_1$ of class(es) $x_5=c_2$ of language $x_6=c_3$ in order $x_3=l_3$ in medium $x_4=l_4$.</definition><notes >Cf. {cmavo}, {liste}, {vlaste}, {vlacku}, {gimste}, {jvoste}</notes></valsi>
+<valsi word="ma'u" type="cmavo"><selmaho >PA3</selmaho><definition >digit/number: plus sign; positive number; default any positive.</definition></valsi>
+<valsi word="ma'u zei ionti" type="lujvo"><definition >$x_1$ is an cation of radical/(atom of element)$x_2$ with $x_3$ charges.</definition><notes >Cf. {ionti}, {ni'u zei ionti}, {lektoni}, {xumsle}.
+
+</notes></valsi>
+<valsi word="ma'urcu'e" type="lujvo"><definition >$c_1$ is a college at $c_2$ teaching subject $c_3$ to audience $c_4=m_1$ operated by $c_5$.</definition><notes >An institution for adult education at a basic or intermediate level (teaching those of any age). Cf. {ckule}, {balcu'e}.</notes></valsi>
+<valsi word="mabla" type="gismu"><rafsi >mal</rafsi><definition >$x_{1}$ is a derogative connotation/sense of $x_{2}$ used by $x_{3}$; $x_{3}$ derogates/'curses at' $x_{2}$ in form $x_{1}$.</definition><notes >Bloody (British sense), fucking, shit, goddamn.  See also {palci}, {dapma}, {xlali}, {zabna}, {funca}, {ganti}, {ganxo}, {gletu}, {gutra}, {kalci}, {pinca}, {pinji}, {plibu}, {vibna}, {vlagi}, {zargu}.</notes></valsi>
+<valsi word="mabrnfuru" type="fu'ivla"><definition >$x_1$ is a ferret.</definition><notes >Cf. {mustlei}, {ermine}.</notes></valsi>
+<valsi word="mabru" type="gismu"><rafsi >mab</rafsi><definition >$x_{1}$ is a mammal/'animal'/beast of species $x_{2}$.</definition><notes >See also {danlu}, {ladru}, {tatru}, {ractu}, {xanto}, {xarju}.</notes></valsi>
+<valsi word="macnu" type="gismu"><rafsi >cnu</rafsi><definition >$x_{1}$ (event/action/process) is manual [not automatic] in function $x_{2}$ under conditions $x_{3}$.</definition><notes >See also {zmiku}, {jitro}.</notes></valsi>
+<valsi word="madRID" type="cmene"><definition >Madrid</definition></valsi>
+<valsi word="madinas" type="cmene"><definition >Medina</definition></valsi>
+<valsi word="madni'i" type="lujvo"><definition >$n_1=m_1$ is the moral of story/situation $m_3$ and entails action/event/state $n_2$.</definition><notes >Cf. {marde}, {nibli}.</notes></valsi>
+<valsi word="madyske" type="lujvo"><definition >$s_1$ (mass of facts) is the study of conduct-governing standards $s_2=m_1$ based on methodology $s_3$.</definition><notes >Major branches of ethics include "meta-ethics" ({ckaji zei madyske}), "normative ethics" ({bilga zei madyske}), "applied ethics" ({pilno zei madyske}), "moral psychology" ({menli zei madyske}), and "descriptive ethics" ({skicu zei madyske}). Cf. {saske}.</notes></valsi>
+<valsi word="madysku" type="lujvo"><definition >$c_1=m_2$ moralizes expressing $c_2$ (sedu'u/text/lu'e concept) to audience $c_3$ via expressive medium $c_4$  using/based on ethics/morals/moral standards/ethical standards $m_1$</definition><notes >from {marde} {cusku} c.f. {bitygau} {dragau}</notes></valsi>
+<valsi word="mafcre" type="lujvo"><definition >$c_1=m_3$ is a wizard/sorcerer of $m_1=c_1$, which is magical to $m_2$, with standard of sorcery $c_3$.</definition><notes >Cf. {makfa}, {certu}</notes></valsi>
+<valsi word="magmiltre" type="lujvo"><definition >$x_1$ is $x_2$ millimeters of mercury by standard $x_3$.</definition><notes >synonym {torceli}</notes></valsi>
+<valsi word="magyxre" type="lujvo"><definition >$x_1$ is an amalgam of composition including $x_2$.</definition></valsi>
+<valsi word="mai" type="cmavo"><selmaho >MAI</selmaho><definition >utterance ordinal suffix; converts a number to an ordinal, such as an item or paragraph number.</definition></valsi>
+<valsi word="maisru" type="lujvo"><definition >$x_1=s_1=m_1$ is the material environment/surrounding material (i.e. gaseous/liquid atmosphere, vacuum, etc.) enclosing $x_2=s_2$ in direction(s)/dimensions(s)/plane $x_3=s_3=m_3$, of type/composition including $x_4=m_2$.</definition><notes >A vacuum is arguably not 'material', but the word is much more convenient if that is included.  Also, vacuum is never completely empty.  See also {marji}, {sruri}, {gapci}, {litki}, {kunti}, {sakci}, {kensa}.</notes></valsi>
+<valsi word="makas" type="cmene"><definition >Mecca</definition></valsi>
+<valsi word="makcu" type="gismu"><rafsi >ma'u</rafsi><definition >$x_{1}$ is mature/ripe/fully-grown/adult in development-quality $x_{2}$ (ka).</definition><notes >See also {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.</notes></valsi>
+<valsi word="makfa" type="gismu"><rafsi >maf</rafsi><definition >$x_{1}$ is magic/supernatural/sorcery/witchcraft/wizardry to $x_{2}$, performed by person/force/deity $x_{3}$.</definition><notes >See also {krici}, {manci}.</notes></valsi>
+<valsi word="makfartci" type="lujvo"><definition >$x_1$ is a compass with magnet $x_2$.</definition><notes >see also {maksi}, {terfarnilfrica}, {cukyxratci}</notes></valsi>
+<valsi word="makpapi" type="fu'ivla"><definition >$x_1$ is a poppy of species $x_2$</definition></valsi>
+<valsi word="maksi" type="gismu"><rafsi >mak</rafsi><definition >$x_{1}$ is magnetic [adjective] producing magnetic field $x_{2}$.</definition><notes >See also {dikca}, {trina}, {xlura}.</notes></valsi>
+<valsi word="makyvelvei" type="lujvo"><definition >$v_4=m_1$ is a magnetic storage medium storing $v_2$ (data/facts/du'u) about $v_3$ (object/event) in file(s) $v_1$.</definition><notes >Cf. {vreji}, {datni}, {skami}, {cukmakyvelvei}, {srimakyvelvei}</notes></valsi>
+<valsi word="maldja" type="lujvo"><definition >$c_1$ is junk food for $c_2$.</definition></valsi>
+<valsi word="malfadni" type="lujvo"><definition >$f_1=m_1$ is vulgar/uncouth in property $f_2=m_2$ (ka) among members $f_3$ (set).</definition><notes >Cf. {mabla}, {fadni}, {tolba'i}.</notes></valsi>
+<valsi word="malfu'a" type="lujvo"><definition >$f_1=m_2$ (event/property) is determined by the bad luck/fortune of $f_2$.</definition><notes >Cf. {mabla}, {funca}, {malselfu'a}, {zanfu'a}.</notes></valsi>
+<valsi word="malgaci" type="fu'ivla"><definition >$x_1$ is Malagasy in aspect $x_2$.</definition></valsi>
+<valsi word="malgli" type="lujvo"><definition >$g_1=m_1$ is an anglicism (in Lojban), inappropriate according to $m_3$.</definition><notes >Refers to any kind of reliance upon English in a Lojban expression, but is most common for calques. Is sometimes even extended to cover reliance upon cultural assumptions. ``malglico'' is a much more common form.</notes></valsi>
+<valsi word="malmakfa" type="lujvo"><definition >$mak_1$ is black magic to $mak_2$, performed by person/force/deity $mak_3$.</definition><notes >Cf. {mabla}, {makfa}, {lijda}, {palci}</notes></valsi>
+<valsi word="malminiata" type="fu'ivla"><definition >$m_1$ is a black widow spider of variety $m_2$.</definition><notes >cf. {lartodektu}</notes></valsi>
+<valsi word="malmliselgu'i" type="lujvo"><definition >$ma_1=mi_1=g_2$ is ill-lit with light $g_1$ from light source $g_3$.</definition><notes >Cf. {gusni}, {mabla}, {milxe}</notes></valsi>
+<valsi word="malmys" type="cmene"><definition >Malmö</definition><notes >Malmö, in the southernmost province of Scania, is the third most populous city in Sweden.</notes></valsi>
+<valsi word="malselfu'a" type="lujvo"><definition >$f_2$ is unlucky/unfortunate in $f_1=m_2$ (event/property).</definition><notes >Cf. {mabla}, {funca}, {zanselfu'a}.</notes></valsi>
+<valsi word="malsi" type="gismu"><rafsi >mas</rafsi><definition >$x_{1}$ is a temple/church/sanctuary/synagogue/shrine of religion $x_{2}$ at location/serving area $x_{3}$.</definition><notes >$x_2$ may be event of form (... worships/pays/respect to ...), hence (metaphorically extending to) monument (= {mojmalsi}, {si'armalsi}).  See also {cevni}, {krici}, {lijda}, {ritli}.</notes></valsi>
+<valsi word="malsno" type="lujvo"><definition >$mas_1$ is sluggish at doing/being/bringing about $mas_2$ (event/state) according to $mab_3$.</definition><notes >Cf. {masno}</notes></valsi>
+<valsi word="malvi'e" type="lujvo"><definition >$x_1$ is unwelcome by $x_2$ to place/event $x_3$.</definition><notes >See also {fi'inai}; {zanvi'e}</notes></valsi>
+<valsi word="mam" type="cmene"><definition >Mom/Mum</definition><notes >The rafsi for {mamta} used as a familiar name. See also {paf}, {bes}, {tix}, {bun}, {mes}.</notes></valsi>
+<valsi word="mamgle" type="lujvo"><definition >$g_1$ has sex/copulates with the mother of $g_2=m_2$.</definition></valsi>
+<valsi word="mamjipci" type="lujvo"><definition >$m_1=j_1$ is a hen of species/breed $j_2$ with offspring $x_3=m_2$.</definition></valsi>
+<valsi word="mamta" type="gismu"><rafsi >mam</rafsi><definition >$x_{1}$ is a mother of $x_{2}$; $x_{1}$ bears/mothers/acts maternally toward $x_{2}$; [not necessarily biological].</definition><notes >See also {patfu}, {sovda}, {rirni}, {rorci}, {tarbi}, {famti}, {bersa}, {jbena}.</notes></valsi>
+<valsi word="manbi'o" type="lujvo"><definition >$b_1=m_1$ darkens under conditions $x_2=b_3$.</definition><notes >Cf. {gusybi'o}.</notes></valsi>
+<valsi word="manci" type="gismu"><rafsi >mac</rafsi><definition >$x_{1}$ feels wonder/awe/marvels about $x_{2}$.</definition><notes >See also {cinmo}, {makfa}, {kucli}, {spaji}, {cinri}, {banli}, {sisku}.</notes></valsi>
+<valsi word="mandala" type="fu'ivla"><definition >$x_1$ is a mandala</definition></valsi>
+<valsi word="mandioka" type="fu'ivla"><definition >$x_1$ is manioc of species/variety $x_2$.</definition><notes >syn. {samcrkasava}; see also {samcu}</notes></valsi>
+<valsi word="manfo" type="gismu"><definition >$x_{1}$ (object/event) is uniform/homogeneous in property $x_{2}$ (ka).</definition><notes >See also {prane}, {curve}, {ranji}, {vitno}, {stodi}, {dikni}, {sampu}, {traji}.</notes></valsi>
+<valsi word="manfyta'u" type="lujvo"><definition >$t_1=m_1$ is livery/[a uniform] for wearing by $t_2$ for purpose $t_3$.</definition><notes >Cf. {manfo}, {taxfu}.</notes></valsi>
+<valsi unofficial="true" word="mango" type="experimental gismu"><definition >$x_1$ is a mango [fruit] of species/variety $x_2$.</definition><notes >{ricrmango} for mango tree</notes></valsi>
+<valsi word="manku" type="gismu"><rafsi >man</rafsi><definition >$x_{1}$ is dark/lacking in illumination.</definition><notes >(cf. {blabi}, {gusni}, {ctino}; use {kandi} or {xekri} with colors, {ctino})</notes></valsi>
+<valsi word="manri" type="gismu"><rafsi >mar</rafsi><definition >$x_{1}$ is a frame of reference/standard for observing/measuring/determining $x_{2}$, with/by rules $x_{3}$.</definition><notes >($x_1$ may be object or si'o idea); See also cmavo list {ma'i}, {ckilu}, {merli}, {pajni}, {cimde}, {jdice}, {marde}.</notes></valsi>
+<valsi word="mansa" type="gismu"><definition >$x_{1}$ satisfies evaluator $x_{2}$ in property (ka)/state $x_{3}$.</definition><notes >See also {pajni}.</notes></valsi>
+<valsi word="mansygei" type="lujvo"><definition >$g_1=m_2$ is contently happy about/with $m_1$ with regard to $g_2=m_3$ (event/state).</definition><notes >Cf. {mansa}, {gleki}, {camgei}, {nalra'ugei}.</notes></valsi>
+<valsi word="mansytcu" type="lujvo"><definition >$n_1$ needs $n_2$ to be satisfied for reason $x_3$.</definition><notes >$n_2$ must be a physical object, not an event; for that, use {djica}. See also: {mansa}, {nitcu}</notes></valsi>
+<valsi word="manti" type="gismu"><definition >$x_{1}$ is an ant of species/breed $x_{2}$.</definition><notes >See also {cinki}, {jalra}.</notes></valsi>
+<valsi word="mantygapci" type="lujvo"><definition >$x_1$ is carbon monoxide.</definition><notes >cf. {mantyslami}</notes></valsi>
+<valsi word="mantyjalra" type="lujvo"><definition >$j_1$ is a termite of species $j_2$.</definition></valsi>
+<valsi word="mantymamta" type="lujvo"><definition >$mam_1$ is an ant queen of ants $mam_2=man_1$ of species/breed $man_2$.</definition><notes >Cf. {manti}, {mamta}</notes></valsi>
+<valsi word="mantyslami" type="lujvo"><definition >$x_1$ is formic acid.</definition><notes >see also {mantygapci}</notes></valsi>
+<valsi word="mantyzda" type="lujvo"><definition >$z_1$ is an anthill of ants $z_2=m_1$.</definition><notes >Cf. {manti}, {zdani}</notes></valsi>
+<valsi word="manze'a" type="lujvo"><definition >$z_1$ becomes darker/darkens by amount $z_3$.</definition><notes >Cf. {manku}, {zenba}</notes></valsi>
+<valsi word="mapku" type="gismu"><rafsi >map</rafsi><definition >$x_{1}$ is a cap/hat/crown/helmet/piece of headgear [head-top garment] of material $x_{2}$.</definition><notes >See also {taxfu}, {stedu}, {drudi}.</notes></valsi>
+<valsi word="mapni" type="gismu"><definition >$x_{1}$ is a quantity of/contains/is made of cotton [type of fabric/material].</definition><notes >See also {bukpu}.</notes></valsi>
+<valsi word="maprultricu" type="lujvo"><definition >$x_1$ is eucalyptus of species/variety $x_2$.</definition></valsi>
+<valsi word="mapti" type="gismu"><rafsi >mat</rafsi><definition >$x_{1}$ fits/matches/suits/is compatible/appropriate/corresponds to/with $x_{2}$ in property/aspect $x_{3}$.</definition><notes >See also {satci}, {tugni}, {sarxe}, {drani}, {tarmi}, {ckini}, {mintu}.</notes></valsi>
+<valsi word="mapypre" type="lujvo"><definition >$p_1$ is a hatter/millner /[hat maker] selling/making hats of material $m_2$.</definition><notes >Cf. {mapku}, {prenu}.</notes></valsi>
+<valsi word="marbela" type="fu'ivla"><definition >$x_1$ is dodder of species/variety $x_2$ parasitic on $x_3$.</definition></valsi>
+<valsi word="marbi" type="gismu"><rafsi >mra</rafsi><definition >$x_{1}$ is a shelter/haven/refuge/retreat/harbor for/protecting $x_{2}$ from danger/threat $x_{3}$.</definition><notes >See also {bandu}, {ckape}, {snura}, {drudi}, {sepli}, {bitmu}, {gacri}.</notes></valsi>
+<valsi word="marce" type="gismu"><rafsi >ma'e</rafsi><definition >$x_{1}$ is a vehicle/mode of transport carrying $x_{2}$ in/on surface/medium $x_{3}$, propelled by $x_{4}$.</definition><notes >See also {klama}, {matra}, {bevri}, {bloti}, {carce}, {karce}, {sabnu}, {skiji}.</notes></valsi>
+<valsi word="marde" type="gismu"><rafsi >mad</rafsi><definition >$x_{1}$ are the ethics/morals/moral standards/ethical standards of $x_{2}$ (ind./mass) about situation $x_{3}$.</definition><notes >$x_1$ will (typically) be an abstract, a rule or rules of behavior; also principles; also conscience (= {sezmarde}).  See also {palci}, {vrude}, {lijda}, {manri}, {javni}, {tarti}, {zekri}.</notes></valsi>
+<valsi word="mardikca" type="lujvo"><definition >$d_1$ is positive electric charge in $d_2$.</definition><notes >Cf. {dikca}, {manri}, {dutydikca}</notes></valsi>
+<valsi word="margosa" type="fu'ivla"><definition >$x_1$ is neem/margosa/azedarac of species/variety $x_2$.</definition><notes >See also {zdiraxa}, {andiroba}. "Azedarach" and variants have referred to both this tree and the {zdiraxa}.</notes></valsi>
+<valsi word="margu" type="gismu"><rafsi >mag</rafsi><definition >$x_{1}$ is a quantity of/contains/made of mercury/quicksilver; [metaphor: fluid metal; temperature].</definition><notes >See also {jinme}.</notes></valsi>
+<valsi word="marji" type="gismu"><rafsi >maj</rafsi><rafsi >mai</rafsi><definition >$x_{1}$ is material/stuff/matter of type/composition including $x_{2}$ in shape/form $x_{3}$.</definition><notes >Also (adjective:) $x_1$ is physical (one sense)/material.  See also {morna}, {mucti}, {nejni}, {tarmi}, {dacti}.</notes></valsi>
+<valsi word="markuja" type="fu'ivla"><definition >$x_1$ is a passionfruit/passionflower of species/variety $x_2$.</definition></valsi>
+<valsi word="marlari" type="fu'ivla"><definition >$x_1$ is malaria caused by Plasmodium species $x_2$.</definition><notes >Cf. {blusfani}, {paludizm}.</notes></valsi>
+<valsi word="marmota" type="fu'ivla"><definition >$x_1$ is a marmot/woodchuck/groundhog of species $x_2$.</definition><notes >see also {ratcu}, {smacu}</notes></valsi>
+<valsi word="marna" type="gismu"><definition >$x_{1}$ is a quantity of hemp/marijuana/jute of species/strain $x_{2}$.</definition><notes >See also {skori}, {tanko}, {sigja}, {xukmi}.</notes></valsi>
+<valsi word="marnybu'u" type="lujvo"><definition >$b_1$ is canvas made of hemp.</definition><notes >Cf. {marna}, {bukpu}</notes></valsi>
+<valsi word="marnyva'u" type="lujvo"><definition >$v_1$ smokes cannabis of type $m_2$.</definition><notes >Cf. {marna}, {vasxu}. See also {damva'u}, {tankyva'u}, {sigva'u}.</notes></valsi>
+<valsi word="marsipane" type="fu'ivla"><definition >$x_1$ is/contains marzipan of type/brand $x_2$</definition><notes >Cf. {titspi}, {smela}.</notes></valsi>
+<valsi word="marxa" type="gismu"><rafsi >max</rafsi><definition >$x_{1}$ [force] mashes/crushes/squashes/smashes $x_{2}$ into pulp/mash/crumbs/deformed mass $x_{3}$.</definition><notes >See also {daspo}, {pesxu}, {zalvi}, {bapli}.</notes></valsi>
+<valsi word="masKUAS" type="cmene"><definition >Moscow</definition><notes >Cf. {moskov}.  Lojbanized pronunciations of the Russian capital are: 'masKVA'(Russian, but KV combination is invalid in lojban), 'mosiKY' (Chinese Mandarin; there is no 'v' in Chinese and 'f' is unusual except at the beginning of a word) and 'mosko' or 'moskau' in English.</notes></valsi>
+<valsi word="masno" type="gismu"><rafsi >sno</rafsi><definition >$x_{1}$ is slow/sluggish at doing/being/bringing about $x_{2}$ (event/state).</definition><notes >See also {sutra}.</notes></valsi>
+<valsi word="masti" type="gismu"><rafsi >ma'i</rafsi><definition >$x_{1}$ is $x_{2}$ months in duration (default is 1 month) by month standard $x_{3}$.</definition><notes >This month (= {cabma'i}); next month (= {bavla'ima'i}); last month (= {prula'ima'i}).  See also {detri}, {djedi}, {jeftu}, {nanca}.</notes></valsi>
+<valsi word="masyce'u" type="lujvo"><definition >$c_1$ is a parish of parishioners $c_2$.</definition></valsi>
+<valsi word="matci" type="gismu"><definition >$x_{1}$ is a mat/pad/mattress/pallet [flat, soft, dense form] of material $x_{2}$.</definition><notes >Also mattress = (kicymatci).  See also {kicne}, {tapla}, {karda}, {ckana}.</notes></valsi>
+<valsi word="matli" type="gismu"><definition >$x_{1}$ is a quantity of/contains/is made of linen/flax [type of fabric/material].</definition><notes >See also {bukpu}.</notes></valsi>
+<valsi word="matlyspa" type="lujvo"><definition >$x_1$ is flax of species/variety $x_2$.</definition><notes >see also {matli}, {matlytsi}</notes></valsi>
+<valsi word="matlytsi" type="lujvo"><definition >$x_1$ is flaxseed/linseed produced by plant $x_2$, capable of growing into $x_3$.</definition><notes >see also {matli}, {matlyspa}</notes></valsi>
+<valsi word="matne" type="gismu"><definition >$x_{1}$ is a quantity of/contains butter/oleo/margarine/shortening from source $x_{2}$.</definition><notes >(adjective:) $x_1$ is buttery; an edible fat, solid but spreadable at normal temperatures; dairy butter (= {ladmatne}).  See also {grasu}, {kruji}.</notes></valsi>
+<valsi word="matnyxrula" type="lujvo"><definition >$x_1$ is a/the buttercup flower of plant/species $x_2$.</definition><notes >Cf. {matne}, {xrula}, {xrulnranunkulu}.</notes></valsi>
+<valsi word="matpai" type="lujvo"><definition >$p_1$ approves $m_1$ for $m_2$ in property aspect $m_3$.</definition><notes >Cf. {mapti}, {pajni}, {zanru}</notes></valsi>
+<valsi word="matra" type="gismu"><definition >$x_{1}$ is a motor/engine, driving/propelling/providing power to $x_{2}$.</definition><notes >See also {marce}, {minji}, {carce}.</notes></valsi>
+<valsi word="matsi'uma'i" type="lujvo"><definition >$x_1$ is June of year $x_2$ in calendar $x_3$.</definition><notes >Cf. {xavmasti}, {kanbyma'i}, {nanca}.</notes></valsi>
+<valsi word="matybi'o" type="lujvo"><definition >$b_1$ becomes fitting with $m_2$ in property/aspect $m_3$.</definition><notes >Cf. {mapti}, {binxo}</notes></valsi>
+<valsi word="matygau" type="lujvo"><definition >$g_1$ assigns/appoints $m_1$ to $m_2$.</definition></valsi>
+<valsi word="mau" type="cmavo"><selmaho >BAI</selmaho><definition >zmadu modal, 1st place (a greater)                exceeded by ... ; usually a sumti modifier.</definition></valsi>
+<valsi unofficial="true" word="mau'i" type="experimental cmavo"><selmaho >CAI2</selmaho><definition >attitudinal: stronger intensity attitudinal relativizer </definition><notes >Specifies a stronger intensity - relative to any previously specified intensity of the same UI/cmavo.
+CAI2 after CAI specifies an absolute intensity - but the CAI2 specifies the relative shift from the regular value.
+CAI after CAI2 specifies an relative value - and the CAI denotes the relative amount interval size.
+See also {me'ai}, {dau'i}, {sai}</notes></valsi>
+<valsi word="maudji" type="lujvo"><definition >$d_1$ prefers $d_1=m_1$ (event/state) to $m_2$ for purpose $d_3$ by amount/excess $z_4$.</definition><notes >Cf. {zmadu}, {djica}, {zmanei}</notes></valsi>
+<valsi word="mavji" type="gismu"><rafsi >mav</rafsi><definition >$x_{1}$ is a quantity of oats [grain] of species/strain $x_{2}$.</definition><notes >See also {gurni}.</notes></valsi>
+<valsi word="mavystasu" type="lujvo"><definition >$x1=s1$ is porridge of type $x2=m2$</definition></valsi>
+<valsi word="maxri" type="gismu"><rafsi >xri</rafsi><definition >$x_{1}$ is a quantity of wheat [grain] of species/strain $x_{2}$.</definition><notes >See also {gurni}.</notes></valsi>
+<valsi word="maxydzu" type="lujvo"><definition >$c_1=m_1$ stomps on surface $c_2$ using limbs $c_3$ crushing $m_2$ into pulp mass $m_3$.</definition><notes >Cf. {marxa}, {cadzu}.</notes></valsi>
+<valsi word="maxyvru" type="lujvo"><definition >$s_1$ is a crash (sound) produced by $m_1$ smashing into $m_2$.</definition><notes >Cf. {marxa}, {savru}</notes></valsi>
+<valsi word="me" type="cmavo"><selmaho >ME</selmaho><definition >convert sumti to selbri/tanru element; $x_{1}$ is specific to [sumti] in aspect $x_{2}$.</definition></valsi>
+<valsi word="me'a" type="cmavo"><selmaho >BAI</selmaho><definition >mleca modal, 1st place (a lesser)                 undercut by ... ; usually a sumti modifier.</definition></valsi>
+<valsi unofficial="true" word="me'ai" type="experimental cmavo"><selmaho >CAI2</selmaho><definition >attitudinal: weaker intensity attitudinal relativizer </definition><notes >Specifies a stronger intensity - relative to any previously specified intensity of the same UI/cmavo. See also {mau'i}, {dau'i}, {ru'e}</notes></valsi>
+<valsi word="me'andi" type="fu'ivla"><definition >$x_1$ is henna of species/variety $x_2$.</definition><notes >see also {larcu}, {cinta}</notes></valsi>
+<valsi unofficial="true" word="me'au" type="experimental cmavo"><selmaho >ME</selmaho><definition >Convert abstract predicate sumti back to predicate</definition><notes >Has an inverse: {me'ei}</notes></valsi>
+<valsi word="me'e" type="cmavo"><selmaho >BAI</selmaho><definition >cmene modal, 1st place (requires quote)           with name ...; so-called ...</definition></valsi>
+<valsi word="me'e ma" type="cmavo cluster"><selmaho >BAI*</selmaho><definition >sumti question asking for a name; who?; requires quoted name as an answer.</definition></valsi>
+<valsi unofficial="true" word="me'ei" type="experimental cmavo"><selmaho >LE</selmaho><definition >Article for abstract predicate sumti</definition><notes >Has an inverse: {me'au}</notes></valsi>
+<valsi word="me'i" type="cmavo"><selmaho >PA3</selmaho><definition >digit/number: less than.</definition></valsi>
+<valsi word="me'ispe" type="lujvo"><definition >$s_1$ is a sister's spouse of $m_2$ under law/custom/tradition/system/convention $sp_3$.</definition><notes >Omit $x_4=s_2=m_1$. Cf. {speni}, {bunspe}, {tubyspe}.</notes></valsi>
+<valsi word="me'o" type="cmavo"><selmaho >LI</selmaho><definition >the mathematical expression (unevaluated); convert unevaluated mathematical expression to sumti.</definition></valsi>
+<valsi unofficial="true" word="me'oi" type="experimental cmavo"><selmaho >MEhOI</selmaho><definition >non-Lojban brivla</definition><notes >Quick way to borrow foreign words into Lojban. Also known as "stage-0 fu'ivla". Equivalent to {me'ei} {zo'oi}.</notes></valsi>
+<valsi word="me'u" type="cmavo"><selmaho >MEhU</selmaho><definition >elidable terminator: end sumti that was converted to selbri; usually elidable.</definition></valsi>
+<valsi word="mebmla" type="lujvo"><definition >$ml_1$ is a temple belonging to $me_2$</definition><notes >from {mebri} {mlana}</notes></valsi>
+<valsi word="mebri" type="gismu"><rafsi >meb</rafsi><definition >$x_{1}$ is a/the brow/forehead [projecting flat/smooth head/body-part] of $x_{2}$.</definition><notes >See also {stedu}, {flira}.</notes></valsi>
+<valsi word="mebybo'u" type="lujvo"><definition >$b_{1}$=$m_{1}$ is a/the frontal bone [os frontale] of $b_{3}$=$m_{2}$</definition><notes >See also {mebri} and {bongu}.</notes></valsi>
+<valsi word="mecmlerai" type="lujvo"><definition >$me_1=t_1$ is least beautiful among set/range $t_3$ to $m_2$ in aspect $me_3$ (ka) by aesthetic standard $me_4$.</definition><notes >Cf. {mleca}, {melbi}, {traji}, {mlerai}, {mlemau}, {mleme'a}.</notes></valsi>
+<valsi word="mecna'u" type="lujvo"><definition >$m_1=n_1$ is a negative number relative to origo $m_2$.</definition><notes >Cf. {ni'u}, {nonmecna'u}, {fatna'u}, {zmana'u}.</notes></valsi>
+<valsi word="mecrai" type="lujvo"><definition >$m_1=t_1$ is the least of $m_2=t_4$ in property $m_3$ (ka/ni) by amount $m_4$.</definition><notes >Cf. {mleca}, {traji}</notes></valsi>
+<valsi word="mectolmlerai" type="lujvo"><definition >$me_1=t_1$ is least ugly among set/range $t_3$ to $me_2$ in aspect $me_3$ (ka) by aesthetic standard $me_4$.</definition><notes >Cf. {mleca}, {melbi}, {traji}, {tolmlerai}, {tolmlemau}, {tolmleme'a}.</notes></valsi>
+<valsi word="mecybrarai" type="lujvo"><definition >$t_1=b_1$ is the smallest/[ least big] among set/range $t_4$  in property/dimension(s) $b_2$ (ka).</definition><notes >Cf. {mleca}, {barda}, {cmarai}, {bramau}, {brarai}, {brame'a}.
+</notes></valsi>
+<valsi word="mecycmarai" type="lujvo"><definition >$t_1=c_1$ is the biggest/[ least small] among set/range $t_4$  in property/dimension(s) $c_2$ (ka).</definition><notes >Cf. {mleca}, {cmalu}, {traji}, {brarai}, {cmarai}, {cmamau}, {cmame'a}.</notes></valsi>
+<valsi word="mecyjavdu'i" type="lujvo"><definition >$x_1$ is less than or equal to $x_2$ in property/quantity $x_3$ by amount $x_4$.</definition><notes >See also {su'e}</notes></valsi>
+<valsi word="mecyxagrai" type="lujvo"><definition > $t_1=x_1$ is the worst among set/range $t_4$ for $x_2$ by standard $x_3$.</definition><notes >Cf. {mleca}, {xamgu}, {traji}, {xagme'a}, {xauzma}, {xagrai}, {xlarai}.</notes></valsi>
+<valsi word="mecyxlarai" type="lujvo"><definition >$m_1=x_1$ is the best/[least bad] among set/range $t_4$ for $x_2$ by standard $x_3$.</definition><notes >Cf. {mleca}, {xlali}, {traji}, {xagrai}, {xlamau}, {xlarai}, {xlame'a}, {zanrai}.</notes></valsi>
+<valsi word="medomoi" type="cmavo cluster"><definition >$x_1$ is yours among $x_2$ by rule/relationship $x_3$; $x_1$ is your $x_2$ by rule/relationship $x_3$.</definition></valsi>
+<valsi word="megdo" type="gismu"><rafsi >meg</rafsi><definition >$x_{1}$ is a million [$10^6$] of $x_{2}$ in dimension/aspect $x_{3}$ (default is units).</definition><notes >#
+megdo
+#
+ 
+#
+See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}</notes></valsi>
+<valsi word="megygra" type="lujvo"><definition >$x_{1}$ is $x_{2}$ tonne(s) [metric unit] in mass (default is 1) by standard $x_{3}$.</definition><notes >Cf. {megdo}, {grake}.</notes></valsi>
+<valsi word="mei" type="cmavo"><rafsi >mem</rafsi><rafsi >mei</rafsi><selmaho >MOI</selmaho><definition >convert number to cardinality selbri; $x_{1}$ is the mass formed from set $x_{2}$ whose n member(s) are $x_{3}$.</definition><notes >[$x_1$ is a mass with N components $x_3$ composing set $x_2$; $x_2$ is an n-tuple
+($x_2$ is completely specified) (= {selmei} for reordered places); $x_1$ forms
+an n-some; $x_3$ (not necessarily a complete enumeration) are among the
+members of $x_2$]; See also {cmima}, {gunma}, cmavo list {moi}.</notes></valsi>
+<valsi word="mekfancu" type="lujvo"><definition >$x_1$ is an operator/mathematical function/single-valued mapping from domain $x_2$ to range $x_3$ defined by mathematical expression/rule $x_4$.</definition></valsi>
+<valsi word="mekna'u" type="lujvo"><definition >$x_1$ is the value of expression $x_2$ in base/convention $x_3$.</definition><notes >See also {ju'u}</notes></valsi>
+<valsi word="mekso" type="gismu"><rafsi >mek</rafsi><rafsi >me'o</rafsi><definition >$x_{1}$ [quantifier/expression] is a mathematical expression interpreted under rules/convention $x_{2}$.</definition><notes >See also {cmaci}, {dilcu}, {fancu}, {frinu}, {jalge}, {namcu}, {parbi}, {pilji}.</notes></valsi>
+<valsi word="meksu'i" type="lujvo"><definition >$x_1$ is an operand of operator $x_2$ filling place $x_3$ under rules/convention $x_4$.</definition></valsi>
+<valsi word="melbi" type="gismu"><rafsi >mel</rafsi><rafsi >mle</rafsi><definition >$x_{1}$ is beautiful/pleasant to $x_{2}$ in aspect $x_{3}$ (ka) by aesthetic standard $x_{4}$.</definition><notes >Also handsome, pretty, gorgeous, cute, comely, graceful.  See also {pluka}, {xamgu}.</notes></valsi>
+<valsi word="meljo" type="gismu"><rafsi >mej</rafsi><definition >$x_{1}$ reflects Malaysian/Malay culture/nationality/language in aspect $x_{2}$.</definition><notes >See also {baxso}, {bindo}.</notes></valsi>
+<valsi word="melpsita" type="fu'ivla"><definition >$x_1$ is a budgerigar (Melopsittacus undulatus) of breed $x_2$.</definition><notes >Cf. {bajriga}, {cipni}, {sralo}.</notes></valsi>
+<valsi word="memimoi" type="cmavo cluster"><definition >$x_1$ is mine among $x_2$ by rule/relationship $x_3$; $x_1$ is my $x_2$ by rule/relationship $x_3$.</definition></valsi>
+<valsi word="mencre" type="lujvo"><definition >$c_1=m_2$ (person) is intelligent/smart by standard $c_3$.</definition><notes >Cf. {menli}, {certu}, {bebna}, {pensi}, {crexalbo}</notes></valsi>
+<valsi word="mencti" type="lujvo"><definition >$c_1$ reads/watches/listens to/mentally consumes $c_2$.</definition></valsi>
+<valsi word="menli" type="gismu"><rafsi >men</rafsi><definition >$x_{1}$ is a mind/intellect/psyche/mentality/[consciousness] of body $x_{2}$.</definition><notes >(adjective:) $x_1$ is mental/psychological/a mental phenomenon; multiple personalities (= so'i {menli}).  See also {besna}, {morji}, {mucti}, {pensi}, {sanji}, {xanri}, {sevzi}, {xadni}.</notes></valsi>
+<valsi word="menmikce" type="lujvo"><definition >$m_1$ is a psychologist/psychiatrist/counsellor/mental health practitioner of client $m_2$ treating ailment $m_3$ with treatment $m_4$.</definition><notes >Cf. {menli}, {mikce}, {menske}, {jikske}</notes></valsi>
+<valsi word="menmuvgau" type="lujvo"><definition >$g_1$=$me_1$ telekinetically / with its mind moves $mu_1$ to destination/receiver $mu_2$ [away] from origin $mu_3$ over path/route $mu_4$</definition><notes >Made from {menli}+{muvgau}.  {menli}2 dropped on account of irrelevancy.  See also {gasnu}, {klama}, {litru}, {makfa}, {menli}, {muvdu}.</notes></valsi>
+<valsi word="menseigauka'e" type="lujvo"><definition >$x_1=k_1$ is able to distinguish between $x_2=ms_1$ and $x_3=ms_2$ under conditions $x_4=k_3$</definition></valsi>
+<valsi word="menseika'e" type="lujvo"><definition >$x_1=k_1$ is able to distinguish between $x_2=ms_1$ and $x_3=ms_2$ under conditions $x_4=k_3$</definition></valsi>
+<valsi word="mensi" type="gismu"><rafsi >mes</rafsi><rafsi >me'i</rafsi><definition >$x_{1}$ is a sister of/sororal to $x_{2}$ by bond/tie/standard/parent(s) $x_{3}$; [not necessarily biological].</definition><notes >See also {bruna}, {tunba}, {tamne}, {famti}.</notes></valsi>
+<valsi word="menske" type="lujvo"><definition >$s_1$ (mass of facts) is mental science/psychology about subject matter $s_2$ based on methodology $s_3$.</definition><notes >Cf. {menli}, {saske}, {bi'armenske}, {menmikce}.</notes></valsi>
+<valsi word="mensku" type="lujvo"><definition >$x1=m2=c1$ thinks/[mentally says to oneself] $x2=c2$ (sedu'u/text/lu'e concept)</definition></valsi>
+<valsi word="mentapiperita" type="fu'ivla"><definition >$x_1$ is a quantity of peppermint of species/strain $x_2$</definition></valsi>
+<valsi word="mentu" type="gismu"><rafsi >met</rafsi><rafsi >me'u</rafsi><definition >$x_{1}$ is $x_{2}$ minutes in duration (default is 1 minute) by standard $x_{3}$.</definition><notes >See also {junla}, {cacra}, {snidu}, {tcika}.</notes></valsi>
+<valsi word="menynunda'a" type="lujvo"><definition >$n_1$ is psychological warfare on the part of $d_1$.</definition></valsi>
+<valsi word="menytcaci" type="lujvo"><definition >$t_1$ is the psychological disposition of $t_2=m_2$.</definition><notes >Cf. {tcaci}, {seltra}, {selzu'e}, {selpre}.</notes></valsi>
+<valsi word="merbau" type="lujvo"><definition >$m_1=b_1$ is the American English used by $b_2$ to express/communicate $b_3$ (si'o/du'u, not quote).</definition><notes >Cf. {bangu}, {merko}, {glico}, {bangenugu}.</notes></valsi>
+<valsi word="merfei" type="lujvo"><definition >$f_1$ is worth $f_2=m_1$ US cents.</definition><notes >Cf. {fepni}, {merko}, {jdini}</notes></valsi>
+<valsi word="merfiti" type="fu'ivla"><definition >$x_1$ is a skunk of genus/species $x_2$.</definition><notes >Cf. {ckankua}, {cribe}, {prokioni}, {mabru}.</notes></valsi>
+<valsi word="mergu'e" type="lujvo"><definition >$m_1=g_1$ is the United States of America.</definition><notes >Cf. {merko}, {gugde}, {gugde'usu}.</notes></valsi>
+<valsi word="merja'a" type="lujvo"><definition >$m_1=j_1$ is a president of the United States of America.</definition><notes >Cf. {merko}, {jatna}, {nolraitru}</notes></valsi>
+<valsi word="merje'a" type="lujvo"><definition >$j_1=m_1$ is the United State of America as a state.</definition><notes >A U.S. state, or any part of a federation is referred to as {gugypau}. Cf. {merko}, {jecta}, {bemro}.</notes></valsi>
+<valsi word="merkadno" type="lujvo"><definition >$m_1=k_1$ reflects angloamerican culture/nationality/geography/language in aspect $m_1=k_1$.</definition><notes >Pertaining to the United States and Canada. Cf. {merko}, {kadno}, {bemro}, {bemjoitco}</notes></valsi>
+<valsi word="merklu" type="lujvo"><definition >$k_1=m_1$ is US culture.</definition><notes >Cf. {merko}, {kulnu}, {bemro}, {steito}</notes></valsi>
+<valsi word="merko" type="gismu"><rafsi >mer</rafsi><definition >$x_{1}$ pertains to USA/American culture/nationality/dialect in aspect $x_{2}$.</definition><notes >See also {brito}, {bemro}, {ketco}, {xispo}, {glico}.</notes></valsi>
+<valsi word="merlanu" type="fu'ivla"><definition >$x_1$ is a whiting of species $x_2$.</definition><notes >Cf. {finpe}, {merluci}, {finprgado}, {sperlanu}, {labyfi'e}.</notes></valsi>
+<valsi word="merli" type="gismu"><rafsi >mre</rafsi><definition >$x_{1}$ (agent) measures/evaluates $x_{2}$ [quantity] as $x_{3}$ units on scale $x_{4}$ (si'o), with accuracy $x_{5}$.</definition><notes >See also {kancu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {ckilu}, {gradu}, {satci}, {centi}, {cimde}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {kramu}, {litce}, {manri}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.</notes></valsi>
+<valsi word="mernta" type="fu'ivla"><definition >$x_1$ is a quantity of mint (member of the genus Mentha) of species/strain $x_2$</definition></valsi>
+<valsi word="mertru" type="lujvo"><definition >$t_1$ is a government of the United States of America.</definition><notes >Cf. {merko}, {turni}, {merja'a}</notes></valsi>
+<valsi word="meryru'u" type="lujvo"><definition >$r_1=m_1$ is $r_2$ US dollars.</definition><notes >Cf. {merko}, {rupnu}, {jdini}, {merfei}</notes></valsi>
+<valsi word="mes" type="cmene"><definition >Sister</definition><notes >Cf. {mensi}, {bun}, {mam}, {paf}, {bes}, {tix}.</notes></valsi>
+<valsi word="mexno" type="gismu"><rafsi >mex</rafsi><definition >$x_{1}$ reflects Mexican culture/nationality in aspect $x_{2}$.</definition><notes >See also {xispo}, {bemro}, {spano}.</notes></valsi>
+<valsi word="mexybau" type="lujvo"><definition >$m_1=b_1$ is the Mexican Spanish language used by $b_2$ to express/communicate $b_3$ (si'o/du'u, not quote).</definition><notes >from {mexno} {bangu} c.f. {sanbau}.</notes></valsi>
+<valsi word="mexygu'e" type="lujvo"><definition >$m_1=g_1$ is Mexico</definition><notes >Cf. {mexno}, {gugde}, {gugdemuxu}.</notes></valsi>
+<valsi word="mi" type="cmavo"><rafsi >mib</rafsi><selmaho >KOhA3</selmaho><definition >pro-sumti: me/we the speaker(s)/author(s); identified by self-vocative.</definition></valsi>
+<valsi word="mi'a" type="cmavo"><selmaho >KOhA3</selmaho><definition >pro-sumti: me/we the speaker(s)/author(s) RefEntity "amp" others unspecified, but not you, the listener.</definition></valsi>
+<valsi word="mi'afra" type="lujvo"><definition >$f_1$ laughs at $f_3$ under conditions $f_4$.</definition><notes >Cf. {cisma}, {mlimi'a}.</notes></valsi>
+<valsi word="mi'amli" type="lujvo"><definition >$m_1=c_1$ titters/chuckles/giggles.</definition><notes >Cf. {cmila}, {milxe}.</notes></valsi>
+<valsi word="mi'arpe'u" type="lujvo"><definition >$p_1$ (agent) tickles $p_2$ with $p_3$ (a locus on $p_1$ or an instrument) at $p_4$ (a locus on $p_2$).</definition><notes >Cf. {mlisa'e}, {tikpa}.</notes></valsi>
+<valsi word="mi'asna" type="lujvo"><definition >$s_1$ is laughter emitted by $s_2=c_1$</definition><notes >c.f. {cmila}, {sance}.</notes></valsi>
+<valsi word="mi'e" type="cmavo"><selmaho >COI</selmaho><definition >self vocative: self-introduction - denial of identity; identifies speaker.</definition></valsi>
+<valsi word="mi'ecpe" type="lujvo"><definition >$m_1=c_1$ demands/exacts $c_2=m_3$ of $c_3=m_2$, with manner/form of demand $c_4$.</definition><notes >Cf. {minde}, {cpedu}, {pikci}, {preti}, {ca'icpe}, {camcpe}.</notes></valsi>
+<valsi word="mi'enai" type="cmavo cluster"><selmaho >COI*</selmaho><definition >self vocative: self-introduction - denial of identity; denies identity of speaker.</definition></valsi>
+<valsi word="mi'esku" type="lujvo"><definition >$x_1=m_1=c_1$ expresses/states command $x_2=c_2$ to recipient(s) $x_3=m_2=c_3$ via expressive medium $x_4=c_4$.</definition><notes >$m_3$ of {minde} (the desired result) is presumably cointained in he expression of the command.  $x_1$ commands $x_3$ with expression $x_2$.</notes></valsi>
+<valsi word="mi'i" type="cmavo"><selmaho >BIhI</selmaho><definition >non-logical interval connective: ordered components: ... center, ... range surrounding center.</definition></valsi>
+<valsi word="mi'ircelxa'i" type="lujvo"><definition >$x_1=c_1$ is a machine gun for use against $x_2$ by $x_3$, launching projectile $c_2$ propelled by $c_3$.</definition><notes >Cf. {minji}, {cecla}, {xarci}, {xumjimcelxa'i}, {xilcelxa'i}, {clacelxa'i}, {celgunta}. </notes></valsi>
+<valsi word="mi'ircikre" type="lujvo"><definition >$c_1$ repairs/mends/fixes/maintains $c_2$ for use $m_2=c_3$</definition><notes >from {minji} {cikre}</notes></valsi>
+<valsi word="mi'irlarfi'a" type="lujvo"><definition >$c_1$ is technology-oriented science fiction about plot/theme/subject $c_2$ by author $c_3$, based on technology $l_1$.</definition><notes >Cf. {mi'irlarcu}, {skefi'a}, {minji}, {larcu}, {cfika}</notes></valsi>
+<valsi word="mi'ispi" type="lujvo"><definition >$s_1$ is a piece of machine $m_1=s_2$.</definition><notes >Cf. {minji}, {spisa}</notes></valsi>
+<valsi word="mi'o" type="cmavo"><selmaho >KOhA3</selmaho><definition >pro-sumti: me/we the speaker(s)/author(s) RefEntity "amp" you the listener(s).</definition></valsi>
+<valsi word="mi'u" type="cmavo"><selmaho >UI3b</selmaho><definition >discursive: ditto.</definition><notes >See also {mintu}.</notes></valsi>
+<valsi word="mianma" type="fu'ivla"><definition >$x_1$ is Burmese in aspect $x_2$.</definition></valsi>
+<valsi word="mibma'o" type="lujvo"><definition >$c_1$ is a first person pronoun in language $c_4$.</definition><notes >Cf. {mi}, {mi'a}, {ma'a}, {mi'e}, {cmavo}, {donma'o}, {sevzi}, {se'a}, {se'i}, {se'o}.</notes></valsi>
+<valsi word="mibykla" type="lujvo"><definition >$x1=k1$ comes to me from $x2=k3$ via route $x3=k4$ by means $x4=k5$</definition></valsi>
+<valsi word="mibypre" type="lujvo"><definition >$m_1=p_1$ is me.</definition><notes >Used instead of {mi} when a brivla is needed.</notes></valsi>
+<valsi word="mic" type="cmene"><definition >Doctor</definition><notes >Cf. {mikce}.</notes></valsi>
+<valsi word="micka'agau" type="lujvo"><definition >$m_1=g_1$ uses surgical implement $k_1$ to operate on organ(s) $k_2$ of patient $m_2$, as a treatment for ailment $m_3$.</definition><notes >Cf. {mikce}, {katna}</notes></valsi>
+<valsi word="micka'aku'a" type="lujvo"><definition >$k_1$ is an operating theatre in which to perform surgery $m_4$.</definition><notes >Cf. {mikce}, {kumfa}, {micka'agau}, {spita}</notes></valsi>
+<valsi word="micydi'u" type="lujvo"><definition >$d_1$ is a clinic/surgery/practice with doctor(s) $m_1$.</definition><notes >Cf. {mikce}, {dinju}, {spita}</notes></valsi>
+<valsi word="micyske" type="lujvo"><definition >$x_1$ is medicine/medical science/medical treatment to $x_2$ for ailment$x_3$ by treatment/cure $x_4$.</definition><notes >Cf. {mikce}, {bilma}, {kanro}, {spita}.</notes></valsi>
+<valsi word="micyxu'i" type="lujvo"><definition >$x_1$ is an instance/dose/quantity of medication/medicine/drug $x_2$ for treating ailment $m_3$.</definition><notes >Cf. {mikce}, {xukmi}.</notes></valsi>
+<valsi word="midju" type="gismu"><rafsi >mij</rafsi><definition >$x_{1}$ is in/at the middle/center/midpoint/[is a focus] of $x_{2}$; (adjective:) $x_{1}$ is central.</definition><notes >See also {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju}.</notes></valsi>
+<valsi word="midnoi" type="lujvo"><definition >$n_1$ is an instruction for $n_2=m_3$ (event/state) to occur, issued by $n_3=m_1$ for intended recipient $n_4=m_2$.</definition><notes >Cf. {minde}, {notci}</notes></valsi>
+<valsi word="midvla" type="lujvo"><definition >$v_1$ is a command word/keyword ordering $v_2=m_3$ (event/state) in language $v_3$.</definition><notes >Cf. {minde}, {valsi}</notes></valsi>
+<valsi word="mifra" type="gismu"><rafsi >mif</rafsi><definition >$x_{1}$ is encoded/cipher text of plain-text $x_{2}$ by code/coding system $x_{3}$; $x_{1}$ is in code; $x_{3}$ is a code.</definition><notes >Code (= {termifra}).  See also {mipri}, {lerfu}, {sinxa}.</notes></valsi>
+<valsi word="mijdorsai" type="lujvo"><definition >$x_{1}$ is a meal with meal dish $x_{2}$.</definition></valsi>
+<valsi word="mijgresirji" type="lujvo"><definition >$x_1$ is a diameter between $x_2$ and $x_3$ of $x_4$.</definition></valsi>
+<valsi word="mikce" type="gismu"><rafsi >mic</rafsi><definition >$x_{1}$ doctors/treats/nurses/[cures]/is physician/midwife to $x_{2}$ for ailment $x_{3}$ by treatment/cure $x_{4}$.</definition><notes >Also medic; (adjective:) $x_1$, $x_4$ is medical; $x_2$ is a patient of $x_1$ (= selmikce for reordered places) ; $x_2$ is treated by $x_1$ person/$x_4$ treatment/method; successfully cure transitive (= {sadmikce}, {sadvelmikce}), intransitive (= sadyselmikce, ka'orbi'o to not imply an external agent/process, though the $x_1$ and $x_4$ of mikce may be self/internal); treatment (= {velmikce}).  See also {bilma}, {kanro}, {spita}.</notes></valsi>
+<valsi word="mikri" type="gismu"><rafsi >mik</rafsi><definition >$x_{1}$ is a millionth [$10^{-6}$] of $x_{2}$ in dimension/aspect $x_{3}$ (default is units).</definition><notes >See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}</notes></valsi>
+<valsi word="miksini" type="fu'ivla"><definition >$m_1$ is a hagfish of species $m_2$.</definition></valsi>
+<valsi word="miksnidu" type="lujvo"><definition >$x_1$ is $x_2$ microseconds in duration.</definition><notes >{mikri} {snidu}; the default $x_2$ is 1</notes></valsi>
+<valsi word="mikygra" type="lujvo"><definition >$g_1$ is $g_2$ micrograms in mass (default is 1) by standard $g_3$.</definition><notes >Cf. {mikri}, {grake}</notes></valsi>
+<valsi word="milgra" type="lujvo"><definition >$g1$ is $g2$ milligrams in mass by standard $g3$</definition></valsi>
+<valsi word="milsnidu" type="lujvo"><definition >$x_1$ is $x_2$ milliseconds in duration.</definition><notes >{milti} {snidu}; the default $x_2$ is 1</notes></valsi>
+<valsi word="milti" type="gismu"><rafsi >mil</rafsi><definition >$x_{1}$ is a thousandth [1/1000; $10^{-3}$] of $x_{2}$ in dimension/aspect $x_{3}$ (default is units).</definition><notes >See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}</notes></valsi>
+<valsi word="miltre" type="lujvo"><definition >$mit_1=mil_1$ is $mit_2=mil_1$ (one by default) millimeter(s) in length measured in direction $mit_3$ by standard $mit_4$.</definition></valsi>
+<valsi word="miltretrebinbo'a" type="lujvo"><definition >$b_1$ is a microwave (wave with wave-length between 1mm and 1m) in medium $b_2$, wave-form $b_3$,  wave length $b_4$, frequency $b_5$</definition></valsi>
+<valsi word="milxe" type="gismu"><rafsi >mli</rafsi><definition >$x_{1}$ is mild/non-extreme/gentle/middling/somewhat in property $x_{2}$ (ka); $x_{1}$ is not very $x_{2}$.</definition><notes >See also {mutce}, {traji}, {kandi}, {ruble}, {midju}, {nutli}, {ralci}.</notes></valsi>
+<valsi word="mimpoi" type="lujvo"><definition >$x_1$ is a sequence of members $x_2$, $x_3$, $x_4$, ... in that order.</definition><notes >The ordering rule is simply the order of the arguments, the unordered set is the set with members x2, x3, x4, ...</notes></valsi>
+<valsi word="minde" type="gismu"><rafsi >mid</rafsi><rafsi >mi'e</rafsi><definition >$x_{1}$ issues commands/orders to $x_{2}$ for result $x_{3}$ (event/state) to happen; $x_{3}$ is commanded to occur.</definition><notes >[also: $x_1$ orders/sets/Triggers. $x_2$ to do/bring about $x_3$; $x_1$ is a commander; commanded (= {termi'e})]; See also {lacri}, te {bende}, {jatna}, {ralju}, {jitro}, {turni}, {tinbe}.</notes></valsi>
+<valsi word="minji" type="gismu"><rafsi >mi'i</rafsi><definition >$x_{1}$ is a machine for use/function $x_{2}$; [automated apparatus, without direct function control].</definition><notes >Also machinery/mechanism; a machine is initiated/triggered by an agent/force, but thereafter performs its function automatically; if self-directed, (a minji is an) entity (= {zukte}).  See also {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami}.</notes></valsi>
+<valsi word="minli" type="gismu"><definition >$x_{1}$ is $x_{2}$ (default 1) long local distance unit(s) [non-metric], $x_{3}$ subunits, standard $x_{4}$.</definition><notes >(additional subunit places may be added as $x_5$, $x_6$, ...); See also {mitre}, {kilto}, {clani}, {ganra}, {condi}, {rotsu}, {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}, {kramu}.</notes></valsi>
+<valsi word="minra" type="gismu"><rafsi >mir</rafsi><definition >$x_{1}$ reflects/mirrors/echoes $x_{2}$ [object/radiation] to observer/point $x_{3}$ as $x_{4}$; $x_{2}$ bounces on $x_{1}$.</definition><notes >Also: $x_1$ is a mirror/reflector.  $x_2$ may be light, lu'e of an imaged object; $x_4$ may be image or echo or the same as $x_2$ if physical object; $x_3$ may be a path for a bounced object; ka is reflection.  See also {catlu}, {viska}, {lenjo}, {pensi}.</notes></valsi>
+<valsi word="mintu" type="gismu"><rafsi >mit</rafsi><rafsi >mi'u</rafsi><definition >$x_{1}$ is the same/identical thing as $x_{2}$ by standard $x_{3}$; ($x_{1}$ and $x_{2}$ interchangeable).</definition><notes >(cf. panra, satci, mapti, simsa, drata, dunli, cmavo list du - which has no standard place, simxu)</notes></valsi>
+<valsi word="mipri" type="gismu"><rafsi >mip</rafsi><definition >$x_{1}$ keeps $x_{2}$ secret/hidden from $x_{3}$ by method $x_{4}$; $x_{2}$ is a secret; $x_{1}$ hides/conceals $x_{2}$.</definition><notes >Intransitive hidden/secret, without an agent (= {selcri} or {nalterju'o}); secret (= {selmipri}).  See also {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}.</notes></valsi>
+<valsi word="mipstu" type="lujvo"><definition >$s_1$ (place) hides $m_2=s_2$ from $m_3$ by method $m_4$; $s_1$ is a hiding place.</definition><notes >Cf. {mipri}, {stuzi}</notes></valsi>
+<valsi word="miptera" type="fu'ivla"><definition >$x_1$ is a bug of species $x_2$.</definition><notes >see also {cinki}, {ckacinki}, {moptera}, {miptinytci}, {cfila}, {fanza}</notes></valsi>
+<valsi word="miptinytci" type="lujvo"><definition >$tu_1=m_2$ is a bug used by $ti_1=m_1$ to listen to $ti_2$ without $mi_3$ being aware.</definition><notes >see also {cfila}, {miptera}, {fanza}</notes></valsi>
+<valsi word="mipypro" type="lujvo"><definition >$f_1=m_1$ secretly opposes $f_2=m_3$ regarding $f_3$ (abstract) with secrecy method $m_4$.</definition><notes >Cf. {mipri}, {fapro}</notes></valsi>
+<valsi word="mipypu'i" type="lujvo"><definition >$x_1=p_1=m_1$ hides/conceals $x_2=p_2$ from $x_4=m_3$ on/at surface/locus $x_3=p_3=m_1$, the location being kept secret by method $x_5=m_4$.</definition></valsi>
+<valsi word="mipyzga" type="lujvo"><definition >$z_1$ spies/snoops on $z_2$ using senses/means $z_3$ under conditions $z_4$.</definition></valsi>
+<valsi word="mircai" type="lujvo"><definition >$x_1$ glitters/sparkles/glares, reflecting $x_2$ to observer $x_3$.</definition></valsi>
+<valsi word="mirlanxe" type="lujvo"><definition >$l_1$ is symmetrical about axis $m_1$.</definition></valsi>
+<valsi word="mirli" type="gismu"><definition >$x_{1}$ is a deer/elk/moose/[hart/stag/doe] of species/breed $x_{2}$.</definition><notes >See also {mabru}, {danlu}.</notes></valsi>
+<valsi word="mirsarxe" type="lujvo"><definition >$s_1$ is symmetrical about axis $m_1$.</definition></valsi>
+<valsi word="mirsi'o" type="lujvo"><definition >$s_1=m_4$ is a notion of $s_2=m_2$ to cognizer $s_3=m_3$.</definition><notes >A mental reflection of real objects and phenomena in their essential features and relations. Cf. {sidbo}, {selpei}, {selga'e}, {tarmi}.</notes></valsi>
+<valsi word="mirsna" type="lujvo"><definition >$s_1=m_4$ is an echo of sound $m_2=s_2$, reflected by $m_1$ and heard by $m_3$.</definition></valsi>
+<valsi word="misno" type="gismu"><rafsi >mis</rafsi><rafsi >mi'o</rafsi><definition >$x_{1}$ (person/object/event) is famous/renowned/is a celebrity among community of persons $x_{2}$ (mass).</definition><notes >Also celebrated/well-known; (derogative meanings:) notorious/infamous (= malmi'o; these could also be expressed using the referenced words).  See also se {sinma}, {banli}.</notes></valsi>
+<valsi word="misro" type="gismu"><definition >$x_{1}$ reflects Egyptian culture/nationality in aspect $x_{2}$.</definition><notes >See also {friko}, {muslo}, {xrabo}.</notes></valsi>
+<valsi word="misrybau" type="lujvo"><definition >$m_1=b_1$ is the Egyptian Arabic language used by $b_2$ to express/communicate $b_3$ (si'o/du'u, not quote).</definition><notes >Cf. {misro}, {bangu}, {rabybau}, {bangaru'a}, {bangarubu}.</notes></valsi>
+<valsi word="misryfrinu" type="lujvo"><definition >$x_1$ is an Egyptian fraction with denominators $x_2$, $x_3$, ...</definition><notes >see also {porfrinu}</notes></valsi>
+<valsi word="misrygu'e" type="lujvo"><definition >$x_1$ is Egypt.                                    </definition><notes >Cf. {misro}, {gugde}, {gugde'egu}.</notes></valsi>
+<valsi word="misryle'u" type="lujvo"><definition >$x_1$ is an Egyptian character in writing system $x_2$ (hieroglyphic/hieratic/demotic) meaning $x_3$.</definition></valsi>
+<valsi word="misryple" type="lujvo"><definition >$x_1$ is papyrus from source $x_2$.</definition><notes >see also {misryplespa}, {pelji}</notes></valsi>
+<valsi word="misryplespa" type="lujvo"><definition >$x_1$ is a papyrus plant of variety $x_2$.</definition><notes >see also {misryple}, {stagrleoxari}</notes></valsi>
+<valsi word="misyselsi'a" type="lujvo"><definition >$m_1=s_2$ is glorified by $s_1$.</definition><notes >Cf. {sinma}, {censa}.</notes></valsi>
+<valsi word="mitcinpa'i" type="lujvo"><definition >$x_1$ is homosexual/gay/lesbian;.</definition></valsi>
+<valsi word="mitcinse" type="lujvo"><definition >$c_1$ is homosexual/bisexual in situation $c_2$ by standard $c_4$.</definition><notes >For strict homosexuality, see {pavmitcinse}. Cf. {relcinse}, {dutcinse}, {nakcinse}, {fetcinse}.</notes></valsi>
+<valsi word="mitcmepre" type="lujvo"><definition >$x_{1}$ (person) is a/the namesake of $x_{2}$ (person).</definition></valsi>
+<valsi word="mitfa'e" type="lujvo"><definition >$m_1=f_1$ is palindromic by standard $m_3$.</definition><notes >Cf. {valsi}, {mirsarxe}.</notes></valsi>
+<valsi word="mitmlu" type="lujvo"><definition >$s_1=m_1$ seems to be the same as $m_2$ by standard $m_3$ to observer $s_3$ under conditions $s_4$.</definition><notes >Cf. {simlu}, {mitmlu}.</notes></valsi>
+<valsi word="mitmo'a" type="lujvo"><definition >$mo_1=mi_1$ follows the same pattern as $mi_2$ with respect to forms/events $mo_2$ arranged according to structure $mo_3$.</definition><notes >Cf. {mintu}, {morna}</notes></valsi>
+<valsi word="mitre" type="gismu"><rafsi >tre</rafsi><definition >$x_{1}$ is $x_{2}$ meter(s) [metric unit] in length (default 1) measured in direction $x_{3}$ by standard $x_{4}$.</definition><notes >See also {kilto}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {gutci}, {litce}, {megdo}, {mikri}, {milti}, {minli}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.</notes></valsi>
+<valsi word="mitsmuvla" type="lujvo"><definition >$v_1=m_1$ is a synonym of $m_2$ by standard $m_3$ in language $v_3$.</definition><notes >Cf. {mintu}, {smuni}, {valsi}, {smuske}</notes></valsi>
+<valsi word="mityjutcti" type="lujvo"><definition >$m_1=j_1=c_1$ cannibalizes $c_2$. $m_1=j_1=c_1$ is a cannibal.</definition></valsi>
+<valsi word="mivdalmuzga" type="lujvo"><definition >$x_1=m_1$ is a zoo at $x_3=m_3$ with animals $x_2=m_2=j_1=d_1$.</definition><notes >Cf. {jmive}, {danlu}, {muzga}</notes></valsi>
+<valsi word="mivgau" type="lujvo"><definition >$g_1$ reincarnates/resurrects $j_1$ by standard $j_2$.</definition><notes >Cf. {jmive}, {gasnu}</notes></valsi>
+<valsi word="mivjdu" type="lujvo"><definition >$jd_1=jm_1$ is a jelly fish.</definition><notes >Cf. {jmive}, {jduli}, {finpe}.</notes></valsi>
+<valsi word="mivmu'e" type="lujvo"><definition >$m_1$ is nature/the world of living things $m_2=j_1$, defined by rules $m_3$.</definition><notes >Cf. {jmive}, {munje}</notes></valsi>
+<valsi word="mivmu'i" type="lujvo"><definition >$x_1=m_1$ is a life-goal of $x_3=m_3=j_1$ motivating $x_2=m_2$ .</definition><notes >Cf. {jmive}, {mukti}</notes></valsi>
+<valsi word="mivru'e" type="lujvo"><definition >$p_1$ is the life of $j_1$ through stages $p_4$.</definition><notes >This focuses on the process of x2's life as a succession of stages (childhood, chrysalis, etc.), while {nunji'e} more generally denotes the event of x2 being alive without a default terbri to specify the stages x2 goes through during that event.</notes></valsi>
+<valsi word="mivylivla" type="lujvo"><definition >$l_1$ is adenosine triphosphate (ATP) transporting energy within organism $l_2=j_1$.</definition></valsi>
+<valsi word="mivyselkra" type="lujvo"><definition >$x_1$ is organic, originating in living organism $x_2$.</definition><notes >See also {tabyselcmu}, {rarvelcange}.</notes></valsi>
+<valsi word="mivyselna'a" type="lujvo"><definition >$n_2$ (number) is the age (in years) of living thing $j_1$, alive by standard $j_2$, with year standard $n_3$.</definition></valsi>
+<valsi word="mivyske" type="lujvo"><definition >$s_1$ is biology/Life Science based on methodology $s_2$.</definition><notes >Cf. {mrodalmuzga}.</notes></valsi>
+<valsi word="mivysle" type="lujvo"><definition >$x_{1}$ is a biological cell of $x_{2}$.</definition><notes >second lowest lujvo-scoring, but same form as in lowest scoring lujvo {mivyslerango}. See also {jmive}, {selci}.</notes></valsi>
+<valsi word="mivyslerango" type="lujvo"><definition >$r_{1}$ is an organelle of $r_{2}$=$s_{1}$=$j_{1}$ performing function $r_{3}$.</definition><notes >See also {mivysle} and {rango}.</notes></valsi>
+<valsi word="mivyxu'i" type="lujvo"><definition >$xu_1$ is an instance of chemical substance $xu_2$ derived from biological source $j_1$.</definition><notes >Cf. {xukmi}.</notes></valsi>
+<valsi word="mixre" type="gismu"><rafsi >mix</rafsi><rafsi >xre</rafsi><definition >$x_{1}$ (mass) is a mixture/blend/colloid/commingling with ingredients including $x_{2}$.</definition><notes >$x_2$ mingles/mixes/blends into $x_1$; $x_2$ is in $x_1$, an ingredient/part/component/element of $x_1$ (= selxre for reordered places).  See also {salta}, te {runta}, {stasu}, {jicla}, {sanso}.</notes></valsi>
+<valsi word="mlafi'e" type="lujvo"><definition >$f_1$ is a flatfish of family/genus/species $f_2$, swimming with side $m_1$ upward.</definition><notes >Cf. {finpe}, {polgosu}, {flundero}, {platesa}.</notes></valsi>
+<valsi word="mlajukma'i" type="lujvo"><definition >$x_1$ is July of year $x_2$ in calendar $x_3$.</definition><notes >Cf. {zelmasti}, {kanbyma'i}, {nanca}.</notes></valsi>
+<valsi word="mlakla" type="lujvo"><definition >$x_1=k_1=m_4$ dodges/sidesteps/skirts $x_2=m_2$ from $x_3=k_3$ by route $x_4=k_4$ by means of transportation $x_5=k_5$.</definition><notes >The lateral frame of reference is that of the one who sidesteps. Cf. {mlana}, {klama}, {koizva}.</notes></valsi>
+<valsi word="mlaluka" type="fu'ivla"><definition >$x_1$ is a paperbark/tea tree of species/variety $x_2$.</definition></valsi>
+<valsi word="mlana" type="gismu"><rafsi >mla</rafsi><definition >$x_{1}$ is to the side of/lateral to $x_{2}$ and facing $x_{3}$ from point of view/in-frame-of-reference $x_{4}$.</definition><notes >(cf. crane, trixe, pritu, zunle which differ in that the direction of facing is the front and not the lateral side.  The $x_4$ of mlana may be either the front, or back side of $x_2$, korbi)</notes></valsi>
+<valsi word="mlaparsince" type="lujvo"><definition >$s_1=c_1$ is a sidewinder of subspecies/type $s_2$</definition></valsi>
+<valsi word="mlapau" type="lujvo"><definition >$m_1=p_1$ is the side of / is a part and on the side of $m_2=p_2$ and is facing $m_3$ from point of view/in-frame-of-reference $m_4$.</definition><notes >Made from {mlana} + {pagbu}.</notes></valsi>
+<valsi word="mlaselfa'a" type="lujvo"><definition >$f_2$ is sideways from $f_3=m_2$ .</definition><notes >$x_3=f_1$, the exact direction, is unspecified. Cf. {mlana}, {farna}.</notes></valsi>
+<valsi word="mlatu" type="gismu"><rafsi >lat</rafsi><definition >$x_{1}$ is a cat/[puss/pussy/kitten] [feline animal] of species/breed $x_{2}$; (adjective:) $x_{1}$ is feline.</definition><notes >See also {cinfo}, {tirxu}, {gerku}.</notes></valsi>
+<valsi word="mlaxelbo'a" type="lujvo"><definition >$m_1$ is a sideband of signal $b_1=m_2$.</definition></valsi>
+<valsi word="mleba'i" type="lujvo"><definition >$m_1=b_1$ is splendid/glorious/magnificent to $m_2$ in aspect $m_3$ (ka) by aesthetic standard $m_4$, and by greatness standard $b_4$.</definition></valsi>
+<valsi word="mleca" type="gismu"><rafsi >mec</rafsi><rafsi >me'a</rafsi><definition >$x_{1}$ is less than $x_{2}$ in property/quantity $x_{3}$ (ka/ni) by amount $x_{4}$.</definition><notes >Also negative (= {nonme'a}).  See also cmavo list {me'a}, cmavo list {su'o}, {jdika}, {zmadu}, {traji}.</notes></valsi>
+<valsi word="mledi" type="gismu"><rafsi >led</rafsi><definition >$x_{1}$ is a mold/fungus/mushrooms/truffles of species/strain $x_{2}$ parasitic/growing on $x_{3}$.</definition><notes >See also {clika}.</notes></valsi>
+<valsi word="mlegaumai" type="lujvo"><definition >$ma_1=g_1$ is a cosmetic/makeup for beautifying $me_1$ in aspect $me_3$, made up of  material $ma_2$ in form $ma_3$</definition><notes >me2, me4 dropped
+g2 is lo nu me1 melbi zi'o me3
+</notes></valsi>
+<valsi word="mlejgi" type="lujvo"><definition >$j_1$ is vain.</definition><notes >Cf. {melbi}, {jgira}</notes></valsi>
+<valsi word="mlemau" type="lujvo"><definition >$z_1=m_1$ is more beautiful than $z_2$ to $m_2$ in aspect $m_3$ (ka) by amount $z_4$.</definition><notes >Cf. {melbi}, {zmadu}, {mlerai}, {mecmlerai}, {mleme'a}.</notes></valsi>
+<valsi word="mleme'a" type="lujvo"><definition >$ml_1=me_1$ is less beautiful than $ml_2$ to $me_2$ in aspect $me_3$ (ka) by amount $ml_4$.</definition><notes >Cf. {melbi}, {mleca}, {mlemau}, {mlerai}, {mecmlerai}.</notes></valsi>
+<valsi word="mlenicygau" type="lujvo"><definition >$g_1$ grooms/spruces up $c_1=m_1$ in property/aspect $c_2=m_3$. </definition><notes >Cf. {melbi}, {cnici}, {gasnu}, {jisygau}, {lumci}.</notes></valsi>
+<valsi word="mlerai" type="lujvo"><definition >$m_1=t_1$ is most beautiful among set/range $t_3$ to $m_2$ in aspect $m_3$ (ka) by aesthetic standard $m_4$.</definition><notes >Cf. {melbi}, {traji}, {mlemau}, {mecmlerai}, {mleme'a}.</notes></valsi>
+<valsi word="mletritra" type="lujvo"><definition >$ta_1=tr_1=m_1$ is coquettish/flirtatious with $tr_2=m_2$ in aspect $m_3$</definition><notes >from {melbi} {trina} {tarti}</notes></valsi>
+<valsi word="mliba'u" type="lujvo"><definition >$x_1=m_1=b_1$ whispers/mumbles/murmurs/coos utterance $x_2=b_2$; $x_1=m_1=b_1$ speaks softly.</definition><notes >Cf. {milxe}, {bacru}, {smasku}, {laurblesku}.</notes></valsi>
+<valsi word="mlibdena" type="fu'ivla"><definition >$x_1$ is molybdenum.</definition></valsi>
+<valsi word="mlibi'e" type="lujvo"><definition >$b_1=m_1$ is breeze/zephyr from direction $b_2$ with speed $b_3$.</definition><notes >Cf. {milxe}, {brife}</notes></valsi>
+<valsi word="mlibra" type="lujvo"><definition >$b_1=m_1$ is somewhat big in dimension $b_2$ by standard $b_3$.</definition><notes >Cf. {milxe}, {barda}</notes></valsi>
+<valsi word="mliburna" type="lujvo"><definition >$b_1$ is mildly embarrassed/disconcerted about/under conditions $b_2$ (abstraction).</definition><notes >Cf. {milxe}, {burna}</notes></valsi>
+<valsi word="mlifanza" type="lujvo"><definition >$f_1$ (event) slightly annoys/irritates/bothers/distracts $f_2$.</definition></valsi>
+<valsi word="mlifegba'u" type="lujvo"><definition >$m_1=f_1=b_1$ grumbles with sound $b_2$ at $f_2$ because of $f_3$ (action/state/property).</definition><notes >jvajvo definition; Gismu deep structure is "milxe gi'e fengu gi'e bacru"</notes></valsi>
+<valsi word="mligla" type="lujvo"><definition >$g_1=m_1$ is warm by standard $g_2$.</definition><notes >Cf. {glare}.</notes></valsi>
+<valsi word="mlilenku" type="lujvo"><definition >$l_1=m_1$ is cool (mildly cold) by standard $l_2$.</definition><notes >Cf. {lenku}.</notes></valsi>
+<valsi word="mlimi'a" type="lujvo"><definition >$c_1$ chuckles.</definition><notes >Cf. {cisma}, {mi'afra}, {mlimi'afra}.</notes></valsi>
+<valsi word="mliri'a" type="lujvo"><definition >$r_1$ (event/state) mildens/allays/alleviates effect $r_2$ (event/state) under conditions $r_3$.</definition><notes >Cf. {mliri'agau} for a person as $x_1$.</notes></valsi>
+<valsi word="mlisa'e" type="lujvo"><definition >$s_1$ (agent) pets/gently strokes $s_2$ with $s_3$.</definition><notes >Cf. {pencu}, {mi'arpe'u}, {tikpa}, {tunta}.</notes></valsi>
+<valsi word="mlongena" type="fu'ivla"><definition >$x_1$ is eggplant of variety $x_2$.</definition><notes >see also {patlu}, {tamca}, {kapsiku}, {labnyjba}</notes></valsi>
+<valsi word="mlosazri" type="lujvo"><definition >$x1=s1$ is a miller of mill $x2=m1=s2$ performing function $x3=m2=s3$</definition></valsi>
+<valsi word="mluni" type="gismu"><rafsi >lun</rafsi><definition >$x_{1}$ is a satellite/moon orbiting $x_{2}$ with characteristics $x_{3}$, orbital parameters $x_{4}$.</definition><notes >See also {plini}, {solri}, {lunra}.</notes></valsi>
+<valsi word="mo" type="cmavo"><selmaho >GOhA</selmaho><definition >pro-bridi: bridi/selbri/brivla question.</definition></valsi>
+<valsi word="mo'a" type="cmavo"><rafsi >mob</rafsi><selmaho >PA4</selmaho><definition >digit/number: too few; subjective.</definition></valsi>
+<valsi word="mo'aroi" type="cmavo cluster"><selmaho >ROI*</selmaho><definition >tense interval modifier: too few times; objective tense; defaults as time tense.</definition></valsi>
+<valsi word="mo'e" type="cmavo"><selmaho >MOhE</selmaho><definition >convert sumti to mex operand; sample use in story arithmetic: [3 apples] + [3 apples] = what.</definition></valsi>
+<valsi word="mo'i" type="cmavo"><rafsi >mov</rafsi><selmaho >MOhI</selmaho><definition >mark motions in space-time.</definition></valsi>
+<valsi word="mo'ibe'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: northwardly; to the north directional space motion.</definition></valsi>
+<valsi word="mo'ibu'u" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: moving to coincide directional space motion.</definition></valsi>
+<valsi word="mo'ica'u" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: forward directional space motion.</definition></valsi>
+<valsi word="mo'icli" type="lujvo"><definition >$c_1=m_1$ memorizes/commits to memory $c_2=m_2$ (du'u) about subject $c_3=m_3$ from source $c_4$ (obj./event) by method $c_5$ (event/process))</definition><notes >This word is different from {cilre} in that it doesn't include actual understanding of the memorized data but merely the storage of it in one's memory.</notes></valsi>
+<valsi word="mo'idu'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: eastwardly; to the east directional space motion.</definition></valsi>
+<valsi word="mo'ifa'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: arriving at; arriving at a point directional space motion.</definition></valsi>
+<valsi word="mo'iga'u" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: upwardly; upwards directional space motion.</definition></valsi>
+<valsi word="mo'ine'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: approximating; moving around the neighborhood of ... space motion.</definition></valsi>
+<valsi word="mo'ine'i" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: moving into directional space motion.</definition></valsi>
+<valsi word="mo'ine'u" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: southwardly; to the south directional space motion.</definition></valsi>
+<valsi word="mo'ini'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: downwardly; downwards directional space motion.</definition></valsi>
+<valsi word="mo'ipa'o" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: passing through directional space motion.</definition></valsi>
+<valsi word="mo'ire'o" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: along; along a path directional space motion.</definition></valsi>
+<valsi word="mo'iri'u" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: rightwardly; to the right directional space motion.</definition></valsi>
+<valsi word="mo'iru'u" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: orbiting; surrounding/annular directional space motion.</definition></valsi>
+<valsi word="mo'isro" type="lujvo"><definition >$s_1$ is a memory/storage/anamnesis containing facts/data/recollection $s_2=m_2$ within medium/substrate/containment $s_3$, said facts related to subject $m_3$.</definition><notes >Cf. {morji}, {sorcu}, {mojrango}.</notes></valsi>
+<valsi word="mo'isti" type="lujvo"><definition >$s_1=m_1$ forgets fact/memory $m_2$ about subject $m_3$.</definition><notes >Cf. {morji}, {sisti}, {tolmo'i}.</notes></valsi>
+<valsi word="mo'ite'e" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: moving along the border directional space motion.</definition></valsi>
+<valsi word="mo'iti'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: rearwardsly; rearwards directional space motion.</definition></valsi>
+<valsi word="mo'ito'o" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: moving away from a point directional space motion.</definition></valsi>
+<valsi word="mo'ivu'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: westwardly; to the west directional space motion.</definition></valsi>
+<valsi word="mo'ize'o" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: outwardsly; outward directional space motion.</definition></valsi>
+<valsi word="mo'izo'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: passing by a site directional space motion.</definition></valsi>
+<valsi word="mo'izo'i" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: approaching directional space motion.</definition></valsi>
+<valsi word="mo'izu'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space motion tense: leftwardsly; to the left directional space motion.</definition></valsi>
+<valsi word="mo'o" type="cmavo"><selmaho >MAI</selmaho><definition >higher-order utterance ordinal suffix; converts a number to ordinal, usually a section/chapter.</definition></valsi>
+<valsi word="mo'u" type="cmavo"><selmaho >ZAhO</selmaho><definition >interval event contour: at the natural ending point of ...; completive              |    RefEntity "gt"|RefEntity "lt".</definition></valsi>
+<valsi word="mobdu'a" type="lujvo"><definition >$d_1$ is stingy about giving $d_2$ to $d_3$.</definition><notes >Cf. {mo'a}, {dunda}.</notes></valsi>
+<valsi word="moi" type="cmavo"><rafsi >mom</rafsi><rafsi >moi</rafsi><selmaho >MOI</selmaho><definition >convert number to ordinal selbri; $x_{1}$ is (n)th member of set $x_{2}$ ordered by rule $x_{3}$.</definition></valsi>
+<valsi word="mojgau" type="lujvo"><definition >$g_1$ reminds $m_1$ of facts $m_2$ about $m_3$.</definition><notes >Cf. {morji}, {mojgaunoi}, {mojri'a}.</notes></valsi>
+<valsi word="mojgaunoi" type="lujvo"><definition >$x_1=n_1$ is a message reminding facts $x_2=m_2$ about $x_3=m_3=n_2$ from author $x_4=n_3=g_1$ to intended audience $x_5=n_4=m_1$.</definition><notes >Cf. {selmojnoi}, {mojgau}, {notci'a}, {gasnu}, {notci}.</notes></valsi>
+<valsi word="mojmau" type="lujvo"><definition >$z_1$ has a better memory than $z_2$ with regards to facts $m_2$ about subject $m_3$ by amount/excess $z_4$.</definition></valsi>
+<valsi word="mojrango" type="lujvo"><definition >$r_1$ is the memory faculty of body/species $r_2$.</definition><notes >Cf. {morji}, {rango}, {mo'isro}.</notes></valsi>
+<valsi word="mojri'a" type="lujvo"><definition >$r_1$ (event) reminds $m_1$ of facts $m_2$ about subject $m_3$ under conditions $r_3$.</definition><notes >Cf. {morji}, {rinka}, {mojgau}.</notes></valsi>
+<valsi word="mojypei" type="lujvo"><definition >$p_1=m_1$ remembers/thinks back/reminisces about $p_2=m_3$, recalling facts $m_2$.</definition><notes >Cf. {morji}, {pensi}.</notes></valsi>
+<valsi word="mojysu'a" type="lujvo"><definition >$s_1$ is a structure of parts $s_2$ as a monument/memorial to $m_3$.</definition><notes >Cf. {mrostu}.</notes></valsi>
+<valsi word="mokca" type="gismu"><rafsi >moc</rafsi><definition >$x_{1}$ is a point/instant/moment [0-dimensional shape/form] in/on/at time/place $x_{2}$.</definition><notes >$x_1$ is dimensionless.  See also {jipno}, {jganu}, {linji}, {stuzi}, {tcika}.</notes></valsi>
+<valsi word="moklu" type="gismu"><rafsi >mol</rafsi><rafsi >mo'u</rafsi><definition >$x_{1}$ is a/the mouth/oral cavity [body-part] of $x_{2}$; (metaphor: entrance/intake for consumption).</definition><notes >(adjective:) $x_1$ is oral.  See also {ctebi}, {denci}, {tance}.</notes></valsi>
+<valsi word="moldruji'o" type="lujvo"><definition >$j_{1}$=$d_{1}$=$m_{1}$ is a/the (palatine) uvula [body-part] of $m_{2}$.</definition><notes >See also {ranmoldru}, {jipno}. </notes></valsi>
+<valsi word="molgai" type="lujvo"><definition >$g_1$ is a muzzle on $m_2$</definition><notes >from {moklu} {gacri}</notes></valsi>
+<valsi word="molgapru" type="lujvo"><definition >$g_1$ is the palate of $m_2$.</definition><notes >Cf. {moklu}.</notes></valsi>
+<valsi word="molgle" type="lujvo"><definition >$g_1=m_2$ performs oral sex on $g_2$.</definition><notes >Cf. {gletu}, {vibgle}, {gaxygle}. le gletu is taken as the 'active' partner.</notes></valsi>
+<valsi word="molja'u" type="lujvo"><definition >$m_1=j_1$ is the mandible of arthropod $m_2=j_2$</definition><notes >This is a mandible of a insect/other arthropod.  This is not to be confused with the mandible of vertrabrates which is {xedja} or {dzixe'a}</notes></valsi>
+<valsi word="molki" type="gismu"><rafsi >mlo</rafsi><definition >$x_{1}$ is a mill/foundry/industrial plant/[assembly line] performing process $x_{2}$.</definition><notes >(unlike fanri,) need not produce a product; grain mill (= {grumlo}), grinding mill (= {zalmlo}, {zalmlotci}, {zalmloca'a}).  See also {gasta}, {gurni}, {tirse}, {fanri}, {zalvi}.</notes></valsi>
+<valsi word="molku'o" type="lujvo"><definition >$m_1=s_1$ is a philtrum (infranasal depression) of $m_2=s_2$.</definition><notes >Cf. {skuro}, {moklu}, {nazbi}, {flira}.</notes></valsi>
+<valsi word="molmla" type="lujvo"><definition >$x_1$ is the cheek of $x_2$ (person/animal)</definition></valsi>
+<valsi word="molro" type="gismu"><rafsi >mo'o</rafsi><definition >$x_{1}$ is $x_{2}$ mole(s) [metric unit] in substance (default is 1) by standard $x_{3}$.</definition><notes >See also {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.</notes></valsi>
+<valsi word="molselpu'u" type="lujvo"><definition >$x_1=s_2$ is saliva/sput/sputum/spittle of $x_2=s_1$.</definition><notes >Cf. {kalselvi'i}.</notes></valsi>
+<valsi word="moltenva'u" type="lujvo"><definition >$x_1=v_1$ yawns/[breathes while stretching mouth]</definition><notes >Cf. {vasxu}, {moklu}, {tcena}, {sipfru}, {ta'irva'u}.</notes></valsi>
+<valsi word="moltu'u" type="lujvo"><definition >$t_1$ is a mouthpiece/embouchure of material $t_2$ conveying fluid $t_3$.</definition><notes >Cf. {tubnu}, {zgica'a}.</notes></valsi>
+<valsi word="momlai" type="lujvo"><definition >$x_1$ is the $x_2$nd member of set $x_3$ ordered by rule $x_4$ .</definition></valsi>
+<valsi word="monfu'i" type="lujvo"><definition >$f_1$ is an emulation/imitation of $f_2$ in medium $f_3$, emulated by method $f_4$ and exhibiting pattern $m_1$.</definition><notes >Cf. {morna}, {fukpi}, {monfu'igau}.</notes></valsi>
+<valsi word="monfu'igau" type="lujvo"><definition >$x_1=g_1$ (agent) emulates $x_3=f_2$ resulting in emulation/imitation $x_2=f_1$ in medium $x_4=f_3$ by method $x_5=f_4$ exhibiting pattern $x_6=m_1$.</definition><notes >Cf. {monfu'i}.</notes></valsi>
+<valsi word="morji" type="gismu"><rafsi >moj</rafsi><rafsi >mo'i</rafsi><definition >$x_{1}$ remembers/recalls/recollects fact(s)/memory $x_{2}$ (du'u) about subject $x_{3}$.</definition><notes >See also cmavo list {ba'anai}, {menli}, {pensi}, {sanji}, {djuno}, {notci}.</notes></valsi>
+<valsi word="morko" type="gismu"><rafsi >mor</rafsi><definition >$x_{1}$ reflects Moroccan culture/nationality in aspect $x_{2}$.</definition><notes >See also {friko}, {xrabo}, {muslo}.</notes></valsi>
+<valsi word="morna" type="gismu"><rafsi >mon</rafsi><rafsi >mo'a</rafsi><definition >$x_{1}$ is/reflects/represents a pattern of forms/events $x_{2}$ arranged according to structure $x_{3}$.</definition><notes >[$x_3$ is a model for $x_1$ (= {termontai}, or the more abstract = {termonsi'o}); image (= {gusmo'a}, {nenmo'a}, {dairmo'a}, {selylenmo'a}, {selmirmo'a}, {velmirmo'a}, but also all of these -tai instead of -mo'a for the ideal)]; See also {ciste}, {ganzu}, {marji}, {slilu}, {stura}, {tarmi}, {boxna}, {cimde}, {gidva}, {jimpe}, {rilti}.</notes></valsi>
+<valsi word="mors" type="cmene"><definition >Morse; Morse code, telegraphy.</definition></valsi>
+<valsi word="morsi" type="gismu"><rafsi >mro</rafsi><definition >$x_{1}$ is dead/has ceased to be alive.</definition><notes >Die/mortal (= {mrobi'o}, {co'urji'e}).  See also {jmive}, {catra}, {betri}.</notes></valsi>
+<valsi word="mosra" type="gismu"><rafsi >mos</rafsi><definition >$x_{1}$ is friction [force opposing motion] due to contact/rubbing between $x_{2}$ and $x_{3}$; (fe) $x_{2}$ rubs $x_{3}$.</definition><notes >Also $x_2$ scrubs/wipes/brushes (against) $x_3$ (= {seltermosra}); non-agentive rub (= {termosra}).  See also {sakli}, {sraku}, {jabre}, {satre}, {guska}, {pencu}, {spali}.</notes></valsi>
+<valsi word="mosycpu" type="lujvo"><definition >$l_1$ drags/hauls $l_2=m_2$ by handle/at locus $l_3$ along surface $m_3$.</definition><notes >Cf. {mosra}, {lacpu}.</notes></valsi>
+<valsi word="mosyjgita" type="lujvo"><definition >$j_1$ is a bowed string instrument using bow $m_2$.</definition><notes >Cf. {mosra}, {jgita}, {jgitrviolino}, {jgitrxu}.</notes></valsi>
+<valsi word="mosyvi'u" type="lujvo"><definition >$v_1=m_2$ rubs off $v_2$ from $v_3=m_3$ leaving remainder $v_4$.</definition><notes >Cf. {mosra}, {vimcu}.</notes></valsi>
+<valsi word="mraigo" type="fu'ivla"><definition >$m_1$ is Welsh in aspect $m_2$.</definition></valsi>
+<valsi word="mraji" type="gismu"><definition >$x_{1}$ is a quantity of rye [grain] of species/strain $x_{2}$.</definition><notes >See also {gurni}.</notes></valsi>
+<valsi word="mrajymledi" type="lujvo"><definition >$ml_1$ is ergot of species $ml_2$.</definition><notes >A fungus that grows on rye and other cereals; it contains the alkaloid ergotamine, which has hallucinogenic effects on humans and animals, and from which {LSD!en} is synthesized.</notes></valsi>
+<valsi word="mrena'u" type="lujvo"><definition >$n_1$ is a real number.</definition><notes >Cf. {namcu}, {mulna'u}, {xarna'u}.</notes></valsi>
+<valsi word="mreske" type="lujvo"><definition >$s_1$ is metrology based on methodology $s_2$.</definition></valsi>
+<valsi word="mrilu" type="gismu"><rafsi >mri</rafsi><definition >$x_{1}$ mails/posts [transfer via intermediary service] $x_{2}$ to recipient address $x_{3}$ from mailbox/post office/sender address $x_{4}$ by carrier/network/system $x_{5}$.</definition><notes >Also $x_4$ post office, mailbox.  (cf. benji In which the medium need not be a 3rd party service/system, and $x_2$ need not consist of discrete units.  notci, xatra, tcana)</notes></valsi>
+<valsi word="mriste" type="lujvo"><definition >$l_1$ is a mailing list with subscribers/recipients $l_2=m_3$.</definition><notes >Cf. {mrilu}, ve {cusku}</notes></valsi>
+<valsi word="mrobi'o" type="lujvo"><definition >$b_1$ dies under conditions $b_3$.</definition></valsi>
+<valsi word="mrocticpi" type="lujvo"><definition >$cip_1=cit_1$ is a vulture of species $cip_2$.</definition><notes >Cf. {morsi}, {citka}, {cipni}.</notes></valsi>
+<valsi word="mrodalmuzga" type="lujvo"><definition >$mu_1$ is a natural history museum for preserving [and possibly exhibiting] animals of kind $mu_2=d_2=mo_1$ at location $mu_3$.</definition><notes >Cf. {mivdalmuzga}, {mivyske}.</notes></valsi>
+<valsi word="mrodimna" type="lujvo"><definition >$x_1$ is mortal/subject to death.</definition><notes >See also {morsi}, {dimna}, {mroka'e}</notes></valsi>
+<valsi word="mrodri" type="lujvo"><definition >$b_1$ mourns/grieves over the death of $m_1=b_2$ </definition></valsi>
+<valsi word="mrofoi" type="lujvo"><definition >$f_1$ is a cemetery/graveyard/burial ground for dead person(s)/animal(s) $m_1$.</definition><notes >Cf. {morsi}, {mrobi'o}, {derse'a}.</notes></valsi>
+<valsi word="mroka'e" type="lujvo"><definition >$m_1=k_1$ is mortal/capable of dying under conditions $k_3$.</definition><notes >Used in Theodore Reed's translation of "A Princess of Mars".</notes></valsi>
+<valsi word="mroke'a" type="lujvo"><definition >$k_1$ is a grave in ground $k_2$ for $m_1$.</definition><notes >Cf. {morsi}, {mrostu}, {mrofoi}, {derse'a}.</notes></valsi>
+<valsi word="mrori'a" type="lujvo"><definition >$x_1$ is the cause of $x_2$'s death under conditions $x_3$; $x_1$ kills $x_2$.</definition></valsi>
+<valsi word="mrospe" type="lujvo"><definition >$x1$=$s1$ is widowed from $x2$=$m1$=$s2$ by law/convention $x3$=$s3$</definition><notes >See also: {speni}, {nu'ospe}, {spesti}</notes></valsi>
+<valsi word="mrostu" type="lujvo"><definition >$s_1$ is the grave/tomb of $m_1=s_2$.</definition><notes >Cf. {morsi}, {mrofoi}, {derse'a}.</notes></valsi>
+<valsi word="mrotolkakpa" type="lujvo"><definition >$k_1$ buries/inters corpse/[entomb] $k_2=m_1$  at grave/cemetery/[mausoleum/crypt] $k_3$ </definition><notes >k4 dropped because of little use in this application.</notes></valsi>
+<valsi word="mrovau" type="lujvo"><definition >$v_1$ is a coffin containing $v_2=m_1$.</definition><notes >Cf. {morsi}, {mrostu}, {mrofoi}.</notes></valsi>
+<valsi word="mrubo'u" type="lujvo"><definition >$x_1$ is the hammer/malleus in ear $x_2$ in body $x_3$</definition></valsi>
+<valsi word="mruli" type="gismu"><rafsi >mru</rafsi><definition >$x_{1}$ [tool] is a hammer for/hammers $x_{2}$ [target] consisting of weight/head $x_{3}$ propelled by $x_{4}$.</definition><notes >See also {tutci}.</notes></valsi>
+<valsi word="mu" type="cmavo"><rafsi >mum</rafsi><selmaho >PA1</selmaho><definition >digit/number: 5 (digit) [five].</definition></valsi>
+<valsi word="mu'a" type="cmavo"><selmaho >UI3</selmaho><definition >discursive: for example - omitting - end examples.</definition><notes >See also {mupli}.</notes></valsi>
+<valsi word="mu'acu'i" type="cmavo cluster"><selmaho >UI*3</selmaho><definition >discursive: for example - omitting - end examples.</definition></valsi>
+<valsi word="mu'anai" type="cmavo cluster"><selmaho >UI*3</selmaho><definition >discursive: for example - omitting - end examples.</definition></valsi>
+<valsi word="mu'e" type="cmavo"><rafsi >muf</rafsi><selmaho >NU1</selmaho><definition >abstractor: achievement (event) abstractor; $x_{1}$ is the event-as-a-point/achievement of [bridi].</definition></valsi>
+<valsi unofficial="true" word="mu'ei" type="experimental cmavo"><selmaho >ROI</selmaho><definition >Converts PA into tense; in [number (usually nonspecific)] possible worlds/alternate histories where [sumti (du'u)] is true</definition><notes >Includes what "may have happened" if the past were different from the actual past. See {ba'oi}</notes></valsi>
+<valsi word="mu'erkraske" type="lujvo"><definition >$x_1$ is cosmology (in astronomy) based on methodology $x_2$</definition><notes >Cf. {mu'eske}, {kesyske}, {kensa}, {munje}, {krasi}, {saske}</notes></valsi>
+<valsi word="mu'eske" type="lujvo"><definition >$s_1$ is cosmology based on methodology $s_3$.</definition><notes >Cf. {munje}, {saske}, {tarske}, {termu'eske}.</notes></valsi>
+<valsi word="mu'etru" type="lujvo"><definition >$t_1$ is a lord of universe $t_2=m_1$.</definition></valsi>
+<valsi word="mu'i" type="cmavo"><selmaho >BAI</selmaho><definition >mukti modal, 1st place                            because of motive ...</definition></valsi>
+<valsi word="mu'i ma" type="cmavo cluster"><selmaho >BAI*</selmaho><definition >sumti question asking for a motive; why?.</definition></valsi>
+<valsi word="mu'inai" type="cmavo cluster"><selmaho >BAI*</selmaho><definition >mukti modal, 1st place                            despite motive ...</definition></valsi>
+<valsi word="mu'o" type="cmavo"><selmaho >COI</selmaho><definition >vocative: over (response OK) - more to come.</definition></valsi>
+<valsi word="mu'onai" type="cmavo cluster"><selmaho >COI*</selmaho><definition >vocative: over (response OK) - more to come.</definition></valsi>
+<valsi word="mu'u" type="cmavo"><selmaho >BAI</selmaho><definition >mupli modal, 1st place                            exemplified by ...</definition></valsi>
+<valsi word="muclai" type="lujvo"><definition >$k_1$ is $k_2$ (quantifier, default: one) spoonfuls/scoopfuls in quantity.</definition><notes >Cf. {smuci}, {klani}.</notes></valsi>
+<valsi word="mucti" type="gismu"><rafsi >mut</rafsi><definition >$x_{1}$ is immaterial/not physical/without material form.</definition><notes >See also {marji}, {menli}, {pruxi}, {sidbo}.</notes></valsi>
+<valsi word="mucyjoifro" type="lujvo"><definition >$x_1$ is a spork/combined spoon and fork for use $x_2$</definition><notes >See also {forca}, {smuci}, {dakfu}</notes></valsi>
+<valsi word="mudbli" type="lujvo"><definition >$x_1$ is a block of wood $x_2$ with surfaces $x_3$.</definition></valsi>
+<valsi word="mudri" type="gismu"><rafsi >mud</rafsi><definition >$x_{1}$ is a quantity of/is made of/contains wood/lumber from tree(s) of type/species $x_{2}$.</definition><notes >See also {tricu}, {stani}.</notes></valsi>
+<valsi word="mudyctijalra" type="lujvo"><definition >$j_1$ is a termite of species $j_2$.</definition><notes >Cf. {jalra}.</notes></valsi>
+<valsi word="mudydei" type="lujvo"><definition >$x_1$ is Thursday of week $x_2$ on calendar $x_3$.</definition></valsi>
+<valsi word="mudyfagri" type="lujvo"><definition >$f_1$ is a wood fire burning in/reacting with oxidizer $f_3$.</definition><notes >Omit $x_3=f_2=m_1$. Cf. {fagri}, {jelca}, {mudri}.</notes></valsi>
+<valsi word="mudyka'apre" type="lujvo"><definition >$p_1$ is a woodcutter/lumberjack using tool $k_1$ to cut trees of species $m_2$.</definition><notes >Cf. {mudri}, {katna}.</notes></valsi>
+<valsi word="mudypu'o" type="lujvo"><definition >$p_1=m_1$ is sawdust of wood type $p_2=m_2$.</definition><notes >Cf. {cmamudyspi}, {tricu}.</notes></valsi>
+<valsi word="mudyxultci" type="lujvo"><definition >$t_1$ is an adze</definition></valsi>
+<valsi word="mufspe" type="lujvo"><definition >$m_1$ is the marriage of $s_1$ and $s_2$ under convention $s_3$.</definition><notes >Probably a misnomer for {nunspe}</notes></valsi>
+<valsi word="mujyku'e" type="lujvo"><definition >$k_1$ is universal in domain $m_2$ defined by rules $m_3$</definition><notes >from {munje} {kuspe} c.f. {kampu}</notes></valsi>
+<valsi word="mujysamseltcana" type="lujvo"><definition >$t_2$ is the internet/cyberspace that includes nodes/computers $t_1=s_1$ whose function/purpose is $s_2$.</definition><notes >Cf. {munje}, {skami}, {tcana}, {samseltcana}, {kagysamseltcana}, {internet}.</notes></valsi>
+<valsi word="muki'o" type="cmavo cluster"><selmaho >PA*</selmaho><definition >number/quantity: 5,000 expressed with comma.</definition></valsi>
+<valsi word="mukti" type="gismu"><rafsi >muk</rafsi><rafsi >mu'i</rafsi><definition >$x_{1}$ (action/event/state) motivates/is a motive/incentive for action/event $x_{2}$, per volition of $x_{3}$.</definition><notes >Also; $x_3$ is motivated to bring about result/goal/objective $x_2$ by $x_1$ (= termu'i for reordered places); (note that 'under conditions' BAI may apply and be appropriately added to the main predicate level or within the $x_2$ action level).  (cf. cmavo list {mu'i}, {nibli}, te {zukte} - generally better for 'goal', se {jalge}, {krinu}, {rinka}, {ciksi}, {djica}, {xlura})</notes></valsi>
+<valsi word="mulbi'o" type="lujvo"><definition >$x_1$ is completed in property $x_2$ according to standard $x_3$</definition></valsi>
+<valsi word="mulcabna" type="lujvo"><definition >$x_1$ (event) is after $x_2$ (event) concludes. $x_1$ is in the future when $x_2$ finishes</definition></valsi>
+<valsi word="mulfa'o" type="lujvo"><definition >$f_1$ is the end/finish/completion of completed thing/process $f_2=m_1$.</definition></valsi>
+<valsi word="mulgau" type="lujvo"><definition >$g_1$ makes $m_1$ complete in property $m_2$ by standard $m_4$.</definition><notes >Cf. {mulno}, {gasnu}, {tolcfari'i}.</notes></valsi>
+<valsi word="mulgri" type="lujvo"><definition >$g_1=m_1$ is a complete set showing common property (ka) $g_2$, complete by standard $m_3$.</definition><notes >Cf. {mulno}, {girzu}</notes></valsi>
+<valsi word="mulgunma" type="lujvo"><definition >$g_1=m_1$ is a mass/team/aggregate/whole, together composed solely/completely/wholly of components x2, considered jointly, by standard $m_3$.</definition><notes >From {mulno} + {gunma}.  Just {gunma} with a complete specification of members.  $m_2$ dropped since the property is always "membership in the mass in question".  $m_3$ left in since it seems to do no harm, although its meaning seems a bit unclear here.</notes></valsi>
+<valsi word="muljbi" type="lujvo"><definition >$x_1$ is almost/nearly done/complete/finished/whole in property $x_2$ by standard $x_3$.</definition><notes >See also {so'a}</notes></valsi>
+<valsi word="mulna'u" type="lujvo"><definition >$n_1$ is an integer.</definition></valsi>
+<valsi word="mulna'usle" type="lujvo"><definition >$s_1=mn_1$ is an indivisible / prime number in integer domain $s_2$.</definition><notes >Made from {mulna'u} + {selci}.;</notes></valsi>
+<valsi word="mulno" type="gismu"><rafsi >mul</rafsi><rafsi >mu'o</rafsi><definition >$x_{1}$ (event) is complete/done/finished; $x_{1}$ (object) has become whole in property $x_{2}$ by standard $x_{3}$.</definition><notes >Also perfected, entirety; (adverb/adjective:) entire, total, integral, fully, totally, wholly, completely, entirely.  See also {fanmo}, {culno}, {pagbu}, {xadba}, {prane}, {jalge}, {sumji}, {munje}, {sisti}, {xadni}.</notes></valsi>
+<valsi word="mulpi'i" type="lujvo"><definition >$p_1$ is the integer result of multiplying integer $p_2$ by integer $p_3$.</definition><notes >Made from {mulno} + {pilji}.  See also {mulna'u}, {mulna'usle}.</notes></valsi>
+<valsi word="mulslemijyji'e" type="lujvo"><definition >$x_1$ is a eukaryote of species $x_2$.</definition><notes >An eukaryote is an organism whose cells contain complex structures enclosed within membranes. All species of large complex organisms are eukaryotes, including animals (={danlu}), plants (={spati}) and fungi (={mledi}, although most species of eukaryote are protist microorganisms (={jurme}).</notes></valsi>
+<valsi word="multertu'i" type="lujvo"><definition >$m_1=t_3$ (du'u) is unanimous / based on complete agreement among $t_1=t_2$.</definition></valsi>
+<valsi word="mumbais" type="cmene"><definition >Mumbai.</definition></valsi>
+<valsi word="mumbircurnu" type="lujvo"><definition >$x_1$ is a starfish of species $x_2$.</definition><notes >Cf. {mu}, {birka}, {curnu}.</notes></valsi>
+<valsi word="mumdei" type="lujvo"><definition >$x_1$ is a Friday of week $x_2$ in calendar $x_3$.</definition></valsi>
+<valsi word="mumei" type="cmavo cluster"><selmaho >MOI*</selmaho><definition >quantifier selbri: convert 5 to cardinal selbri; $x_{1}$ is a set with the quintet of members $x_{2}$.</definition></valsi>
+<valsi word="mumoi" type="cmavo cluster"><selmaho >MOI*</selmaho><definition >quantified selbri: convert 5 to ordinal selbri; $x_{1}$ is fifth among $x_{2}$ ordered by rule $x_{3}$.</definition></valsi>
+<valsi word="mumplin" type="cmene"><definition >Jupiter.</definition><notes >Cf. {mumplini}.</notes></valsi>
+<valsi word="mumplini" type="lujvo"><definition >$p_1$ is the fifth closest planet (default is Jupiter if p2 is the Sun) revolving around $p_2$ (default is the Sun), with planetary characteristics $p_3$, orbital parameters $p_4$.</definition><notes >Cf. {mumplin}, {pavyplini}, {relplini} etc.; see also {terdi}, {solri}, {mluni}, {lunra}, {plinycma}, {tarci'e}.</notes></valsi>
+<valsi word="mumymast" type="cmene"><definition >May.</definition><notes >Cf. {bakma'i}, {mumymasti}.</notes></valsi>
+<valsi word="mumymasti" type="lujvo"><definition >$x_1$ is May/the fifth month of year $x_2$ in calendar $x_3$.</definition><notes >Cf. {pavmasti}, {nanca}.</notes></valsi>
+<valsi word="mumymoija'a" type="lujvo"><definition >$j_1$ has the rank of Colonel/Captain/Group Captain  (equivalent of NATO OF-5) in military unit /organization $j_2$.</definition><notes >Cf. {mu}, {moi}, {jatna}, {jemja'a}, {vairsoi}, {xavmoija'a}, {vonmoija'a}.  Based on STANAG 2116: NATO Codes for Grades of Military Personnel.</notes></valsi>
+<valsi word="mumymomdegji" type="lujvo"><definition >$m_1=d_1$ is the little finger of $d_2$.</definition><notes >Cf. {degji}.</notes></valsi>
+<valsi word="munje" type="gismu"><rafsi >muj</rafsi><rafsi >mu'e</rafsi><definition >$x_{1}$ is a universe/cosmos [complete and ordered entirety] of domain/sphere $x_{2}$ defined by rules $x_{3}$.</definition><notes >Also world; a universe is a kind of system, one which comprehensively encompasses its domain; e.g. 'universe of discourse', or 'world of birds'; $x_3$ are the rules/defining principles which distinguish the universe from other universes, or from non-universe.  See also {ciste}, {plini}, {kensa}, {mulno}.</notes></valsi>
+<valsi word="muno" type="cmavo cluster"><selmaho >PA*</selmaho><definition >number/quantity: 50 [fifty].</definition></valsi>
+<valsi word="munono" type="cmavo cluster"><selmaho >PA*</selmaho><definition >number/quantity: 500 [five hundred].</definition></valsi>
+<valsi word="mupcpa" type="lujvo"><definition >$c_1$ takes a sample of $c_2=m_2$ from source/set $c_3=m_3$.</definition><notes >Cf. {cpacu}.</notes></valsi>
+<valsi word="mupli" type="gismu"><rafsi >mup</rafsi><definition >$x_{1}$ is an example/sample/specimen/instance/case/illustration of common property(s) $x_{2}$ of set $x_{3}$.</definition><notes >See also cmavo list {mu'u}, {pixra}.</notes></valsi>
+<valsi word="murse" type="gismu"><definition >$x_{1}$ is the [astronomical] twilight/dawn/dusk/half-light/glimmering of day $x_{2}$ at location $x_{3}$.</definition><notes >Morning twilight, dawn (= {cermurse}); evening twilight, dusk (= {vacmurse}).  See also {cerni}, {kandi}, {vanci}.</notes></valsi>
+<valsi word="murta" type="gismu"><rafsi >mur</rafsi><rafsi >mu'a</rafsi><definition >$x_{1}$ is a curtain/blinds/drapes for covering/obscuring aperture $x_{2}$, and made of material $x_{3}$.</definition><notes >See also {canko}, {vorme}.</notes></valsi>
+<valsi word="muslo" type="gismu"><rafsi >mus</rafsi><definition >$x_{1}$ pertains to the Islamic/Moslem/Koranic [Quranic] culture/religion/nation in aspect $x_{2}$.</definition><notes >Also Muslim.  See also {jegvo}, {lijda}.</notes></valsi>
+<valsi word="mustlei" type="fu'ivla"><definition >$x_1$ is a weasel of species/variety $x_2$.</definition><notes >Cf. {mabrnfuru}, {ermine}.</notes></valsi>
+<valsi word="mutce" type="gismu"><rafsi >tce</rafsi><definition >$x_{1}$ is much/extreme in property $x_{2}$ (ka), towards $x_{3}$ extreme/direction; $x_{1}$ is, in $x_{2}$, very $x_{3}$.</definition><notes >Also very, pretty, a lot, immoderate/immoderately, intense, quite, extremely.  See also {milxe}, {traji}, {banli}, {carmi}, {nutli}.</notes></valsi>
+<valsi word="mutmi'i" type="lujvo"><definition >$mi_1=mu_1$ is an algorithm for use/function $mu_2$.</definition></valsi>
+<valsi word="mutpapri" type="lujvo"><definition >$p_1=m_1$ is a web page containing hyperlinks in website / collection of hyperlinking documents $p_2$.</definition><notes >Cf. {mucti}, {papri}, {samci'ejudri}. Not tied specifically to the HTTP or other communications protocol.</notes></valsi>
+<valsi word="muvdandu" type="lujvo"><definition >$x1=m1=d1$ swings from $x2=m3=d2$ towards $x3=m2$</definition></valsi>
+<valsi word="muvdu" type="gismu"><rafsi >muv</rafsi><rafsi >mu'u</rafsi><definition >$x_{1}$ (object) moves to destination/receiver $x_{2}$ [away] from origin $x_{3}$ over path/route $x_{4}$.</definition><notes >Also mobile (= comymu'u, for the non-specific opposite of immobile); after a muvdu, object is alienated from/no longer at origin (unless physically returned there, per litru or slilu); agentive move (= {muvgau}, {muvzu'e}), non-agentive transitive move (= {muvri'a}), self-propelled (= {sezmuvgau}), motion of a part of the object (= {pagmu'u}), having a moving part (= {muvypau}, {muvyselpau}); apparent motion (= {mlumu'u}).  (cf. rinci, klama (which differs in that the means of motion is explicit), litru, cliva, fatri; dunda, benji for agentive movement that does not necessarily imply alienation from origin, preja for similar movement with no agent implied, bevri, vimcu)</notes></valsi>
+<valsi word="muvgau" type="lujvo"><definition >$g_1$ moves $m_1$ to destination $m_2$ from origin $m_3$ over path/route $m_4$.</definition><notes >c.f. {muvdu}, {ca'ermuvgau}.
+
+
+</notes></valsi>
+<valsi word="muvyslidandu" type="lujvo"><definition >$x1=m1=s1=d1$ swings from $x2=d2$ between $x3=m2$ and $x4=m3$</definition></valsi>
+<valsi word="muzga" type="gismu"><rafsi >muz</rafsi><definition >$x_{1}$ is a museum for preserving [and possibly exhibiting] $x_{2}$ at location $x_{3}$.</definition><notes >See also {citri}.</notes></valsi>
+<valsi word="my" type="cmavo"><selmaho >BY2</selmaho><definition >letteral for m.</definition></valsi></direction>

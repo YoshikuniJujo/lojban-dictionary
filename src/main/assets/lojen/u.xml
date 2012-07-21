@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><valsi word="u" type="cmavo"><selmaho >A</selmaho><definition >logical connective: sumti afterthought whether-or-not.</definition></valsi>
+<valsi word="u'a" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: gain - loss.</definition><notes >See also {jinga}, {selne'u}, {prali}, {cirko}.</notes></valsi>
+<valsi word="u'anai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: gain - loss.</definition></valsi>
+<valsi word="u'e" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: wonder - commonplace.</definition><notes >See also {manci}, {fadni}.</notes></valsi>
+<valsi word="u'enai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: wonder - commonplace.</definition></valsi>
+<valsi word="u'i" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: amusement - weariness.</definition><notes >See also {selzdi}, {selxajmi}, {xalbo}.</notes></valsi>
+<valsi word="u'imla" type="fu'ivla"><definition >$x_1$ is a lolcat/picture of animal $x_2$ with humorous caption $x_3$.</definition><notes >Etymology: Combination of {u'i} and {mlatu} and meant to parallel {u'ivla}.</notes></valsi>
+<valsi word="u'inai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: amusement - weariness.</definition></valsi>
+<valsi word="u'ivla" type="fu'ivla"><definition >$x_1$ is a word meaning $x_2$ in language $x_3$ and silly/funny/clever for reason $x_4$ (usually etymological).</definition><notes >The word {u'ivla} is itself an u'ivla, as it is an unconventional portmanteau of {u'i} and -vla- (a rafsi of {valsi}) and also a pun on the word {fu'ivla}. Another example is {u'imla}.</notes></valsi>
+<valsi word="u'o" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: courage - timidity - cowardice.</definition><notes >See also {virnu}.</notes></valsi>
+<valsi word="u'ocu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: courage - timidity - cowardice.</definition></valsi>
+<valsi word="u'onai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: courage - timidity - cowardice.</definition></valsi>
+<valsi word="u'u" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: repentance - lack of regret - innocence.</definition><notes >See also {xenru}, {zugycni}.</notes></valsi>
+<valsi word="u'ucu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: repentance - lack of regret - innocence.</definition></valsi>
+<valsi word="u'unai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: repentance - lack of regret - innocence.</definition></valsi>
+<valsi word="ua" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: discovery - confusion/searching.</definition><notes >See also {facki}, {cfipu}, {sisku}.</notes></valsi>
+<valsi word="uacintyn" type="cmene"><definition >Washington.</definition></valsi>
+<valsi word="uanai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: discovery - confusion/searching.</definition></valsi>
+<valsi word="uaransis" type="cmene"><definition >Varanasi</definition></valsi>
+<valsi word="ubu" type="cmavo cluster"><selmaho >BY*</selmaho><definition >letteral for u.</definition></valsi>
+<valsi word="ue" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: surprise - not really surprised - expectation.</definition><notes >See also {spaji}.</notes></valsi>
+<valsi word="ueb" type="cmene"><definition >The World Wide Web.</definition></valsi>
+<valsi word="uebre" type="fu'ivla"><definition >$x_1$ pertains to the world wide web in aspect $x_2$.</definition><notes >See also {ueb}, {kibro}, {kibypapri}, {kibyca'o}.</notes></valsi>
+<valsi word="uecu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: surprise - not really surprised - expectation axis.</definition></valsi>
+<valsi word="uenai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: surprise - expectation.</definition></valsi>
+<valsi word="uepei" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: surprise question.</definition></valsi>
+<valsi word="ui" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: happiness - unhappiness.</definition><notes >See also {gleki}.</notes></valsi>
+<valsi word="uibu" type="cmavo cluster"><selmaho >BY*</selmaho><definition >letteral: happiness symbol (letteral).</definition></valsi>
+<valsi word="uigru" type="fu'ivla"><definition >$x_1$ is Uyghur in aspect $x_2$</definition><notes >See also {tirkce}, {jungo}.</notes></valsi>
+<valsi word="uikipedias" type="cmene"><definition >Wikipedia.</definition></valsi>
+<valsi word="uikis" type="cmene"><definition >Wiki, WikiWikiWeb.</definition></valsi>
+<valsi word="uinai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: happiness - unhappiness.</definition></valsi>
+<valsi word="uiski" type="fu'ivla"><definition >$x_1$ is whisk(e)y distilled from $x_2$.</definition><notes >Cf. {xalka}, {jikru}, {birje}, {vanju}, {campania}, {vo'otka}, {vanjyjikru}, {koinka}.</notes></valsi>
+<valsi word="uitki" type="fu'ivla"><definition >$x_1$ is a wiki/collaborative web site with subject/theme/content $x_2$.</definition></valsi>
+<valsi word="ulmu" type="fu'ivla"><definition >$x_1$ is an elm of species/variety $x_2$.</definition><notes >see also {na'itsi}</notes></valsi>
+<valsi word="uo" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: completion - incompleteness.</definition><notes >See also {mulno}, {mansa}, {fanmo}, {snada}.</notes></valsi>
+<valsi word="uonai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: completion - incompleteness.</definition></valsi>
+<valsi word="urci" type="fu'ivla"><definition >$x_1$ is poison ivy/oak/sumac / lacquer tree of species $x_2$.</definition><notes >see also {ponjo} {cinta}, {xalkrxuruci}, {spatrnakardiace}, {rakcro}, {srebandu}</notes></valsi>
+<valsi word="uu" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: pity - cruelty.</definition><notes >See also {kecti}.</notes></valsi>
+<valsi word="uunai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: pity - cruelty.</definition></valsi></direction>

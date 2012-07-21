@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><valsi word="o" type="cmavo"><selmaho >A</selmaho><definition >logical connective: sumti afterthought biconditional/iff/if-and-only-if.</definition></valsi>
+<valsi word="o'a" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: pride - modesty/humility - shame.</definition><notes >See also {jgira}, {cumla}, {ckeji}.</notes></valsi>
+<valsi word="o'acu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: pride - modesty/humility - shame.</definition></valsi>
+<valsi word="o'anai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: pride - modesty/humility - shame.</definition></valsi>
+<valsi word="o'e" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: closeness - distance.</definition><notes >See also {cnijbi}, {cnikansa}.</notes></valsi>
+<valsi word="o'enai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: closeness - distance.</definition></valsi>
+<valsi word="o'i" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: caution - rashness.</definition><notes >See also {capyrivbi}, {capfanta}, {srerivbi}, {srefanta}, {naldarsi}, {seljde}.</notes></valsi>
+<valsi word="o'inai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: caution - rashness.</definition></valsi>
+<valsi word="o'o" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: patience - mere tolerance - anger.</definition><notes >See also {fengu}, {to'ersteba}, {de'acni}</notes></valsi>
+<valsi word="o'ocu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: patience - mere tolerance - anger.</definition></valsi>
+<valsi word="o'onai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: patience - mere tolerance - anger.</definition></valsi>
+<valsi word="o'u" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: relaxation - composure - stress.</definition><notes >See also {surla}, {cnilanxe}, {dunku}.</notes></valsi>
+<valsi word="o'ucu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: relaxation - composure - stress.</definition></valsi>
+<valsi word="o'unai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: relaxation - composure - stress.</definition></valsi>
+<valsi word="obu" type="cmavo cluster"><selmaho >BY*</selmaho><definition >letteral for o.</definition></valsi>
+<valsi word="odbenu" type="fu'ivla"><definition >$x_1$ is a walrus of breed $x_2$.</definition><notes >Cf. {mabru}, {arktik}, {xamsi}.</notes></valsi>
+<valsi word="odnata" type="fu'ivla"><definition >$x_1$ is a dragonfly/damselfly (order Odonata) of species $x_2$.</definition><notes >Cf. {ansoptera}, {zgoptera}, {laxsfani}, {sfani}, {cinki}.</notes></valsi>
+<valsi word="oi" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: complaint - pleasure.</definition><notes >See also {pante}, {pluka}, {kufra}.</notes></valsi>
+<valsi word="oinai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: complaint - pleasure.</definition></valsi>
+<valsi word="oire'e" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: spiritual/religious complaint.</definition></valsi>
+<valsi word="oiro'a" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: social complaint.</definition></valsi>
+<valsi word="oiro'e" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: mental complaint (puzzlement, excess mental work).</definition></valsi>
+<valsi word="oiro'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: emotional complaint.</definition></valsi>
+<valsi word="oiro'o" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: physical complaint.</definition></valsi>
+<valsi word="oiro'u" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: sexual complaint.</definition></valsi>
+<valsi word="oktopoda" type="fu'ivla"><definition >$x_1$ is an octopus of species $x_2$</definition><notes >see also {tu'urbirka}</notes></valsi>
+<valsi word="omso" type="fu'ivla"><definition >$g_1$ is $g_2$ ohm(s) of electrical impedance/resistance (default is 1) by standard $g_3$.</definition><notes >Cf. {klanrxomi}, {xampo}, {klanrvolta}, {klanrxuati}, {klanrzimenzi}.</notes></valsi>
+<valsi word="onai" type="cmavo cluster"><selmaho >A*</selmaho><definition >logical connective: sumti afterthought exclusive or; Latin 'aut'.</definition></valsi>
+<valsi word="orka" type="fu'ivla"><definition >$x_1$ is an orca/killer whale (Orcinus orca) of breed $x_2$</definition></valsi>
+<valsi word="orvanxi" type="fu'ivla"><definition >$x_1$ is broomrape of species $x_2$.</definition><notes >see also {rasykobli}</notes></valsi>
+<valsi word="osakas" type="cmene"><definition >Osaka.</definition></valsi>
+<valsi word="osteraix" type="cmene"><definition >Austria.</definition></valsi>
+<valsi word="ostreda" type="fu'ivla"><definition >$x_1$ is an oyster of species $x_2$.</definition><notes >Cf. {cakcurnu}.</notes></valsi>
+<valsi word="otan" type="cmene"><definition >North-Atlantic Treaty Organization.</definition></valsi>
+<valsi word="oxtapodi" type="fu'ivla"><definition >$x_1$ is an octopus of species $x_2$.</definition><notes >See also {tu'urbirka}.</notes></valsi></direction>

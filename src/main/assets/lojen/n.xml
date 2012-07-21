@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><valsi word="na" type="cmavo"><rafsi >nar</rafsi><selmaho >NA</selmaho><definition >bridi contradictory negator; scope is an entire bridi; logically negates in some cmavo compounds.</definition></valsi>
+<valsi word="na'a" type="cmavo"><selmaho >BY1</selmaho><definition >cancel all letteral shifts.</definition></valsi>
+<valsi word="na'acto" type="lujvo"><definition >$x_1$ is $x_2$ centuries in duration by standard $x_3$.</definition><notes >{nanca} {xecto}; the default $x_2$ is 1</notes></valsi>
+<valsi word="na'arkagnoi" type="lujvo"><definition >$n_1$ is the annual report of company/corporation/organization $k_1$. </definition><notes >Cf. {nanca}, {kagni}, {notci}, {kagyselpo'e}, {kagyseldejni}, {prali}.</notes></valsi>
+<valsi word="na'e" type="cmavo"><rafsi >nal</rafsi><selmaho >NAhE</selmaho><definition >contrary scalar negator: other than ...; not ...; a scale or set is implied.</definition></valsi>
+<valsi word="na'ebo" type="cmavo cluster"><selmaho >NAhE+BO</selmaho><definition >negation sumti qualifier: something other than.</definition><notes >Cf. {na'e}, {bo}, {je'abo}, {no'ebo}, {to'ebo}.</notes></valsi>
+<valsi word="na'efa'a" type="cmavo cluster"><selmaho >FAhA*</selmaho><definition >space direction: not towards specified point, contrary negation; direction modal.</definition></valsi>
+<valsi word="na'epu'i" type="cmavo cluster"><selmaho >CAhA*</selmaho><definition >modal aspect: has never, and perhaps cannot; other-than-demonstrated-ability.</definition></valsi>
+<valsi word="na'i" type="cmavo"><selmaho >UI3a</selmaho><definition >discursive: metalinguistic negator.</definition><notes >See also {naldra}, {nalmapti}.</notes></valsi>
+<valsi word="na'icmo" type="lujvo"><definition > $c_1=n_2$ chirps/makes sound/stridulates $c_2$ rubbing/chafing together wings [body-part] $n_1$ expressing $c_3$ (property)</definition></valsi>
+<valsi word="na'irxi'a" type="lujvo"><definition >$x_1$ is a pegasus/winged horse.</definition></valsi>
+<valsi word="na'itsi" type="lujvo"><definition >$x_1$ is a samara of $x_2$ for producing offspring $x_3$.</definition><notes >see also {a'orne}, {ulmu}</notes></valsi>
+<valsi word="na'o" type="cmavo"><selmaho >TAhE</selmaho><definition >tense interval modifier: characteristically/typically; tense/modal; defaults as time tense.</definition></valsi>
+<valsi word="na'onai" type="cmavo cluster"><selmaho >TAhE*</selmaho><definition >tense interval modifier: atypically; subjective tense/modal; defaults as time tense.</definition></valsi>
+<valsi word="na'u" type="cmavo"><selmaho >NAhU</selmaho><definition >convert selbri to mex operator; used to create less-used operators using le'avla, lujvo, etc.</definition></valsi>
+<valsi word="na.a" type="cmavo cluster"><selmaho >A*</selmaho><definition >logical connective: sumti afterthought conditional/only if.</definition></valsi>
+<valsi word="nabmi" type="gismu"><rafsi >nam</rafsi><definition >$x_{1}$ (event/state) is a problem to/encountered by $x_{2}$ in situation/task/inquiry $x_{3}$.</definition><notes >Also: $x_1$ requires consideration by $x_2$.  See also {preti}, {danfu}, {ciksi}, {jijnu}, {jinvi}, {nandu}, {pensi}, {sidbo}, {spuda}, {raktu}.</notes></valsi>
+<valsi word="nabypalne" type="lujvo"><definition >$n_1=p_1$ is a pizza/pie/sandwich/taco/burrito/pirozhki with topping/ingredients $p_2$ and bread of type $n_2=p_3$.</definition><notes >Cf. {snuji}, {pitnanba}, {iptsa}, {cidjrpitsa}, {titnanba}.</notes></valsi>
+<valsi word="nabysko" type="lujvo"><definition >$x_1$ is a quantity of noodles.</definition></valsi>
+<valsi word="nabysle" type="lujvo"><definition >$x1=s1$ is a crumb of bread $x2=n1$ from grain $x3=n2$</definition></valsi>
+<valsi word="nabyspi" type="lujvo"><definition >$s_1$ is a crumb of bread $n_1$ made from grains $n_2$.</definition><notes >Cf. {nanba}, {spisa}.</notes></valsi>
+<valsi word="nabysu'a" type="lujvo"><definition >$x1=s1$ is a loaf of bread of grains $x2=n2$</definition></valsi>
+<valsi word="nabzba" type="lujvo"><definition >$z_1$ bakes bread/cake/pastry $z_2=n_1$ from ingredients $z_3$.</definition></valsi>
+<valsi word="nacle'u" type="lujvo"><definition >$l_1$ is a numeral in system $l_2$ representing $l_3$=$n_1$.</definition><notes >If not specified $l_2$ defaults to the Arabic numerals in Western scripts.</notes></valsi>
+<valsi word="nacmei" type="lujvo"><definition >$x_1$ is a vector of dimension $x_2$ with coordinates $x_3$, $x_4$, $x_5$, ...</definition><notes >See also {relnacmei}, {cibnacmei}, {pinynacmei}, {rajnacmei}, {nacmemsu'a}</notes></valsi>
+<valsi word="nacnilbra" type="lujvo"><definition >$x_1$ is the absolute value/norm of $x_2$.</definition><notes >See also {cu'a}</notes></valsi>
+<valsi word="nacpoiba'u" type="lujvo"><definition >$b_1$ counts numbers $n_1=p_1$ out aloud.</definition></valsi>
+<valsi word="nadycai" type="lujvo"><definition >$c_1=n_1$ is a big problem/crisis for $n_2$ in situation/task/inquiry $n_3$.</definition><notes >Cf. {nabmi}, {carmi}.</notes></valsi>
+<valsi word="nafselte'i" type="lujvo"><definition >$x_1$ is an exception/the only one without property $x_2$ among $x_3$</definition><notes >See also {natfe}, {selte'i}, {steci}</notes></valsi>
+<valsi word="nagi'a" type="cmavo cluster"><selmaho >GIhA*</selmaho><definition >logical connective: bridi-tail afterthought conditional/only if.</definition></valsi>
+<valsi word="nago'i" type="cmavo cluster"><selmaho >GOhA*</selmaho><definition >selbri: repeats preceding bridi while denying it as false; pro-assign values are unchanged.</definition></valsi>
+<valsi word="nai" type="cmavo"><selmaho >NAI</selmaho><definition >attached to cmavo to negate them; various negation-related meanings.</definition></valsi>
+<valsi word="naijgi" type="lujvo"><definition >$j_1=n_2$ is a patriot of nation $n_1$.</definition><notes >Cf. {natmi}, {jgira}, {natpa'i}.</notes></valsi>
+<valsi word="naizgi" type="lujvo"><definition >$z_1$ is folk music performed at/by $z_2$ (event), originating in group of people $n_2$.</definition><notes >Cf. {natmi}, {zgike}, {nolzgi}, {sopselneizgi}, {dja'aza}, {te'ekno}.</notes></valsi>
+<valsi word="naja" type="cmavo cluster"><selmaho >JA*</selmaho><definition >logical connective: tanru-internal afterthought conditional/only if.</definition></valsi>
+<valsi word="najgenja" type="lujvo"><definition >$g_1$ is a carrot of variety $g_2$.</definition><notes >Cf. {gejrdauko}, {stagi}, {spati}, {genjrdauko}.</notes></valsi>
+<valsi word="najnimre" type="lujvo"><definition >$x_1$ is an orange of variety $x_2$.</definition><notes >see also {nimre}, {pelnimre}, {branimre}, {ri'ornimre}, {skorbuti}, {narju}</notes></valsi>
+<valsi word="najycutcpi" type="lujvo"><definition >$ci_1=cu_2$ is an American robin of variety $ci_2$</definition><notes >Turdus migratorius. This is not the European robin.</notes></valsi>
+<valsi word="najysmela" type="lujvo"><definition >$x_1$ is a peach [fruit] of species/variety $x_2$</definition><notes >Cf. {smela}</notes></valsi>
+<valsi word="nakcinse" type="lujvo"><definition >$c_1$ is androphilous/bisexual/straight female/gay male in situation $c_2$ by standard $c_4$.</definition><notes >This word is only about sexual interest in males; other sexuals interest are irrelevant. See also {fetcinse}, {naknakcinse}, {mitcinse}, {dutcinse}.</notes></valsi>
+<valsi word="naknakcinse" type="lujvo"><definition >$c_1=f_1$ is male and androphilous/gay/bisexual in situation $c_2$ by standard $c_4$</definition><notes >This word is about male homosexuality and bisexuality. See also {nakcinse}, {fetfetcinse}, {mitcinse}, {relcinse}.</notes></valsi>
+<valsi word="naknalspe" type="lujvo"><definition >$f_1=n_1$ is an unmarried man under law/custom/tradition $s_3$.</definition><notes >Cf. {nalspe}, {naknalspe}, {specfari'i}, {bavyspe}, {pruspe}.</notes></valsi>
+<valsi word="nakni" type="gismu"><rafsi >nak</rafsi><definition >$x_{1}$ is a male/buck of species $x_{2}$ evidencing masculine trait(s) $x_{3}$ (ka); $x_{1}$ is masculine.</definition><notes >See also {fetsi}, {bersa}.</notes></valsi>
+<valsi word="nakpinji" type="lujvo"><definition >$p_1$ is a/the penis of $p_2=n_1$.</definition><notes >Cf. {fetpinji}, {pinji}.</notes></valsi>
+<valsi word="naksmifetsi'o" type="lujvo"><definition >$si_1$ is feminism, the idea that females and males are alike in quality $sm_3$, as thought by $si_2$.</definition></valsi>
+<valsi word="nakspe" type="lujvo"><definition >$x_1$ is a husband of $x_2$ (spouse) according to marriage law/custom/tradition $x_3$.</definition></valsi>
+<valsi word="nakybakni" type="lujvo"><definition >$n_1=b_1$ is a bull/steer/ox/male bovine of species/breed $n_2=b_2$.</definition><notes >{nakni}+{bakni}</notes></valsi>
+<valsi word="nakydzetru" type="lujvo"><definition >$t_1$ is a patriarch of people/territory/domain/subjects $t_2$.</definition><notes >Cf. {fetydzetru}.</notes></valsi>
+<valsi word="nalbolbi'o" type="lujvo"><definition >$bi_1$ unrolls under condition $bi_3$.</definition><notes >Cf. {na'e}, {bolci}, {binxo}.</notes></valsi>
+<valsi word="nalbro" type="lujvo"><definition >$b_1=n_1$ is gentile.</definition></valsi>
+<valsi word="nalceikri" type="lujvo"><definition >$k_1$ is an atheist.</definition><notes >Cf. {ceikri}, {seljda}, {ceirsenpi}.</notes></valsi>
+<valsi word="nalci" type="gismu"><rafsi >na'i</rafsi><definition >$x_{1}$ is a/the wing [body-part] of $x_{2}$; [metaphor: lateral supporting surface].</definition><notes >See also {cipni}, {pimlu}, {rebla}.</notes></valsi>
+<valsi word="nalci'i" type="lujvo"><definition >$x_1$ is uninteresting to $x_2$.</definition><notes >See also {a'ucu'i}</notes></valsi>
+<valsi word="nalci'o" type="lujvo"><definition >$x_1$ is senior/older/other than young by standard $x_2$.</definition><notes >{na'e} {citno}; see also {makcu}, {tolci'o}</notes></valsi>
+<valsi word="nalcre" type="lujvo"><definition >$c_1$ is lay (non-professional) in event/activity $c_2$ by standard $c_3$.</definition><notes >Cf. {certu}.</notes></valsi>
+<valsi word="nalcti" type="lujvo"><definition >$c_1$ abstains from eating $c_2$; $c_1$ fasts.</definition><notes >Cf. {citka}.</notes></valsi>
+<valsi word="naldjica" type="lujvo"><definition >$x_{1}$ does not want/desire $x_{2}$ (event/state) for purpose $x_{3}$.</definition><notes >Cf. {na'e}, {djica}</notes></valsi>
+<valsi word="nalfadni" type="lujvo"><definition >$f_1$ [member] is uncommon/atypical/unusual in property $f_2$ (ka) among members of $f_3$ (set).</definition><notes >Cf. {na'e}, {fadni}, {rirci}.</notes></valsi>
+<valsi word="nalgundei" type="lujvo"><definition >$x_1=d_1$ is a period of $x_2=d_2$ non-working days/vacation days/holidays for worker $x_3=g_1$ at job $x_4=g_2$</definition><notes >Removed $djedi_3$ as being unneeded.  </notes></valsi>
+<valsi word="nalju'i" type="lujvo"><definition >$x_1$ is inattentive towards/distracted/inadvertent of object/affair $x_2$.</definition><notes >See also {a'acu'i}</notes></valsi>
+<valsi word="naljundi" type="lujvo"><definition >$j_1$ is inattentive towards/distracted from object/affair $j_2$.</definition><notes >Cf. {na'e}, {jundi}.</notes></valsi>
+<valsi word="nalmo'i" type="lujvo"><definition >$m_1$ forgets fact/memory $m_2$ about subject $m_3$.</definition><notes >Cf. {na'e}, {morji}, {tolmo'i}.  Assumes that {morji} refers to a state i.e. 'remember'= 'retain in memory'.</notes></valsi>
+<valsi word="nalmu'o" type="lujvo"><definition >$x_1$ is incomplete/unfinished in property $x_2$ by standard $x_3$ .</definition><notes >See also {uonai}</notes></valsi>
+<valsi word="nalpro" type="lujvo"><definition >$p_1$ gives consent/agreement/sanction to $p_2$ (person/force ind./mass) about $p_3$ (abstract).</definition><notes >Cf. {na'e}, {fapro}, {tugni}, {ie}, {e'a}.</notes></valsi>
+<valsi word="nalra'u" type="lujvo"><definition >$r_1$ leaves $r_2$ alone/in peace.</definition><notes >Cf. {raktu}.</notes></valsi>
+<valsi word="nalra'ugei" type="lujvo"><definition >$g_1=r_2$ is tranquil/happy about $g_2=r_1$.</definition><notes >Cf. {na'e}, {raktu}, {gleki}, {mansygei}, {camgei}.</notes></valsi>
+<valsi word="nalre'ucti" type="lujvo"><definition >$c_1$ does not eat meat $c_2=r_1$; $c_1$ is a vegetarian.</definition></valsi>
+<valsi word="nalri'i" type="lujvo"><definition >$r_1$ (NU) is casual, not formal/ceremonial.</definition><notes >Cf. {surla}, {xalbo}, {kalsa}, {cunso}.</notes></valsi>
+<valsi word="nalselci'i" type="lujvo"><definition >$x_1=c_2$ is uninterested in $x_2=c_1$.</definition><notes >Cf. {cinri}, {selci'i}, {norselci'i}, {tolselci'i}, {a'ucu'i}.</notes></valsi>
+<valsi word="nalseljukpa" type="lujvo"><definition >$j_2$ is uncooked/raw.</definition><notes >Cf. {na'e}, {jukpa}.</notes></valsi>
+<valsi word="nalselna'i" type="lujvo"><definition >$x_1$ is wingless/has no wings.</definition></valsi>
+<valsi word="nalselnalci" type="lujvo"><definition >$x_1$ is wingless/has no wings.</definition><notes >Cf. {nalci}, {cipni}</notes></valsi>
+<valsi word="nalselra'u" type="lujvo"><definition >$r_2$ is calm/untroubled about $r_1$ with result $r_3$.</definition><notes >Cf. {na'e}, {raktu}, {nalra'ugei}.</notes></valsi>
+<valsi word="nalspe" type="lujvo"><definition >$f_1=n_1$ is unmarried under law/custom/tradition $s_3$.</definition><notes >Cf. {fetnalspe}, {naknalspe}, {specfari'i}, {bavyspe}, {pruspe}.</notes></valsi>
+<valsi word="nalstace" type="lujvo"><definition >$s_1$ is dishonest/disingenuous to $s_2$ about $s_3$.</definition><notes >Cf. {stace}, {tcica}.</notes></valsi>
+<valsi word="nalsti" type="lujvo"><definition >$s_1$ (agent) is relentless/unceasing in activity/process/state $s_2$.</definition></valsi>
+<valsi word="nalta'acni" type="lujvo"><definition >$c_1=t_1$ is withdrawn, feeling emotion $c_2$ about $c3=t_3$ from $t_2$.</definition><notes >Cf. {na'e}, {tavla}, {cinmo}.</notes></valsi>
+<valsi word="nalvai" type="lujvo"><definition >$x_1$ (event/person) is unimportant/insignificant to $x_2$ (event/person) due to/in aspect $x_3$; $x_2$ doesn't care about $x_1$'s $x_3$-ness.</definition><notes >I found myself saying [{na'e} {vajni}] very often and thus thought that it'd be nice to have a lujvo for it.</notes></valsi>
+<valsi word="nalxe'u" type="lujvo"><definition >$x_1$ is unrepentant of $x_2$.</definition><notes >See also {nalzungi}, {u'ucu'i}</notes></valsi>
+<valsi word="nalzungi" type="lujvo"><definition >$x_1$ is unremorseful of $x_2$.</definition><notes >See also {nalxe'u}, {u'unai}</notes></valsi>
+<valsi word="nalzva" type="lujvo"><definition >$x_1$ is absent from $x_2$.</definition></valsi>
+<valsi word="namcrgogolo" type="fu'ivla"><definition >$x_{1}$ is a googol [$10^{100}$] of $x_{2}$ in dimension/aspect $x_{3}$ (default units).</definition></valsi>
+<valsi word="namcrgogolplexu" type="fu'ivla"><definition >$x_{1}$ is a googolplex [$10^{googol}$] of $x_{2}$ in dimension/aspect $x_{3}$ (default units).</definition></valsi>
+<valsi word="namcu" type="gismu"><rafsi >nac</rafsi><rafsi >na'u</rafsi><definition >$x_{1}$ (li) is a number/quantifier/digit/value/figure (noun); refers to the value and not the symbol.</definition><notes >See also {lerfu}, {mekso}, {klani}.</notes></valsi>
+<valsi word="namkei" type="lujvo"><definition >$x_1=k_1=n_2$ [agent] tries to solve puzzle/enigma/riddle/charade $x_2=k_2=n_1$ in game/contest $x_3=n_3$</definition></valsi>
+<valsi word="nanba" type="gismu"><rafsi >nab</rafsi><definition >$x_{1}$ is a quantity of/contains bread [leavened or unleavened] made from grains $x_{2}$.</definition><notes >See also {gurni}, {panlo}, {toknu}.</notes></valsi>
+<valsi word="nanbe'o" type="lujvo"><definition >$x_{1}$ reflects Central American culture/nationality/geography in aspect $x_{2}$.</definition><notes >From {snanu}, {bemro}.</notes></valsi>
+<valsi word="nanbrmatsa" type="fu'ivla"><definition >$x_1$ is a matzo made from grain $x_2$.</definition><notes >see {fomcau}, {nanba}, {fomymledi}</notes></valsi>
+<valsi word="nanca" type="gismu"><rafsi >na'a</rafsi><definition >$x_{1}$ is $x_{2}$ years in duration (default is 1 year) by standard $x_{3}$; (adjective:) $x_{1}$ is annual.</definition><notes >This year (= {cabna'a}); next year (= {bavlamna'a}); last year (= {prulamna'a}).  See also {detri}, {djedi}, {jeftu}, {masti}.</notes></valsi>
+<valsi word="nandu" type="gismu"><rafsi >nad</rafsi><definition >$x_{1}$ is difficult/hard/challenging for $x_{2}$ under conditions $x_{3}$; $x_{1}$ challenges (non-agentive) $x_{2}$.</definition><notes >See also {frili}, {nabmi}, {jdari}, {talsa}, {tinsa}.</notes></valsi>
+<valsi word="nanfi'oglibau" type="lujvo"><definition >$x_1$ is the South African English language used by $x_2$ to express/communicate $x_3$ (si'o/du'u, not quote).</definition><notes >Cf. {snanu}, {friko}, {glico}, {bangu}, {glibau}, {bangenugu}.</notes></valsi>
+<valsi word="nanfi'ogu'e" type="lujvo"><definition >$x_1$ is South Africa.</definition><notes >Cf. {snanu}, {friko}, {gugde}, {gugdezu'a}.</notes></valsi>
+<valsi word="nanl" type="cmene"><definition >Master</definition><notes >Cf. {nanla}, {nix}, {naun}, {nim}.</notes></valsi>
+<valsi word="nanla" type="gismu"><definition >$x_{1}$ is a boy/lad [young male person] of age $x_{2}$ immature by standard $x_{3}$.</definition><notes >Word dispreferred in metaphor/example as sexist; (use verba).  See also {nixli}, {verba}, {nanmu}, {bersa}.</notes></valsi>
+<valsi word="nanmu" type="gismu"><rafsi >nau</rafsi><definition >$x_{1}$ is a man/men; $x_{1}$ is a male humanoid person [not necessarily adult].</definition><notes >Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See also {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.</notes></valsi>
+<valsi word="nansicnansnanu" type="lujvo"><definition >$x_1$ is south by west of $x_2$ in reference frame $x_3$.</definition></valsi>
+<valsi word="nanslovo" type="lujvo"><definition >$x_1$ is South Slavic/Yugoslavian in aspect $x_2$.</definition><notes >South Slavic if the aspect is language, else Yugoslavian; see also {slovino}, {bolgaro}, {slovo}, {serbo} (experimental)</notes></valsi>
+<valsi word="nanstici" type="lujvo"><definition >$x_1$ is southwest of $x_2$ in frame of reference $x_3$.</definition></valsi>
+<valsi word="nanstuna" type="lujvo"><definition >$x_1$ is southeast of $x_2$ in frame of reference $x_3$.</definition></valsi>
+<valsi word="nansunsunsnanu" type="lujvo"><definition >$x_1$ is southeast by east of $x_2$ in frame of reference $x_3$.</definition></valsi>
+<valsi word="nanvi" type="gismu"><rafsi >nav</rafsi><definition >$x_{1}$ is a billionth/thousand-millionth [$10^{-9}$] of $x_{2}$ in dimension/aspect $x_{3}$ (default is units).</definition><notes >See also {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}</notes></valsi>
+<valsi word="narge" type="gismu"><rafsi >nag</rafsi><definition >$x_{1}$ is a nut [body-part: hard-shelled fruit] from plant/species $x_{2}$ with shell $x_{3}$ and kernel $x_{4}$.</definition><notes >Also $x_4$ nucleus, center (= {velnarge} for place reordering).  See also {grute}, {stagi}, {jbari}, {midju}.</notes></valsi>
+<valsi word="nargile" type="fu'ivla"><definition >$x_1$ is a nargileh/hookah for smoking $x_2$.</definition></valsi>
+<valsi word="nargrkaju" type="fu'ivla"><definition >$x_1$ is a cashew of species $x_2$.</definition></valsi>
+<valsi word="nargrkaria" type="fu'ivla"><definition >$x_1$ is pecan/hickory of species/variety $x_2$.</definition></valsi>
+<valsi word="nargrpistaco" type="fu'ivla"><definition >$x_1$ is a pistachio of species $x_2$.</definition></valsi>
+<valsi word="narjista'u" type="lujvo"><definition >$x_1$ is dirty laundry worn by $x_2$ for purpose $x_3$, dirty with $x_4$.</definition></valsi>
+<valsi word="narju" type="gismu"><rafsi >naj</rafsi><definition >$x_{1}$ is orange [color adjective].</definition><notes >See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {pelxu}, {solji}.</notes></valsi>
+<valsi word="narpanra" type="lujvo"><definition >$p_1$ is unique/unequaled/unparalleled/unmatched / the only one of its kind.</definition></valsi>
+<valsi word="naru'e" type="cmavo cluster"><selmaho >NA*</selmaho><definition >weak bridi negation; almost, but not quite.</definition></valsi>
+<valsi word="natfe" type="gismu"><rafsi >naf</rafsi><rafsi >na'e</rafsi><definition >$x_{1}$ (du'u) contradicts/denies/refutes/negates $x_{2}$ (du'u) under rules/logic $x_{3}$.</definition><notes >Also exception (= {nafmupli}); agentive contradict/deny (= nafxu'a or {tolxu'a}).  See also {nibli}, {tugni}, {zanru}, {xusra}.</notes></valsi>
+<valsi word="natmi" type="gismu"><rafsi >nat</rafsi><rafsi >nai</rafsi><definition >$x_{1}$ is a nation/ethnic group of peoples $x_{2}$; [people sharing a history/culture].</definition><notes >See also {jecta}, {kulnu}, {lanzu}, {gugde}, {bangu}, {cecmu}.</notes></valsi>
+<valsi word="natpa'i" type="lujvo"><definition >$p_1$ loves/feels strong affectionate devotion towards the nation/ethnic group $n_2$; $p_1$ is a patriot/nationalist.</definition><notes >Cf. {natmi}, {prami}, {natpamtrusi'o}, {naijgi}.</notes></valsi>
+<valsi word="natpamtrusi'o" type="lujvo"><definition >$s_1$ is a nationalist political ideology as applied by $t_1=p_1$ among/in people/territory/domain $t_2$ based on the works of thinker $s_3$</definition><notes >From {natmi}, {prami}, {turni}, {sidbo}. Cf. {natpa'i}, {trudjigri}, {ka'irtrusi'o}, {dzejdasratrusi'o}, {vricykricrutrusi'o}, {fairpaltrusi'o}, {guntrusi'o}, {tsarainaitrusi'o}.</notes></valsi>
+<valsi word="nau" type="cmavo"><selmaho >CUhE</selmaho><definition >tense: refers to current space/time reference absolutely.</definition></valsi>
+<valsi word="naun" type="cmene"><definition >Mr./Mister</definition><notes >Cf. {nanmu}, {nix}, {nanl}, {nim}.</notes></valsi>
+<valsi word="navni" type="gismu"><definition >$x_{1}$ is a quantity of/contains/is made of inert gas of type $x_{2}$ [neon/argon/radon/xenon/krypton].</definition><notes >Default neon. See also {xukmi}, {gapci}.</notes></valsi>
+<valsi word="navytre" type="lujvo"><definition >$m_1=n_1$ is $m_2=n_2$ nanometer(s) / billionth(s) of a meter [metric unit] in length (default 1) measured in direction $m_3=n_3$ by standard $x_4=m_3$.</definition><notes >See also {centre}.  Made from {nanvi} + {mitre}.</notes></valsi>
+<valsi word="navzmi" type="lujvo"><definition >$z_1$ is a nanobot performing function $z_2$ under conditions $z_3$.</definition></valsi>
+<valsi word="naxle" type="gismu"><rafsi >nax</rafsi><rafsi >xle</rafsi><definition >$x_{1}$ is a canal/channel to $x_{2}$ from $x_{3}$ with route $x_{4}$.</definition><notes >$x_2$/$x_3$ may be unordered.  See also {pluta}, {rirxe}, {klaji}, {dargu}.</notes></valsi>
+<valsi word="nazbi" type="gismu"><rafsi >naz</rafsi><rafsi >zbi</rafsi><definition >$x_{1}$ is the nose [body-part] of $x_{2}$ with nostril(s)/nasal passage(s) $x_{3}$; [metaphor: protrusion].</definition><notes >Also (adjective:) nasal.  See also {degji}, {panci}, {sumne}, {tance}.</notes></valsi>
+<valsi word="ne" type="cmavo"><selmaho >GOI</selmaho><definition >non-restrictive relative phrase marker: which incidentally is associated with ...</definition></valsi>
+<valsi word="ne'a" type="cmavo"><selmaho >FAhA3</selmaho><definition >location tense relation/direction; approximating/next to ...</definition></valsi>
+<valsi word="ne'i" type="cmavo"><selmaho >FAhA3</selmaho><definition >location tense relation/direction; within/inside of/into ...</definition></valsi>
+<valsi word="ne'o" type="cmavo"><selmaho >VUhU3</selmaho><definition >unary mathematical operator: factorial; a!.</definition></valsi>
+<valsi word="ne'u" type="cmavo"><selmaho >FAhA1</selmaho><definition >location tense relation/direction; south of.</definition></valsi>
+<valsi word="nebdadycreka" type="lujvo"><definition >$cr_1=d_1$ is a halter top of material $cr_2$.</definition><notes >A subtype of "tube top" ({jancaucreka}), with a single strap around the back of the neck. Suggested shortest fu'ivla form: ebdrka. Cf. {creka}.</notes></valsi>
+<valsi word="nebgunse" type="lujvo"><definition >$x_1$ is a swan (genus Cygnus)  of species/strain $x_2$</definition></valsi>
+<valsi word="nebjendu" type="lujvo"><definition >$j_1$ is the axis (cervical vertebra) of $c_2$</definition></valsi>
+<valsi word="nebnipcreka" type="lujvo"><definition >$cr_1=s_1$ is a polo-neck garment of material $cr_2$.</definition><notes >Usually a sweater ({nivycreka}), with a close-fitting, round, and high collar that folds over and covers the neck. Suggested shortest fu'ivla form: epcrka. Cf. {creka}.</notes></valsi>
+<valsi word="nebyka'a" type="lujvo"><definition >$k_1$ is a guillotine/executioner's axe for beheading $k_2$.</definition></valsi>
+<valsi word="nebyplovoicpi" type="lujvo"><definition >$ci_1=cn_2=v_1$ is a heron/egret/bittern of species $ci_2$</definition><notes >Members of family Ardeidae are noted for flying with their necks folded.</notes></valsi>
+<valsi word="nebysrijge" type="lujvo"><definition >$j_1$ is a necktie made of material $d_2$ worn by $c_2$.</definition><notes >Cf. {dadne'ota'u}.</notes></valsi>
+<valsi word="nederland" type="cmene"><definition >Holland/The Netherlands.</definition></valsi>
+<valsi word="nei" type="cmavo"><selmaho >GOhA</selmaho><definition >pro-bridi: repeats the current bridi.</definition></valsi>
+<valsi unofficial="true" word="nei'o" type="experimental cmavo"><selmaho >KOhA</selmaho><definition >pro-sumti: this paragraph</definition></valsi>
+<valsi word="neizma" type="lujvo"><definition >$x_1=n_1=z_1$ likes $x_3=n_2$ more than $x_2=z_2$ does, by margin $x_4=z_4$.</definition><notes >Contrast with {zmanei} for "prefer".</notes></valsi>
+<valsi word="nejni" type="gismu"><rafsi >nen</rafsi><definition >$x_{1}$ is energy of type $x_{2}$ in form $x_{3}$.</definition><notes >Ray/beam (= {nenli'i}).  See also {marji}, {tarmi}, {kantu}, {lazni}, {livla}.</notes></valsi>
+<valsi word="nelci" type="gismu"><rafsi >nel</rafsi><rafsi >nei</rafsi><definition >$x_{1}$ is fond of/likes/has a taste for $x_{2}$ (object/state).</definition><notes >See also {cinmo}, {djica}, {pluka}, {prami}, {rigni}, {sinma}, {trina}, {xebni}, {cuxna}, {pendo}.</notes></valsi>
+<valsi word="nelrai" type="lujvo"><definition >$n_1$ is most fond of $n_2=t_1$ (object/state) from set $t_4$, due to extreme $t_3$ (ka; default ka zmadu).</definition><notes >Cf. {nelci}, {traji}, {plicu'a}. Also: $n_1$ likes/prefers $n_2=t_1$ the most out of set $t_4$. </notes></valsi>
+<valsi word="nelti'i" type="lujvo"><definition >$s_1=n_1$ recommends $s_2=n_2$ to audience $s_3$.</definition><notes >Cf. {stidi}.</notes></valsi>
+<valsi word="nenri" type="gismu"><rafsi >ner</rafsi><rafsi >ne'i</rafsi><definition >$x_{1}$ is in/inside/within $x_{2}$; $x_{1}$ is on the inside/interior of $x_{2}$ [totally within the bounds of $x_{2}$].</definition><notes >Indicates total containment.  (cf. se vasru (for containment that need not be total), jbini, zvati, cpana, sruri, senta, snuji, bartu, diklo, jibni, jinru, setca)</notes></valsi>
+<valsi word="nerbei" type="lujvo"><definition >$x_1$ imports $x_2$ to $x_3$ from $x_4$ via $x_5$ .</definition></valsi>
+<valsi word="nerbi'o" type="lujvo"><definition >$x_1=b_1=n_1$ enters [becomes inside-of] $x_2=n_2$ under conditions $x_3=b_3$</definition><notes >cf. {nenri}, {binxo}.</notes></valsi>
+<valsi word="nercreka" type="lujvo"><definition >$c_1$ is a singlet/undershirt/vest of material $c_2$.</definition></valsi>
+<valsi word="nerfopi" type="fu'ivla"><definition >$x_1$ is a lobster of species $x_2$.</definition><notes >Cf. {xasyjukni}, {cakyjukni}. From linnaean Nephropidae.</notes></valsi>
+<valsi word="nerkalri" type="lujvo"><definition >$x_1$ is an entrance/entry/entryway/inlet/way in to $x_2$ for $x_3$ .</definition><notes >See also {nerkla}</notes></valsi>
+<valsi word="nerkla" type="lujvo"><definition >$n_1=k_1$ enters $n_2=k_2$ from origin $k_3$ via route $k_4$ using means/vehicle $k_5$.</definition></valsi>
+<valsi word="nerklaji" type="lujvo"><definition >$k_1=n_1$ is a hallway / indoor street within $k_2=n_2$ accessing $k_3$.</definition><notes >Made from {nenri} + {klaji}.</notes></valsi>
+<valsi word="nerta'u" type="lujvo"><definition >$x1$=$t1$=$n1$ is underwear, worn by/on $x2$=$t2$, for purpose $x3$=$t3$, worn under $x4$=$n2$</definition></valsi>
+<valsi word="ni" type="cmavo"><rafsi >nil</rafsi><selmaho >NU</selmaho><definition >abstractor: quantity/amount abstractor; $x_{1}$ is quantity/amount of [bridi] measured on scale $x_{2}$.</definition></valsi>
+<valsi word="ni'a" type="cmavo"><selmaho >FAhA2</selmaho><definition >location tense relation/direction; downwards/down from ...</definition></valsi>
+<valsi word="ni'ablo" type="lujvo"><definition >$x_1$ is a submarine for carrying $x_2$, propelled by $x_3$.</definition><notes >Cf. {cnita}, {bloti}, {beiblo}, {preblo}, {jamblo}, {bratcejamblo}, {brajamblo}, {cmajamblo}, {badjamblo}, {vijblo}.</notes></valsi>
+<valsi word="ni'e" type="cmavo"><selmaho >NIhE</selmaho><definition >convert selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen.</definition></valsi>
+<valsi word="ni'i" type="cmavo"><selmaho >BAI</selmaho><definition >nibli modal, 1st place                            logically; logically because ...</definition></valsi>
+<valsi word="ni'i ma" type="cmavo cluster"><selmaho >BAI*</selmaho><definition >sumti question asking for a logical proof; why?.</definition></valsi>
+<valsi word="ni'inai" type="cmavo cluster"><selmaho >BAI*</selmaho><definition >nibli modal, 1st place                            despite logic ...</definition></valsi>
+<valsi word="ni'o" type="cmavo"><selmaho >NIhO</selmaho><definition >discursive: paragraph break; introduce new topic.</definition></valsi>
+<valsi word="ni'u" type="cmavo"><selmaho >PA3</selmaho><definition >digit/number: minus sign; negative number); default any negative.</definition></valsi>
+<valsi word="ni'u zei ionti" type="lujvo"><definition >$x_1$ is an anion of radical/(atom of element)$x_2$ with $x_3$ charges.</definition><notes >Cf. {ionti}, {ma'u zei ionti}, {lektoni}, {xumsle}.</notes></valsi>
+<valsi word="nibji'i" type="lujvo"><definition >$j_1$ concludes that $n_1$ (du'u) logically implies $n_2$ under rules $n_3$.</definition><notes >Cf. {nibli}, {jinvi}, {lojycpa}, {ja'o}.</notes></valsi>
+<valsi word="nibli" type="gismu"><rafsi >nib</rafsi><rafsi >ni'i</rafsi><definition >$x_{1}$ logically necessitates/entails/implies action/event/state $x_{2}$ under rules/logic system $x_{3}$.</definition><notes >See also {natfe}, {rinka}, {mukti}, {krinu}, cmavo list {ni'i}, {jalge}, {logji}.</notes></valsi>
+<valsi word="nibyti'i" type="lujvo"><definition >$x_1=n_1$ (idea/fact/du'u) suggests/intimates that $x_2=n_2=s_2$ (idea/fact/du'u) is true as it appears to $x_3=s_3$</definition><notes >From {nibli} {stidi}. Unlike {stidi}, it refers to person's internal logical reasoning about facts, not external suggestion.</notes></valsi>
+<valsi word="nicte" type="gismu"><rafsi >cte</rafsi><definition >$x_{1}$ is a nighttime of day $x_{2}$ at location $x_{3}$; (adjective:) $x_{1}$ is at night/nocturnal.</definition><notes >Tonight (= {cabycte}); tomorrow night (= {bavlamcte}, even when tonight is still in the future); last night (= {prulamcte}).  See also {donri}, {djedi}, {tcika}.</notes></valsi>
+<valsi word="nicygau" type="lujvo"><definition >$g_1$ (agent) tidies/cleans up/neatens/straightens $c_1$ in property/quantity $c_2$ (ka/ni).</definition><notes >Cf. {cnici}, {gasnu}, {ganzu}</notes></valsi>
+<valsi word="niengatu" type="fu'ivla"><definition >$x_1$ is Nheengatu/Tupi/Lingua Geral in aspect $x_2$.</definition><notes >see also {brazo}, {abniena}</notes></valsi>
+<valsi word="nikle" type="gismu"><rafsi >nik</rafsi><definition >$x_{1}$ is made of/contains/is a quantity of nickel/other metal resistant to oxidation.</definition><notes >See also {jinme}.</notes></valsi>
+<valsi word="nilbra" type="lujvo"><definition >$x_1$ is the size of $x_2$ in property/dimension $x_3$ on scale $x_4$.</definition></valsi>
+<valsi word="nilce" type="gismu"><rafsi >ni'e</rafsi><definition >$x_{1}$ [furniture items] furnishes $x_{2}$ [location] serving purpose/function $x_{3}$.</definition><notes >See also {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}.</notes></valsi>
+<valsi word="nilcla" type="lujvo"><definition >$n_1$ is the length of $c_1$ in dimension $c_2$ measured on scale $n_3=c_3$.</definition><notes >Cf. {cisni}, {clani}.</notes></valsi>
+<valsi word="nilgla" type="lujvo"><definition >$n_1$ is the temperature of $g_1$ measured on scale $n_2$.</definition><notes >Cf. {glare}, {lenku}, {kelvo}.</notes></valsi>
+<valsi word="nilji'a" type="lujvo"><definition >$n_1$ is a number of points / score / indication of an attempt to win a competition won by $j_1$ over opponent(s) $j_3$ in competition $j_4$, points measured on scale $n_2$.</definition><notes >n2 moved to the end due to apparent uselessness.  Made from {ni} and {jinga}.</notes></valsi>
+<valsi word="nilnalci'o" type="lujvo"><definition >$ni_1$ is the age [elapsed duration] of $c_1$ by standard $c_2$</definition></valsi>
+<valsi word="nilsutra" type="lujvo"><definition >$n_1$ is the speed / amount of fast-ness measured on scale $n_2$ of thing / agent $s_1$ in / at doing / being / bringing about $s_2$ (event / state).</definition><notes >Cf. {ni}, {sutra}, {kamsutra}.</notes></valsi>
+<valsi word="nilxa'ugri" type="lujvo"><definition >$n_1$ (number) is the population of inhabitant group $g_1$ in area $x_2$ measured on scale $n_2$.</definition><notes >Cf. {xabju}, {cecmu}, {tcadu}, {jarbu}, {nurma}.</notes></valsi>
+<valsi word="nim" type="cmene"><definition >Ms.</definition><notes >Cf. {ninmu}, {nix}, {nanl}, {naun}.</notes></valsi>
+<valsi word="nimbau" type="lujvo"><definition >$b_1$ is Láadan.</definition><notes >A constructed language by Suzette Haden Elgin</notes></valsi>
+<valsi word="nimfaia" type="fu'ivla"><definition >$x_1$ is a water-lily (Nymphaea) of species/strain $x_2$</definition></valsi>
+<valsi word="nimre" type="gismu"><definition >$x_{1}$ is a quantity of citrus [fruit/tree, etc.] of species/strain $x_{2}$.</definition><notes >See also {grute}, {slari}, {slami}, {xukmi}.</notes></valsi>
+<valsi word="nimrnlatifolia" type="fu'ivla"><definition >$x_1$ is a Persian lime [fruit/tree etc.] of cultivar $x_2$.</definition><notes >Member of species Citrus latifolia. Cf. {nimre}.</notes></valsi>
+<valsi word="nimrnlimone" type="fu'ivla"><definition >$x_1$ is a lemon [fruit/tree etc.] of cultivar $x_2$.</definition><notes >Member of species Citrus limon. Cf. {nimre}.</notes></valsi>
+<valsi word="nimrnxaurantifolia" type="fu'ivla"><definition >$x_1$ is a key lime [fruit/tree, etc.] of cultivar $x_2$.</definition><notes >Member of Citrus aurantifolia. Cf. {nimre}.</notes></valsi>
+<valsi word="nimryjdu" type="lujvo"><definition >$j_1$ is a quantity of citrus jelly made from $n_1$.</definition><notes >Cf. {nimre}, {jduli}.</notes></valsi>
+<valsi word="nincu'u" type="lujvo"><definition >$cu_1=cn_1$ is a new business involving persons $cu_2$</definition><notes >from {cnino} {cuntu} c.f. {nincu'upre}</notes></valsi>
+<valsi word="nincu'upre" type="lujvo"><definition >$p_1$ is an intrepreneur involved in business $cu_1=cn_1$</definition><notes >from {cnino} {cuntu} {prenu} c.f. {cu'upre} {nincu'u}</notes></valsi>
+<valsi word="ninga'igau" type="lujvo"><definition >$gas_1$ resets/changes $gal_1$ to a new value/content.</definition><notes >Cf. {cnino}, {galfi}, {gasnu}, {kraga'igau}.</notes></valsi>
+<valsi word="ninmu" type="gismu"><rafsi >nim</rafsi><rafsi >ni'u</rafsi><definition >$x_{1}$ is a woman/women; $x_{1}$ is a female humanoid person [not necessarily adult].</definition><notes >Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See also {nanmu}, {remna}, {prenu}, {makcu}, {nixli}.</notes></valsi>
+<valsi word="ninpre" type="lujvo"><definition >$c_1=p_1$ is a stranger to $c_2$ in aspect $c_3$ by standard $c_4$</definition><notes >since ninpre in the sense of "novice" seems to be deprecated in favor of nintadni, this seems to be a better definition.</notes></valsi>
+<valsi word="nintadni" type="lujvo"><definition >$c_2=t_1$ is a beginner in subject $c_1=t_2$ by standard $c_4$</definition></valsi>
+<valsi word="ninyna'adetri" type="lujvo"><definition >$d_1$ is New Year's Day of $d_2=n_1=c_1$ at location $d_3$ in calendar $d_4$.</definition><notes >Cf. {ninyna'anunsla}.</notes></valsi>
+<valsi word="ninyna'anunsla" type="lujvo"><definition >$nu_1$ is the celebration of the New Year as celebrated by $s_1$ at the beginning of year $na_1=c_1$ according to standard $na_3$; $nu_1$ is the New Year.</definition><notes >Cf. {ninyna'adetri}.</notes></valsi>
+<valsi word="nipmapku" type="lujvo"><definition >$m_1=s_1$ is a beanie hat of material $m_2$.</definition><notes >Cf. {mapku}.</notes></valsi>
+<valsi word="nipsri" type="lujvo"><definition >$d_1=s_1$ is an adhesive tape/cellotape/Scotch Tape/duct tape of material $d_2$, which sticks to $s_2$.</definition><notes >Cf. {bofsnipa}.</notes></valsi>
+<valsi word="nipypalku" type="lujvo"><definition >$p_1=s_1$ is a legging of material $p_2$.</definition><notes >Cf. {palku}.</notes></valsi>
+<valsi word="nircadyxu'i" type="lujvo"><definition >$xu_1$ is an instance of anesthetic blocking impulses from nerve group/system $n_1=c_1$ of $n_2$.</definition><notes >Cf. {nirna}, {xukmi}, {cortu}, {ganse}.</notes></valsi>
+<valsi word="nirna" type="gismu"><rafsi >nir</rafsi><definition >$x_{1}$ is a nerve/neuron [body-part] of $x_{2}$; [metaphor: information/control network connection].</definition><notes >Also (adjective:) $x_1$ is neural.  See also ve {benji}.</notes></valsi>
+<valsi word="nitcu" type="gismu"><rafsi >tcu</rafsi><definition >$x_{1}$ needs/requires/is dependent on/[wants] necessity $x_{2}$ for purpose/action/stage of process $x_{3}$.</definition><notes >No implication of lack.  See also {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica}, {taske}, {xagji}.</notes></valsi>
+<valsi word="nitkla" type="lujvo"><definition >$k_1$ descends/goes down to $k_2=c_1$ from $k_3=c_2$ via $k_4$ using means $k_5$.</definition><notes >Cf. {cnita}, {klama}.</notes></valsi>
+<valsi word="nitmau" type="lujvo"><definition >$z_1=c_1$ is lower than $z_2$ beneath $c_2$ in frame of reference $c_3$ by amount/excess $z_4$.</definition><notes >Cf. {cnita}, {zmadu}, {nitrai}.</notes></valsi>
+<valsi word="nitrai" type="lujvo"><definition >$t_1=c_1$ is the lowest among set/range $t_4$ beneath $c_2$ in frame of reference $c_3$.</definition><notes >Cf. {cnita}, {traji}, {nitmau}.</notes></valsi>
+<valsi word="nitsalpo" type="lujvo"><definition >$s_1$ dips at an angle of $s_2$ to reference frame $s_3$, to beneath $c_2$.</definition><notes >Cf. {cnita}, {salpo}, {sa'orgau}.</notes></valsi>
+<valsi word="nitytse" type="lujvo"><definition >$z_1$ sits on surface $z_2=c_1$ that is below $c_2$ in frame of refernce $c_3$.</definition><notes >Cf. {cnita}, {zutse}, {cfatse}.</notes></valsi>
+<valsi word="niutni" type="fu'ivla"><definition >$g_1$ is $g_2$ newton (s) of force (default is 1) by standard $g_3$.</definition><notes >Cf. {klanrniut,ni}, {ki'orgratretrefrinynidysnidu}.</notes></valsi>
+<valsi word="nivji" type="gismu"><rafsi >niv</rafsi><definition >$x_{1}$ (agent) knits $x_{2}$ [cloth/object] from yarn/thread $x_{3}$.</definition><notes >See also {cilta}, {fenso}, {jivbu}, {pijne}.</notes></valsi>
+<valsi word="nivycreka" type="lujvo"><definition >$c_1=n_2$ is a sweater of material $c_2=n_3$.</definition><notes >A knitted jacket or jersey, usually of thick wool. Cf. {creka}, {tafrkardiga}.</notes></valsi>
+<valsi word="nix" type="cmene"><definition >Miss</definition><notes >Cf. {nixli}, {nanl}, {naun}, {nim}.</notes></valsi>
+<valsi word="nixli" type="gismu"><rafsi >nix</rafsi><rafsi >xli</rafsi><definition >$x_{1}$ is a girl [young female person] of age $x_{2}$ immature by standard $x_{3}$.</definition><notes >Word dispreferred in metaphor/example as sexist; (use verba).  See also {nanla}, {verba}, {ninmu}.</notes></valsi>
+<valsi word="no" type="cmavo"><rafsi >non</rafsi><selmaho >PA1</selmaho><definition >digit/number: 0 (digit) [zero].</definition></valsi>
+<valsi word="no'a" type="cmavo"><selmaho >GOhA</selmaho><definition >pro-bridi: repeats the bridi in which this one is embedded.</definition></valsi>
+<valsi word="no'e" type="cmavo"><rafsi >nor</rafsi><rafsi >no'e</rafsi><selmaho >NAhE</selmaho><definition >midpoint scalar negator: neutral point between je'a and to'e; "not really".</definition></valsi>
+<valsi word="no'ebo" type="cmavo cluster"><selmaho >NAhE+BO </selmaho><definition >negation sumti qualifier: the neutral form/value of.</definition><notes >Cf. {no'e}, {bo}, {na'ebo}, {je'abo}, {to'ebo}. Midpoint between {je'abo} and {to'ebo}.</notes></valsi>
+<valsi word="no'i" type="cmavo"><selmaho >NIhO</selmaho><definition >discursive: paragraph break; resume previous topic.</definition></valsi>
+<valsi word="no'o" type="cmavo"><selmaho >PA5</selmaho><definition >digit/number: typical/average value.</definition></valsi>
+<valsi unofficial="true" word="no'oi" type="experimental cmavo"><selmaho >NOhOI</selmaho><definition >Selbri incidental relative clause; attaches to a selbri with the ke'a being "me'ei the attached selbri"</definition><notes >Cf. {me'ei}, {me'au}, {noi}, {po'oi}.</notes></valsi>
+<valsi word="no'u" type="cmavo"><selmaho >GOI</selmaho><definition >non-restrictive appositive phrase marker: which incidentally is the same thing as ...</definition></valsi>
+<valsi word="nobli" type="gismu"><rafsi >nol</rafsi><rafsi >no'i</rafsi><definition >$x_{1}$ is noble/aristocratic/elite/high-born/titled in/under culture/society/standard $x_{2}$.</definition><notes >Also upper-class; high/low, upper/lower are poor Lojban metaphors; note $x_2$ standard applies when the title/nobility is not recognized culture/society wide; this would include self-assumed titles.  See also {banli}.</notes></valsi>
+<valsi word="noda" type="cmavo cluster"><selmaho >KOhA*</selmaho><definition >logically quantified sumti: nothing at all (unless restricted).</definition></valsi>
+<valsi word="noi" type="cmavo"><selmaho >NOI</selmaho><definition >non-restrictive relative clause; attaches subordinate bridi with incidental information.</definition></valsi>
+<valsi word="noisku" type="lujvo"><definition >$c_1$ announces/proclaims $c_2$ (sedu'u/text/lu'e concept) for audience $c_3=n_4$ via expressive medium $c_4$.</definition><notes >Cf. {notci}, {cusku}.</notes></valsi>
+<valsi word="nol" type="cmene"><definition >Sir/Madam</definition><notes >Cf. {nobli}, {nilnim}, {nolnaum}.</notes></valsi>
+<valsi word="nolba'i" type="lujvo"><definition >$b_1=n_1$ is titled with high aristocratic/noble/elite status in/under culture/society $b_3=n_2$.</definition><notes >Cf. {nobli}, {banli}, {kamba'i}.  'Your Highness' or 'Your Majesty' is {doi nolba'i).</notes></valsi>
+<valsi word="nolboi" type="lujvo"><definition >$x_1$ is an orb made of  $b_2$ used by $n_1$.</definition><notes >Cf. {nobli}, {bolci}, {nolga'a}, {trumapku}.</notes></valsi>
+<valsi word="nolga'a" type="lujvo"><definition >$g_1$ is a sceptre made of $g_2$ used by $n_1$.</definition><notes >Cf. {nobli}, {grana}, {nolboi}, {ri'irga'a}, {trumapku}.</notes></valsi>
+<valsi word="noljedai" type="fu'ivla"><definition >$x_1$ is a Jedi of power / level / rank $x_2$</definition></valsi>
+<valsi word="nolkansa" type="lujvo"><definition >$k_1$ is a courtier to sovereign/aristocrat/noble $k_2$ in culture/country $n_2=k_3$.</definition><notes >Cf. {nobli}, {kansa}, {nolse'u}, {nolraitru}, {noltronau}, {noltruni'u}, {balnoltru}.</notes></valsi>
+<valsi word="nolmapku" type="lujvo"><definition >$m_1$ is a crown made of $m_2$.</definition><notes >Cf. {nobli}, {mapku}, {trumapku}, {nolboi}, {nolga'a}.</notes></valsi>
+<valsi word="nolmle" type="lujvo"><definition >$m_1=n_1$ is elegant to $m_2=n_2$.</definition><notes >Cf. {melbi}.</notes></valsi>
+<valsi word="nolnaum" type="cmene"><definition >Sir</definition><notes >Cf. {nobli}, {nanmu}, {nol}, {nolnim}.</notes></valsi>
+<valsi word="nolni'u" type="lujvo"><definition >$ni_1=no_1$ is a lady, considered noble in culture/society/standard $no_2$.</definition><notes >Cf. {nobli}.</notes></valsi>
+<valsi word="nolnim" type="cmene"><definition >Madam/Lady</definition><notes >Cf. {nobli}, {ninmu}, {nol}, {nolnaum}.</notes></valsi>
+<valsi word="nolraitru" type="lujvo"><definition >$t_1=n_1$ is a regent/monarch of $t_2$ by standard $n_2$.</definition><notes >Cf. {nobli}, {traji}, {turni}, {balnoltru}, {noltruni'u}, {noltrunau}, {noltroni'u}, {noltronau}, {nolse'u}, {nolkansa}, {gugja'a}, {truralju}.</notes></valsi>
+<valsi word="nolse'u" type="lujvo"><definition >$s_1$ is a servant of  sovereign/aristocrat/noble $s_2=n_1$ in culture/country $n_2$ with responsibilities $s_3$.</definition><notes >Cf. {nobli}, {selfu}, {nolkansa}, {nolraitru}, {balnoltru}.</notes></valsi>
+<valsi word="nolstizu" type="lujvo"><definition >$s_1$ is a throne/ceremonial chair used by noble/aristocratic/elite/high-born/titled in/under culture/society/standard $n_2$. </definition><notes >Cf. {nobli}, {stizu}, {trustizu}.</notes></valsi>
+<valsi word="noltronau" type="lujvo"><definition >$ni_1=j_1=no_1$ is a Duke/Baron/Count/Earl/Marquess/ [titled noble of middle rank] ruling $j_2$ under culture/standard $no_2$.</definition><notes >Cf. {nobli}, {jitro}, {nanmu}, {noltroni'u}, {noltruni'u}, {nolraitru}, {balnoltru}.</notes></valsi>
+<valsi word="noltroni'u" type="lujvo"><definition >$ni_1=j_1=no_1$ is a Duchess/Baroness/Countess/Marchioness/ [titled noble of middle rank] ruling $j_2$ under culture/standard $no_2$..</definition><notes >Cf. {nobli}, {jitro}, {ninmu}, {noltronau}, {noltruni'u}, {nolraitru}, {balnoltru}.</notes></valsi>
+<valsi word="noltrunau" type="lujvo"><definition >$x_1$ is the king of $x_2$ by standard $x_3$.</definition><notes >see also {noltruni'u}, {nolraitru}</notes></valsi>
+<valsi word="noltruni'u" type="lujvo"><definition >$x_1$ is the queen of $x_2$ by standard $x_3$.</definition><notes >see also {noltrunau}, {nolraitru}</notes></valsi>
+<valsi word="nolzda" type="lujvo"><definition >$z_1$ is a palace of/for noble person(s) $n_1=z_2$.</definition><notes >Cf. {badydi'u}.</notes></valsi>
+<valsi word="nolzgi" type="lujvo"><definition >$z_1=n_1$ the classical music performed at/by $z_2$ (event) originating in culture $n_1$.</definition><notes >Cf. {nobli}, {zgike}, {dzeklu}, {ronri'izgi}, {naizgi}, {sopselneizgi}, {dja'aza}, {te'ekno}.</notes></valsi>
+<valsi word="nomo'o" type="cmavo cluster"><selmaho >MAI*</selmaho><definition >discursive utterance ordinal: zeroth section/chapter ordinal; foreword.</definition></valsi>
+<valsi word="nonbaizu'e" type="lujvo"><definition >$x1=z1$ voluntarily does action $x2=z2=b2$ to achieve goal $x3=z3$</definition><notes >In the sense: Doing something, when refusing would have no repercussions. Unpaid action not implied.</notes></valsi>
+<valsi word="nondei" type="lujvo"><definition >$x_1$ is a Sunday of week $x_2$ in calendar $x_3$.</definition><notes >Sunday is either day seven or day zero, depending on your perspective.</notes></valsi>
+<valsi word="nonjdi" type="lujvo"><definition >$x_1$ is undecided/makes no decision about $x_2$.</definition><notes >See also {aicu'i}</notes></valsi>
+<valsi word="nonkansa" type="lujvo"><definition >$x_1$ is alone/lonely/lonesome in state/condition/enterprise $x_2$.</definition><notes >Cf. {kansa}, {seicni}.</notes></valsi>
+<valsi word="nonselcei" type="lujvo"><definition >$c_2$ disbelieves in god/deity $c_1$ with dominion over $c_3$; $c_2$ is an atheist.</definition><notes >Cf. {cevni}, {ceikri}, {nalceikri}, {selcei}, {pavyselcei}, {sorselcei}, {ceirsenpi}.</notes></valsi>
+<valsi word="nonseldi'a" type="lujvo"><definition >$x_1$ is available for free/without cost to $x_2$ from provider $x_3$.</definition></valsi>
+<valsi word="nonselji'u" type="lujvo"><definition >$x_1$ is invisible from point-of-view $x_2$.</definition></valsi>
+<valsi word="nonseljmi" type="lujvo"><definition >$j_2$ (du'u) is a mystery for $j_1$, the subject being $j_3$.</definition><notes >Cf. {jimpe}, {mipri}.</notes></valsi>
+<valsi word="nonselra'u" type="lujvo"><definition >$x1=r2$ is careless</definition></valsi>
+<valsi word="nonselsmu" type="lujvo"><definition >$x_1$ is nonsense/nonsensical to $x_2$.</definition><notes >See also {no} {smuni}</notes></valsi>
+<valsi word="nonselsumji" type="lujvo"><definition >$x_1$ is the additive inverse of $x_2$.</definition><notes >See also {va'a}</notes></valsi>
+<valsi word="noras" type="cmene"><definition >Nora LeChevalier (was Tansky)</definition><notes >Nora is one of the Original Lojbanists</notes></valsi>
+<valsi word="norbra" type="lujvo"><definition >$x1=b1$ is middle-sized in property $x2=b2$ by standard $x3=b3$</definition></valsi>
+<valsi word="norcpa" type="lujvo"><definition >$c_1$ neither gets $c_2$ from $c_3$ nor puts $c_2$ at $c_3$</definition><notes >see also {tolcpa}</notes></valsi>
+<valsi word="noreg" type="cmene"><definition >Norway.</definition></valsi>
+<valsi unofficial="true" word="norgo" type="experimental gismu"><definition >$x_1$ reflects Norwegian culture/nationality in aspect $x_2$</definition><notes >Experimental gismu.</notes></valsi>
+<valsi word="normano" type="fu'ivla"><definition >$x_1$ reflects Norman culture/nationality/language in aspect $x_2$.</definition></valsi>
+<valsi word="noroi" type="cmavo cluster"><selmaho >ROI*</selmaho><definition >tense interval modifier: never; objectively quantified tense; defaults as time tense.</definition></valsi>
+<valsi word="norpa'a" type="lujvo"><definition >$x_1$ is indifferent/neutral/apathetic about event $x_2$, expected likelihood $x_3$.</definition><notes >Cf. {no'e}, {pacna}, {tolpa'a}, {norzau}.</notes></valsi>
+<valsi word="norpa'i" type="lujvo"><definition >$x_1$ is indifferent/apathetic/dispassionate/uninvolved/unmoved towards/with/by $x_2$.</definition><notes >See also {iunai}</notes></valsi>
+<valsi word="norselci'i" type="lujvo"><definition >$x_1=c_2$ is disinterested in $x_2=c_1$.</definition><notes >Cf. {cinri}, {selci'i}, {nalselci'i}, {tolselci'i}, {a'ucu'i}.</notes></valsi>
+<valsi word="norvaismu" type="lujvo"><definition >$s_1=v_1$ is an interpretation of $s_2$ recognized by $s_3$ but judged unimportant by $v_2$.</definition><notes >{no'e}+{vajni}+{smuni}</notes></valsi>
+<valsi word="norvokovidru" type="fu'ivla"><definition >$x_{1}$ is a norovirus of species/breed/defining property $x_{2}$ capable of infecting [at] $x_{3}$.</definition><notes >From the city of Norwalk, Ohio, and {vidru}. The scientific name of the virus was first "Norwalk agent" and then shortened to "norovirus". See also {xilvidru}, {remjinkytoldu'evidru} and {vidru}.</notes></valsi>
+<valsi word="norzau" type="lujvo"><definition >$x_1$ is indifferent towards $x_2$.</definition><notes >Cf. {no'e}, {zanru}, {norpa'a}.</notes></valsi>
+<valsi word="notci" type="gismu"><rafsi >not</rafsi><rafsi >noi</rafsi><definition >$x_{1}$ is a message/notice/memorandum about subject $x_{2}$ from author $x_{3}$ to intended audience $x_{4}$.</definition><notes >Emphasis on brevity, single or identifiable subject (contrast with xatra: the emphasis in notci is on the single or cohesively focused subject, while the audience is less defined - indeed only an 'intended' audience.  xatra need not have a single or focussed subject - its corresponding place is for 'content'); reminder/memo/note (= {mojnoi}).  See also {xatra}, {nuzba}, {mrilu}, {morji}.</notes></valsi>
+<valsi word="notci'a" type="lujvo"><definition >$c_1$ notes down $c_2$ on display/storage medium $c_3$ with writing implement $c_4$.</definition><notes >Cf. {notci}, {ciska}, {selmojnoi}.</notes></valsi>
+<valsi word="notsku" type="lujvo"><definition >$c_1$ announces/proclaims $c_2$ (sedu'u/text/lu'e concept) for audience $c_3=n_4$ via expressive medium $c_4$.</definition><notes >Cf. {notci}, {cusku}.</notes></valsi>
+<valsi word="nu" type="cmavo"><rafsi >nun</rafsi><selmaho >NU</selmaho><definition >abstractor: generalized event abstractor; $x_{1}$ is state/process/achievement/activity of [bridi].</definition></valsi>
+<valsi word="nu'a" type="cmavo"><selmaho >NUhA</selmaho><definition >convert mathematical expression (mex) operator to a selbri/tanru component.</definition></valsi>
+<valsi word="nu'e" type="cmavo"><selmaho >COI</selmaho><definition >vocative: promise - promise release - un-promise.</definition></valsi>
+<valsi word="nu'ecu'i" type="cmavo cluster"><selmaho >COI*</selmaho><definition >vocative: promise - promise release - un-promise.</definition></valsi>
+<valsi word="nu'enai" type="cmavo cluster"><selmaho >COI*</selmaho><definition >vocative: promise - promise release - un-promise.</definition></valsi>
+<valsi word="nu'i" type="cmavo"><selmaho >NUhI</selmaho><definition >start forethought termset construct; marks start of place structure set with logical connection.</definition></valsi>
+<valsi word="nu'o" type="cmavo"><rafsi >nu'o</rafsi><selmaho >CAhA</selmaho><definition >modal aspect: can but has not; unrealized potential.</definition></valsi>
+<valsi word="nu'ogle" type="lujvo"><definition >$g_1$ is virgin/sexually inexperienced</definition></valsi>
+<valsi word="nu'ospe" type="lujvo"><definition >$x1$=$s1$ is single (never been married) by law/convention $x2$=$s3$</definition><notes >See also: {speni}, {spesti}, {mrospe}, {spenu'e}</notes></valsi>
+<valsi word="nu'u" type="cmavo"><selmaho >NUhU</selmaho><definition >elidable terminator: end forethought termset; usually elidable except with following sumti.</definition></valsi>
+<valsi word="nu,IORK" type="cmene"><definition >New York</definition></valsi>
+<valsi word="nukni" type="gismu"><rafsi >nuk</rafsi><definition >$x_{1}$ is magenta/fuchsia/purplish-red [color adjective].</definition><notes >See also {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {xunre}, {zirpu}.</notes></valsi>
+<valsi word="numtca" type="lujvo"><definition >$x1=n1=t1$ is a village/[rural town] of area $x2=n2=t2$, in political unit $x3=t3$, serving hinterland/region $x4=t4$</definition></valsi>
+<valsi word="nunbebna" type="lujvo"><definition >$n_1$ is an event of $b_1$ being foolish/silly/stupid in event/action /property (ka) $b_2$.</definition><notes >Cf. {nu}, {bebna}, {kambebna}.</notes></valsi>
+<valsi word="nuncasnu" type="lujvo"><definition >$n_1$ is a conversation involving $c_1$(s)  (mass normally, but 1 individual/jo'u possible) about topic/subject $c_2$.</definition><notes >Cf. {nu}, {casnu}.</notes></valsi>
+<valsi word="nuncatra" type="lujvo"><definition >$n_1$ is the killing by $c_1$ of $c_2$ by action/method $c_3$.</definition><notes >Cf. {nu}, {catra}.</notes></valsi>
+<valsi word="nunci'o" type="lujvo"><definition >$n_1$ is the youth of $c_1$.</definition><notes >Cf. {nu}, {citno}.</notes></valsi>
+<valsi word="nuncne" type="lujvo"><definition >$x_1=n_1$ is a change in property/quantity $x_2=c_2$ (ka/ni) of amount/degree $x_3=c_3$ under conditions $x_4=c_4$.</definition><notes >Cf. {nu}, {cenba}, {galfi}, {stika}.</notes></valsi>
+<valsi word="nuncnici" type="lujvo"><definition >$n_1$ is order (state of being well arranged) of $c_1$ with orderliness $c_2$.</definition><notes >Cf. {cnici}, {kalsa}, {ganzu}.</notes></valsi>
+<valsi word="nuncti" type="lujvo"><definition >$n_1$ is an event at which $c_1$ eat(s) $c_2$.</definition><notes >Cf. {nu}, {citka}, {sanmi}, {ctisla}, {balsai}.</notes></valsi>
+<valsi word="nunda'a" type="lujvo"><definition >$n_1$ is a fight/battle in which $d_1$ fights $d_2$ over issue $d_3$ (abstract).</definition><notes >Cf. {nu}, {damba}, {nundamba}, {terjvi}.</notes></valsi>
+<valsi word="nundamba" type="lujvo"><definition >$n_1$ is a fight/battle in which $d_1$ fights $d_2$ over issue $d_3$ (abstract).</definition><notes >Cf. {nu}, {damba}, {nunda'a}, {terjvi}.</notes></valsi>
+<valsi word="nundansu" type="lujvo"><definition >$n_1$ is a dance with dancer(s) $d_1$ (individual, mass) to music/rhythm $d_2$.</definition><notes >Cf. {dansu}, {seldansu}.</notes></valsi>
+<valsi word="nunde'a" type="lujvo"><definition >$n_1$ is a pause by $d_1$ for/until $d_2$ at state $d_3$ before starting/continuing $d_4$ (activity/process).</definition><notes >Cf. {nu}, {denpa}.</notes></valsi>
+<valsi word="nundenpa" type="lujvo"><definition >$n_1$ is a pause by $d_1$ for/until $d_2$ at state $d_3$ before starting/continuing $d_4$ (activity/process).</definition><notes >Cf. {nu}, {denpa}, {nunde'a}.</notes></valsi>
+<valsi word="nundunkrali" type="lujvo"><definition >$n_1$ is the equality of rights $k_1=d_3$ entitled to $k_2=d_1=d_2$.</definition></valsi>
+<valsi word="nunfirsku" type="lujvo"><definition >$n_1$ is a facial expression (countenance) of agent $f_2=c_1$ expressing $f_1=c_2$.</definition><notes >Cf. {flira}, {cusku}.</notes></valsi>
+<valsi word="nunflapai" type="lujvo"><definition >$n_1$ is a trial of dispute $j_2$ involving people $f_3$.</definition><notes >Cf. {nu}, {pajni}, {tavla}, {fapro}, {nunpai}, {flapaizda}. x3 includes not only the disputing parties but also the judge and juries, which may be connected with "jo'u". </notes></valsi>
+<valsi word="nunfusra" type="lujvo"><definition >$n_1$ is the decay/fermentation (recycling of matter/energy/electrons) of $f_1$ by chemical agent $f_2$.</definition></valsi>
+<valsi word="nungei" type="lujvo"><definition >$x1=n1$ is joy of $x2=g1$ from $x3=g2$</definition></valsi>
+<valsi word="nunjacycrepu" type="lujvo"><definition >$n_1$ is fishery (fish industry) of product $c_2$ (aquatic animals) from source/area $c_3=t_1$ (ocean/sea/coast/lake/river) by fishermen $c_1$.</definition><notes >x2 can be any harvestable aquatic animals, including mollusks and crustaceans. Cf. {crepu}.</notes></valsi>
+<valsi word="nunji'e" type="lujvo"><definition >$n_1$ is the life of $j_1$.</definition></valsi>
+<valsi word="nunjmaji" type="lujvo"><definition >$x_1$ is a gathering/meeting/assembly/conclave/conference/ congregation/congress/convention/encounter/get-together/reunion of participants $x_2$ at location $x_3$ from locations $x_4$.</definition><notes >Cf. {nu}, {jmaji}, {jdijmaji}, {nunpe'i} for a meeting between two parties.</notes></valsi>
+<valsi word="nunjo'e" type="lujvo"><definition >$n_1$ is an established connection between $j_1$ and $j_2$ at common locus $j_3$.</definition><notes >$n_1$ or $j_1$ may be a mass formed with "joi", as is the case in a computer network between a server and clients. Cf. {jorne}, {srana}.</notes></valsi>
+<valsi word="nunka'oku'i" type="lujvo"><definition >$n_1$ is a condition of $ku_1$ managing the health of $ka_1$.</definition><notes >Usually the prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by the medical, nursing, and allied health professions. x2 and x3 may the same or different. Cf. {kamnu'a}.</notes></valsi>
+<valsi word="nunkei" type="lujvo"><definition >$n_1$ is a game played by $k_1$ playing with plaything/toy $k_2$</definition><notes >Cf. {nu}, {kelci}, {terjvi}, {ci'erkei}.</notes></valsi>
+<valsi word="nunlerci" type="lujvo"><definition >$n_1$ is the lateness of $l_1$ (event) by standard $l_2$.</definition><notes >Cf. {nu}, {lerci}.</notes></valsi>
+<valsi word="nunmi'a" type="lujvo"><definition >$n_1$ is the laugh/laughter of/by $c_1$</definition><notes >from {nu} {cmila}</notes></valsi>
+<valsi word="nunmikce" type="lujvo"><definition >$n_1$ is medical, involving doctor/nurse $m_1$, patient $m_2$, ailment $m_3$, and treatment/cure $m_4$.</definition><notes >Cf. {mikce}, {kurji}, {sidju}.</notes></valsi>
+<valsi word="nunmro" type="lujvo"><definition >$n_1$ is the death (state of being dead) of $m_1$ (person).</definition></valsi>
+<valsi word="nunmu'i" type="lujvo"><definition >$n_1$ is the event of $m_1$ motivating action $m_2$ per volition $m_3$.</definition></valsi>
+<valsi word="nunpai" type="lujvo"><definition >$n_1$ is a trial/judgement/arbitration with judge/arbitrator/referee $p_1$ determining/deciding matter $p_2$.</definition><notes >Cf. {nu}, {pajni}, {nunflapai}, {flapaizda}.</notes></valsi>
+<valsi word="nunpe'i" type="lujvo"><definition >$x_1$ is a meeting between $x_2$ and $x_3$ at/in location $x_4$.</definition><notes >Cf. {nu}, {penmi}, {nunjmaji}, {jdijmaji}.</notes></valsi>
+<valsi word="nunpi'e" type="lujvo"><definition >$x1=n1$ is a jump of $x2=p1$ to $x3=p2$ from $x4=p3$ with height $x5=p4$</definition></valsi>
+<valsi word="nunseltickri" type="lujvo"><definition >$x_{1}$ is a believe-deceived with deceive-belief subject  $x_{2}$ with deception subject  $x_{3}$.</definition></valsi>
+<valsi word="nunsezyfanta" type="lujvo"><definition >$n_1$ is self-restraint shown by $f_1=s_2$ </definition><notes >from {nu} {sevzi} {fanta} c.f. {sezyfanta}</notes></valsi>
+<valsi word="nunsimbi'o" type="lujvo"><definition >$n_1$ is an event of integration between $s_1=b_1$</definition></valsi>
+<valsi word="nunsipna" type="lujvo"><definition >$x1=n1$ is a sleep/[an event of sleeping] of $x2=s1$</definition></valsi>
+<valsi word="nunskezu'e" type="lujvo"><definition >$n_1$ is engineering in branch $s_2$ based on methodology $s_3$</definition><notes >from {nu} {saske} {zukte}</notes></valsi>
+<valsi word="nunspe" type="lujvo"><definition >$n_1$ is the marriage of $s_1$ and $s_2$ according to tradition $s_3$.</definition></valsi>
+<valsi word="nuntoi" type="lujvo"><definition >$n_1$ is the effort of $t_1$ trying/attempting to do/attain $t_2$ (event/state/property) by actions/method $t_3$</definition><notes >from {nu} {troci}</notes></valsi>
+<valsi word="nuntumcrepu" type="lujvo"><definition >$n_1$ is agriculture of product $c_2$ from source/area $c_3=t_1$ by farmers $c_1$</definition><notes >cf. {tumla}, {crepu}, {cange}.</notes></valsi>
+<valsi word="nuntumdesku" type="lujvo"><definition >$n_1$ is an earthquake at location $t_2$.</definition><notes >Cf. {nu}, {tumla}, {desku}.</notes></valsi>
+<valsi word="nunxumsne" type="lujvo"><definition >$s_1$ is a trip/drug-induced hallucination about $s_2$ due to chemical substance $xu_2$ with purity $xu_3$.</definition><notes >Cf. {mrajymledi}, {ciksne}.</notes></valsi>
+<valsi word="nunzi'e" type="lujvo"><definition >$n_1$ is the freedom of $z_1$ doing $z_2$ under condition $z_3$.</definition><notes >Cf. {nu}, {zifre}, {kamyzi'e}, {selzi'e}, {zi'ejva}.</notes></valsi>
+<valsi word="nupre" type="gismu"><rafsi >nup</rafsi><rafsi >nu'e</rafsi><definition >$x_{1}$ (agent) promises/commits/assures/threatens $x_{2}$ (event/state) to $x_{3}$ [beneficiary/victim].</definition><notes >See also {kajde}, {xusra}.</notes></valsi>
+<valsi word="nurbe'i" type="lujvo"><definition >$b_1$ archives $s_1=b_2$ in medium $b_5$.</definition><notes >{snura} {benji}; see also {vreji}, {fukpi}, {citri}, {jmaji}, {sorcu}, {morji}</notes></valsi>
+<valsi word="nurfu'i" type="lujvo"><definition >$f_1$ is a backup / danger avoiding duplicate / copy of $f_2=s_1$ in form / medium $f_3$ made by method $f_4$ to protect / secure against event $s_2$ (generally destruction or loss).</definition><notes >Made from {snura} + {fukpi}.</notes></valsi>
+<valsi word="nurma" type="gismu"><rafsi >num</rafsi><definition >$x_{1}$ is a rural/rustic/pastoral area of $x_{2}$; $x_{1}$ is in the country.</definition><notes >See also {jarbu}, {rarna}, {tcadu}, {cange}.</notes></valsi>
+<valsi word="nurtoni" type="fu'ivla"><definition >$x_1$ is a neutron in quantum state $x_2$.</definition><notes >Cf. {lektoni}, {protoni}, {kuarka}, {xumsle}.</notes></valsi>
+<valsi word="nurxru" type="lujvo"><definition >$x_1$ saves/rescues/redeems/delivers $x_2$=$s_1$ from threat/peril $s_2$ </definition></valsi>
+<valsi word="nutli" type="gismu"><rafsi >nul</rafsi><rafsi >nu'i</rafsi><definition >$x_{1}$ is neutral/not taking sides/medial/not towards any extreme on scale/in dissension $x_{2}$.</definition><notes >Also $x_2$ dispute/struggle (though $x_2$ is not limited to disagreements, which is merely one manifestation of scalar or distributed values in which there is a medial position).  See also {midju}, {lanxe}, {milxe}, {mutce}, cmavo list {no'e}.</notes></valsi>
+<valsi word="nuzba" type="gismu"><rafsi >nuz</rafsi><definition >$x_{1}$ (du'u) is news/tidings/new information about subject $x_{2}$ from source $x_{3}$, to observer $x_{4}$.</definition><notes >See also {cnino}, {notci}.</notes></valsi>
+<valsi unofficial="true" word="nuzlo" type="experimental gismu"><definition >$x_1$ reflects New Zealand culture/nationality/geography/dialect in aspect $x_2$.</definition><notes >Cf. {glico}, {sralo}.</notes></valsi>
+<valsi word="nuznoi" type="lujvo"><definition >$no_1$ is a news/press release with news $nu_1$ about subject $nu_2=no_2$ issued by $no_3$ for audience $no_4$.</definition><notes >Cf. {nuzba}, {notci}.</notes></valsi>
+<valsi word="ny" type="cmavo"><selmaho >BY2</selmaho><definition >letteral for n.</definition></valsi></direction>

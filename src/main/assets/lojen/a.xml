@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><valsi word="a" type="cmavo"><selmaho >A</selmaho><definition >logical connective: sumti afterthought or.</definition></valsi>
+<valsi word="a'a" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: attentive - inattentive - avoiding.</definition><notes >See also {jundi}, {rivbi}.</notes></valsi>
+<valsi word="a'acu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: attentive - inattentive - avoiding.</definition></valsi>
+<valsi word="a'anai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: attentive - inattentive - avoiding.</definition></valsi>
+<valsi word="a'e" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: alertness - exhaustion.</definition><notes >See also {sanji}, {cikna}, {tatpi}.</notes></valsi>
+<valsi word="a'enai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: alertness - exhaustion.</definition></valsi>
+<valsi word="a'i" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: effort - no special effort - repose.</definition><notes >See also {gunka}, {slunandu}, {guksurla}, {troci}, {selprogunka}.</notes></valsi>
+<valsi word="a'icu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: effort - no special effort - repose.</definition></valsi>
+<valsi word="a'inai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: effort - no special effort - repose.</definition></valsi>
+<valsi word="a'o" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: hope - despair.</definition><notes >See also {pacna}.</notes></valsi>
+<valsi word="a'onai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: hope - despair.</definition></valsi>
+<valsi word="a'orne" type="fu'ivla"><definition >$x_1$ is maple of species/variety $x_2$.</definition><notes >syn. {ricrxacero}; see also {na'itsi}</notes></valsi>
+<valsi word="a'u" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: interest - disinterest - repulsion.</definition><notes >See also {cinri}, {selcni}.</notes></valsi>
+<valsi word="a'ucu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: interest - disinterest - repulsion.</definition></valsi>
+<valsi word="a'unai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: interest - disinterest - repulsion.</definition></valsi>
+<valsi word="abniena" type="fu'ivla"><definition >$x_1$ is Guaraní in aspect $x_2$.</definition><notes >see also {niengatu}</notes></valsi>
+<valsi word="abu" type="cmavo cluster"><selmaho >BY*</selmaho><definition >letteral for a.</definition></valsi>
+<valsi word="agbakate" type="fu'ivla"><definition >$x_1$ is an avocado (fruit or tree) of species/variety $x_2$.</definition></valsi>
+<valsi word="ai" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: intent - indecision - rejection/refusal.</definition><notes >See also {termu'i}, {terzu'e}, {seljdi}, {selcu'a}.</notes></valsi>
+<valsi word="aicu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: intent - indecision - rejection/refusal.</definition></valsi>
+<valsi word="aierne" type="fu'ivla"><definition >$x_1$ Armenian in aspect $x_2$</definition><notes >See also {kafkaso}, {kartuli}.</notes></valsi>
+<valsi word="ainai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: intent - indecision - rejection/refusal.</definition></valsi>
+<valsi word="aizdo" type="fu'ivla"><definition >$x_1$ is woad of species/variety $x_2$.</definition></valsi>
+<valsi word="akev" type="cmene"><definition >Jacob</definition><notes >From the original Hebrew עקב, /ʔɑ.qev/, where /q/ is approximated to /k/ in Lojban and where the glottal stop is simply removed.</notes></valsi>
+<valsi word="akmela" type="fu'ivla"><definition >$x_1$ is a toothache plant/spotflower/paracress of species/variety $x_2$.</definition></valsi>
+<valsi word="aksiptrina" type="fu'ivla"><definition >$x_1$ is a hawk of species/type $x_2$</definition><notes >Subfamily Acciptrinae</notes></valsi>
+<valsi word="alba'aka" type="fu'ivla"><definition >$x_1$ is basil of species/variety $x_2$.</definition><notes >syn. {spatrbasiliko}</notes></valsi>
+<valsi word="alfabeta" type="fu'ivla"><definition >$x_1$ is an alphabet used to write $x_2$.</definition><notes >see also {selyle'u}, {fu'arka}, {anbani}, {abgida}, {abjadu}, {snile'u}</notes></valsi>
+<valsi word="alminiu" type="fu'ivla"><definition >$x_1$ is a quantity of/contains/is made of aluminium.</definition><notes >Cf. {jinme}.</notes></valsi>
+<valsi word="altamru" type="fu'ivla"><definition >$x_1$ is a date (fruit or tree) of species/variety $x_2$.</definition></valsi>
+<valsi word="alzaitu" type="fu'ivla"><definition >$x_1$ is an olive of species/variety $x_2$.</definition></valsi>
+<valsi word="amgidala" type="fu'ivla"><definition >$x_1$ is an amygdala in organism $x_2$, with function $x_3$.</definition><notes >As a part of the limbic system ({menbenci'e}, {besrlimbo}), it performs a primary role in the processing and memory of emotional reactions. Cf. {besna}.</notes></valsi>
+<valsi word="amnio" type="fu'ivla"><definition >$x_1$ is the amnion of $x_2$</definition><notes >see also {amniota}</notes></valsi>
+<valsi word="amniota" type="fu'ivla"><definition >$x_1$ is an amniote of class/order/family $x_2$</definition><notes >see also {amnio}, {cipni}, {mabru}, {respa}</notes></valsi>
+<valsi word="ampigravle" type="fu'ivla"><definition >$x_1$ is celery.</definition><notes >Cf. {spatrxapio}, {stagi}, {spati}.</notes></valsi>
+<valsi word="amsake" type="fu'ivla"><definition >$x_1$ is made of/contains/is an amount of amazake from $x_2$</definition><notes >By komfo,amonan</notes></valsi>
+<valsi word="amtisti" type="fu'ivla"><definition >$x_1$ is a quantity of/contains/is made of amethyst from source $x_2$.</definition><notes >Cf. {jadni}, {jemna}, {krili}, {rokci}.</notes></valsi>
+<valsi word="amxari" type="fu'ivla"><definition >$x_1$ is Amharic in aspect $x_2$.</definition><notes >cf. {gurnrtefi}</notes></valsi>
+<valsi word="andiroba" type="fu'ivla"><definition >$x_1$ is carap of species/variety $x_2$.</definition></valsi>
+<valsi word="angeli" type="fu'ivla"><definition >$x_1$ is an angel.</definition></valsi>
+<valsi word="angila" type="fu'ivla"><definition >$x_1$ is an eel of species $x_2$.</definition><notes >syn. {sincykaifi'e}</notes></valsi>
+<valsi word="anji" type="fu'ivla"><definition >$x_1$ is a Chinese hanzi / Japanese kanji (logogram) with meaning $x_2$ and radical $x_3$.</definition><notes >Cf. {lerfu}.</notes></valsi>
+<valsi word="anmonia" type="fu'ivla"><definition >$x_1$ is a quantity of / contains / is made of ammonia.</definition><notes >Cf. {trano}.</notes></valsi>
+<valsi word="ansoptera" type="fu'ivla"><definition >$x_1$ is a dragonfly of species $x_2$.</definition><notes >Cf. {laxsfani}, {zgoptera}, {odnata}, {sfani}, {cinki}.</notes></valsi>
+<valsi word="antilope" type="fu'ivla"><definition >$x_1$ is an antelope of species $x_2$.</definition><notes >Cf. {bajbakni}, {mirli}, {dorkada}.</notes></valsi>
+<valsi word="arce" type="fu'ivla"><definition >$x_1$ is a maple (Acer) of species/variety $x_2$</definition><notes >The genus from the Linnaean name is "Acer".</notes></valsi>
+<valsi word="arktik" type="cmene"><definition >Arctic Ocean.</definition></valsi>
+<valsi word="armoraki" type="fu'ivla"><definition >$x_1$ is horseradish of variety $x_2$.</definition><notes >Cf. {cpinytsapi}, {kobli}, {stagnrafanu}, {snapisa}.</notes></valsi>
+<valsi word="arnika" type="fu'ivla"><definition >$x_1$ is a quantity of arnica/wolfsbane of species/strain $x_2$</definition></valsi>
+<valsi word="arxokuna" type="fu'ivla"><definition >$x_1$ is a raccoon of species $x_2$</definition><notes >syn. {prokioni}, {lumge'u}</notes></valsi>
+<valsi word="asycy'i'is" type="cmene"><definition >ASCII.</definition></valsi>
+<valsi word="atinas" type="cmene"><definition >Athens</definition></valsi>
+<valsi word="atkuila" type="fu'ivla"><definition >$x_1$ is an eagle of species/breed $x_2$.</definition><notes >Cf. {cipni}.</notes></valsi>
+<valsi word="au" type="cmavo"><selmaho >UI1</selmaho><definition >attitudinal: desire - indifference - reluctance.</definition><notes >See also {djica}.</notes></valsi>
+<valsi word="aucu'i" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: desire - indifference - reluctance.</definition></valsi>
+<valsi word="aufklerunge" type="fu'ivla"><definition >$x_1$ (process/concept) is enlightenment in the sense of philosophy $x_2$</definition></valsi>
+<valsi word="aunai" type="cmavo cluster"><selmaho >UI*1</selmaho><definition >attitudinal: desire - indifference - reluctance.</definition></valsi>
+<valsi word="auskalerik" type="cmene"><definition >Basque country.</definition></valsi>
+<valsi word="avgusto" type="fu'ivla"><definition >$x_1$ is August in year $x_2$ on calendar $x_3$</definition></valsi>
+<valsi word="axlte" type="fu'ivla"><definition >$x_1$ is an axolotl of species/breed $x_2$</definition></valsi></direction>

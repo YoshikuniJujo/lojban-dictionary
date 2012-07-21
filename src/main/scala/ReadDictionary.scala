@@ -1,7 +1,6 @@
 package iocikun.juj.lojban.dictionary
 
-import _root_.java.io.BufferedReader
-import _root_.java.io.InputStreamReader
+import _root_.java.io.{BufferedReader, InputStreamReader, FileNotFoundException}
 import _root_.scala.xml.{XML, Node}
 
 import _root_.android.content.res.AssetManager
@@ -23,10 +22,24 @@ class ReadDictionary(asset: AssetManager) {
 	while ({line = cmavo.readLine(); line != null}) { clist ::= line }
 
 	lazy val englishFile = new BufferedReader(new InputStreamReader(
-		asset.open("lojban_en.xml") , "UTF-8"))
+		asset.open("lojen/rest.xml") , "UTF-8"))
 	lazy val englishXml = XML.load(englishFile)
 
 	def getEn(loj: String): Node = {
+
+		try {
+			lazy val file = new BufferedReader(new InputStreamReader(
+				asset.open("lojen/" + loj.substring(0, 1) + ".xml"),
+					"UTF-8"))
+			lazy val xml = XML.load(file)
+
+			for (valsi <- xml \ "valsi") {
+				if ((valsi \ "@word").toString == loj) return valsi
+			}
+		} catch {
+			case ex: FileNotFoundException =>
+		}
+
 		for (dir <- englishXml \ "direction") {
 			if ((dir \ "@from").toString == "lojban" &&
 				(dir \ "@to").toString == "English")
