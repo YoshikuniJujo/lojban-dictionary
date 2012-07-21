@@ -43,12 +43,12 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 	def clickFun() {
 		var str = editText.getText.toString()
-		textView.setText(readDic.lojToEn(str))
+		textView.setText(readDic.lojToEn2(str))
 	}
 
 	def enlojFun() {
 		var str = editText.getText.toString()
-		textView.setText(readDic.enToLoj(str))
+		textView.setText(readDic.enToLoj2(str))
 	}
 
 	def rafsiFun() {
