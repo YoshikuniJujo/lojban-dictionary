@@ -25,6 +25,10 @@ class ReadDictionary(asset: AssetManager) {
 		asset.open("lojen/rest.xml") , "UTF-8"))
 	lazy val englishXml = XML.load(englishFile)
 
+	lazy val enlojFile = new BufferedReader(new InputStreamReader(
+		asset.open("enloj/rest.xml"), "UTF-8"))
+	lazy val enlojXml = XML.load(enlojFile)
+
 	def getEn(loj: String): Node = {
 
 		try {
@@ -40,25 +44,29 @@ class ReadDictionary(asset: AssetManager) {
 			case ex: FileNotFoundException =>
 		}
 
-		for (dir <- englishXml \ "direction") {
-			if ((dir \ "@from").toString == "lojban" &&
-				(dir \ "@to").toString == "English")
-				for (valsi <- dir \ "valsi") {
-					if ((valsi \ "@word").toString == loj)
-						return valsi
-				}
+		for (valsi <- englishXml \ "valsi") {
+			if ((valsi \ "@word").toString == loj) return valsi
 		}
 		return null
 	}
 
 	def getLoj(en: String): Node = {
-		for (dir <- englishXml \ "direction") {
-			if ((dir \ "@from").toString == "English" &&
-				(dir \ "@to").toString == "lojban")
-				for (nlword <- dir \ "nlword") {
-					if ((nlword \ "@word").toString == en)
-						return nlword
-				}
+
+		try {
+			lazy val file = new BufferedReader(new InputStreamReader(
+				asset.open("enloj/" + en.substring(0, 1) + ".xml"),
+					"UTF-8"))
+			lazy val xml = XML.load(file)
+
+			for (nlword <- xml \ "nlword") {
+				if ((nlword \ "@word").toString == en) return nlword
+			}
+		} catch {
+			case ex: FileNotFoundException =>
+		}
+
+		for (nlword <- enlojXml \ "nlword") {
+			if ((nlword \ "@word").toString == en) return nlword
 		}
 		return null
 	}

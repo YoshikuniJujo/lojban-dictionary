@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><nlword word="basil" valsi="alba'aka"></nlword>
+<nlword word="bitch" sense="whine" valsi="ba'urdu'u"></nlword>
+<nlword word="bridge to the beyond" valsi="bacycripu"></nlword>
+<nlword word="bulwark" valsi="badbi'u"></nlword>
+<nlword word="banana" valsi="badna"></nlword>
+<nlword word="bow" sense="weapon" valsi="bagyce'a"></nlword>
+<nlword word="bundle" valsi="bakfu"></nlword>
+<nlword word="bovine" valsi="bakni"></nlword>
+<nlword word="beef" sense="bovine meat" valsi="bakre'u"></nlword>
+<nlword word="beefsteak" valsi="bakrecpa'o"></nlword>
+<nlword word="blackboard" sense="chalkboard" valsi="bakryta'o"></nlword>
+<nlword word="bucket" valsi="baktu"></nlword>
+<nlword word="bucketfull" valsi="baktydekpu"></nlword>
+<nlword word="bucketful" valsi="baktylai"></nlword>
+<nlword word="blueberry" valsi="bakyjba"></nlword>
+<nlword word="bulb" valsi="balji"></nlword>
+<nlword word="balcony" valsi="balni"></nlword>
+<nlword word="blade" valsi="balre"></nlword>
+<nlword word="banquet" sense="elaborate formal dinner" valsi="balsai" place="1"></nlword>
+<nlword word="bamboo" valsi="bamju"></nlword>
+<nlword word="bomber" sense="aircraft" valsi="bamvinji"></nlword>
+<nlword word="bank" valsi="banxa"></nlword>
+<nlword word="bribe" sense="pay for favor" valsi="baple'i"></nlword>
+<nlword word="baksheesh" sense="bribe" valsi="baple'i"></nlword>
+<nlword word="big" valsi="barda"></nlword>
+<nlword word="bar" sense="place" valsi="barja"></nlword>
+<nlword word="bar manager" valsi="barjyja'a"></nlword>
+<nlword word="barkeeper" valsi="barjyse'u"></nlword>
+<nlword word="bartender" valsi="barjyse'u"></nlword>
+<nlword word="barman" valsi="barjyse'u"></nlword>
+<nlword word="barkeep" valsi="barjyse'u"></nlword>
+<nlword word="bespectacled" valsi="barkalyle'o" place="3"></nlword>
+<nlword word="bite" valsi="batci"></nlword>
+<nlword word="bite apart" valsi="batfendi"></nlword>
+<nlword word="button" valsi="batke"></nlword>
+<nlword word="buttonhole" valsi="batkyke'a"></nlword>
+<nlword word="barley" valsi="bavmi"></nlword>
+<nlword word="betrothed" valsi="bavyspe"></nlword>
+<nlword word="bespoken" valsi="bavyspe"></nlword>
+<nlword word="bride-to-be" valsi="bavyspe"></nlword>
+<nlword word="belly shirt" valsi="befcaucreka"></nlword>
+<nlword word="bellyache" valsi="befcro"></nlword>
+<nlword word="burp" sense="release gas" valsi="befkafke"></nlword>
+<nlword word="belly button" valsi="befsfeke'a"></nlword>
+<nlword word="belt" valsi="befsri"></nlword>
+<nlword word="brain-dead" valsi="benmro"></nlword>
+<nlword word="braincase" valsi="benvau"></nlword>
+<nlword word="bergamot" sense="citrus fruit" valsi="bergamia"></nlword>
+<nlword word="bergamot orange" valsi="bergamia"></nlword>
+<nlword word="brain" valsi="besna"></nlword>
+<nlword word="bead" valsi="bidju"></nlword>
+<nlword word="blow" sense="propel by an air current" valsi="bifca'e"></nlword>
+<nlword word="bee" valsi="bifce"></nlword>
+<nlword word="blower" sense="for blowing gas" valsi="bifpra"></nlword>
+<nlword word="become" valsi="binxo"></nlword>
+<nlword word="brachiate" valsi="birdadykla"></nlword>
+<nlword word="bracelet" sense="jewelry" valsi="birja'i" place="1"></nlword>
+<nlword word="beer" valsi="birje"></nlword>
+<nlword word="byte" valsi="bivjetka'u"></nlword>
+<nlword word="blue" valsi="blanu"></nlword>
+<nlword word="blue-green" valsi="blari'o"></nlword>
+<nlword word="block" valsi="bliku"></nlword>
+<nlword word="boom" sense="for supporting sail" valsi="blopinfanga'a"></nlword>
+<nlword word="boat pilot" valsi="blosazri"></nlword>
+<nlword word="boat" valsi="bloti"></nlword>
+<nlword word="bleed" valsi="blucri"></nlword>
+<nlword word="blood flow" valsi="blufle"></nlword>
+<nlword word="blood drinker" sense="not nesc. monster" valsi="blupinxe"></nlword>
+<nlword word="blood vessel" valsi="blutu'u"></nlword>
+<nlword word="bandage" sense="adhesive" valsi="bofsnipa"></nlword>
+<nlword word="band-aid" valsi="bofsnipa"></nlword>
+<nlword word="ball-shaped gem" valsi="boijme"></nlword>
+<nlword word="ball" valsi="bolci"></nlword>
+<nlword word="ball game tournament" valsi="bolgrijvi"></nlword>
+<nlword word="bowling" valsi="bolgu'o"></nlword>
+<nlword word="bocce" valsi="bolgu'o"></nlword>
+<nlword word="bowls" sense="game" valsi="bolgu'o"></nlword>
+<nlword word="boules" valsi="bolgu'o"></nlword>
+<nlword word="bone" valsi="bongu"></nlword>
+<nlword word="bottleful" valsi="botlai"></nlword>
+<nlword word="bottle" valsi="botpi"></nlword>
+<nlword word="become big" valsi="brabi'o"></nlword>
+<nlword word="big ship" valsi="brablo"></nlword>
+<nlword word="battleship" valsi="brabrajamblo"></nlword>
+<nlword word="battle cruiser" valsi="brabrajamblo"></nlword>
+<nlword word="bigger" sense="by the standard og bigness" valsi="bramau"></nlword>
+<nlword word="big pot" valsi="brapatxu"></nlword>
+<nlword word="biggest" sense="by the standard of bigness" valsi="brarai"></nlword>
+<nlword word="boulder" valsi="braro'i"></nlword>
+<nlword word="breeze" valsi="brife"></nlword>
+<nlword word="bridi-tail" valsi="brirebla"></nlword>
+<nlword word="bromeliad" valsi="bromeli"></nlword>
+<nlword word="brush" sense="clean with brush" valsi="brulu'i"></nlword>
+<nlword word="brother" valsi="bruna"></nlword>
+<nlword word="brown" valsi="bunre"></nlword>
+<nlword word="brother's spouse" valsi="bunspe"></nlword>
+<nlword word="brush" sense="tool using bristles" valsi="burcu"></nlword>
+<nlword word="brown bread" valsi="burnanba"></nlword>
+<nlword word="b" valsi="by"></nlword>
+<nlword word="barrow" sense="wheelbarrow" valsi="ca'ercarce"></nlword>
+<nlword word="by authority of" valsi="ca'i"></nlword>
+<nlword word="barn" valsi="cagdaidi'u" place="1"></nlword>
+<nlword word="blinding" valsi="caivru"></nlword>
+<nlword word="barter" sense="mutually" valsi="cajysi'u"></nlword>
+<nlword word="beetle" valsi="cakcinki"></nlword>
+<nlword word="believed god" valsi="ceikri" place="2"></nlword>
+<nlword word="bullet" sense="projectile fired by a gun" valsi="celxa'i" place="4"></nlword>
+<nlword word="breakfast" sense="meal" valsi="cersai" place="1"></nlword>
+<nlword word="breakfast food" valsi="cersai" place="2"></nlword>
+<nlword word="bless" valsi="cesri'a"></nlword>
+<nlword word="bible" sense="religious book" valsi="cesycku"></nlword>
+<nlword word="blood" valsi="ciblu"></nlword>
+<nlword word="baby" sense="infant" valsi="cifnu"></nlword>
+<nlword word="bud" sense="flower" valsi="cifxrula"></nlword>
+<nlword word="black hole" valsi="cimnyterjunta" place="1"></nlword>
+<nlword word="become thinner" valsi="cinlyze'a"></nlword>
+<nlword word="bird" valsi="cipni"></nlword>
+<nlword word="buzzard" valsi="cipnrbuteo"></nlword>
+<nlword word="bedcloth" valsi="ckabu'u"></nlword>
+<nlword word="bedbug" valsi="ckacivla"></nlword>
+<nlword word="bed sheet" valsi="ckagai"></nlword>
+<nlword word="bedroom" valsi="ckaku'a"></nlword>
+<nlword word="bed" valsi="ckana"></nlword>
+<nlword word="bookshelf" valsi="ckukajna" place="2"></nlword>
+<nlword word="book chapter" valsi="ckupau"></nlword>
+<nlword word="book section" valsi="ckupaupau"></nlword>
+<nlword word="book collection" valsi="ckusro"></nlword>
+<nlword word="bookshop" valsi="ckuzai"></nlword>
+<nlword word="bookstore" valsi="ckuzai"></nlword>
+<nlword word="become small" valsi="cmabi'o"></nlword>
+<nlword word="booklet" valsi="cmacku"></nlword>
+<nlword word="brochure" valsi="cmacku"></nlword>
+<nlword word="bigger" sense="by the standard of smallness" valsi="cmame'a"></nlword>
+<nlword word="biscuit" sense="bakery article (American English)" valsi="cmananba"></nlword>
+<nlword word="bun" sense="bakery article" valsi="cmananba"></nlword>
+<nlword word="belong to" sense="be a member of" valsi="cmima"></nlword>
+<nlword word="beneath" valsi="cnita"></nlword>
+<nlword word="begins to express" valsi="co'asku"></nlword>
+<nlword word="bird's nest" valsi="cpizda"></nlword>
+<nlword word="bear" valsi="cribe"></nlword>
+<nlword word="bridge" valsi="cripu"></nlword>
+<nlword word="bowl" sense="deep container for food" valsi="ctikabri"></nlword>
+<nlword word="banquet" valsi="ctisla"></nlword>
+<nlword word="businessman" valsi="cu'upre"></nlword>
+<nlword word="barefoot" valsi="cucycau"></nlword>
+<nlword word="book" valsi="cukta"></nlword>
+<nlword word="beg" sense="implore" valsi="culcpe"></nlword>
+<nlword word="beseech" valsi="culcpe"></nlword>
+<nlword word="bump into" sense="meet by chance" valsi="cunpe'i"></nlword>
+<nlword word="breastbone" valsi="cutybo'u"></nlword>
+<nlword word="back" sense="body-part" valsi="cutyti'e"></nlword>
+<nlword word="bacteriology" valsi="cuvjumske"></nlword>
+<nlword word="but" sense="except" valsi="da'a"></nlword>
+<nlword word="bag" sense="sack" valsi="dakli"></nlword>
+<nlword word="ballistics" valsi="danske"></nlword>
+<nlword word="ball" sense="party" valsi="dansycu'u"></nlword>
+<nlword word="bolder" sense="becoming" valsi="darsyze'a"></nlword>
+<nlword word="becomes bolder" valsi="darsyze'a"></nlword>
+<nlword word="becomes more audacious" valsi="darsyze'a"></nlword>
+<nlword word="bill" sense="invoice" valsi="dejnoi"></nlword>
+<nlword word="bet" sense="wager" valsi="dejru'a"></nlword>
+<nlword word="bean" valsi="dembi"></nlword>
+<nlword word="bush" valsi="demspa"></nlword>
+<nlword word="brush teeth" valsi="denjisygau"></nlword>
+<nlword word="break room" valsi="depkumfa"></nlword>
+<nlword word="buried" valsi="derse'a" place="2"></nlword>
+<nlword word="burial ground" valsi="derse'a" place="3"></nlword>
+<nlword word="bury" valsi="derse'a" place="1"></nlword>
+<nlword word="book" sense="plan time and date for event" valsi="detytcikygau"></nlword>
+<nlword word="bless" sense="vocative" valsi="di'ai"></nlword>
+<nlword word="battery" valsi="dicysro"></nlword>
+<nlword word="borrower" valsi="dinjbera" place="1"></nlword>
+<nlword word="building" valsi="dinju"></nlword>
+<nlword word="bridi abstract" valsi="du'u"></nlword>
+<nlword word="bass" sense="musical instrument" valsi="dzitogytci"></nlword>
+<nlword word="burn" sense="to ash" valsi="fagyfesti" place="3"></nlword>
+<nlword word="block" sense="prevent from happening" valsi="fanta"></nlword>
+<nlword word="beyond" sense="location event contour" valsi="fe'eba'o"></nlword>
+<nlword word="boil" sense="to boil something" valsi="febgau"></nlword>
+<nlword word="boil" sense="cooking method" valsi="febjukpa"></nlword>
+<nlword word="boiled" sense="food" valsi="febjukpa" place="2"></nlword>
+<nlword word="boil" valsi="febvi"></nlword>
+<nlword word="bachelorette" valsi="fetnalspe"></nlword>
+<nlword word="baffle" valsi="fi'urgau"></nlword>
+<nlword word="bewilder" valsi="fi'urgau"></nlword>
+<nlword word="becomes different " valsi="ficybi'o"></nlword>
+<nlword word="bounce" sense="check, e-mail" valsi="flixru"></nlword>
+<nlword word="bubble" valsi="fomsle"></nlword>
+<nlword word="blackberry" valsi="frambesi"></nlword>
+<nlword word="bramble" valsi="frambesi"></nlword>
+<nlword word="buckthorn" valsi="frangula"></nlword>
+<nlword word="bandersnatch" valsi="frufengalu"></nlword>
+<nlword word="blamer" valsi="fu'esku" place="1"></nlword>
+<nlword word="borrowed word" valsi="fu'ivla"></nlword>
+<nlword word="board of trustees" valsi="fuzraikamni"></nlword>
+<nlword word="board" sense="of directors or trustees" valsi="fuzraikamni"></nlword>
+<nlword word="baseball" valsi="ga'arboijvi"></nlword>
+<nlword word="baseball player" valsi="ga'arboijvi" place="1"></nlword>
+<nlword word="baseball game" valsi="ga'arboiterjvi" place="1"></nlword>
+<nlword word="broad" valsi="ganra"></nlword>
+<nlword word="broadens" sense="becomes broader" valsi="ganze'a"></nlword>
+<nlword word="bar" sense="tool" valsi="garna"></nlword>
+<nlword word="bring about" valsi="gasnu"></nlword>
+<nlword word="blissful" valsi="gekpanpi"></nlword>
+<nlword word="bark" sense="dog utterance" valsi="gercmo"></nlword>
+<nlword word="breed" sense="of dog" valsi="gerku" place="2"></nlword>
+<nlword word="bitch" sense="female dog" valsi="gerku"></nlword>
+<nlword word="bridi or" valsi="gi'a"></nlword>
+<nlword word="bridi and" valsi="gi'e"></nlword>
+<nlword word="bridi but not" valsi="gi'enai"></nlword>
+<nlword word="bridi conn ?" valsi="gi'i"></nlword>
+<nlword word="bridi iff" valsi="gi'o"></nlword>
+<nlword word="bridi xor" valsi="gi'onai"></nlword>
+<nlword word="bridi whether" valsi="gi'u"></nlword>
+<nlword word="breach" sense="passage" valsi="greke'a"></nlword>
+<nlword word="beam" sense="line of light" valsi="gusli'i"></nlword>
+<nlword word="bright" sense="light-reflective" valsi="gusminra"></nlword>
+<nlword word="brighten" sense="become lighter" valsi="gusybi'o"></nlword>
+<nlword word="blame" valsi="i'anai"></nlword>
+<nlword word="belief" valsi="ia"></nlword>
+<nlword word="bridi affirmer" valsi="ja'a"></nlword>
+<nlword word="barely" sense="almost not at all" valsi="ja'aru'e"></nlword>
+<nlword word="by rule" valsi="ja'i"></nlword>
+<nlword word="beak" sense="body part" valsi="ja'urxe'a" place="1"></nlword>
+<nlword word="brake" valsi="jabre"></nlword>
+<nlword word="brooch" valsi="jadypijne"></nlword>
+<nlword word="bell" valsi="janbe"></nlword>
+<nlword word="boob tube" valsi="jancaucreka"></nlword>
+<nlword word="bazooka" sense="weapon" valsi="janjaknyxa'i"></nlword>
+<nlword word="bomb" valsi="jbama"></nlword>
+<nlword word="berry" valsi="jbari"></nlword>
+<nlword word="birthday" sense="anniversary" valsi="jbedetnunsla"></nlword>
+<nlword word="born" valsi="jbena"></nlword>
+<nlword word="borrow" valsi="jbera"></nlword>
+<nlword word="bring close" valsi="jbigau"></nlword>
+<nlword word="between" valsi="jbini"></nlword>
+<nlword word="boa" valsi="jboia"></nlword>
+<nlword word="bonobo" valsi="jbonobo"></nlword>
+<nlword word="book religion" valsi="jdacku" place="4"></nlword>
+<nlword word="bishop" valsi="jdatro"></nlword>
+<nlword word="blasphemy" valsi="jdazei"></nlword>
+<nlword word="blasphemous" valsi="jdazei"></nlword>
+<nlword word="burn" valsi="jelca"></nlword>
+<nlword word="burn" sense="cause to burn" valsi="jelgau"></nlword>
+<nlword word="burn down" sense="destroy by fire" valsi="jelspo"></nlword>
+<nlword word="brigade" sense="army unit" valsi="jempausle"></nlword>
+<nlword word="base" sense="permanent structure for housing a military" valsi="jemyzda"></nlword>
+<nlword word="barbed wire" valsi="jesycilta" place="1"></nlword>
+<nlword word="barb wire" valsi="jesycilta"></nlword>
+<nlword word="bit [binary digit; computer unit]" valsi="jetka'u"></nlword>
+<nlword word="boast" sense="say something in an excessively proud way" valsi="jgidu'esku"></nlword>
+<nlword word="brag" sense="say something in an excessively proud way" valsi="jgidu'esku"></nlword>
+<nlword word="besides" valsi="ji'a"></nlword>
+<nlword word="beat" sense="defeat" valsi="ji'apro"></nlword>
+<nlword word="based on" valsi="ji'u"></nlword>
+<nlword word="basic" sense="foundational" valsi="jicmu"></nlword>
+<nlword word="basis" valsi="jicmu"></nlword>
+<nlword word="branch" valsi="jimca"></nlword>
+<nlword word="bagel" valsi="jinynanba"></nlword>
+<nlword word="bublik" valsi="jinynanba"></nlword>
+<nlword word="bathe" valsi="jirlu'i"></nlword>
+<nlword word="big toe nail" valsi="jmatajycalku"></nlword>
+<nlword word="bind" sense="agentive" valsi="jongau"></nlword>
+<nlword word="block" sense="prevent from passing" valsi="julne"></nlword>
+<nlword word="baked good" valsi="jupypesxu"></nlword>
+<nlword word="baked-good" valsi="jupypesxu"></nlword>
+<nlword word="bacteria" valsi="jurme"></nlword>
+<nlword word="bacterium" valsi="jurme"></nlword>
+<nlword word="bulldozer" valsi="kakpyca'a"></nlword>
+<nlword word="blinks" sense="open and close ones eye(s)" valsi="kalgaisligau"></nlword>
+<nlword word="backbone" sense="set of bones" valsi="kamjybo'u"></nlword>
+<nlword word="body mass index" valsi="ketlete" place="2"></nlword>
+<nlword word="burrow" sense="cave" valsi="kevzda"></nlword>
+<nlword word="because of reason" valsi="ki'u"></nlword>
+<nlword word="browser" sense="software application" valsi="kibyca'o"></nlword>
+<nlword word="blog" sense="internet term" valsi="kibykarni" place="1"></nlword>
+<nlword word="brick" sense="building material" valsi="kitybli"></nlword>
+<nlword word="blackseed" valsi="klaunji"></nlword>
+<nlword word="bounded by" valsi="koi"></nlword>
+<nlword word="bent" valsi="korcu"></nlword>
+<nlword word="border control" valsi="korgretro" place="1"></nlword>
+<nlword word="border crosser" sense="customs" valsi="korgretro" place="2"></nlword>
+<nlword word="believer" valsi="krici" place="1"></nlword>
+<nlword word="believe" valsi="krici"></nlword>
+<nlword word="bend" sense="intransitive" valsi="krobi'o"></nlword>
+<nlword word="bow" sense="shape" valsi="krogarna"></nlword>
+<nlword word="bend" sense="causative" valsi="krori'a"></nlword>
+<nlword word="bow" sense="to greet or show respect" valsi="krorinsa"></nlword>
+<nlword word="bow" sense="take a bow" valsi="krosa'i"></nlword>
+<nlword word="but" sense="however" valsi="ku'i"></nlword>
+<nlword word="bitter" valsi="kurki"></nlword>
+<nlword word="basket" valsi="lanka"></nlword>
+<nlword word="balance" valsi="lanxe"></nlword>
+<nlword word="brass" valsi="lastu"></nlword>
+<nlword word="balance" sense="transitive" valsi="laxygau"></nlword>
+<nlword word="bribe" sense="payment" valsi="lejbai" place="2"></nlword>
+<nlword word="baptise" sense="pour liquid onto" valsi="likpu'i"></nlword>
+<nlword word="button-front shirt" valsi="litcreka"></nlword>
+<nlword word="button-down shirt" valsi="litcreka"></nlword>
+<nlword word="bouncer" valsi="livbai" place="1"></nlword>
+<nlword word="broom bristles" valsi="loibru" place="3"></nlword>
+<nlword word="broom" valsi="loibru" place="1"></nlword>
+<nlword word="brush" sense="broom" valsi="loibru"></nlword>
+<nlword word="broom use" valsi="loibru" place="2"></nlword>
+<nlword word="bottom" sense="ground" valsi="loldi"></nlword>
+<nlword word="buried" sense="underground" valsi="lolni'a"></nlword>
+<nlword word="bathroom" sense="A room in which one bathes or washes." valsi="lumku'a"></nlword>
+<nlword word="bath tub" valsi="lumpatxu"></nlword>
+<nlword word="bare" valsi="lunbe"></nlword>
+<nlword word="blouse" valsi="luzycreka"></nlword>
+<nlword word="black magic" valsi="malmakfa"></nlword>
+<nlword word="black widow" valsi="malminiata" place="1"></nlword>
+<nlword word="butter" valsi="matne"></nlword>
+<nlword word="buttercup" sense="flower" valsi="matnyxrula"></nlword>
+<nlword word="become fitting" valsi="matybi'o"></nlword>
+<nlword word="brow" valsi="mebri"></nlword>
+<nlword word="biggest" sense="by the standard of smallness" valsi="mecycmarai"></nlword>
+<nlword word="best" sense="by the standard of badness" valsi="mecyxlarai"></nlword>
+<nlword word="base" sense="numerical" valsi="mekna'u" place="3"></nlword>
+<nlword word="beautiful" valsi="melbi"></nlword>
+<nlword word="budgie" valsi="melpsita"></nlword>
+<nlword word="budgerigar" valsi="melpsita"></nlword>
+<nlword word="bright" sense="intelligent" valsi="mencre"></nlword>
+<nlword word="brainy" valsi="mencre"></nlword>
+<nlword word="brilliant" sense="intelligent" valsi="mencre"></nlword>
+<nlword word="bug" sense="insect" valsi="miptera"></nlword>
+<nlword word="bugger" sense="spy" valsi="miptinytci" place="2"></nlword>
+<nlword word="bug" sense="listening device" valsi="miptinytci" place="1"></nlword>
+<nlword word="backfriend" sense="secret enemy" valsi="mipypro"></nlword>
+<nlword word="biosphere" valsi="mivmu'e"></nlword>
+<nlword word="biology methodology" valsi="mivyske" place="2"></nlword>
+<nlword word="biology" valsi="mivyske" place="1"></nlword>
+<nlword word="biochemical" sense="chemical substance" valsi="mivyxu'i"></nlword>
+<nlword word="butt" sense="fish" valsi="mlafi'e"></nlword>
+<nlword word="belle" sense="most beautiful" valsi="mlerai"></nlword>
+<nlword word="biggish" valsi="mlibra"></nlword>
+<nlword word="bridi ?" valsi="mo"></nlword>
+<nlword word="bowed string instrument" valsi="mosyjgita"></nlword>
+<nlword word="because of motive" valsi="mu'i"></nlword>
+<nlword word="block of wood" valsi="mudbli"></nlword>
+<nlword word="bridi negator" valsi="na"></nlword>
+<nlword word="burrito" valsi="nabypalne"></nlword>
+<nlword word="baker" valsi="nabzba" place="1"></nlword>
+<nlword word="bake" sense="agentive" valsi="nabzba"></nlword>
+<nlword word="baked" valsi="nabzba" place="2"></nlword>
+<nlword word="bridi only if" valsi="nagi'a"></nlword>
+<nlword word="bull breed" sense="bovine variety" valsi="nakybakni" place="2"></nlword>
+<nlword word="bull" valsi="nakybakni" place="1"></nlword>
+<nlword word="bread" valsi="nanba"></nlword>
+<nlword word="boy" valsi="nanla"></nlword>
+<nlword word="beheaded" valsi="nebyka'a" place="2"></nlword>
+<nlword word="bittern" valsi="nebyplovoicpi"></nlword>
+<nlword word="best" valsi="nelrai"></nlword>
+<nlword word="below" valsi="ni'a"></nlword>
+<nlword word="because of logic" valsi="ni'i"></nlword>
+<nlword word="by what logic?" valsi="ni'i ma"></nlword>
+<nlword word="beanie" sense="hat" valsi="nipmapku"></nlword>
+<nlword word="baron" valsi="noltronau"></nlword>
+<nlword word="baroness" valsi="noltroni'u"></nlword>
+<nlword word="bachelor" valsi="nu'ospe"></nlword>
+<nlword word="battle" sense="confrontation" valsi="nunda'a"></nlword>
+<nlword word="break" sense="intermission" valsi="nunde'a"></nlword>
+<nlword word="belatedness" valsi="nunlerci"></nlword>
+<nlword word="backup" sense="copy" valsi="nurfu'i" place="1"></nlword>
+<nlword word="broomrape" valsi="orvanxi"></nlword>
+<nlword word="boyfriend" valsi="pampe'o"></nlword>
+<nlword word="bother" sense="disturb" valsi="patpei"></nlword>
+<nlword word="bond" sense="financial instrument" valsi="paurseldejni"></nlword>
+<nlword word="bain-marie" valsi="paxrmari"></nlword>
+<nlword word="baffling" valsi="peifli" place="2"></nlword>
+<nlword word="befuddled" valsi="peifli"></nlword>
+<nlword word="baffled" valsi="peifli"></nlword>
+<nlword word="bewildered" valsi="peifli"></nlword>
+<nlword word="beg" valsi="pikci"></nlword>
+<nlword word="bukkake" sense="mass ejaculation" valsi="pinjycarvi"></nlword>
+<nlword word="bound" sense="go with bounding motion" valsi="pipkla"></nlword>
+<nlword word="bounds" sense="move in jumps" valsi="pipmu'u"></nlword>
+<nlword word="breaking sound" valsi="popsna"></nlword>
+<nlword word="break off" sense="intransitive" valsi="popygau"></nlword>
+<nlword word="break " sense="intransitive" valsi="popygau"></nlword>
+<nlword word="break" valsi="porpi"></nlword>
+<nlword word="before" valsi="pu"></nlword>
+<nlword word="by process" valsi="pu'e"></nlword>
+<nlword word="before and after" valsi="pujeba"></nlword>
+<nlword word="before and during" valsi="pujeca"></nlword>
+<nlword word="bronze" valsi="ransu"></nlword>
+<nlword word="beat" sense="hit repeatedly" valsi="rapyda'i"></nlword>
+<nlword word="bisexual male" valsi="relcinse"></nlword>
+<nlword word="bisexual female" valsi="relcinse"></nlword>
+<nlword word="bisexual" valsi="relcinse" place="1"></nlword>
+<nlword word="bicycle, motorbike" valsi="relxilma'e"></nlword>
+<nlword word="bicycle" valsi="relxilma'e"></nlword>
+<nlword word="bike propulsion source" valsi="relxilma'e" place="4"></nlword>
+<nlword word="bike" valsi="relxilma'e" place="1"></nlword>
+<nlword word="bike rider" valsi="relxilma'e" place="2"></nlword>
+<nlword word="breast milk" valsi="remyladru"></nlword>
+<nlword word="because of cause" valsi="ri'a"></nlword>
+<nlword word="bank" sense="of a river" valsi="ri'erkoi" place="1"></nlword>
+<nlword word="borecole" sense="cabbage" valsi="ri'orko'i"></nlword>
+<nlword word="boerenkool" sense="cabbage" valsi="ri'orko'i"></nlword>
+<nlword word="beat" sense="rhythm" valsi="rilti"></nlword>
+<nlword word="backpack" valsi="rixybakfu" place="1"></nlword>
+<nlword word="backpack material" sense="frame or bag or straps" valsi="rixybakfu" place="3"></nlword>
+<nlword word="backpacker" sense="bundle carrier" valsi="rixybakfu" place="4"></nlword>
+<nlword word="backpack contents" valsi="rixybakfu" place="2"></nlword>
+<nlword word="bouquet" sense="bundle of flowers" valsi="rulbakfu"></nlword>
+<nlword word="benefactor" sense="financial" valsi="rupsra"></nlword>
+<nlword word="breath in" valsi="sakyva'u"></nlword>
+<nlword word="butterscotch" valsi="satmatne"></nlword>
+<nlword word="bunnyhug" sense="sweatshirt" valsi="sedgaicreka"></nlword>
+<nlword word="behead" valsi="sedycaugau"></nlword>
+<nlword word="by rule prescribing" valsi="seja'i"></nlword>
+<nlword word="bundled" valsi="selbakfu"></nlword>
+<nlword word="bound beyond which" valsi="selbancu"></nlword>
+<nlword word="banking system" sense="conglomerate of banks" valsi="selbanxa"></nlword>
+<nlword word="bird species" valsi="selcpi"></nlword>
+<nlword word="band" sense="cause to be banded" valsi="selkarlygau"></nlword>
+<nlword word="blender" sense="mechanical processing machine" valsi="selmixrikmi'i"></nlword>
+<nlword word="beloved" valsi="selpa'i" place="2"></nlword>
+<nlword word="box" sense="place inside a box" valsi="seltaxygau"></nlword>
+<nlword word="bill" sense="draft of a law" valsi="selti'ifla"></nlword>
+<nlword word="behaviour" sense="conduct" valsi="seltra"></nlword>
+<nlword word="brand" valsi="selvensni"></nlword>
+<nlword word="beneficiary" valsi="selxau"></nlword>
+<nlword word="benefit from" valsi="selxau"></nlword>
+<nlword word="berceuse" sense="lullaby" valsi="sipselsa'a"></nlword>
+<nlword word="blanket" sense="a cover for the sleeper" valsi="sipygai"></nlword>
+<nlword word="beep" valsi="snasni"></nlword>
+<nlword word="blog" sense="internet journal" valsi="snukarni"></nlword>
+<nlword word="battalion" sense="army unit" valsi="songri"></nlword>
+<nlword word="bus" sense="vehicle" valsi="sorpeka"></nlword>
+<nlword word="bus passenger" valsi="sorprekarce" place="2"></nlword>
+<nlword word="bus stop" valsi="sorprekarcytcana"></nlword>
+<nlword word="bus station" valsi="sorprekarcytcana"></nlword>
+<nlword word="bus terminal" valsi="sorprekarcytcana"></nlword>
+<nlword word="botany methodology" valsi="spaske" place="2"></nlword>
+<nlword word="botany" valsi="spaske" place="1"></nlword>
+<nlword word="broken" valsi="spofu"></nlword>
+<nlword word="berth" valsi="stagau"></nlword>
+<nlword word="bake" sense="cook with dry heat" valsi="sudglajukpa"></nlword>
+<nlword word="by method" valsi="ta'i"></nlword>
+<nlword word="by what method?" valsi="ta'i ma"></nlword>
+<nlword word="by the way" valsi="ta'o"></nlword>
+<nlword word="badger" valsi="takside"></nlword>
+<nlword word="board" valsi="tanbo"></nlword>
+<nlword word="box" valsi="tanxe"></nlword>
+<nlword word="behaviour" valsi="tarti" place="2"></nlword>
+<nlword word="behave" valsi="tarti"></nlword>
+<nlword word="breast" valsi="tatru"></nlword>
+<nlword word="bra" valsi="tatyta'u"></nlword>
+<nlword word="bikini top" valsi="taxfrbikini" place="3"></nlword>
+<nlword word="bikini bottom" valsi="taxfrbikini" place="4"></nlword>
+<nlword word="bikini" sense="skimpy two piece woman's clothing" valsi="taxfrbikini"></nlword>
+<nlword word="bass" sense="tone" valsi="tcesnosli"></nlword>
+<nlword word="book" sense="plan time for event" valsi="tcikygau"></nlword>
+<nlword word="basis for authority" valsi="teca'i"></nlword>
+<nlword word="by rule within" valsi="teja'i"></nlword>
+<nlword word="bordering" valsi="tekoi"></nlword>
+<nlword word="biter" valsi="terbatci" place="3"></nlword>
+<nlword word="birthdate" valsi="terjbe"></nlword>
+<nlword word="birthday" sense="date of birth" valsi="terjbe"></nlword>
+<nlword word="business" sense="of company" valsi="terkagni" place="1"></nlword>
+<nlword word="brush against" valsi="termosra"></nlword>
+<nlword word="brush" sense="agentive" valsi="termosygau"></nlword>
+<nlword word="book" sense="make a reservation" valsi="ternupcpe"></nlword>
+<nlword word="buyer" valsi="terve'u" place="1"></nlword>
+<nlword word="buy" sense="purchase" valsi="terve'u"></nlword>
+<nlword word="behind" valsi="ti'a"></nlword>
+<nlword word="back entrance" valsi="ti'evro"></nlword>
+<nlword word="back door" valsi="ti'evro"></nlword>
+<nlword word="busy" sense="active" valsi="tolcando"></nlword>
+<nlword word="butterfly" valsi="toldi"></nlword>
+<nlword word="brainless" valsi="tolmencre"></nlword>
+<nlword word="blow" sense="exhale" valsi="tolsakci"></nlword>
+<nlword word="bored " sense="mental weariness" valsi="tolselci'i"></nlword>
+<nlword word="begin" sense="ake first step in performing an action" valsi="tolsisti"></nlword>
+<nlword word="begin" sense="take first step in performing an action" valsi="tolsti"></nlword>
+<nlword word="boring" valsi="tolzdi"></nlword>
+<nlword word="best" sense="superlative" valsi="traji"></nlword>
+<nlword word="back" sense="behind" valsi="trixe"></nlword>
+<nlword word="board of directors" valsi="trokamni" place="1"></nlword>
+<nlword word="bureau" sense="of ministry or government department" valsi="trupausle"></nlword>
+<nlword word="boot" sense="shoe" valsi="tupcutci"></nlword>
+<nlword word="benefiting from" valsi="va'u"></nlword>
+<nlword word="brandy" valsi="vanjyjikru"></nlword>
+<nlword word="breathe" valsi="vasxu"></nlword>
+<nlword word="big space interval" valsi="ve'u"></nlword>
+<nlword word="bite locus" valsi="velbatci" place="3"></nlword>
+<nlword word="bitten" valsi="velbatci" place="2"></nlword>
+<nlword word="biting tool" valsi="velbatci" place="1"></nlword>
+<nlword word="birthplace" valsi="veljbe" place="1"></nlword>
+<nlword word="birthday" valsi="veljbe" place="3"></nlword>
+<nlword word="buy from a vending machine" valsi="venzmi" place="3"></nlword>
+<nlword word="brutal, extremely" sense="extremely violent" valsi="viltce"></nlword>
+<nlword word="brave" valsi="virnu"></nlword>
+<nlword word="buffalo" sense="bison" valsi="visnda"></nlword>
+<nlword word="bison" valsi="visnda"></nlword>
+<nlword word="bring here" valsi="vizbei"></nlword>
+<nlword word="blare" valsi="vruca'a"></nlword>
+<nlword word="bludgeon" valsi="xacyga'a"></nlword>
+<nlword word="body" valsi="xadni"></nlword>
+<nlword word="best" sense="surpassing all others" valsi="xagrai"></nlword>
+<nlword word="beneficial" valsi="xamgu"></nlword>
+<nlword word="benefit" valsi="xamgu" place="1"></nlword>
+<nlword word="bracelet" sense="adornment" valsi="xancidja'i"></nlword>
+<nlword word="beach" valsi="xaskoi"></nlword>
+<nlword word="better" sense="by the standard of goodness" valsi="xauzma"></nlword>
+<nlword word="beard" valsi="xejykre"></nlword>
+<nlword word="by transport mode" valsi="xeka'a"></nlword>
+<nlword word="blackbird" valsi="xekcpi"></nlword>
+<nlword word="black" valsi="xekri"></nlword>
+<nlword word="band" sense="radio" valsi="xelbonseljimte"></nlword>
+<nlword word="bad" valsi="xlali"></nlword>
+<nlword word="better" sense="by the standard of badness" valsi="xlame'a"></nlword>
+<nlword word="bad weather" valsi="xlati'a"></nlword>
+<nlword word="buckwheat" valsi="xruba"></nlword>
+<nlword word="better" sense="more favourable" valsi="zanmau"></nlword>
+<nlword word="best" sense="most favourable" valsi="zanrai"></nlword>
+<nlword word="buttock" valsi="zargu"></nlword>
+<nlword word="building and construction industry" valsi="zbagundi"></nlword>
+<nlword word="building and construction sector" valsi="zbagundi"></nlword>
+<nlword word="bay" valsi="zbani"></nlword>
+<nlword word="build" sense="form by combining materials" valsi="zbasu"></nlword>
+<nlword word="borrow without permission" valsi="zerjbera"></nlword>
+<nlword word="band" sense="musical group" valsi="zgigri"></nlword>
+<nlword word="become free" valsi="zi'erbi'o"></nlword>
+<nlword word="bad Lojban" valsi="zirjbo"></nlword>
+<nlword word="busy" sense="doing a lot" valsi="zukcfu"></nlword>
+<nlword word="busy doing" valsi="zuktce"></nlword></direction>

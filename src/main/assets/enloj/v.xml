@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><nlword word="vampire" sense="not nesc. monster" valsi="blupinxe" place="1"></nlword>
+<nlword word="vertebral column" valsi="bogykamju"></nlword>
+<nlword word="very big" valsi="bratce"></nlword>
+<nlword word="vastness observer" valsi="camganra" place="3"></nlword>
+<nlword word="vastness width" valsi="camganra" place="2"></nlword>
+<nlword word="vast" sense="subjectively very wide" valsi="camganra" place="1"></nlword>
+<nlword word="vanish" valsi="canci"></nlword>
+<nlword word="vary" valsi="cenba"></nlword>
+<nlword word="vector" sense="3-dimensional" valsi="cibnacmei"></nlword>
+<nlword word="voluptuous" valsi="cinmle"></nlword>
+<nlword word="village" valsi="cmatca"></nlword>
+<nlword word="voting membership" sense="group of eligible voters" valsi="cmicu'a" place="4"></nlword>
+<nlword word="voter" valsi="cmicu'a" place="1"></nlword>
+<nlword word="vote" sense="action" valsi="cmicu'a"></nlword>
+<nlword word="variable" sense="computer memory" valsi="datnyvau"></nlword>
+<nlword word="velvet" sense="densely woven silk" valsi="demsilka"></nlword>
+<nlword word="vibrator" sense="machine" valsi="desmi'i"></nlword>
+<nlword word="vocative marker" valsi="doi"></nlword>
+<nlword word="verb" valsi="fasnyvla"></nlword>
+<nlword word="version" sense="particular variation" valsi="favytcini"></nlword>
+<nlword word="voice mail message" valsi="fonynoi"></nlword>
+<nlword word="vibrissa" valsi="gaskre"></nlword>
+<nlword word="variety of carrot" valsi="gejrdauko" place="2"></nlword>
+<nlword word="vendor" sense="shopkeeper or salesman" valsi="jdima" place="4"></nlword>
+<nlword word="volcano" valsi="je'erma'a"></nlword>
+<nlword word="violin" valsi="jgitrviolino"></nlword>
+<nlword word="violin concerto" valsi="jgitrviolino zei konceto"></nlword>
+<nlword word="vocational school" valsi="jibycu'e"></nlword>
+<nlword word="vaccine" valsi="jinku"></nlword>
+<nlword word="vertex" valsi="jipmokca"></nlword>
+<nlword word="vague connective" valsi="ju'e"></nlword>
+<nlword word="view" valsi="jvinu"></nlword>
+<nlword word="vertebra" valsi="kamjybo'u"></nlword>
+<nlword word="velocity" valsi="kamsutra"></nlword>
+<nlword word="volt" valsi="klanrvolta" place="1"></nlword>
+<nlword word="vehicle" sense="operated transportation means" valsi="klasazri" place="2"></nlword>
+<nlword word="vicuna" sense="animal" valsi="kumtrvikunia" place="1"></nlword>
+<nlword word="vicuña" sense="animal" valsi="kumtrvikunia"></nlword>
+<nlword word="vacant" sense="empty" valsi="kunti"></nlword>
+<nlword word="vale" valsi="ma'arbi'i"></nlword>
+<nlword word="valley" valsi="ma'arbi'i"></nlword>
+<nlword word="vacuum" sense="area of" valsi="maisru"></nlword>
+<nlword word="vulgar" sense="uncouth" valsi="malfadni"></nlword>
+<nlword word="vehicle" valsi="marce"></nlword>
+<nlword word="value" sense="evaluated expression" valsi="mekna'u"></nlword>
+<nlword word="vain" valsi="mlejgi"></nlword>
+<nlword word="vulture" valsi="mrocticpi"></nlword>
+<nlword word="very" sense="to a great extent" valsi="mutce"></nlword>
+<nlword word="vector" sense="n-dimensional" valsi="nacmei"></nlword>
+<nlword word="vest" sense="undershirt" valsi="nercreka"></nlword>
+<nlword word="virgin" valsi="nu'ogle"></nlword>
+<nlword word="village" sense="rural town" valsi="numtca"></nlword>
+<nlword word="verdict" valsi="paijdi" place="2"></nlword>
+<nlword word="verse" sense="distinct section of poem" valsi="pempau"></nlword>
+<nlword word="vaginal secretion" valsi="piblitki"></nlword>
+<nlword word="velvet" valsi="ranbu'u"></nlword>
+<nlword word="vector" sense="2-dimensional" valsi="relnacmei"></nlword>
+<nlword word="vinegar" valsi="sarvanju"></nlword>
+<nlword word="viscera-containing body" valsi="selcanti" place="1"></nlword>
+<nlword word="view" sense="opinion" valsi="seljinvi"></nlword>
+<nlword word="venerable" sense="commanding respect" valsi="selsi'a"></nlword>
+<nlword word="vain" sense="excessively proud" valsi="sezyjgidu'e"></nlword>
+<nlword word="vine" valsi="skospa"></nlword>
+<nlword word="variable" sense="capable of assuming any of a set of values" valsi="snicne"></nlword>
+<nlword word="vertical" valsi="sraji"></nlword>
+<nlword word="videotape" valsi="srimakyvelvei"></nlword>
+<nlword word="vegetable" valsi="stagi"></nlword>
+<nlword word="vegetarian" valsi="stagycti"></nlword>
+<nlword word="vicuña" valsi="tcokumte"></nlword>
+<nlword word="variation" sense="magnetic" valsi="terfarnilfrica"></nlword>
+<nlword word="vulnerable" valsi="tolnu'a"></nlword>
+<nlword word="value" sense="monetary worth" valsi="vamji"></nlword>
+<nlword word="vomit" valsi="vamtu"></nlword>
+<nlword word="vanilla" sense="plant" valsi="varnila"></nlword>
+<nlword word="via route" valsi="veka'a"></nlword>
+<nlword word="vending machine cost" valsi="venzmi" place="4"></nlword>
+<nlword word="vending machine" valsi="venzmi"></nlword>
+<nlword word="vending machine goods" valsi="venzmi" place="2"></nlword>
+<nlword word="vagina" valsi="vibna"></nlword>
+<nlword word="video" valsi="vidni"></nlword>
+<nlword word="virus" valsi="vidru"></nlword>
+<nlword word="viscous" valsi="viknu"></nlword>
+<nlword word="violent, extremely" valsi="viltce"></nlword>
+<nlword word="viola" sense="musical instrument" valsi="violna"></nlword>
+<nlword word="violin" sense="musical instrument" valsi="violni"></nlword>
+<nlword word="viceroy" valsi="vipnoltru"></nlword>
+<nlword word="virology" valsi="virske"></nlword>
+<nlword word="visitor" valsi="vitke"></nlword>
+<nlword word="visit" valsi="vitke"></nlword>
+<nlword word="vulva" valsi="vlagi"></nlword>
+<nlword word="verse" sense="one or more lines of poetry or song" valsi="vlagri"></nlword>
+<nlword word="vlalinkei" sense="word chaining game" valsi="vlalikei"></nlword>
+<nlword word="verbatim" valsi="vlasatci"></nlword>
+<nlword word="violent" valsi="vlile"></nlword>
+<nlword word="voice" valsi="voksa"></nlword>
+<nlword word="vibrato" sense="singing" valsi="voksli"></nlword>
+<nlword word="virtuous" valsi="vrude"></nlword>
+<nlword word="virtue" valsi="vu'e"></nlword>
+<nlword word="v" valsi="vy"></nlword>
+<nlword word="vomit" sense="due to alcohol" valsi="xalvamtu"></nlword>
+<nlword word="visualize" valsi="xarpei"></nlword>
+<nlword word="variety of buckwheat" valsi="xrixruba" place="2"></nlword>
+<nlword word="vetiver" valsi="xusxusu"></nlword>
+<nlword word="verrilion" valsi="zgikabri"></nlword>
+<nlword word="volitional entity" valsi="zukyka'e"></nlword></direction>

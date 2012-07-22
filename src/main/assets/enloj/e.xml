@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><nlword word="exhaustion" valsi="a'enai"></nlword>
+<nlword word="effort" valsi="a'i"></nlword>
+<nlword word="eagle" valsi="atkuila"></nlword>
+<nlword word="enlightenment" valsi="aufklerunge"></nlword>
+<nlword word="emphasize next" valsi="ba'e"></nlword>
+<nlword word="exaggeration" valsi="ba'u"></nlword>
+<nlword word="empire" sense="political" valsi="balgu'e"></nlword>
+<nlword word="emperor" valsi="balnoltru"></nlword>
+<nlword word="effect" sense="result" valsi="bapli" place="1"></nlword>
+<nlword word="effective" sense="having the power to produce effects" valsi="bapli"></nlword>
+<nlword word="exit" sense="way out" valsi="barkalri"></nlword>
+<nlword word="eject" sense="force outside" valsi="barklagau"></nlword>
+<nlword word="exit" sense="an action" valsi="barli'a"></nlword>
+<nlword word="exteroperceptor" valsi="barterzga"></nlword>
+<nlword word="emphasize" valsi="basna"></nlword>
+<nlword word="engaged" sense="pledged to be married" valsi="bavyspe"></nlword>
+<nlword word="end linked sumti" valsi="be'o"></nlword>
+<nlword word="embossment" sense="sculptured" valsi="blixra"></nlword>
+<nlword word="end number or lerfu" valsi="boi"></nlword>
+<nlword word="enemy" valsi="bradi"></nlword>
+<nlword word="enormous" valsi="bratce"></nlword>
+<nlword word="end emotion" valsi="bu'onai"></nlword>
+<nlword word="embarrassed" valsi="burna"></nlword>
+<nlword word="embarrass" valsi="burnygau"></nlword>
+<nlword word="embarrassed" sense="by somebody" valsi="burnygau" place="2"></nlword>
+<nlword word="exchange" sense="mutually" valsi="cajysi'u"></nlword>
+<nlword word="expense" valsi="canja" place="3"></nlword>
+<nlword word="exchange" valsi="canja"></nlword>
+<nlword word="eviscerate" valsi="cantybargau"></nlword>
+<nlword word="end lambda prenex" valsi="ce'ai"></nlword>
+<nlword word="era" valsi="cedra"></nlword>
+<nlword word="expert" valsi="certu"></nlword>
+<nlword word="express in writing" valsi="ci'asku"></nlword>
+<nlword word="emotionally felt by" valsi="ci'o"></nlword>
+<nlword word="explain" valsi="ciksi"></nlword>
+<nlword word="eternity" valsi="cimnytei"></nlword>
+<nlword word="emotion" valsi="cinmo"></nlword>
+<nlword word="experiment" sense="conduct an experiment" valsi="ciplanli"></nlword>
+<nlword word="emu" valsi="cipnrdromai"></nlword>
+<nlword word="eat" valsi="citka"></nlword>
+<nlword word="edition" sense="of a book" valsi="ckuke'u"></nlword>
+<nlword word="early" valsi="clira"></nlword>
+<nlword word="excite" sense="stir the emotions of" valsi="cnijicla"></nlword>
+<nlword word="empathize" sense="feel empathy" valsi="cnikansa"></nlword>
+<nlword word="exercise" sense="practice" valsi="crezenzu'e"></nlword>
+<nlword word="elf" valsi="crida"></nlword>
+<nlword word="education" sense="system of imparting knowledge" valsi="ctuci'e" place="1"></nlword>
+<nlword word="electorate" valsi="cu'acmi" place="2"></nlword>
+<nlword word="eel" valsi="curfi'e"></nlword>
+<nlword word="express" valsi="cusku"></nlword>
+<nlword word="expression" sense="expressed information" valsi="cusku" place="2"></nlword>
+<nlword word="expresser" valsi="cusku" place="1"></nlword>
+<nlword word="editor" valsi="cusku'i" place="1"></nlword>
+<nlword word="edit" sense="change text" valsi="cusku'i"></nlword>
+<nlword word="except" sense="excluding" valsi="da'a"></nlword>
+<nlword word="eventual utterance" valsi="da'e"></nlword>
+<nlword word="earlier utterance" valsi="da'u"></nlword>
+<nlword word="empathy" valsi="dai"></nlword>
+<nlword word="excessively distant" valsi="dardu'e"></nlword>
+<nlword word="excessively far" valsi="dardu'e"></nlword>
+<nlword word="encourage" valsi="darsygau"></nlword>
+<nlword word="eiderdown" valsi="datkypi'u"></nlword>
+<nlword word="equal emotion" valsi="dau'i"></nlword>
+<nlword word="embed" valsi="derse'a"></nlword>
+<nlword word="entomb" valsi="derse'a"></nlword>
+<nlword word="electrical current" valsi="dicfle"></nlword>
+<nlword word="electric lamp" valsi="dictergu'i"></nlword>
+<nlword word="electric" valsi="dikca"></nlword>
+<nlword word="edible fowl" valsi="djacpi"></nlword>
+<nlword word="edible grain" valsi="djagru"></nlword>
+<nlword word="eager" sense="feel strong desire" valsi="djicni"></nlword>
+<nlword word="express wish" valsi="djisku"></nlword>
+<nlword word="even" sense="implying an extreme example" valsi="do'anai"></nlword>
+<nlword word="end vocative" valsi="do'u"></nlword>
+<nlword word="east of" valsi="du'a"></nlword>
+<nlword word="excess" valsi="dukse"></nlword>
+<nlword word="equivalence class" valsi="dunlei"></nlword>
+<nlword word="equal" valsi="dunli"></nlword>
+<nlword word="exhausted" sense="fatigued" valsi="dusta'i"></nlword>
+<nlword word="elder" valsi="dzena"></nlword>
+<nlword word="e" valsi="ebu"></nlword>
+<nlword word="enzyme" sense="catalyst" valsi="enzima" place="1"></nlword>
+<nlword word="ermine" sense="stoat" valsi="ermine"></nlword>
+<nlword word="ester" valsi="estre"></nlword>
+<nlword word="ether" sense="element filling the void." valsi="etreo"></nlword>
+<nlword word="ethereal" sense="spiritual, celestial." valsi="etreo"></nlword>
+<nlword word="end of text" valsi="fa'o"></nlword>
+<nlword word="extinguish" sense="fire" valsi="fagystigau"></nlword>
+<nlword word="extra sumti place" valsi="fai"></nlword>
+<nlword word="end" valsi="fanmo"></nlword>
+<nlword word="event" valsi="fasnu"></nlword>
+<nlword word="example of version" valsi="favytcinymupli"></nlword>
+<nlword word="everywhere" valsi="fe'eroroi"></nlword>
+<nlword word="end modal selbri" valsi="fe'u"></nlword>
+<nlword word="enrage" valsi="fegri'a"></nlword>
+<nlword word="easier" valsi="filmau"></nlword>
+<nlword word="elementary" sense="concept" valsi="filseljmi"></nlword>
+<nlword word="enact" sense="make into law" valsi="flari'a"></nlword>
+<nlword word="end composite lerfu" valsi="foi"></nlword>
+<nlword word="easy" valsi="fu'i"></nlword>
+<nlword word="end indicator scope" valsi="fu'o"></nlword>
+<nlword word="end quote scope" valsi="fu'oi"></nlword>
+<nlword word="equal rank" valsi="ga'icu'i"></nlword>
+<nlword word="elevate" valsi="galgau"></nlword>
+<nlword word="ellipse" sense="geometric form" valsi="gancuktai"></nlword>
+<nlword word="end relative phrase" valsi="ge'u"></nlword>
+<nlword word="exponential notation" sense="mekso operator" valsi="gei"></nlword>
+<nlword word="estrus" valsi="glebre"></nlword>
+<nlword word="erotica" valsi="glefi'a"></nlword>
+<nlword word="ejaculate" sense="ejecting sexual fluids" valsi="glevi'i"></nlword>
+<nlword word="earlier bridi" valsi="go'u"></nlword>
+<nlword word="elector" sense="member of electorate" valsi="gubyka'iseltru" place="3"></nlword>
+<nlword word="emigrate" valsi="gugmu'u"></nlword>
+<nlword word="extinguish a light" valsi="gusydicra"></nlword>
+<nlword word="envy" valsi="i'onai"></nlword>
+<nlword word="explosive" valsi="jadypo'a"></nlword>
+<nlword word="embassy" valsi="jasybriju"></nlword>
+<nlword word="earn" valsi="jerna"></nlword>
+<nlword word="erhu" valsi="jgitrxu"></nlword>
+<nlword word="economic system" valsi="jikni" place="1"></nlword>
+<nlword word="economic" sense="pertaining to an economy" valsi="jikni"></nlword>
+<nlword word="economic sector" valsi="jikni" place="2"></nlword>
+<nlword word="economy" sense="production and distribution and consumption" valsi="jikni"></nlword>
+<nlword word="eremitic" valsi="jiksei"></nlword>
+<nlword word="encircle" valsi="jinsru"></nlword>
+<nlword word="excavated" valsi="kakpyca'a" place="2"></nlword>
+<nlword word="excavator" valsi="kakpyca'a" place="1"></nlword>
+<nlword word="excavator operator" valsi="kakpyca'a" place="3"></nlword>
+<nlword word="eyeball" sense="body part" valsi="kalboi"></nlword>
+<nlword word="eyelid" valsi="kalgai"></nlword>
+<nlword word="eyelash" valsi="kalgaikre"></nlword>
+<nlword word="eyebrow" valsi="kalmebykre"></nlword>
+<nlword word="evaluate" sense="measuring knowledge level" valsi="kamjunmre"></nlword>
+<nlword word="eye" valsi="kanla"></nlword>
+<nlword word="expect" valsi="kanpe"></nlword>
+<nlword word="entering thing" valsi="kargau" place="4"></nlword>
+<nlword word="eggshell" sense="what something hatches from" valsi="karpo'ijbe" place="2"></nlword>
+<nlword word="end grouping" valsi="ke'e"></nlword>
+<nlword word="exclusive interval" valsi="ke'i"></nlword>
+<nlword word="end abstraction" valsi="kei"></nlword>
+<nlword word="earwax" sense="secreted substance" valsi="kerlakse" place="1"></nlword>
+<nlword word="ear" valsi="kerlo"></nlword>
+<nlword word="eardrum" valsi="kernerbo'o"></nlword>
+<nlword word="earlobe" valsi="kerza'u"></nlword>
+<nlword word="ethnology" valsi="kluske"></nlword>
+<nlword word="edge" valsi="korbi"></nlword>
+<nlword word="end sumti" valsi="ku"></nlword>
+<nlword word="end mex forethought" valsi="ku'e"></nlword>
+<nlword word="end relative clause" valsi="ku'o"></nlword>
+<nlword word="empty" valsi="kunti"></nlword>
+<nlword word="eyewear" valsi="lacni"></nlword>
+<nlword word="eyeglasses" sense="eyewear" valsi="lacni"></nlword>
+<nlword word="elderly" valsi="laldo"></nlword>
+<nlword word="even" sense="number" valsi="landegmei"></nlword>
+<nlword word="examine" sense="analyze" valsi="lanli"></nlword>
+<nlword word="equilibrate" valsi="laxygau"></nlword>
+<nlword word="equilibrize" valsi="laxygau"></nlword>
+<nlword word="end mistake quote" valsi="le'ai"></nlword>
+<nlword word="end replacement quote" valsi="le'ai"></nlword>
+<nlword word="employee" sense="providing goods or services for payment" valsi="le'ipli" place="2"></nlword>
+<nlword word="employ" sense="for paid provision of goods or services" valsi="le'ipli"></nlword>
+<nlword word="eyeglasses" valsi="le'otci"></nlword>
+<nlword word="end error quote" valsi="le'u"></nlword>
+<nlword word="electron" valsi="lektoni" place="1"></nlword>
+<nlword word="exit" sense="door for leaving" valsi="li'avro" place="1"></nlword>
+<nlword word="experience abstract" valsi="li'i"></nlword>
+<nlword word="end quote" valsi="li'u"></nlword>
+<nlword word="experience" valsi="lifri"></nlword>
+<nlword word="energy sector" valsi="lilgundi"></nlword>
+<nlword word="energy industry" valsi="lilgundi"></nlword>
+<nlword word="earlier" valsi="lirmau"></nlword>
+<nlword word="earliest" valsi="liryrai" place="1"></nlword>
+<nlword word="expel" valsi="livbai"></nlword>
+<nlword word="end mex sumti" valsi="lo'o"></nlword>
+<nlword word="error quote" valsi="lo'u"></nlword>
+<nlword word="end sumti qualifiers" valsi="lu'u"></nlword>
+<nlword word="earthworm" valsi="lumbrinki"></nlword>
+<nlword word="ethics" sense="study of conduct-governing standards" valsi="madyske"></nlword>
+<nlword word="evil sorcerer" valsi="malmakfa" place="3"></nlword>
+<nlword word="eucalyptus" valsi="maprultricu"></nlword>
+<nlword word="electropositivity" valsi="mardikca"></nlword>
+<nlword word="exceeded by" valsi="mau"></nlword>
+<nlword word="end sumti to selbri" valsi="me'u"></nlword>
+<nlword word="expression" sense="mathematical" valsi="mekna'u" place="2"></nlword>
+<nlword word="exact" sense="request forcefully" valsi="mi'ecpe"></nlword>
+<nlword word="echo" sense="reflected sound" valsi="mirsna"></nlword>
+<nlword word="eggplant" valsi="mlongena"></nlword>
+<nlword word="eastwardly" valsi="mo'idu'a"></nlword>
+<nlword word="embouchure" sense="mouthpiece" valsi="moltu'u"></nlword>
+<nlword word="emulated" valsi="monfu'igau" place="3"></nlword>
+<nlword word="emulate" valsi="monfu'igau" place="1"></nlword>
+<nlword word="emulation" valsi="monfu'igau" place="2"></nlword>
+<nlword word="efface" sense="rub off" valsi="mosyvi'u"></nlword>
+<nlword word="ergot" valsi="mrajymledi"></nlword>
+<nlword word="entombed" valsi="mrostu" place="2"></nlword>
+<nlword word="exemplified by" valsi="mu'u"></nlword>
+<nlword word="entirely" valsi="mulno"></nlword>
+<nlword word="entire" valsi="mulno"></nlword>
+<nlword word="eukaryote" valsi="mulslemijyji'e"></nlword>
+<nlword word="example" valsi="mupli"></nlword>
+<nlword word="extreme" sense="in the greatest degree" valsi="mutce"></nlword>
+<nlword word="exception" sense="special case" valsi="nafselte'i" place="1"></nlword>
+<nlword word="ethnic music" valsi="naizgi"></nlword>
+<nlword word="executioner's axe" valsi="nebyka'a"></nlword>
+<nlword word="egret" valsi="nebyplovoicpi"></nlword>
+<nlword word="energy" valsi="nejni"></nlword>
+<nlword word="entrance" sense="way in" valsi="nerkalri"></nlword>
+<nlword word="entrance" sense="route of entering" valsi="nerkla" place="4"></nlword>
+<nlword word="enter" sense="go inside" valsi="nerkla"></nlword>
+<nlword word="entrepreneur" valsi="nincu'upre"></nlword>
+<nlword word="eminence" sense="title" valsi="nolba'i"></nlword>
+<nlword word="elegant" valsi="nolmle"></nlword>
+<nlword word="enigma" valsi="nonseljmi"></nlword>
+<nlword word="event abstract" valsi="nu"></nlword>
+<nlword word="end fore termset" valsi="nu'u"></nlword>
+<nlword word="equal rights" valsi="nundunkrali"></nlword>
+<nlword word="expression" sense="facial appearance" valsi="nunfirsku"></nlword>
+<nlword word="engineering" valsi="nunskezu'e"></nlword>
+<nlword word="earthquake" valsi="nuntumdesku" place="1"></nlword>
+<nlword word="embarrassment" valsi="oiro'a"></nlword>
+<nlword word="each respectively" valsi="pa'aku"></nlword>
+<nlword word="evil action" valsi="pacyselzu'e"></nlword>
+<nlword word="evil" valsi="palci"></nlword>
+<nlword word="embrace" sense="hug somebody" valsi="pamjai"></nlword>
+<nlword word="emotion ?" valsi="pei"></nlword>
+<nlword word="expand" sense="in sense of an agent doing the expanding" valsi="pejgau"></nlword>
+<nlword word="ebony" valsi="persimo"></nlword>
+<nlword word="equator" sense="planetary" valsi="plinyxabykoi"></nlword>
+<nlword word="elastic" valsi="pruni"></nlword>
+<nlword word="ex-wife" valsi="pruspe"></nlword>
+<nlword word="ex-husband" valsi="pruspe"></nlword>
+<nlword word="enjoy" sense="experience something pleasant" valsi="pukfri"></nlword>
+<nlword word="equally" valsi="ra'ucu'i"></nlword>
+<nlword word="enough" sense="digit/number" valsi="rau"></nlword>
+<nlword word="express with irony" valsi="raxsku"></nlword>
+<nlword word="experienced by" valsi="ri'i"></nlword>
+<nlword word="escape" sense="avoid" valsi="rivbi"></nlword>
+<nlword word="each" valsi="ro"></nlword>
+<nlword word="emotional" valsi="ro'i"></nlword>
+<nlword word="everything" valsi="roda"></nlword>
+<nlword word="earlier sumti" valsi="ru"></nlword>
+<nlword word="erase utterance" valsi="sa"></nlword>
+<nlword word="editorial insertion" valsi="sa'a"></nlword>
+<nlword word="elaborating" valsi="sa'unai"></nlword>
+<nlword word="enter" sense="input into a computer" valsi="samci'a"></nlword>
+<nlword word="e-mail address" valsi="samjudri"></nlword>
+<nlword word="e-mail" sense="message" valsi="samxa'a"></nlword>
+<nlword word="electronic mail" valsi="samxa'a"></nlword>
+<nlword word="exbi" sense="unit prefix" valsi="samxexso"></nlword>
+<nlword word="e-mail sender" valsi="samymri" place="1"></nlword>
+<nlword word="e-mail" valsi="samymri" place="2"></nlword>
+<nlword word="e-mailer" valsi="samymri"></nlword>
+<nlword word="email sender" valsi="samymri" place="3"></nlword>
+<nlword word="evident" sense="easily observed" valsi="sapselga'e"></nlword>
+<nlword word="exact" valsi="satci"></nlword>
+<nlword word="end process" valsi="sazysti"></nlword>
+<nlword word="end discursive" valsi="se'u"></nlword>
+<nlword word="emoting" valsi="seci'o"></nlword>
+<nlword word="equal to" valsi="sedu'i"></nlword>
+<nlword word="exchanged" valsi="selcanja" place="1"></nlword>
+<nlword word="examined" valsi="selcta"></nlword>
+<nlword word="experience" sense="a particular instance of personally encountering or undergoing something" valsi="selfri" place="1"></nlword>
+<nlword word="experiencer" valsi="selfri" place="2"></nlword>
+<nlword word="employed" sense="doing regularly paid work" valsi="seljibri"></nlword>
+<nlword word="execute" sense="as ordered" valsi="selmi'ecatra"></nlword>
+<nlword word="evil standard" valsi="selpalci"></nlword>
+<nlword word="employee" valsi="selplijibri" place="2"></nlword>
+<nlword word="employment" valsi="selplijibri" place="1"></nlword>
+<nlword word="employer" valsi="selplijibri" place="3"></nlword>
+<nlword word="economy" sense="system" valsi="selpraci'e"></nlword>
+<nlword word="enjoy" sense="receive pleasure from" valsi="selpu'a"></nlword>
+<nlword word="element" sense="chemical" valsi="selratni"></nlword>
+<nlword word="effect" sense="physical" valsi="selri'a"></nlword>
+<nlword word="embryo mother" valsi="seltarbi"></nlword>
+<nlword word="evaluator" sense="of significance" valsi="selvai"></nlword>
+<nlword word="example of property" valsi="semu'u"></nlword>
+<nlword word="entails therefore" valsi="seni'i"></nlword>
+<nlword word="entails nevertheless" valsi="seni'inai"></nlword>
+<nlword word="experiencing" valsi="seri'i"></nlword>
+<nlword word="elevate oneself" valsi="sezgalgau"></nlword>
+<nlword word="exercise self-restraint" valsi="sezyfanta"></nlword>
+<nlword word="egotistical" valsi="sezyse'u"></nlword>
+<nlword word="erase word" valsi="si"></nlword>
+<nlword word="esteem" valsi="sinma"></nlword>
+<nlword word="end" sense="terminate" valsi="sisti"></nlword>
+<nlword word="engineer" sense="uses science to solve practical problems" valsi="skezu'e"></nlword>
+<nlword word="express an order" valsi="skumi'e"></nlword>
+<nlword word="express a command" valsi="skumi'e"></nlword>
+<nlword word="empire" valsi="sorgugje'a" place="1"></nlword>
+<nlword word="egg" valsi="sovda"></nlword>
+<nlword word="engaged" sense="promised to be married" valsi="spenu'e"></nlword>
+<nlword word="explode" valsi="spoja"></nlword>
+<nlword word="erroneously defend" valsi="srebandu"></nlword>
+<nlword word="err" valsi="srera"></nlword>
+<nlword word="encircle" sense="put around" valsi="srupunji"></nlword>
+<nlword word="east" valsi="stuna"></nlword>
+<nlword word="erase discourse" valsi="su"></nlword>
+<nlword word="estimation" sense="number" valsi="suckancu" place="2"></nlword>
+<nlword word="estimator" sense="number" valsi="suckancu" place="1"></nlword>
+<nlword word="estimate" sense="calculate roughly" valsi="suckancu"></nlword>
+<nlword word="eager" sense="for faster outcome" valsi="sutydji"></nlword>
+<nlword word="expanding a tanru" valsi="ta'u"></nlword>
+<nlword word="expanding the tanru" valsi="ta'unai"></nlword>
+<nlword word="embryo" valsi="tarbi"></nlword>
+<nlword word="ecstatic" valsi="tcegei"></nlword>
+<nlword word="extend" sense="increase in extent" valsi="tcena"></nlword>
+<nlword word="exponent" sense="units" valsi="te'ai"></nlword>
+<nlword word="exponential e" valsi="te'o"></nlword>
+<nlword word="end mex converters" valsi="te'u"></nlword>
+<nlword word="expressing" valsi="tebau"></nlword>
+<nlword word="emoting about" valsi="teci'o"></nlword>
+<nlword word="equal in property" valsi="tedu'i"></nlword>
+<nlword word="earth science" valsi="tedyske"></nlword>
+<nlword word="everlasting" valsi="temcimni"></nlword>
+<nlword word="eternal" valsi="temcimni"></nlword>
+<nlword word="example out oof set" valsi="temu'u"></nlword>
+<nlword word="exponential" valsi="tenfa"></nlword>
+<nlword word="extend" sense="cause to increase in extent" valsi="tengau"></nlword>
+<nlword word="exchanged for" valsi="tercanja" place="1"></nlword>
+<nlword word="earth" valsi="terdi"></nlword>
+<nlword word="entitlement" sense="privilage" valsi="terpikta"></nlword>
+<nlword word="evaluate" sense="form an opinion of the value of" valsi="terva'i"></nlword>
+<nlword word="editorial unquote" valsi="to'i"></nlword>
+<nlword word="end parenthesis" valsi="toi"></nlword>
+<nlword word="energetic" sense="active" valsi="tolcando"></nlword>
+<nlword word="end" sense="stop process" valsi="tolcfagau"></nlword>
+<nlword word="end" sense="by following established proceedings" valsi="tolcfari'i"></nlword>
+<nlword word="enormity" sense="bad" valsi="tolmadba'i" place="1"></nlword>
+<nlword word="exhale" valsi="tolsakci"></nlword>
+<nlword word="extract" sense="pull out" valsi="tolse'a"></nlword>
+<nlword word="effortfully" valsi="tolsurla"></nlword>
+<nlword word="executitve board" valsi="trokamni"></nlword>
+<nlword word="executive board" valsi="trukamni" place="1"></nlword>
+<nlword word="end text scope" valsi="tu'u"></nlword>
+<nlword word="explore" valsi="tumfakli'u"></nlword>
+<nlword word="expectation" valsi="uenai"></nlword>
+<nlword word="elm" valsi="ulmu"></nlword>
+<nlword word="environment" valsi="vanbi"></nlword>
+<nlword word="evening" valsi="vanci"></nlword>
+<nlword word="end simple bridi" valsi="vau"></nlword>
+<nlword word="expressed in medium" valsi="vecu'u"></nlword>
+<nlword word="exchanged with" valsi="velcanja" place="1"></nlword>
+<nlword word="explanation" valsi="velcki"></nlword>
+<nlword word="excrete" valsi="vikmi"></nlword>
+<nlword word="erase" valsi="vimcu"></nlword>
+<nlword word="envelope" valsi="xa'arvau"></nlword>
+<nlword word="elk" sense="moose" valsi="xanjirnymirli"></nlword>
+<nlword word="earnestly desirous" valsi="xankydji"></nlword>
+<nlword word="elephant" valsi="xanto"></nlword>
+<nlword word="even" sense="emphasising" valsi="za'umai"></nlword>
+<nlword word="enjoy" valsi="zanfri"></nlword>
+<nlword word="exist" valsi="zasti"></nlword>
+<nlword word="existence" valsi="zatra'i" place="1"></nlword>
+<nlword word="engineering" sense="application of scientific principles" valsi="zbaske" place="1"></nlword>
+<nlword word="entertain" sense="agentive" valsi="zdigau"></nlword>
+<nlword word="entertainer" valsi="zdigau" place="1"></nlword>
+<nlword word="evergreen" valsi="ze'erpezytricu"></nlword>
+<nlword word="evergreen tree" valsi="ze'erpezytricu"></nlword>
+<nlword word="end prenex" valsi="zo'u"></nlword>
+<nlword word="energetic" sense="busy" valsi="zukcfu"></nlword>
+<nlword word="executive branch" valsi="zuktruci'e"></nlword></direction>

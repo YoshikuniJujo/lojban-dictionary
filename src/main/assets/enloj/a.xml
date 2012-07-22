@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><nlword word="and/or" sense="inclusive or" valsi="a"></nlword>
+<nlword word="attentive" valsi="a'a"></nlword>
+<nlword word="avoiding" valsi="a'anai"></nlword>
+<nlword word="alertness" valsi="a'e"></nlword>
+<nlword word="a" valsi="abu"></nlword>
+<nlword word="avocado" valsi="agbakate"></nlword>
+<nlword word="alphabetic language" valsi="alfabeta" place="2"></nlword>
+<nlword word="aluminium" valsi="alminiu"></nlword>
+<nlword word="amygdala" sense="brain part" valsi="amgidala"></nlword>
+<nlword word="amnion" valsi="amnio"></nlword>
+<nlword word="amniote" valsi="amniota"></nlword>
+<nlword word="amazake" valsi="amsake"></nlword>
+<nlword word="amethyst" valsi="amtisti" place="1"></nlword>
+<nlword word="ammonia" valsi="anmonia"></nlword>
+<nlword word="antelope" valsi="antilope"></nlword>
+<nlword word="arnica" valsi="arnika"></nlword>
+<nlword word="axolotl" valsi="axlte"></nlword>
+<nlword word="after" valsi="ba"></nlword>
+<nlword word="accuracy" valsi="ba'ucu'i"></nlword>
+<nlword word="accent" sense="pronunciation" valsi="ba'urtadji"></nlword>
+<nlword word="amphibian" valsi="banfi"></nlword>
+<nlword word="arch" sense="shape" valsi="bargu"></nlword>
+<nlword word="anaphora" valsi="basyvla"></nlword>
+<nlword word="ages" valsi="bavyfarvi"></nlword>
+<nlword word="aging" valsi="bavyfarvi"></nlword>
+<nlword word="anticipate" valsi="bavykri"></nlword>
+<nlword word="affianced" valsi="bavyspe"></nlword>
+<nlword word="abdominal cavity" valsi="befke'a"></nlword>
+<nlword word="association" sense="organization" valsi="bende"></nlword>
+<nlword word="abdomen" valsi="betfu"></nlword>
+<nlword word="answer abruptly" valsi="bikspu"></nlword>
+<nlword word="armchair" valsi="birstizu"></nlword>
+<nlword word="arm-wrestle" valsi="birvrajvi"></nlword>
+<nlword word="adolescent" valsi="bixma'u" place="1"></nlword>
+<nlword word="anemic" valsi="bluble"></nlword>
+<nlword word="adhesive patch" valsi="bofsnipa"></nlword>
+<nlword word="adhesive bandage" valsi="bofsnipa"></nlword>
+<nlword word="antenna" sense="electromagnetic" valsi="bonmaksi"></nlword>
+<nlword word="abyss" valsi="brafe'a"></nlword>
+<nlword word="author of novel" valsi="brafi'a" place="3"></nlword>
+<nlword word="amply overlap" valsi="brakruca"></nlword>
+<nlword word="almost ready" valsi="brejbi"></nlword>
+<nlword word="at" sense="in a particular place" valsi="bu'u"></nlword>
+<nlword word="awning" valsi="bu'udru"></nlword>
+<nlword word="as" sense="at the same instant that" valsi="ca"></nlword>
+<nlword word="actually is" valsi="ca'a"></nlword>
+<nlword word="authoritative document" valsi="ca'irvei"></nlword>
+<nlword word="as" sense="while" valsi="ca'o"></nlword>
+<nlword word="apparatus" valsi="cabra"></nlword>
+<nlword word="angle" sense="in hours" valsi="cacryra'o" place="1"></nlword>
+<nlword word="agricultural industry" valsi="cagygundi"></nlword>
+<nlword word="agricultural sector" valsi="cagygundi"></nlword>
+<nlword word="agriculture" sense="as an industry category" valsi="cagygundi"></nlword>
+<nlword word="armored combat vehicle" valsi="cakykarce"></nlword>
+<nlword word="aficionado" valsi="camselci'i"></nlword>
+<nlword word="adventurer" valsi="capli'u"></nlword>
+<nlword word="authority" valsi="catni"></nlword>
+<nlword word="actual" sense="existing in act or reality" valsi="cazyfau"></nlword>
+<nlword word="afterthought termset" valsi="ce'e"></nlword>
+<nlword word="agnostic" sense="based on doubt" valsi="ceirsenpi"></nlword>
+<nlword word="arrow" valsi="celga'a"></nlword>
+<nlword word="author" valsi="ci'arfi'i"></nlword>
+<nlword word="awake" valsi="cikna"></nlword>
+<nlword word="awaken" sense="become awake" valsi="cikybi'o"></nlword>
+<nlword word="argument roles" valsi="cimjvo" place="3"></nlword>
+<nlword word="appears perverted to" valsi="cincizra" place="4"></nlword>
+<nlword word="attractive" sense="sexually" valsi="cinmle"></nlword>
+<nlword word="attracted" sense="sexually" valsi="cinmle" place="2"></nlword>
+<nlword word="attribute" sense="trait" valsi="ckaji"></nlword>
+<nlword word="ashamed" valsi="ckeji"></nlword>
+<nlword word="author" sense="a book" valsi="ckufi'i"></nlword>
+<nlword word="author of short story" valsi="cmafi'a" place="2"></nlword>
+<nlword word="asteroid" valsi="cmaplini"></nlword>
+<nlword word="average" sense="norm" valsi="cnano"></nlword>
+<nlword word="attitudinal" valsi="cnima'o"></nlword>
+<nlword word="achievative" valsi="co'i"></nlword>
+<nlword word="ask" sense="make a request" valsi="cpedu"></nlword>
+<nlword word="ask for by saying" valsi="cpesku"></nlword>
+<nlword word="accede" valsi="cpetinbe"></nlword>
+<nlword word="advance" sense="go forward" valsi="crakla"></nlword>
+<nlword word="anteroom" valsi="craku'a"></nlword>
+<nlword word="autumn" valsi="critu"></nlword>
+<nlword word="allow" sense="rule" valsi="crujva"></nlword>
+<nlword word="action permitted" sense="by rule" valsi="crujva" place="2"></nlword>
+<nlword word="audit committee" valsi="ctakamni" place="1"></nlword>
+<nlword word="absolute value" sense="mekso operator" valsi="cu'a"></nlword>
+<nlword word="as said by" valsi="cu'u"></nlword>
+<nlword word="as said by it-1" valsi="cu'u ko'a"></nlword>
+<nlword word="affair" valsi="cuntu"></nlword>
+<nlword word="audience" sense="receiver of expression" valsi="cusku" place="3"></nlword>
+<nlword word="adapt" sense="change text" valsi="cusku'i"></nlword>
+<nlword word="all except" valsi="da'a"></nlword>
+<nlword word="argue" sense="quarrel" valsi="da'arta'a"></nlword>
+<nlword word="argue" sense="disagree angrily" valsi="da'asnu"></nlword>
+<nlword word="attitudinal attribution" valsi="da'oi"></nlword>
+<nlword word="armor" valsi="dabycalku"></nlword>
+<nlword word="answer" sense="respond to a question" valsi="dafsku"></nlword>
+<nlword word="answer" valsi="danfu"></nlword>
+<nlword word="animal" valsi="danlu"></nlword>
+<nlword word="armadillo" valsi="dapsodi"></nlword>
+<nlword word="argue" valsi="darlu"></nlword>
+<nlword word="audacity" valsi="darsi"></nlword>
+<nlword word="alias" sense="alternative name" valsi="datcme"></nlword>
+<nlword word="anniversary" valsi="detke'u"></nlword>
+<nlword word="at the locus of" valsi="di'o"></nlword>
+<nlword word="accounting" sense="recording financial information" valsi="dinveicu'u" place="1"></nlword>
+<nlword word="advise" valsi="djusku"></nlword>
+<nlword word="albatross" sense="bird" valsi="driomedeida"></nlword>
+<nlword word="as much as" valsi="du'i"></nlword>
+<nlword word="according to" valsi="du'o"></nlword>
+<nlword word="anguish" sense="to cause distress" valsi="dukri'a"></nlword>
+<nlword word="anguish" valsi="dunku"></nlword>
+<nlword word="abandon suggestion" valsi="e'ucu'i"></nlword>
+<nlword word="alcohol" sense="from which ester is derived" valsi="estre" place="2"></nlword>
+<nlword word="acid" sense="from which ester is derived" valsi="estre" place="1"></nlword>
+<nlword word="against" sense="pressed to" valsi="fa'a"></nlword>
+<nlword word="at" sense="in the direction of" valsi="fa'a"></nlword>
+<nlword word="and respectively" valsi="fa'u"></nlword>
+<nlword word="ashes" sense="combustion remains" valsi="fagyfesti"></nlword>
+<nlword word="ash" sense="fire" valsi="fagyfesti"></nlword>
+<nlword word="ash-coloured" sense="light gray" valsi="fagyfesyska"></nlword>
+<nlword word="allot" sense="agentive distribution" valsi="fairgau"></nlword>
+<nlword word="allocate" sense="agentive distribution" valsi="fairgau"></nlword>
+<nlword word="aunt or uncle" valsi="famti"></nlword>
+<nlword word="alien" valsi="fange"></nlword>
+<nlword word="annoy" valsi="fanza"></nlword>
+<nlword word="aim" sense="direct something at" valsi="fargau"></nlword>
+<nlword word="actual" sense="factual, not just apparent or even false" valsi="fatci"></nlword>
+<nlword word="as" sense="varying through time to the same proportion that" valsi="fau"></nlword>
+<nlword word="at the point of" valsi="fe'eco'i"></nlword>
+<nlword word="at the far end of" valsi="fe'emo'u"></nlword>
+<nlword word="angry" sense="mildly" valsi="fegmli"></nlword>
+<nlword word="anger" sense="cause someone to be angry" valsi="fegri'a" place="1"></nlword>
+<nlword word="angry" valsi="fengu"></nlword>
+<nlword word="apparent" sense="plain" valsi="filselga'e"></nlword>
+<nlword word="aquaculture" sense="fish farming" valsi="fipcange"></nlword>
+<nlword word="accept" sense="an offer" valsi="fitytu'i"></nlword>
+<nlword word="accepting from" valsi="fitytu'i" place="3"></nlword>
+<nlword word="accepting agent" valsi="fitytu'i" place="1"></nlword>
+<nlword word="act" sense="law" valsi="flari'a" place="5"></nlword>
+<nlword word="answering machine message" valsi="fonynoi"></nlword>
+<nlword word="ash" sense="tree" valsi="fraksino"></nlword>
+<nlword word="accuse" sense="blame" valsi="fu'esku"></nlword>
+<nlword word="above" valsi="ga'u"></nlword>
+<nlword word="article" valsi="gadri"></nlword>
+<nlword word="asshole" sense="anus" valsi="ganxo"></nlword>
+<nlword word="anus" valsi="ganxo"></nlword>
+<nlword word="arrange" sense="organize" valsi="ganzu"></nlword>
+<nlword word="agent" valsi="gasnu" place="1"></nlword>
+<nlword word="anilingus" valsi="gaxmolgle"></nlword>
+<nlword word="analingus" valsi="gaxmolgle"></nlword>
+<nlword word="anal sex" valsi="gaxygle"></nlword>
+<nlword word="anthem" sense="hymn of praise or loyalty" valsi="gricniselsa'a"></nlword>
+<nlword word="agenda" valsi="gugja'anunsnu" place="3"></nlword>
+<nlword word="ambassador" valsi="gugyka'i"></nlword>
+<nlword word="abrasive" valsi="gukcanre" place="1"></nlword>
+<nlword word="attack" valsi="gunta"></nlword>
+<nlword word="acceptance" valsi="i'a"></nlword>
+<nlword word="approval" valsi="i'e"></nlword>
+<nlword word="appreciation" valsi="i'o"></nlword>
+<nlword word="agreement" valsi="ie"></nlword>
+<nlword word="adorn" valsi="jadni"></nlword>
+<nlword word="agent conversion" valsi="jaigau"></nlword>
+<nlword word="accretion disk" sense="astronomy" valsi="jajycukla" place="1"></nlword>
+<nlword word="armoured fighting vehicle" valsi="jamkarce"></nlword>
+<nlword word="armored fighting vehicle" valsi="jamkarce"></nlword>
+<nlword word="account" valsi="janta"></nlword>
+<nlword word="account" sense="registry to a service" valsi="jaspu"></nlword>
+<nlword word="approach" sense="come nearer to something" valsi="jbibi'o"></nlword>
+<nlword word="approach" sense="get closer" valsi="jbize'a"></nlword>
+<nlword word="archbishop" valsi="jdatro"></nlword>
+<nlword word="assembly" sense="organized to make decision" valsi="jdijmaji"></nlword>
+<nlword word="amount" sense="of money" valsi="jdima" place="1"></nlword>
+<nlword word="army corps" valsi="jempau"></nlword>
+<nlword word="army division" valsi="jempaupau"></nlword>
+<nlword word="army brigade" valsi="jempausle"></nlword>
+<nlword word="army regiment" valsi="jempausle"></nlword>
+<nlword word="axle" valsi="jendu"></nlword>
+<nlword word="army" valsi="jenmi"></nlword>
+<nlword word="angle" valsi="jganu"></nlword>
+<nlword word="affronted" sense="hurt pride" valsi="jgicro"></nlword>
+<nlword word="as well" sense="in addition" valsi="ji'a"></nlword>
+<nlword word="also" valsi="ji'a"></nlword>
+<nlword word="approximately" valsi="ji'i"></nlword>
+<nlword word="aloof" valsi="jiksei"></nlword>
+<nlword word="alkali" valsi="jilka"></nlword>
+<nlword word="anvil" sense="tool" valsi="jimda'izbe"></nlword>
+<nlword word="apron" sense="clean-keeping garment" valsi="jisystota'u"></nlword>
+<nlword word="ankle" valsi="jmacidni"></nlword>
+<nlword word="add" valsi="jmina"></nlword>
+<nlword word="array" sense="mekso operator" valsi="jo'i"></nlword>
+<nlword word="attach" sense="agentive" valsi="jongau"></nlword>
+<nlword word="although" valsi="ju'aku'i"></nlword>
+<nlword word="attention" valsi="ju'i"></nlword>
+<nlword word="at ease" valsi="ju'icu'i"></nlword>
+<nlword word="address" sense="broadest sense" valsi="judri"></nlword>
+<nlword word="angle" sense="in degrees" valsi="julra'o" place="1"></nlword>
+<nlword word="attend" sense="pay attention to" valsi="jundi"></nlword>
+<nlword word="axe" valsi="ka'amru"></nlword>
+<nlword word="asset" sense="as in company financial report" valsi="kagyselpo'e" place="1"></nlword>
+<nlword word="able" valsi="kakne"></nlword>
+<nlword word="automobile" valsi="karce"></nlword>
+<nlword word="astronomy" valsi="kesyske"></nlword>
+<nlword word="applaud" valsi="ki'arzau"></nlword>
+<nlword word="acclaim" valsi="ki'arzau"></nlword>
+<nlword word="as a relation of" valsi="ki'i"></nlword>
+<nlword word="as" sense="considering that, because, since" valsi="ki'u"></nlword>
+<nlword word="anaerobic" sense="without oxygen" valsi="kijycau"></nlword>
+<nlword word="assegai" valsi="kilga'a"></nlword>
+<nlword word="arrive" valsi="klamu'o"></nlword>
+<nlword word="amount" sense="a total of things" valsi="klani" place="1"></nlword>
+<nlword word="anthropology" sense="social anthropology" valsi="kluske"></nlword>
+<nlword word="acre" valsi="kramu"></nlword>
+<nlword word="arc" sense="shape" valsi="krogarna"></nlword>
+<nlword word="ani" valsi="krotofaga"></nlword>
+<nlword word="alpaca" sense="animal" valsi="kumtrvalpaka" place="1"></nlword>
+<nlword word="apartment" sense="domicile" valsi="kumyzda" place="1"></nlword>
+<nlword word="alabaster" sense="a type of calcite mineral" valsi="kunrxalabastre"></nlword>
+<nlword word="approach" sense="become more adjacent" valsi="la'irze'a"></nlword>
+<nlword word="animal with lymph" valsi="labyblu" place="2"></nlword>
+<nlword word="antique" valsi="laldo"></nlword>
+<nlword word="adjacent" valsi="lamji"></nlword>
+<nlword word="analyze" valsi="lanli"></nlword>
+<nlword word="art" valsi="larcu"></nlword>
+<nlword word="artist" valsi="larfi'i"></nlword>
+<nlword word="art gallery" valsi="larmuzga"></nlword>
+<nlword word="aggressive" valsi="le'o"></nlword>
+<nlword word="afternoon" valsi="lecydo'i"></nlword>
+<nlword word="air conditioner" sense="machine for cooling rooms" valsi="lekmi'i"></nlword>
+<nlword word="anointer" valsi="likpu'i" place="1"></nlword>
+<nlword word="apply" sense="liquid/semi-liquid" valsi="likpu'i"></nlword>
+<nlword word="anoint" valsi="likpu'i"></nlword>
+<nlword word="anointed" sense="one on whome liquid is placed" valsi="likpu'i" place="3"></nlword>
+<nlword word="aboriginal" valsi="liryraixa'u" place="1"></nlword>
+<nlword word="aloe vera" sense="plant" valsi="lorvera"></nlword>
+<nlword word="affix compound" valsi="lujvo"></nlword>
+<nlword word="amalgam" valsi="magyxre"></nlword>
+<nlword word="atmosphere" sense="not necessarily planetary" valsi="maisru"></nlword>
+<nlword word="anglicism" sense="inappropriate" valsi="malgli"></nlword>
+<nlword word="ant" valsi="manti"></nlword>
+<nlword word="ant queen" valsi="mantymamta"></nlword>
+<nlword word="ant nest" valsi="mantyzda"></nlword>
+<nlword word="anthill" valsi="mantyzda"></nlword>
+<nlword word="azedarac" valsi="margosa"></nlword>
+<nlword word="approve" sense="judge to be appropriate" valsi="matpai"></nlword>
+<nlword word="approved" valsi="matpai" place="2"></nlword>
+<nlword word="approved for" valsi="matpai" place="3"></nlword>
+<nlword word="appoint" sense="assign" valsi="matygau"></nlword>
+<nlword word="assign" sense="appoint" valsi="matygau"></nlword>
+<nlword word="apt" sense="intelligent" valsi="mencre"></nlword>
+<nlword word="angloamerican" valsi="merkadno"></nlword>
+<nlword word="axis of symmetry" valsi="mirlanxe" place="2"></nlword>
+<nlword word="adenosine triphosphate" valsi="mivylivla"></nlword>
+<nlword word="allay" valsi="mliri'a"></nlword>
+<nlword word="alleviate" valsi="mliri'a"></nlword>
+<nlword word="arriving at" valsi="mo'ifa'a"></nlword>
+<nlword word="approximating" valsi="mo'ine'a"></nlword>
+<nlword word="along" valsi="mo'ire'o"></nlword>
+<nlword word="approaching" valsi="mo'izo'i"></nlword>
+<nlword word="audience of reminder" valsi="mojgaunoi" place="5"></nlword>
+<nlword word="author of reminder" valsi="mojgaunoi" place="4"></nlword>
+<nlword word="adze" sense="woodworking tool" valsi="mudyxultci"></nlword>
+<nlword word="after" sense="sequence of events" valsi="mulcabna"></nlword>
+<nlword word="aggregate" sense="mass, completely specified" valsi="mulgunma"></nlword>
+<nlword word="almost complete" valsi="muljbi"></nlword>
+<nlword word="annual report" valsi="na'arkagnoi"></nlword>
+<nlword word="atypically" valsi="na'onai"></nlword>
+<nlword word="absolute value" sense="operation result" valsi="nacnilbra"></nlword>
+<nlword word="androphile" valsi="nakcinse" place="1"></nlword>
+<nlword word="atheist" valsi="nalceikri"></nlword>
+<nlword word="abstain from eating" valsi="nalcti"></nlword>
+<nlword word="averse to " valsi="naldjica"></nlword>
+<nlword word="atypical" valsi="nalfadni"></nlword>
+<nlword word="agree" sense="consent" valsi="nalpro"></nlword>
+<nlword word="awol" valsi="nalzva"></nlword>
+<nlword word="absent" valsi="nalzva"></nlword>
+<nlword word="almost" sense="very close" valsi="naru'e"></nlword>
+<nlword word="among" sense="in" valsi="ne'i"></nlword>
+<nlword word="axis" sense="vertebra" valsi="nebjendu"></nlword>
+<nlword word="amount abstract" valsi="ni"></nlword>
+<nlword word="anion" valsi="ni'u zei ionti"></nlword>
+<nlword word="age" valsi="nilnalci'o"></nlword>
+<nlword word="adhesive tape" valsi="nipsri"></nlword>
+<nlword word="anesthetic" sense="substance" valsi="nircadyxu'i"></nlword>
+<nlword word="alone" valsi="nonkansa"></nlword>
+<nlword word="apathetic" sense="neither hopes nor dreads" valsi="norpa'a"></nlword>
+<nlword word="an aside, a not important expression; an obscure interpretation of" valsi="norvaismu"></nlword>
+<nlword word="announce" valsi="notsku"></nlword>
+<nlword word="arbitration" valsi="nunpai"></nlword>
+<nlword word="agriculture" sense="industry" valsi="nuntumcrepu" place="1"></nlword>
+<nlword word="archival medium" valsi="nurbe'i" place="3"></nlword>
+<nlword word="archive" valsi="nurbe'i"></nlword>
+<nlword word="archivist" valsi="nurbe'i" place="1"></nlword>
+<nlword word="archived information" valsi="nurbe'i" place="2"></nlword>
+<nlword word="anger" sense="the emotion" valsi="o'onai"></nlword>
+<nlword word="anxiety" valsi="oiro'i"></nlword>
+<nlword word="among" sense="with a share for each" valsi="pa'aseva'u"></nlword>
+<nlword word="across" sense="to the other side" valsi="pa'o"></nlword>
+<nlword word="arbitrate" valsi="paijdi"></nlword>
+<nlword word="adjudicate" valsi="paijdi"></nlword>
+<nlword word="apricot" valsi="pelsmela"></nlword>
+<nlword word="approximately all of" valsi="piji'i"></nlword>
+<nlword word="artist" sense="painting artwork" valsi="pirlarfi'i" place="1"></nlword>
+<nlword word="art form" sense="style of painting" valsi="pirlarfi'i" place="3"></nlword>
+<nlword word="all of" valsi="piro"></nlword>
+<nlword word="almost all of" valsi="piso'a"></nlword>
+<nlword word="a little of" valsi="piso'u"></nlword>
+<nlword word="at least some of" valsi="pisu'o"></nlword>
+<nlword word="allow use" valsi="plicru"></nlword>
+<nlword word="adopt" sense="for use" valsi="plicu'a"></nlword>
+<nlword word="apply" sense="put to use" valsi="pliri'a"></nlword>
+<nlword word="application" sense="the thing applied" valsi="pliri'a" place="1"></nlword>
+<nlword word="apple" valsi="plise"></nlword>
+<nlword word="apple tree" valsi="plisytricu"></nlword>
+<nlword word="airliner" valsi="previnji"></nlword>
+<nlword word="anticipative" valsi="pu'o"></nlword>
+<nlword word="actually was" valsi="puca'a"></nlword>
+<nlword word="adolescence" valsi="puvma'ubi'o" place="1"></nlword>
+<nlword word="a medium time before" valsi="puza"></nlword>
+<nlword word="a short time before" valsi="puzi"></nlword>
+<nlword word="a long time before" valsi="puzu"></nlword>
+<nlword word="accept" sense="admit" valsi="radji'i"></nlword>
+<nlword word="admit" sense="concede" valsi="radji'i" place="1"></nlword>
+<nlword word="admits" sense="concedes" valsi="radji'i" place="1"></nlword>
+<nlword word="admission" sense="concession" valsi="radji'i" place="2"></nlword>
+<nlword word="affix" valsi="rafsi"></nlword>
+<nlword word="across" valsi="ragve"></nlword>
+<nlword word="atomic nucleus" valsi="ratmidju" place="1"></nlword>
+<nlword word="atom nucleus" valsi="ratmidju" place="1"></nlword>
+<nlword word="atom" valsi="ratni"></nlword>
+<nlword word="are enough" valsi="raumei"></nlword>
+<nlword word="absurd" sense="factual but contrary to expectation" valsi="raxfatci"></nlword>
+<nlword word="absurdity" valsi="raxfatci"></nlword>
+<nlword word="adjacent to" valsi="re'o"></nlword>
+<nlword word="automaton" sense="humanoid" valsi="remsmimi'i" place="1"></nlword>
+<nlword word="android" sense="unintelligent" valsi="remsmimi'i"></nlword>
+<nlword word="ape" sense="animal" valsi="remsmismani"></nlword>
+<nlword word="ask" sense="ask a question" valsi="retsku"></nlword>
+<nlword word="almond" valsi="ri'orsmela"></nlword>
+<nlword word="avoid" valsi="rivbi"></nlword>
+<nlword word="antisocial" valsi="ro'anai"></nlword>
+<nlword word="always" valsi="roroi"></nlword>
+<nlword word="angiosperm" valsi="rulspa"></nlword>
+<nlword word="artificial language" valsi="runbau"></nlword>
+<nlword word="artificial intelligence" valsi="runmenli"></nlword>
+<nlword word="artifact" valsi="rutni"></nlword>
+<nlword word="acerola" valsi="rutrmalpigi"></nlword>
+<nlword word="arise" sense="stand up" valsi="sa'irbi'o"></nlword>
+<nlword word="aspirate" valsi="sakyva'u"></nlword>
+<nlword word="address" sense="computer" valsi="samjudri" place="1"></nlword>
+<nlword word="application" sense="computer" valsi="samtci"></nlword>
+<nlword word="acetaldehyde" valsi="sarvanxu'u"></nlword>
+<nlword word="at specific locus" valsi="sedi'o"></nlword>
+<nlword word="agree by nodding" valsi="sedmu'utu'i"></nlword>
+<nlword word="against" sense="in opposition to" valsi="sefa'e"></nlword>
+<nlword word="at" sense="occupied in (activity)" valsi="segau"></nlword>
+<nlword word="as agent in doing" valsi="segau"></nlword>
+<nlword word="as a limit of" valsi="seji'e"></nlword>
+<nlword word="as boundary of" valsi="sekoi"></nlword>
+<nlword word="at" sense="(indicate a position on a scale)" valsi="sela'u"></nlword>
+<nlword word="apparatus function" valsi="selca'a" place="1"></nlword>
+<nlword word="accompaniment [for dance]" valsi="seldansu"></nlword>
+<nlword word="argument" sense="position or stand" valsi="seldau"></nlword>
+<nlword word="affection" sense="emotional attachment" valsi="seldirba"></nlword>
+<nlword word="arccosine" valsi="seldutsinso" place="1"></nlword>
+<nlword word="arc cosine" valsi="seldutsinso"></nlword>
+<nlword word="as a category of" valsi="sele'a"></nlword>
+<nlword word="aim" sense="direct towards" valsi="selfargau"></nlword>
+<nlword word="altar" valsi="selfityjbu"></nlword>
+<nlword word="adorned" valsi="selja'i"></nlword>
+<nlword word="adherents" valsi="seljda"></nlword>
+<nlword word="adherent" sense="religion" valsi="seljda"></nlword>
+<nlword word="addition" sense="anything that is added" valsi="seljmina"></nlword>
+<nlword word="attended to" valsi="selju'i"></nlword>
+<nlword word="able to be done" valsi="selka'e"></nlword>
+<nlword word="area" sense="range" valsi="selku'e"></nlword>
+<nlword word="author of memorandum" valsi="selmojnoi" place="4"></nlword>
+<nlword word="audience of memorandum" valsi="selmojnoi" place="5"></nlword>
+<nlword word="arcsine" valsi="selsinso" place="1"></nlword>
+<nlword word="acoustic transducer" valsi="selsnapra"></nlword>
+<nlword word="arctangent" valsi="seltanjo" place="1"></nlword>
+<nlword word="alphabet" valsi="selyle'u"></nlword>
+<nlword word="amused" valsi="selzdi"></nlword>
+<nlword word="as a standard for" valsi="sema'i"></nlword>
+<nlword word="as a name for" valsi="seme'e"></nlword>
+<nlword word="as a part of" valsi="sepa'u"></nlword>
+<nlword word="apart" valsi="sepli"></nlword>
+<nlword word="about" sense="having to do with" valsi="sera'a"></nlword>
+<nlword word="as an origin of" valsi="sera'i"></nlword>
+<nlword word="assisting" valsi="sesi'u"></nlword>
+<nlword word="as a method for" valsi="seta'i"></nlword>
+<nlword word="as a form of" valsi="setai"></nlword>
+<nlword word="at the same time as" valsi="seti'u"></nlword>
+<nlword word="as a location of" valsi="setu'i"></nlword>
+<nlword word="as conditions for" valsi="seva'o"></nlword>
+<nlword word="approving" valsi="sezau"></nlword>
+<nlword word="autistic" valsi="sezga'o"></nlword>
+<nlword word="affect" valsi="sezmlugau"></nlword>
+<nlword word="autobiography" valsi="sezycitri"></nlword>
+<nlword word="autobiographer" valsi="sezyskinoi" place="2"></nlword>
+<nlword word="aided by" valsi="si'u"></nlword>
+<nlword word="aerial tramway" valsi="skoma'e"></nlword>
+<nlword word="answer" sense="agentive" valsi="skuspu"></nlword>
+<nlword word="acid" valsi="slami"></nlword>
+<nlword word="appear similar to" valsi="smimlu"></nlword>
+<nlword word="antonym" valsi="smudukti"></nlword>
+<nlword word="acoustic signal" valsi="snasni"></nlword>
+<nlword word="assign" valsi="snigau"></nlword>
+<nlword word="adhere" valsi="snipa"></nlword>
+<nlword word="accidental" valsi="snuti"></nlword>
+<nlword word="almost all" valsi="so'a"></nlword>
+<nlword word="a few times" valsi="so'uroi"></nlword>
+<nlword word="anticipate" sense="high probability" valsi="sojypa'a"></nlword>
+<nlword word="army battalion" valsi="songri"></nlword>
+<nlword word="army company" valsi="songripau"></nlword>
+<nlword word="army platoon" valsi="songripausle"></nlword>
+<nlword word="armored personnel carrier" valsi="sonjamkarce"></nlword>
+<nlword word="armoured personnel carrier" valsi="sonjamkarce"></nlword>
+<nlword word="aphid" valsi="spacivla"></nlword>
+<nlword word="asparagus" valsi="sparagusa"></nlword>
+<nlword word="allergic" valsi="srebadbi'a" place="1"></nlword>
+<nlword word="allergic reaction" valsi="srebadbi'a" place="3"></nlword>
+<nlword word="allergen" valsi="srebadbi'a" place="2"></nlword>
+<nlword word="allergy" valsi="srebandu"></nlword>
+<nlword word="audiotape" valsi="srimakyvelvei"></nlword>
+<nlword word="assume" valsi="sruma"></nlword>
+<nlword word="anchor" sense="cast anchor" valsi="stagau"></nlword>
+<nlword word="adjust" valsi="stika"></nlword>
+<nlword word="antipodes" valsi="studukti"></nlword>
+<nlword word="at most" valsi="su'e"></nlword>
+<nlword word="at least" valsi="su'o"></nlword>
+<nlword word="abstract" valsi="sucta"></nlword>
+<nlword word="add up to" valsi="sujysi'u"></nlword>
+<nlword word="argument" valsi="sumti"></nlword>
+<nlword word="accelerate" sense="quicken the motion/process" valsi="sutyze'a"></nlword>
+<nlword word="accelerator" valsi="sutyze'a" place="1"></nlword>
+<nlword word="adopt" sense="embrace" valsi="tadjycpa"></nlword>
+<nlword word="as" sense="in the same way that" valsi="tai"></nlword>
+<nlword word="asterisc" valsi="tarbu'i" place="1"></nlword>
+<nlword word="asterisk" valsi="tarbu'i" place="1"></nlword>
+<nlword word="abort" sense="induce termination of pregnancy" valsi="tarbyvi'u" place="1"></nlword>
+<nlword word="abort/induce" sense="cause termination of pregnancy" valsi="tarbyvi'u" place="1"></nlword>
+<nlword word="ancient" valsi="tcepru"></nlword>
+<nlword word="archea" sense="microorganism" valsi="tceprujurme"></nlword>
+<nlword word="archeology" valsi="tcepruske"></nlword>
+<nlword word="alpaca" valsi="tcokumte"></nlword>
+<nlword word="as told to" valsi="tecu'u"></nlword>
+<nlword word="at locus within range" valsi="tedi'o"></nlword>
+<nlword word="as a name used by" valsi="teme'e"></nlword>
+<nlword word="alarmed" valsi="tepselspaji"></nlword>
+<nlword word="alarm" sense="startle" valsi="tepspaji"></nlword>
+<nlword word="at extreme" valsi="terai"></nlword>
+<nlword word="apparatus operator" valsi="terca'a" place="1"></nlword>
+<nlword word="air for fire" valsi="terfagri"></nlword>
+<nlword word="aim" sense="object to be reached" valsi="terzu'e"></nlword>
+<nlword word="assisting in" valsi="tesi'u"></nlword>
+<nlword word="associated with time" valsi="ti'u"></nlword>
+<nlword word="at" sense="(indicating time)" valsi="ti'u"></nlword>
+<nlword word="adjust" sense="somebody changes something" valsi="tikygau"></nlword>
+<nlword word="away from point" valsi="to'o"></nlword>
+<nlword word="abject" sense="contemptible" valsi="tolba'i"></nlword>
+<nlword word="appear" sense="suddenly" valsi="tolcanci"></nlword>
+<nlword word="apparition" valsi="tolcanci" place="1"></nlword>
+<nlword word="apparition sensor" valsi="tolcanci" place="3"></nlword>
+<nlword word="apparition location" valsi="tolcanci" place="2"></nlword>
+<nlword word="active" sense="busy" valsi="tolcando"></nlword>
+<nlword word="adjourn" sense="by following established proceedings" valsi="tolcfari'i"></nlword>
+<nlword word="arrogant" valsi="tolcumla"></nlword>
+<nlword word="ascend" valsi="tolfa'u"></nlword>
+<nlword word="awkward" sense="uncomfortable" valsi="tolkufra"></nlword>
+<nlword word="arrival" sense="someone who arrives" valsi="tolyli'a" place="1"></nlword>
+<nlword word="attract" valsi="trina"></nlword>
+<nlword word="appeal" sense="by expressing" valsi="trisku"></nlword>
+<nlword word="attempt" sense="to try" valsi="troci"></nlword>
+<nlword word="anarchy" sense="a theory that regards the absence of all direct or coercive government as a political ideal" valsi="trucau"></nlword>
+<nlword word="agency" sense="of ministry or government department" valsi="trupausle"></nlword>
+<nlword word="associated with site" valsi="tu'i"></nlword>
+<nlword word="agree" valsi="tugni"></nlword>
+<nlword word="amusement" valsi="u'i"></nlword>
+<nlword word="additive inverse" valsi="va'a"></nlword>
+<nlword word="air" valsi="vacri"></nlword>
+<nlword word="acetic acid" valsi="vanslami"></nlword>
+<nlword word="air mass" sense="weather" valsi="varmebri" place="2"></nlword>
+<nlword word="atmosphere" sense="of planet" valsi="varxamsi"></nlword>
+<nlword word="atmospheric science" valsi="varxasyske"></nlword>
+<nlword word="asphyxiate" sense="transitive" valsi="vaxydicra"></nlword>
+<nlword word="advertisement" valsi="venynoi"></nlword>
+<nlword word="ad" sense="advertisement" valsi="venynoi"></nlword>
+<nlword word="advert" sense="advertisement" valsi="venynoi"></nlword>
+<nlword word="advertising" sense="business or function" valsi="venynoicu'u"></nlword>
+<nlword word="aircraft carrier" valsi="vijblo"></nlword>
+<nlword word="airplane pilot" valsi="vijysazri"></nlword>
+<nlword word="airborne soldier" valsi="vijysoi"></nlword>
+<nlword word="airport" valsi="vijytcana"></nlword>
+<nlword word="airdrome" valsi="vijytcana"></nlword>
+<nlword word="airplane" valsi="vinji"></nlword>
+<nlword word="attend" sense="be at an event" valsi="vitke"></nlword>
+<nlword word="alternation" valsi="vlina"></nlword>
+<nlword word="aisle" valsi="vorlu'a"></nlword>
+<nlword word="already" sense="starting before natural beginning" valsi="xa'o"></nlword>
+<nlword word="amount of worseness" sense="by the standard of goodness" valsi="xagme'a" place="5"></nlword>
+<nlword word="alcohol" valsi="xalka"></nlword>
+<nlword word="alcohol poisoning" valsi="xalnunvindu"></nlword>
+<nlword word="ampere" valsi="xampo"></nlword>
+<nlword word="anxious" sense="earnestly desirous" valsi="xankydji"></nlword>
+<nlword word="applause" sense="hand clap" valsi="xanvruzau"></nlword>
+<nlword word="arm" sense="weapon" valsi="xarci"></nlword>
+<nlword word="artichoke" valsi="xarcufu"></nlword>
+<nlword word="amount of betterness" valsi="xauzma" place="5"></nlword>
+<nlword word="alligator" valsi="xejrespa"></nlword>
+<nlword word="artillery gun" valsi="xilcelxa'i"></nlword>
+<nlword word="artillery" valsi="xilcelxa'i"></nlword>
+<nlword word="armoured car" sense="military" valsi="xiljamkarce"></nlword>
+<nlword word="armored car" sense="military" valsi="xiljamkarce"></nlword>
+<nlword word="ask someone to return" valsi="xrucpe"></nlword>
+<nlword word="assert" valsi="xusra"></nlword>
+<nlword word="again" valsi="za'ure'u"></nlword>
+<nlword word="approve" valsi="zanru"></nlword>
+<nlword word="accept" sense="receive with consent" valsi="zarcpa"></nlword>
+<nlword word="age" sense="grow aged" valsi="zatra'i"></nlword>
+<nlword word="approved by" valsi="zau"></nlword>
+<nlword word="assembly" sense="activity of assembling" valsi="zbacu'u"></nlword>
+<nlword word="amusing" valsi="zdile"></nlword>
+<nlword word="anecdote" valsi="zdilisri"></nlword>
+<nlword word="amusement park" valsi="zdipanka"></nlword>
+<nlword word="accused" valsi="zerfuzyxu'a" place="2"></nlword>
+<nlword word="accuser" valsi="zerfuzyxu'a" place="1"></nlword>
+<nlword word="accusation" valsi="zerfuzyxu'a" place="3"></nlword>
+<nlword word="accuse" sense="charge of wrongdoing" valsi="zerfuzyxu'a"></nlword>
+<nlword word="automatic" valsi="zmiku"></nlword>
+<nlword word="activity abstract" valsi="zu'o"></nlword>
+<nlword word="actor" sense="purposeful entity" valsi="zukte" place="1"></nlword>
+<nlword word="act" valsi="zukte"></nlword>
+<nlword word="adviser" valsi="zukti'i" place="1"></nlword>
+<nlword word="advice" valsi="zukti'i" place="2"></nlword>
+<nlword word="at" valsi="zvati"></nlword></direction>

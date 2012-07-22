@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><nlword word="sumti or" valsi="a"></nlword>
+<nlword word="spotflower" valsi="akmela"></nlword>
+<nlword word="sparrowhawk" valsi="aksiptrina"></nlword>
+<nlword word="spoken message" valsi="ba'urnoi"></nlword>
+<nlword word="say" sense="express" valsi="ba'usku"></nlword>
+<nlword word="speech stream" valsi="ba'usle" place="2"></nlword>
+<nlword word="segment" sense="phonetics" valsi="ba'usle" place="1"></nlword>
+<nlword word="speech sound" valsi="ba'usle"></nlword>
+<nlword word="sad" valsi="badri"></nlword>
+<nlword word="steak" valsi="bakrecpa'o"></nlword>
+<nlword word="slate" sense="chalkboard" valsi="bakryta'o"></nlword>
+<nlword word="student" sense="university-level" valsi="balcu'e" place="4"></nlword>
+<nlword word="sociolinguistics" valsi="banjikske"></nlword>
+<nlword word="suffice" valsi="banzu"></nlword>
+<nlword word="spot" sense="patch on surface" valsi="barna"></nlword>
+<nlword word="speak" sense="to speak a language" valsi="baupli"></nlword>
+<nlword word="say" sense="to speak a language" valsi="baupli"></nlword>
+<nlword word="sent by" valsi="be'i"></nlword>
+<nlword word="satiation" valsi="be'unai"></nlword>
+<nlword word="short shirt" valsi="befcaucreka"></nlword>
+<nlword word="send" valsi="benji"></nlword>
+<nlword word="son" valsi="bersa"></nlword>
+<nlword word="sled" sense="transport vehicle" valsi="bevma'e"></nlword>
+<nlword word="sickly" valsi="bi'amlu"></nlword>
+<nlword word="still" sense="without wind" valsi="bifcau"></nlword>
+<nlword word="snap" sense="say abruptly" valsi="biksku"></nlword>
+<nlword word="say sharply" sense="s" valsi="biksku"></nlword>
+<nlword word="say abruptly" valsi="biksku"></nlword>
+<nlword word="snap" sense="answer abruptly" valsi="bikspu"></nlword>
+<nlword word="shoulder" sense="arm" valsi="birjanco"></nlword>
+<nlword word="sleeve" sense="arm part of garment" valsi="birtafpau"></nlword>
+<nlword word="sleeve" sense="for arm" valsi="birtu'u"></nlword>
+<nlword word="sleeveless" valsi="birtu'ucau"></nlword>
+<nlword word="snowshed" valsi="bisri'e" place="3"></nlword>
+<nlword word="standard" valsi="bixma'u" place="3"></nlword>
+<nlword word="sloe" valsi="blasmela"></nlword>
+<nlword word="shipmaster" valsi="bloja'a"></nlword>
+<nlword word="ship's captain" valsi="bloja'a"></nlword>
+<nlword word="shipcaptain" valsi="bloja'a"></nlword>
+<nlword word="shaft" sense="for boat propeller" valsi="blomatryga'a"></nlword>
+<nlword word="sailor" valsi="blopre"></nlword>
+<nlword word="seaport" valsi="blotcana"></nlword>
+<nlword word="short scope link" valsi="bo"></nlword>
+<nlword word="shawl" valsi="bofkosta"></nlword>
+<nlword word="sticky foil" valsi="bofsnipa"></nlword>
+<nlword word="sticky patch" valsi="bofsnipa" place="1"></nlword>
+<nlword word="skeleton" valsi="bogygreku"></nlword>
+<nlword word="spine" sense="set of bones" valsi="bogykamju"></nlword>
+<nlword word="soccer game" valsi="boltipterjvi" place="1"></nlword>
+<nlword word="soccer ball" valsi="boltipyboi" place="1"></nlword>
+<nlword word="soccer player" valsi="boltipyjvi" place="1"></nlword>
+<nlword word="sufringboard" valsi="bonjacta'o"></nlword>
+<nlword word="sheet" valsi="boxfo"></nlword>
+<nlword word="ship" sense="boat" valsi="brablo"></nlword>
+<nlword word="smaller" sense="by the standard of bigness" valsi="brame'a"></nlword>
+<nlword word="shaddock" valsi="branimre"></nlword>
+<nlword word="steep" valsi="brasa'o"></nlword>
+<nlword word="synagogue" valsi="bromalsi"></nlword>
+<nlword word="sweep" sense="clean with brush" valsi="brulu'i"></nlword>
+<nlword word="some selbri 1" valsi="bu'a"></nlword>
+<nlword word="some selbri 2" valsi="bu'e"></nlword>
+<nlword word="some selbri 3" valsi="bu'i"></nlword>
+<nlword word="start emotion" valsi="bu'o"></nlword>
+<nlword word="shove" sense="move by pushing" valsi="ca'ermuvgau"></nlword>
+<nlword word="same day" valsi="cabdei"></nlword>
+<nlword word="simultaneous" valsi="cabna"></nlword>
+<nlword word="stare" valsi="caicta"></nlword>
+<nlword word="snail" valsi="cakcurnu"></nlword>
+<nlword word="space-time" valsi="caljvetei" place="1"></nlword>
+<nlword word="shell" valsi="calku"></nlword>
+<nlword word="scream" sense="an expression" valsi="camki'a"></nlword>
+<nlword word="silicium" valsi="cancmu"></nlword>
+<nlword word="silicon" valsi="cancmu"></nlword>
+<nlword word="space" valsi="canlu"></nlword>
+<nlword word="shovel" valsi="canpa"></nlword>
+<nlword word="sand" valsi="canre"></nlword>
+<nlword word="snarl" sense="make threatening noise" valsi="capsidba'u"></nlword>
+<nlword word="shove" valsi="catke"></nlword>
+<nlword word="sentence to death" valsi="catrymi'e"></nlword>
+<nlword word="shower" sense="wash by showering" valsi="cavlu'i"></nlword>
+<nlword word="shower" sense="take a shower" valsi="cavysezlu'i"></nlword>
+<nlword word="shallow" valsi="caxno"></nlword>
+<nlword word="shoot" sense="attack" valsi="celgunta"></nlword>
+<nlword word="shooter" sense="attacker" valsi="celgunta" place="1"></nlword>
+<nlword word="sanctify" valsi="cesri'a"></nlword>
+<nlword word="scripture" sense="religious book" valsi="cesycku"></nlword>
+<nlword word="start" sense="cause to begin" valsi="cfagau"></nlword>
+<nlword word="start" sense="by following established proceedings" valsi="cfari'i"></nlword>
+<nlword word="sit down" sense="begin sitting" valsi="cfatse"></nlword>
+<nlword word="secretary" sense="office aide" valsi="ci'arse'u" place="1"></nlword>
+<nlword word="score" sense="game" valsi="ci'erkeilai" place="2"></nlword>
+<nlword word="savage" sense="person" valsi="cicre'a"></nlword>
+<nlword word="source tanru" valsi="cimjvo" place="4"></nlword>
+<nlword word="swamp" sense="wetland" valsi="cimtu'a" place="1"></nlword>
+<nlword word="swampy" valsi="cimtu'a" place="2"></nlword>
+<nlword word="string" sense="thin cord" valsi="cinlysko" place="1"></nlword>
+<nlword word="string material" valsi="cinlysko" place="2"></nlword>
+<nlword word="sultry" sense="attractive" valsi="cinmle"></nlword>
+<nlword word="sex bomb" valsi="cinmle" place="1"></nlword>
+<nlword word="sensual" valsi="cinmle"></nlword>
+<nlword word="sexy" valsi="cinmle"></nlword>
+<nlword word="sea gull" valsi="cipnrlaridei"></nlword>
+<nlword word="seagull" valsi="cipnrlaridei"></nlword>
+<nlword word="source;testpaper source" valsi="cipyple" place="2"></nlword>
+<nlword word="subject;testpaper subject" valsi="cipyple" place="4"></nlword>
+<nlword word="smile" valsi="cisma"></nlword>
+<nlword word="smile at" valsi="cismyfra"></nlword>
+<nlword word="size" valsi="cisni" place="1"></nlword>
+<nlword word="system" valsi="ciste"></nlword>
+<nlword word="season" valsi="citsi"></nlword>
+<nlword word="strange" valsi="cizra"></nlword>
+<nlword word="scale" valsi="ckilu"></nlword>
+<nlword word="school" valsi="ckule"></nlword>
+<nlword word="squeal" sense="long high-pitched sound" valsi="clabrato'a"></nlword>
+<nlword word="sword" valsi="cladakyxa'i" place="1"></nlword>
+<nlword word="swordsman" valsi="cladakyxa'i" place="3"></nlword>
+<nlword word="shorter" valsi="clame'a"></nlword>
+<nlword word="sigh" sense="express with a long breath" valsi="clavaxsku"></nlword>
+<nlword word="short story" sense="short prose narrative" valsi="cmafi'a" place="1"></nlword>
+<nlword word="small" valsi="cmalu"></nlword>
+<nlword word="smaller" sense="by the standard of smallness" valsi="cmamau"></nlword>
+<nlword word="splinter" sense="wood" valsi="cmamudyspi"></nlword>
+<nlword word="scone" sense="bakery article" valsi="cmananba"></nlword>
+<nlword word="smallest" sense="by the standard of smallness" valsi="cmarai"></nlword>
+<nlword word="stream" sense="body of water" valsi="cmari'e"></nlword>
+<nlword word="structure word" valsi="cmavo"></nlword>
+<nlword word="small nest" valsi="cmazda"></nlword>
+<nlword word="shrink" sense="become diminished" valsi="cmaze'a"></nlword>
+<nlword word="suffrage" sense="the right to vote" valsi="cmicu'akrali"></nlword>
+<nlword word="show emotion" valsi="cnija'o"></nlword>
+<nlword word="sense" sense="sensibility" valsi="cnirango"></nlword>
+<nlword word="sensibility" valsi="cnirango"></nlword>
+<nlword word="spite" sense="offend" valsi="cnixai"></nlword>
+<nlword word="start to become" valsi="co'arbi'o"></nlword>
+<nlword word="starts to say" valsi="co'asku"></nlword>
+<nlword word="soak up" valsi="cokcu"></nlword>
+<nlword word="spiky plant" valsi="cpinyspa"></nlword>
+<nlword word="subject learned [about]" valsi="crebi'o" place="2"></nlword>
+<nlword word="shirt" valsi="creka"></nlword>
+<nlword word="science of gnomes" valsi="cridyske"></nlword>
+<nlword word="science of sprites" valsi="cridyske"></nlword>
+<nlword word="science of goblins" valsi="cridyske"></nlword>
+<nlword word="science of elves" valsi="cridyske"></nlword>
+<nlword word="science of mythical humanoids" valsi="cridyske"></nlword>
+<nlword word="science of fairies" valsi="cridyske"></nlword>
+<nlword word="science of pixies" valsi="cridyske"></nlword>
+<nlword word="summer" valsi="crisa"></nlword>
+<nlword word="sadomasochist" valsi="crogle"></nlword>
+<nlword word="spicy" sense="hot taste" valsi="crovu'i"></nlword>
+<nlword word="sufficient" sense="condition" valsi="crutcini" place="1"></nlword>
+<nlword word="supper" valsi="ctesai"></nlword>
+<nlword word="shadow" valsi="ctino"></nlword>
+<nlword word="set up a diet" valsi="ctipla"></nlword>
+<nlword word="selbri separator" valsi="cu"></nlword>
+<nlword word="slate" sense="of candidates" valsi="cu'acmi" place="4"></nlword>
+<nlword word="sides" sense="of a polyhedral" valsi="cu'arkubli" place="2"></nlword>
+<nlword word="state" sense="of a polyhedral" valsi="cu'arkubli" place="3"></nlword>
+<nlword word="supplicate" valsi="culcpe"></nlword>
+<nlword word="sales opportunity" valsi="cumnunve'u"></nlword>
+<nlword word="sales lead" valsi="cumnunve'u"></nlword>
+<nlword word="science fiction" sense="exploration of possible worlds" valsi="cumymu'efi'a"></nlword>
+<nlword word="shuffled" sense="randomly distributed" valsi="cunfai"></nlword>
+<nlword word="shuffle" sense="randomly distribute" valsi="cunfaigau"></nlword>
+<nlword word="spokesman" sense="non-gender-neutral version of spokesperson" valsi="cuska'i"></nlword>
+<nlword word="spokesperson" valsi="cuska'i"></nlword>
+<nlword word="spokeswoman" sense="non-gender-neutral version of spokesperson" valsi="cuska'i"></nlword>
+<nlword word="say" valsi="cusku"></nlword>
+<nlword word="shoe" valsi="cutci"></nlword>
+<nlword word="sternum" sense="body-part" valsi="cutybo'u"></nlword>
+<nlword word="something 1" valsi="da"></nlword>
+<nlword word="supposing" valsi="da'i"></nlword>
+<nlword word="suspend" sense="hang" valsi="dadgau"></nlword>
+<nlword word="sidewalk" valsi="dagysfe"></nlword>
+<nlword word="sack" valsi="dakli"></nlword>
+<nlword word="sleeping bag" valsi="daklycka"></nlword>
+<nlword word="spread" sense="ranch site" valsi="dalcange" place="2"></nlword>
+<nlword word="struggle" sense="fight" valsi="damba"></nlword>
+<nlword word="smoke" sense="emitted from chimney" valsi="damtu'u" place="3"></nlword>
+<nlword word="stack" sense="one chimney" valsi="damtu'u"></nlword>
+<nlword word="smoke" sense="inhale smoke" valsi="damva'u" place="1"></nlword>
+<nlword word="smoke" valsi="danmo"></nlword>
+<nlword word="stay back " valsi="darsta"></nlword>
+<nlword word="strike" sense="hit" valsi="darxi"></nlword>
+<nlword word="socket" sense="computer" valsi="datnyxle"></nlword>
+<nlword word="straight" sense="heterosexual" valsi="datpavycinglepre"></nlword>
+<nlword word="something 2" valsi="de"></nlword>
+<nlword word="soon utterance" valsi="de'e"></nlword>
+<nlword word="shrub" valsi="demspa"></nlword>
+<nlword word="squat" sense="crouch" valsi="demtse"></nlword>
+<nlword word="slide fastener" valsi="denstela"></nlword>
+<nlword word="sprout" sense="from the ground" valsi="derba'o" place="2"></nlword>
+<nlword word="sprouting object" sense="from the ground" valsi="derba'o" place="1"></nlword>
+<nlword word="sprout" sense="germinate" valsi="derjbe"></nlword>
+<nlword word="sink" sense="submerge" valsi="derse'a"></nlword>
+<nlword word="soil science" valsi="derske"></nlword>
+<nlword word="shake" valsi="desku"></nlword>
+<nlword word="shake" sense="shaking something" valsi="desygau"></nlword>
+<nlword word="shake" sense="intentionally" valsi="desyzu'e"></nlword>
+<nlword word="scheduled time and date" valsi="detytcikygau" place="2"></nlword>
+<nlword word="scheduled event" valsi="detytcikygau" place="3"></nlword>
+<nlword word="scheduler" valsi="detytcikygau" place="1"></nlword>
+<nlword word="schedule" sense="plan time and date for event" valsi="detytcikygau"></nlword>
+<nlword word="something 3" valsi="di"></nlword>
+<nlword word="stalagmite" valsi="digyligykamju"></nlword>
+<nlword word="stalactite" valsi="digyligykamju"></nlword>
+<nlword word="story" sense="level of building" valsi="dijysenta"></nlword>
+<nlword word="salary" valsi="dikle'i" place="2"></nlword>
+<nlword word="suffocate" sense="intransitive" valsi="dirva'u"></nlword>
+<nlword word="starve" sense="to death" valsi="djacaumro"></nlword>
+<nlword word="starver" valsi="djacaumro" place="1"></nlword>
+<nlword word="stomach" sense="digestive organ" valsi="djaruntyrango"></nlword>
+<nlword word="second person pronoun" valsi="donma'o"></nlword>
+<nlword word="same identity as" valsi="du"></nlword>
+<nlword word="satiated" valsi="dusfri"></nlword>
+<nlword word="stick" sense="walking stick" valsi="dzuga'a"></nlword>
+<nlword word="sumti and" valsi="e"></nlword>
+<nlword word="suggestion" valsi="e'u"></nlword>
+<nlword word="sumti but not" valsi="enai"></nlword>
+<nlword word="stoat" valsi="ermine"></nlword>
+<nlword word="spark" sense="ember" valsi="fagyka'u"></nlword>
+<nlword word="socialism" sense="politics" valsi="fairpaltrusi'o"></nlword>
+<nlword word="socialist political ideology" valsi="fairpaltrusi'o"></nlword>
+<nlword word="share of profit" sense="profit sharing for employees" valsi="fairprali"></nlword>
+<nlword word="sail" valsi="falnu"></nlword>
+<nlword word="sail" sense="move with the help of a sail" valsi="fankla"></nlword>
+<nlword word="show direction" valsi="farja'o"></nlword>
+<nlword word="space aspects" valsi="fe'e"></nlword>
+<nlword word="snarls" sense="angry non-linguistic utterence" valsi="fe'ucmo"></nlword>
+<nlword word="snarls" sense="angry linguistic utterence" valsi="fegba'u"></nlword>
+<nlword word="sew" valsi="fenso"></nlword>
+<nlword word="spinster" valsi="fetnalspe"></nlword>
+<nlword word="sumti place ?" valsi="fi'a"></nlword>
+<nlword word="selbri to modal" valsi="fi'o"></nlword>
+<nlword word="simple" valsi="filsampu"></nlword>
+<nlword word="speak fluently" valsi="filta'a"></nlword>
+<nlword word="silhouette" valsi="firti'oxra"></nlword>
+<nlword word="scaly anteater" valsi="foldota"></nlword>
+<nlword word="swiss cheese" valsi="fomke'acirla"></nlword>
+<nlword word="sparkling wine" valsi="fomvanju"></nlword>
+<nlword word="strawberry" valsi="fragari"></nlword>
+<nlword word="shut" sense="close" valsi="ga'orgau"></nlword>
+<nlword word="sink" sense="decrease in altitude" valsi="galjdika"></nlword>
+<nlword word="sense" valsi="ganse"></nlword>
+<nlword word="scrotum" valsi="gantydakli"></nlword>
+<nlword word="steel" valsi="gasta"></nlword>
+<nlword word="steering committee" valsi="gazykamni" place="1"></nlword>
+<nlword word="string" sense="of stringed instrument" valsi="gitsko"></nlword>
+<nlword word="sexual partner" valsi="glepe'o"></nlword>
+<nlword word="sex toy" valsi="gletci"></nlword>
+<nlword word="stick" sense="shape/form" valsi="grana"></nlword>
+<nlword word="staff" sense="shape/form" valsi="grana"></nlword>
+<nlword word="spaghetti" valsi="grusko"></nlword>
+<nlword word="silo" valsi="grutersro" place="1"></nlword>
+<nlword word="summit" sense="official meeting" valsi="gugja'anunsnu" place="1"></nlword>
+<nlword word="supranational union" valsi="gugjonci'e"></nlword>
+<nlword word="state" sense="part of a country" valsi="gugypau"></nlword>
+<nlword word="scrape" valsi="guska"></nlword>
+<nlword word="shiny" sense="light-reflective" valsi="gusminra"></nlword>
+<nlword word="shine" valsi="gusycai"></nlword>
+<nlword word="squash" sense="vegetable" valsi="guzmrkukurbita"></nlword>
+<nlword word="sentence link" valsi="i"></nlword>
+<nlword word="skepticism" valsi="iacu'i"></nlword>
+<nlword word="security" valsi="iinai"></nlword>
+<nlword word="sentence or" valsi="ija"></nlword>
+<nlword word="sentence if" valsi="ijanai"></nlword>
+<nlword word="sentence and" valsi="ije"></nlword>
+<nlword word="sentence conn ?" valsi="ije'i"></nlword>
+<nlword word="sentence but not" valsi="ijenai"></nlword>
+<nlword word="sentence iff" valsi="ijo"></nlword>
+<nlword word="sentence xor" valsi="ijonai"></nlword>
+<nlword word="sentence whether" valsi="iju"></nlword>
+<nlword word="sentence only if" valsi="inaja"></nlword>
+<nlword word="scorpion" valsi="ja'urjukni"></nlword>
+<nlword word="starch" valsi="jalna"></nlword>
+<nlword word="squadron" sense="airforce unit" valsi="jamvijgri"></nlword>
+<nlword word="shoulder" valsi="janco"></nlword>
+<nlword word="suburb" valsi="jarbu"></nlword>
+<nlword word="show" valsi="jarco"></nlword>
+<nlword word="steam engine" valsi="jaurgacmatra"></nlword>
+<nlword word="seaweed" valsi="jauspa"></nlword>
+<nlword word="something of Lojbanic culture" valsi="jboklu" place="1"></nlword>
+<nlword word="sinful" valsi="jdazei"></nlword>
+<nlword word="scalar affirmer" valsi="je'a"></nlword>
+<nlword word="shock" valsi="jenca"></nlword>
+<nlword word="something horrible" sense="shockingly frightening" valsi="jente'a" place="2"></nlword>
+<nlword word="sitar" valsi="jgitrsita"></nlword>
+<nlword word="sumti conn ?" valsi="ji"></nlword>
+<nlword word="standard of life" valsi="ji'exru" place="3"></nlword>
+<nlword word="strike" sense="stop working and complain" valsi="jibypante"></nlword>
+<nlword word="striker" sense="complainer" valsi="jibypante" place="1"></nlword>
+<nlword word="stir" valsi="jicla"></nlword>
+<nlword word="sprig" valsi="jicycma"></nlword>
+<nlword word="shoot" sense="new growth of plant" valsi="jicycma"></nlword>
+<nlword word="sprout" sense="new growth of plant" valsi="jicycma"></nlword>
+<nlword word="suspect" sense="to opine based on intuition" valsi="jijyji'i"></nlword>
+<nlword word="suspicion" sense="intuition-based opinion" valsi="jijyji'i"></nlword>
+<nlword word="socialize" valsi="jikca"></nlword>
+<nlword word="social" sense="being extroverted/outgoing" valsi="jikca"></nlword>
+<nlword word="solitary" valsi="jiksei"></nlword>
+<nlword word="shears" valsi="jinci"></nlword>
+<nlword word="submerged" valsi="jinru"></nlword>
+<nlword word="sole" sense="part of foot" valsi="jmani'a"></nlword>
+<nlword word="shoal" valsi="jmifa"></nlword>
+<nlword word="sentence" sense="in a paragraph" valsi="jufmei" place="3"></nlword>
+<nlword word="sentence containing phrase" valsi="jufpau" place="2"></nlword>
+<nlword word="sentence" sense="statement" valsi="jufra"></nlword>
+<nlword word="sentence fragment" valsi="jufspi"></nlword>
+<nlword word="spider" valsi="jukni"></nlword>
+<nlword word="serious" valsi="junri"></nlword>
+<nlword word="steamer" sense="cooking" valsi="jupypatxu"></nlword>
+<nlword word="severe" valsi="jursa"></nlword>
+<nlword word="species" valsi="jutsi"></nlword>
+<nlword word="sight" sense="view" valsi="jvinu"></nlword>
+<nlword word="scene" sense="landscape" valsi="jvinu"></nlword>
+<nlword word="subject" sense="of photograph" valsi="kacmyxra" place="2"></nlword>
+<nlword word="shelf" valsi="kajna"></nlword>
+<nlword word="shovel" sense="excavator" valsi="kakpyca'a"></nlword>
+<nlword word="sobbing" valsi="kaksna"></nlword>
+<nlword word="sob" sense="sobbing" valsi="kaksna"></nlword>
+<nlword word="shit" sense="defecate" valsi="kalcyvi'i"></nlword>
+<nlword word="squid" valsi="kalmari"></nlword>
+<nlword word="splendour" valsi="kamba'i"></nlword>
+<nlword word="security" sense="protection" valsi="kambandu"></nlword>
+<nlword word="stupidity" sense="quality or property" valsi="kambebna"></nlword>
+<nlword word="sillyness" sense="quality or property" valsi="kambebna"></nlword>
+<nlword word="society" valsi="kamjikca"></nlword>
+<nlword word="social" valsi="kamjikca"></nlword>
+<nlword word="swiftness" valsi="kamsutra"></nlword>
+<nlword word="speed" sense="velocity" valsi="kamsutra"></nlword>
+<nlword word="strength" sense="in some quality" valsi="kamtsa"></nlword>
+<nlword word="strength" sense="power" valsi="kamvli"></nlword>
+<nlword word="skin pore" valsi="kapkevna"></nlword>
+<nlword word="sandal" valsi="karcutci"></nlword>
+<nlword word="self-propelled artillery gun" valsi="karcycelxa'i"></nlword>
+<nlword word="self-propelled artillery" valsi="karcycelxa'i"></nlword>
+<nlword word="safflower" valsi="kartamo"></nlword>
+<nlword word="salamander" sense="amphibian" valsi="kaurdata"></nlword>
+<nlword word="start grouping" valsi="ke"></nlword>
+<nlword word="space" sense="area beyond atmosphere of planets" valsi="kensa"></nlword>
+<nlword word="sapsucker" valsi="kevypracpi"></nlword>
+<nlword word="shouts" sense="verbally expresses by shouting" valsi="ki'asku"></nlword>
+<nlword word="spear" valsi="kilga'axa'i"></nlword>
+<nlword word="sharp" valsi="kinli"></nlword>
+<nlword word="summon" sense="ask someone to come" valsi="klacpe"></nlword>
+<nlword word="shadow" sense="follow" valsi="klaje'i"></nlword>
+<nlword word="street" valsi="klaji"></nlword>
+<nlword word="summon" sense="by command" valsi="klami'e"></nlword>
+<nlword word="siemens" sense="SI unit" valsi="klanrzimenzi" place="1"></nlword>
+<nlword word="soda (of transparent type)" valsi="klisodva"></nlword>
+<nlword word="society" sense="group of people sharing culture" valsi="kluce'u"></nlword>
+<nlword word="screw" valsi="klupe"></nlword>
+<nlword word="social anthropology" valsi="kluske"></nlword>
+<nlword word="sausage" valsi="kolbasa"></nlword>
+<nlword word="starfruit" valsi="krambola"></nlword>
+<nlword word="source" valsi="krasi"></nlword>
+<nlword word="shampoo" sense="verb" valsi="krelu'i"></nlword>
+<nlword word="shampoo" sense="noun" valsi="krevelylu'i"></nlword>
+<nlword word="shaver" sense="remover of hair" valsi="krevi'u" place="1"></nlword>
+<nlword word="shave" sense="remove hair" valsi="krevi'u"></nlword>
+<nlword word="something shaved" sense="something that hair is removed from" valsi="krevi'u" place="3"></nlword>
+<nlword word="something made that is pleasant" valsi="kukselzba"></nlword>
+<nlword word="semester" valsi="kulcitsi"></nlword>
+<nlword word="square" sense="four sided shape" valsi="kurfa"></nlword>
+<nlword word="square root" sense="exponential" valsi="kurtenfa" place="2"></nlword>
+<nlword word="square" sense="exponential" valsi="kurtenfa" place="1"></nlword>
+<nlword word="spectacle" sense="eyewear" valsi="lacni"></nlword>
+<nlword word="spectacles" sense="eyeglasses" valsi="lacni"></nlword>
+<nlword word="street name" valsi="lajme'e"></nlword>
+<nlword word="sheep bell" valsi="lanjanbe"></nlword>
+<nlword word="sheepbell" valsi="lanjanbe"></nlword>
+<nlword word="sheepman" valsi="lankurji"></nlword>
+<nlword word="shepherd" valsi="lankurji"></nlword>
+<nlword word="sheepherder" valsi="lankurji"></nlword>
+<nlword word="sheep" valsi="lanme"></nlword>
+<nlword word="sculptor" valsi="laryrakpra" place="1"></nlword>
+<nlword word="sculpture" valsi="laryrakpra" place="2"></nlword>
+<nlword word="sculpt" valsi="laryrakpra"></nlword>
+<nlword word="shout" sense="talk loudly" valsi="lausku"></nlword>
+<nlword word="sorry" sense="after saying something wrong" valsi="le'ai"></nlword>
+<nlword word="sic" valsi="le'ai"></nlword>
+<nlword word="specs" valsi="le'otci"></nlword>
+<nlword word="spectacles" valsi="le'otci"></nlword>
+<nlword word="storm" sense="weather" valsi="lidvilti'a"></nlword>
+<nlword word="sublimate" sense="chemical process" valsi="ligyfebvi"></nlword>
+<nlword word="swimming pool" valsi="limla'u" place="1"></nlword>
+<nlword word="swimmer" valsi="limla'u" place="2"></nlword>
+<nlword word="swim" valsi="limna"></nlword>
+<nlword word="story drafting" valsi="lisnuntoi"></nlword>
+<nlword word="story" valsi="lisri"></nlword>
+<nlword word="story book" valsi="lisycku"></nlword>
+<nlword word="shirt" sense="dress shirt" valsi="litcreka"></nlword>
+<nlword word="sink" sense="washing" valsi="lumtansi"></nlword>
+<nlword word="screwdriver" valsi="lupcartci"></nlword>
+<nlword word="sumti ?" valsi="ma"></nlword>
+<nlword word="selma'o quote" valsi="ma'oi"></nlword>
+<nlword word="significance" sense="moral" valsi="madni'i"></nlword>
+<nlword word="sorcerer" valsi="mafcre"></nlword>
+<nlword word="sorcery" valsi="mafcre" place="2"></nlword>
+<nlword word="sentence ordinal" valsi="mai"></nlword>
+<nlword word="sluggish" valsi="malsno"></nlword>
+<nlword word="satisfy" valsi="mansa"></nlword>
+<nlword word="species of dodder" valsi="marbela" place="2"></nlword>
+<nlword word="shelter" valsi="marbi"></nlword>
+<nlword word="smoke" sense="cannabis" valsi="marnyva'u" place="1"></nlword>
+<nlword word="slow" valsi="masno"></nlword>
+<nlword word="stronger emotion" valsi="mau'i"></nlword>
+<nlword word="stomp" sense="tread heavily" valsi="maxydzu"></nlword>
+<nlword word="sumti to selbri" valsi="me"></nlword>
+<nlword word="sister's spouse" valsi="me'ispe"></nlword>
+<nlword word="smallest" sense="by the standard of bigness" valsi="mecybrarai"></nlword>
+<nlword word="smart" valsi="mencre"></nlword>
+<nlword word="sister" valsi="mensi"></nlword>
+<nlword word="skunk" valsi="merfiti" place="1"></nlword>
+<nlword word="self-introduction" valsi="mi'e"></nlword>
+<nlword word="spare part" sense="of a machine" valsi="mi'ispi"></nlword>
+<nlword word="surgery, perform" valsi="micka'agau"></nlword>
+<nlword word="surgeon" valsi="micka'agau" place="1"></nlword>
+<nlword word="surgical knife" valsi="micka'agau" place="2"></nlword>
+<nlword word="surgery" sense="operating room" valsi="micka'aku'a"></nlword>
+<nlword word="surgery" sense="clinic" valsi="micydi'u"></nlword>
+<nlword word="statement" sense="computer science" valsi="midvla"></nlword>
+<nlword word="size [in millimeters]; number of millimeters" valsi="miltre" place="2"></nlword>
+<nlword word="same" valsi="mintu"></nlword>
+<nlword word="secret" valsi="mipri"></nlword>
+<nlword word="secret place" valsi="mipstu"></nlword>
+<nlword word="secluded" valsi="mipstu"></nlword>
+<nlword word="spy" valsi="mipyzga"></nlword>
+<nlword word="snoop" valsi="mipyzga"></nlword>
+<nlword word="sparkle" valsi="mircai"></nlword>
+<nlword word="symmetrical" valsi="mirlanxe"></nlword>
+<nlword word="sea jelly" valsi="mivjdu"></nlword>
+<nlword word="side of flatfish" valsi="mlafi'e" place="3"></nlword>
+<nlword word="skirt" sense="sidestep" valsi="mlakla"></nlword>
+<nlword word="side" sense="directional" valsi="mlana"></nlword>
+<nlword word="sidewinder" valsi="mlaparsince"></nlword>
+<nlword word="side" sense="of an object" valsi="mlapau" place="1"></nlword>
+<nlword word="sideways" valsi="mlaselfa'a"></nlword>
+<nlword word="sideband" valsi="mlaxelbo'a"></nlword>
+<nlword word="splendid" valsi="mleba'i"></nlword>
+<nlword word="spruce up" valsi="mlenicygau"></nlword>
+<nlword word="speak softly" valsi="mliba'u"></nlword>
+<nlword word="somewhat big" valsi="mlibra"></nlword>
+<nlword word="slightly annoy" sense="event" valsi="mlifanza"></nlword>
+<nlword word="satellite" valsi="mluni"></nlword>
+<nlword word="sumti to operand" valsi="mo'e"></nlword>
+<nlword word="space motion" valsi="mo'i"></nlword>
+<nlword word="southwardly" valsi="mo'ine'u"></nlword>
+<nlword word="section ordinal" valsi="mo'o"></nlword>
+<nlword word="stingy" valsi="mobdu'a"></nlword>
+<nlword word="subject of reminder" valsi="mojgaunoi" place="3"></nlword>
+<nlword word="saliva" valsi="molselpu'u"></nlword>
+<nlword word="spittle" valsi="molselpu'u"></nlword>
+<nlword word="sputum" valsi="molselpu'u"></nlword>
+<nlword word="spit" sense="saliva" valsi="molselpu'u"></nlword>
+<nlword word="string instrument, bowed" valsi="mosyjgita"></nlword>
+<nlword word="subscriber" valsi="mriste" place="2"></nlword>
+<nlword word="sepulcher" sense="tomb" valsi="mrostu"></nlword>
+<nlword word="spoonful" valsi="muclai"></nlword>
+<nlword word="scoopful" valsi="muclai"></nlword>
+<nlword word="spork" valsi="mucyjoifro"></nlword>
+<nlword word="sawdust" valsi="mudypu'o"></nlword>
+<nlword word="starfish" valsi="mumbircurnu"></nlword>
+<nlword word="sample" sense="take a sample of" valsi="mupcpa"></nlword>
+<nlword word="sample" sense="specimen" valsi="mupli"></nlword>
+<nlword word="swing" sense="move while hanging" valsi="muvdandu"></nlword>
+<nlword word="swing" sense="move back and forth hanging from something" valsi="muvyslidandu"></nlword>
+<nlword word="scalar contrary" valsi="na'e"></nlword>
+<nlword word="something other than" valsi="na'ebo"></nlword>
+<nlword word="stridulate" valsi="na'icmo"></nlword>
+<nlword word="samara" valsi="na'itsi"></nlword>
+<nlword word="selbri to operator" valsi="na'u"></nlword>
+<nlword word="sumti only if" valsi="na.a"></nlword>
+<nlword word="sandwich" sense="food" valsi="nabypalne"></nlword>
+<nlword word="steer" sense="male bovine" valsi="nakybakni"></nlword>
+<nlword word="seniority standard" valsi="nalci'o" place="2"></nlword>
+<nlword word="senior" valsi="nalci'o" place="1"></nlword>
+<nlword word="subject of forgetfulness" valsi="nalmo'i" place="3"></nlword>
+<nlword word="sanction" valsi="nalpro"></nlword>
+<nlword word="sullen" valsi="nalta'acni"></nlword>
+<nlword word="sulky" valsi="nalta'acni"></nlword>
+<nlword word="solver" sense="puzzle solver" valsi="namkei" place="1"></nlword>
+<nlword word="south by west" valsi="nansicnansnanu"></nlword>
+<nlword word="southeast" valsi="nanstuna"></nlword>
+<nlword word="southeast by east" valsi="nansunsunsnanu"></nlword>
+<nlword word="south of" valsi="ne'u"></nlword>
+<nlword word="swan" sense="genus Cygnus" valsi="nebgunse"></nlword>
+<nlword word="skivvy" sense="garment" valsi="nebnipcreka"></nlword>
+<nlword word="singlet" valsi="nercreka"></nlword>
+<nlword word="submarine" valsi="ni'ablo"></nlword>
+<nlword word="selbri to operand" valsi="ni'e"></nlword>
+<nlword word="suggest" sense="induce a chain of reasoning" valsi="nibyti'i"></nlword>
+<nlword word="speed" sense="of doing" valsi="nilsutra"></nlword>
+<nlword word="start-up" sense="new business" valsi="nincu'u"></nlword>
+<nlword word="stranger" sense="unfamiliar person" valsi="ninpre" place="1"></nlword>
+<nlword word="stand down" sense="descend" valsi="nitkla"></nlword>
+<nlword word="sit down" sense="beneath" valsi="nitytse"></nlword>
+<nlword word="sit below" valsi="nitytse"></nlword>
+<nlword word="sit beneath" valsi="nitytse"></nlword>
+<nlword word="sweater" sense="garment" valsi="nivycreka"></nlword>
+<nlword word="scalar midpoint not" valsi="no'e"></nlword>
+<nlword word="sceptre" valsi="nolga'a" place="1"></nlword>
+<nlword word="servant, royal" valsi="nolse'u"></nlword>
+<nlword word="section 0" valsi="nomo'o"></nlword>
+<nlword word="start fore termset" valsi="nu'i"></nlword>
+<nlword word="single" sense="never been married" valsi="nu'ospe"></nlword>
+<nlword word="stupidity" sense="event" valsi="nunbebna"></nlword>
+<nlword word="sillyness" sense="event" valsi="nunbebna"></nlword>
+<nlword word="suspension" sense="intermission" valsi="nunde'a"></nlword>
+<nlword word="self-restraint" valsi="nunsezyfanta"></nlword>
+<nlword word="sleep" sense="an event of sleeping" valsi="nunsipna"></nlword>
+<nlword word="save" sense="rescue" valsi="nurxru"></nlword>
+<nlword word="sumti iff" valsi="o"></nlword>
+<nlword word="shame" valsi="o'anai"></nlword>
+<nlword word="stress" valsi="o'unai"></nlword>
+<nlword word="spiritual complaint" valsi="oire'e"></nlword>
+<nlword word="sexual complaint" valsi="oiro'u"></nlword>
+<nlword word="sumti xor" valsi="onai"></nlword>
+<nlword word="sin" sense="evil action" valsi="pacyselzu'e"></nlword>
+<nlword word="sinner" valsi="pacyzu'e" place="1"></nlword>
+<nlword word="slacks" sense="trousers" valsi="palku"></nlword>
+<nlword word="single" sense="not accompanied by anything else" valsi="pamei"></nlword>
+<nlword word="section 1" valsi="pamo'o"></nlword>
+<nlword word="sponge" sense="porous material" valsi="panje"></nlword>
+<nlword word="sponge" sense="animal" valsi="panjyda'u"></nlword>
+<nlword word="slice" valsi="panlo"></nlword>
+<nlword word="sound off" valsi="patspu"></nlword>
+<nlword word="sigh" sense="utter sound in exasperation" valsi="patyva'u"></nlword>
+<nlword word="strict heterosexual" valsi="pavdutcinse" place="1"></nlword>
+<nlword word="singular" sense="being only one" valsi="pavmei"></nlword>
+<nlword word="strict homosexual" valsi="pavmitcinse" place="1"></nlword>
+<nlword word="stuck" sense="baffled" valsi="peifli"></nlword>
+<nlword word="spread" sense="in sense of an agent doing the spreading" valsi="pejgau"></nlword>
+<nlword word="sonnet" valsi="pemcrsoneto" place="1"></nlword>
+<nlword word="stanza" valsi="pempau"></nlword>
+<nlword word="sorrel" valsi="pezyxruba"></nlword>
+<nlword word="smegma" valsi="pinjyjdu"></nlword>
+<nlword word="seal" sense="animal" valsi="pinpedi"></nlword>
+<nlword word="sea lion" valsi="pinpedi"></nlword>
+<nlword word="somersault" sense="roll forward or backward" valsi="pipcarna"></nlword>
+<nlword word="summersault" sense="roll forward or backward" valsi="pipcarna"></nlword>
+<nlword word="skip" sense="go with skipping motion" valsi="pipkla"></nlword>
+<nlword word="square kilometer" valsi="pitki'otre"></nlword>
+<nlword word="subject of policy" valsi="plajva" place="3"></nlword>
+<nlword word="select" sense="for use" valsi="plicu'a"></nlword>
+<nlword word="staple" sense="fastener" valsi="plopijne"></nlword>
+<nlword word="sound of breaking" valsi="popsna"></nlword>
+<nlword word="sequence" valsi="porsi"></nlword>
+<nlword word="sequentially perform " valsi="porzu'e"></nlword>
+<nlword word="stock" sense="capital stock" valsi="posfai"></nlword>
+<nlword word="share" sense="of capital stock" valsi="posterfai" place="1"></nlword>
+<nlword word="shareholder" valsi="posyselfai" place="1"></nlword>
+<nlword word="spread" sense="expand" valsi="preja"></nlword>
+<nlword word="stage" sense="phase" valsi="pruce" place="1"></nlword>
+<nlword word="spirit" valsi="pruxi"></nlword>
+<nlword word="sweet" sense="pleasantly polite" valsi="pukclite"></nlword>
+<nlword word="sweet" sense="pleasing to the senses, beautiful" valsi="pukmle"></nlword>
+<nlword word="swelling" valsi="punli"></nlword>
+<nlword word="stellar evolution" valsi="puvytarga'i"></nlword>
+<nlword word="sane" valsi="racli"></nlword>
+<nlword word="straighten" sense="become upright" valsi="rajbi'o"></nlword>
+<nlword word="scratch text" valsi="rakci'a"></nlword>
+<nlword word="soft palate" sense="body-part" valsi="ranmoldru"></nlword>
+<nlword word="soft" valsi="ranti"></nlword>
+<nlword word="shuttle" sense="vehicle" valsi="rapxruxelkla"></nlword>
+<nlword word="sarcastic" sense="using irony to wound" valsi="raxyckasu"></nlword>
+<nlword word="sardonic" sense="ironically humorous" valsi="raxyxajmi"></nlword>
+<nlword word="spiritual" valsi="re'e"></nlword>
+<nlword word="sacrilege" valsi="re'enai"></nlword>
+<nlword word="start over" valsi="refcfa"></nlword>
+<nlword word="save" sense="write a file to a disk" valsi="rejgau"></nlword>
+<nlword word="scissors blade" valsi="relselba'e" place="2"></nlword>
+<nlword word="scissors" valsi="relselba'e" place="1"></nlword>
+<nlword word="secondly" valsi="remai"></nlword>
+<nlword word="species of ape" valsi="remsmismani" place="2"></nlword>
+<nlword word="survive" valsi="renvi"></nlword>
+<nlword word="station" sense="railway" valsi="renytcana"></nlword>
+<nlword word="slingshot" valsi="rerce'a"></nlword>
+<nlword word="strap" valsi="ri'usri"></nlword>
+<nlword word="seat belt" valsi="ri'usri"></nlword>
+<nlword word="squirrel" valsi="ricyratcu" place="1"></nlword>
+<nlword word="stump" sense="what is left from a tree" valsi="ricyvelvi'u"></nlword>
+<nlword word="silver" valsi="rijno"></nlword>
+<nlword word="silvery" sense="made of silver (Ag)" valsi="rijno"></nlword>
+<nlword word="silver" sense="the color of silver (Ag)" valsi="rijyska"></nlword>
+<nlword word="silvery" sense="the color of silver (Ag)" valsi="rijyska"></nlword>
+<nlword word="special" sense="distinguished by a unique/unusual quality" valsi="rirci"></nlword>
+<nlword word="social" valsi="ro'a"></nlword>
+<nlword word="sexual" valsi="ro'u"></nlword>
+<nlword word="sexual abstinence" valsi="ro'unai"></nlword>
+<nlword word="surrounding" valsi="ru'u"></nlword>
+<nlword word="sackcloth" sense="for mourning or showing remorse" valsi="rufta'u" place="1"></nlword>
+<nlword word="soul" valsi="ruxse'i" place="1"></nlword>
+<nlword word="stand up" valsi="sa'irbi'o"></nlword>
+<nlword word="slant" sense="tilt away from vertical" valsi="sa'orgau"></nlword>
+<nlword word="simply speaking" valsi="sa'u"></nlword>
+<nlword word="strong emotion" valsi="sai"></nlword>
+<nlword word="suck" valsi="sakci"></nlword>
+<nlword word="suck" sense="obtain" valsi="sakcpa"></nlword>
+<nlword word="suck" sense="pull" valsi="sakcpu"></nlword>
+<nlword word="slide" valsi="sakli"></nlword>
+<nlword word="sugar" valsi="sakta"></nlword>
+<nlword word="sled" valsi="salcarce"></nlword>
+<nlword word="sledder" valsi="salcarce" place="2"></nlword>
+<nlword word="salmon" valsi="salmone"></nlword>
+<nlword word="slope" valsi="salpo"></nlword>
+<nlword word="salad" valsi="salta"></nlword>
+<nlword word="server" sense="computer that hosts data" valsi="samci'ejudri"></nlword>
+<nlword word="simple" valsi="sampu"></nlword>
+<nlword word="sound" valsi="sance"></nlword>
+<nlword word="sing" valsi="sanga"></nlword>
+<nlword word="stand" valsi="sanli"></nlword>
+<nlword word="sauce" valsi="sanso"></nlword>
+<nlword word="support" valsi="sarji"></nlword>
+<nlword word="spiral" valsi="sarlu"></nlword>
+<nlword word="science" valsi="saske"></nlword>
+<nlword word="steppe" valsi="sastu'a"></nlword>
+<nlword word="sniper" valsi="satcygunta"></nlword>
+<nlword word="stroke" valsi="satre"></nlword>
+<nlword word="shut down" valsi="sazysti"></nlword>
+<nlword word="self-sufficiency" valsi="se'a"></nlword>
+<nlword word="self-oriented" valsi="se'i"></nlword>
+<nlword word="self-control" valsi="se'itro"></nlword>
+<nlword word="skull" sense="head bones" valsi="sedbo'u" place="1"></nlword>
+<nlword word="sentence abstract" valsi="sedu'u"></nlword>
+<nlword word="surface" valsi="sefta"></nlword>
+<nlword word="services industry" valsi="sefygundi"></nlword>
+<nlword word="services sector" valsi="sefygundi"></nlword>
+<nlword word="supporting" valsi="seji'u"></nlword>
+<nlword word="slave" sense="forced servant" valsi="selbapselfu"></nlword>
+<nlword word="shoved" valsi="selca'e"></nlword>
+<nlword word="shell-covered" valsi="selcalku" place="1"></nlword>
+<nlword word="sand source" valsi="selcanre" place="1"></nlword>
+<nlword word="set" sense="mathematics" valsi="selcmi"></nlword>
+<nlword word="shoveled" sense="something dug with an implement" valsi="selcna" place="1"></nlword>
+<nlword word="stand" sense="taken in argument" valsi="seldau"></nlword>
+<nlword word="share" sense="have in common" valsi="selfai"></nlword>
+<nlword word="serve" valsi="selfu"></nlword>
+<nlword word="stunned" valsi="seljenca"></nlword>
+<nlword word="shocked" valsi="seljenca"></nlword>
+<nlword word="shibboleth" valsi="selklucipra"></nlword>
+<nlword word="stem" sense="take first existence" valsi="selkra"></nlword>
+<nlword word="scope" sense="range" valsi="selku'e"></nlword>
+<nlword word="satisfied" valsi="selmansa"></nlword>
+<nlword word="subject of memorandum" valsi="selmojnoi" place="3"></nlword>
+<nlword word="song" sense="music with voice" valsi="selsa'a"></nlword>
+<nlword word="served" valsi="selse'u"></nlword>
+<nlword word="signify" valsi="selsmu"></nlword>
+<nlword word="speaker" sense="device" valsi="selsnapra"></nlword>
+<nlword word="subject" sense="main topic" valsi="selsnu"></nlword>
+<nlword word="surprised" valsi="selspaji"></nlword>
+<nlword word="spouse" valsi="selspe" place="2"></nlword>
+<nlword word="spoused" valsi="selspe" place="1"></nlword>
+<nlword word="subject" sense="studied" valsi="seltadni"></nlword>
+<nlword word="sleep" sense="tightly" valsi="seltagysipna"></nlword>
+<nlword word="scary" valsi="selte'a"></nlword>
+<nlword word="selterselxeliumadbro" valsi="selterselxeliumadbro"></nlword>
+<nlword word="sat on" valsi="seltse"></nlword>
+<nlword word="sales inventory" valsi="selvensro" place="1"></nlword>
+<nlword word="stay behind" valsi="selyli'a"></nlword>
+<nlword word="sneeze" valsi="senci"></nlword>
+<nlword word="similar to" valsi="sepa'a"></nlword>
+<nlword word="spaced" sense="be separated to a distance" valsi="sepli"></nlword>
+<nlword word="sequenced by rules" valsi="sepo'i"></nlword>
+<nlword word="superlative in" valsi="serai"></nlword>
+<nlword word="shark" sense="animal" valsi="serlaximorfa" place="1"></nlword>
+<nlword word="step" sense="one of a set of stair rests" valsi="serti" place="1"></nlword>
+<nlword word="stairs" valsi="serti"></nlword>
+<nlword word="suggesting" valsi="seti'i"></nlword>
+<nlword word="self" valsi="sevzi"></nlword>
+<nlword word="self-sufficient" sense="independent" valsi="sezbanzu"></nlword>
+<nlword word="simulate" valsi="sezmlugau"></nlword>
+<nlword word="self-interested" valsi="sezyci'i"></nlword>
+<nlword word="show self-restraint" valsi="sezyfanta"></nlword>
+<nlword word="sel-important" valsi="sezyjgidu'e"></nlword>
+<nlword word="self-serving" valsi="sezyse'u"></nlword>
+<nlword word="selfish" valsi="sezyse'u"></nlword>
+<nlword word="say to oneself" valsi="sezysku"></nlword>
+<nlword word="self-improving" sense="being" valsi="sezyze'a"></nlword>
+<nlword word="sofa" valsi="sfofa"></nlword>
+<nlword word="similarly" valsi="si'a"></nlword>
+<nlword word="shrine" valsi="si'astu"></nlword>
+<nlword word="snowboard" valsi="si'erta'o"></nlword>
+<nlword word="sigma summation" sense="mekso operator" valsi="si'i"></nlword>
+<nlword word="seigniorage" valsi="si'irzbaprali"></nlword>
+<nlword word="smoke" sense="inhale tobacco smoke" valsi="sigva'u"></nlword>
+<nlword word="smoker" sense="tobacco smoker" valsi="sigva'u"></nlword>
+<nlword word="silk" valsi="silka"></nlword>
+<nlword word="salt" valsi="silna"></nlword>
+<nlword word="symphony" sense="musical form" valsi="simfoni" place="1"></nlword>
+<nlword word="symphony movement" valsi="simfoni zei pagbu"></nlword>
+<nlword word="seem" valsi="simlu"></nlword>
+<nlword word="similar" valsi="simsa"></nlword>
+<nlword word="sesame" valsi="simsimu"></nlword>
+<nlword word="sum of all" valsi="simsumji"></nlword>
+<nlword word="snake" valsi="since"></nlword>
+<nlword word="sine" valsi="sinso"></nlword>
+<nlword word="signal" valsi="sinxa"></nlword>
+<nlword word="sign" valsi="sinxa"></nlword>
+<nlword word="sleep" valsi="sipna"></nlword>
+<nlword word="sing lullaby" valsi="sipsa'a"></nlword>
+<nlword word="snore" valsi="sipsavgau"></nlword>
+<nlword word="sleepy person" valsi="sipta'i" place="1"></nlword>
+<nlword word="sleepy" sense="from tiredness" valsi="sipta'i"></nlword>
+<nlword word="sleepy" sense="needing sleep" valsi="siptcu"></nlword>
+<nlword word="sleepy" sense="wanting sleep" valsi="sipydji"></nlword>
+<nlword word="snore" sense="breath while sleeping" valsi="sipyva'u"></nlword>
+<nlword word="straight" sense="of a line" valsi="sirji"></nlword>
+<nlword word="seek" valsi="sisku"></nlword>
+<nlword word="stop" sense="cause something to halt" valsi="sisti"></nlword>
+<nlword word="skirt" valsi="skaci"></nlword>
+<nlword word="science fiction" valsi="skefi'a"></nlword>
+<nlword word="sci-fi" valsi="skefi'a"></nlword>
+<nlword word="ski" valsi="skiji"></nlword>
+<nlword word="scurvy" valsi="skorbuti"></nlword>
+<nlword word="sick with scurvy" valsi="skorbuti" place="1"></nlword>
+<nlword word="symptoms of scurvy" valsi="skorbuti" place="2"></nlword>
+<nlword word="syllable" valsi="slaka"></nlword>
+<nlword word="sour" valsi="slari"></nlword>
+<nlword word="swing" sense="move something backward and forward" valsi="sligau"></nlword>
+<nlword word="solid" valsi="sligu"></nlword>
+<nlword word="sulfur" valsi="sliri"></nlword>
+<nlword word="sock" valsi="smoka"></nlword>
+<nlword word="spoon" valsi="smuci"></nlword>
+<nlword word="semantics" valsi="smuske"></nlword>
+<nlword word="semantic" valsi="smuske"></nlword>
+<nlword word="sense" sense="the way that a referent is presented" valsi="smuvanbi"></nlword>
+<nlword word="success" sense="achievement" valsi="snada" place="1"></nlword>
+<nlword word="succeed" valsi="snada"></nlword>
+<nlword word="south" valsi="snanu"></nlword>
+<nlword word="sound signal" valsi="snasni"></nlword>
+<nlword word="sound recording" valsi="snavei"></nlword>
+<nlword word="second" valsi="snidu"></nlword>
+<nlword word="symbol" valsi="snile'u"></nlword>
+<nlword word="snow" valsi="snime"></nlword>
+<nlword word="sticky" valsi="snipa"></nlword>
+<nlword word="stick" sense="adhere" valsi="snipa"></nlword>
+<nlword word="sigma summation" sense="brivla" valsi="snisimsumji"></nlword>
+<nlword word="sloth" sense="mammal" valsi="snomabru"></nlword>
+<nlword word="sandwich" valsi="snuji"></nlword>
+<nlword word="safe" sense="secure" valsi="snura"></nlword>
+<nlword word="secure" valsi="snura"></nlword>
+<nlword word="several" valsi="so'o"></nlword>
+<nlword word="soya" valsi="sobde"></nlword>
+<nlword word="soy sauce" valsi="sobysanso"></nlword>
+<nlword word="sodium" valsi="sodna"></nlword>
+<nlword word="soda" valsi="sodva"></nlword>
+<nlword word="sunbeam" sense="line of sunlight" valsi="solgusli'i"></nlword>
+<nlword word="sunray" sense="line of sunlight" valsi="solgusli'i"></nlword>
+<nlword word="solar" valsi="solri"></nlword>
+<nlword word="sunflower" valsi="solxrula" place="1"></nlword>
+<nlword word="sow" valsi="sombo"></nlword>
+<nlword word="soldier" valsi="sonci"></nlword>
+<nlword word="sexually polyamorous" sense="person" valsi="sorcinpa'i"></nlword>
+<nlword word="store" valsi="sorcu"></nlword>
+<nlword word="stock" sense="supply" valsi="sorcu"></nlword>
+<nlword word="sorghum" valsi="sorgu"></nlword>
+<nlword word="sorta" valsi="sorta"></nlword>
+<nlword word="settlement" sense="cluster of houses/huts" valsi="sosyzda"></nlword>
+<nlword word="smelt" sense="fish" valsi="sperlanu"></nlword>
+<nlword word="stomp" sense="crush using limbs" valsi="spostapa"></nlword>
+<nlword word="spit" valsi="sputu"></nlword>
+<nlword word="scratch" valsi="sraku"></nlword>
+<nlword word="stripes" sense="mark on a surface" valsi="sriba'a" place="1"></nlword>
+<nlword word="striped" sense="having stripes" valsi="sriba'a" place="2"></nlword>
+<nlword word="stripe" sense="mark on a surface" valsi="sriba'a"></nlword>
+<nlword word="suppose" sense="hypothesize" valsi="sruma"></nlword>
+<nlword word="surround" valsi="sruri"></nlword>
+<nlword word="scarf" sense="garment" valsi="sruta'u"></nlword>
+<nlword word="stem" sense="body-part" valsi="stani"></nlword>
+<nlword word="stalk" valsi="stani"></nlword>
+<nlword word="shoot" sense="new plant growth" valsi="stanycma" place="1"></nlword>
+<nlword word="sprout" sense="new plant growth" valsi="stanycma"></nlword>
+<nlword word="step" valsi="stapa"></nlword>
+<nlword word="soup" valsi="stasu"></nlword>
+<nlword word="special" sense="of particular interest/value" valsi="steci"></nlword>
+<nlword word="specific" valsi="steci"></nlword>
+<nlword word="stepmania" sense="the game" valsi="stepmania" place="1"></nlword>
+<nlword word="steradian" valsi="stero"></nlword>
+<nlword word="suggest" valsi="stidi"></nlword>
+<nlword word="stop" sense="cause to come to an end" valsi="stiri'a"></nlword>
+<nlword word="stasis" valsi="stogau" place="3"></nlword>
+<nlword word="structure" valsi="stura"></nlword>
+<nlword word="site" valsi="stuzi"></nlword>
+<nlword word="some" sense="at least one" valsi="su'o"></nlword>
+<nlword word="sultana" sense="dried grape" valsi="sudvanjba"></nlword>
+<nlword word="sudden" valsi="suksa"></nlword>
+<nlword word="sumti qualifier" valsi="sumgadri"></nlword>
+<nlword word="sum" sense="mathematical gismu" valsi="sumji"></nlword>
+<nlword word="smell" valsi="sumne"></nlword>
+<nlword word="sighs" sense="breath in relief" valsi="surbi'ova'u"></nlword>
+<nlword word="speeder" valsi="sutli'u" place="1"></nlword>
+<nlword word="speed" sense="swiftly travel" valsi="sutli'u"></nlword>
+<nlword word="speed" sense="transitive" valsi="sutygau"></nlword>
+<nlword word="speed up" sense="an agent or person being the cause" valsi="sutygau"></nlword>
+<nlword word="speed up" sense="quicken the motion/process" valsi="sutyze'a"></nlword>
+<nlword word="s" valsi="sy"></nlword>
+<nlword word="source of diamond" valsi="tabjme" place="2"></nlword>
+<nlword word="study group" valsi="tadgri"></nlword>
+<nlword word="study" valsi="tadni"></nlword>
+<nlword word="shift" sense="garment" valsi="tafrcemize"></nlword>
+<nlword word="snug" valsi="tagji"></nlword>
+<nlword word="such" sense="so much of" valsi="tai"></nlword>
+<nlword word="shaped pasta" valsi="tamxri" place="1"></nlword>
+<nlword word="skysurfingboard" valsi="tanta'o"></nlword>
+<nlword word="stumble" sense="trip" valsi="tapflifa'u"></nlword>
+<nlword word="star" valsi="tarci"></nlword>
+<nlword word="solar system" valsi="tarci'e" place="1"></nlword>
+<nlword word="shape" valsi="tarmi"></nlword>
+<nlword word="shift next lerfu" valsi="tau"></nlword>
+<nlword word="station" valsi="tcana"></nlword>
+<nlword word="sandalwood" valsi="tcandana"></nlword>
+<nlword word="stretch" valsi="tcena"></nlword>
+<nlword word="stork" valsi="tcikonia"></nlword>
+<nlword word="scheduled time" valsi="tcikygau" place="2"></nlword>
+<nlword word="schedule" sense="plan time for event" valsi="tcikygau"></nlword>
+<nlword word="situation" valsi="tcini"></nlword>
+<nlword word="specify" valsi="te'iski"></nlword>
+<nlword word="sent to" valsi="tebe'i"></nlword>
+<nlword word="survey" sense="geodetic" valsi="tedmre"></nlword>
+<nlword word="startled" valsi="tepselspaji"></nlword>
+<nlword word="startle" valsi="tepspaji"></nlword>
+<nlword word="sign up" sense="agree to receive some good or service" valsi="terbejbi'o"></nlword>
+<nlword word="subscribe" sense="sign up to receive some good or service" valsi="terbejbi'o"></nlword>
+<nlword word="sickness" valsi="terbi'a"></nlword>
+<nlword word="shove locus" valsi="terca'e"></nlword>
+<nlword word="shell material" valsi="tercalku" place="1"></nlword>
+<nlword word="sand composition" valsi="tercanre" place="1"></nlword>
+<nlword word="section" sense="separate part" valsi="terfendi"></nlword>
+<nlword word="stimulate" sense="incite" valsi="terfra"></nlword>
+<nlword word="setup" sense="fashion in which something is organized/arranged" valsi="terganzu"></nlword>
+<nlword word="scrub against" valsi="termosra"></nlword>
+<nlword word="scrub" sense="agentive" valsi="termosygau"></nlword>
+<nlword word="scare" sense="frighten" valsi="terpygau"></nlword>
+<nlword word="second standard" valsi="tersnidu" place="1"></nlword>
+<nlword word="seeing conditions" valsi="tervi'a" place="1"></nlword>
+<nlword word="seen" valsi="tervi'a" place="2"></nlword>
+<nlword word="sharing ideal form" valsi="tetai"></nlword>
+<nlword word="suggested to" valsi="teti'i"></nlword>
+<nlword word="suggested by" valsi="ti'i"></nlword>
+<nlword word="sly" sense="wise in the ways of trickery" valsi="ticprije"></nlword>
+<nlword word="stage" sense="demonstrate in a deceptive manner" valsi="ticyja'o"></nlword>
+<nlword word="swindler" valsi="ticyve'u"></nlword>
+<nlword word="slump" sense="fall heavily" valsi="tijyfa'u"></nlword>
+<nlword word="see details" valsi="tilvi'a"></nlword>
+<nlword word="stiff" valsi="tinsa"></nlword>
+<nlword word="sausage filling" valsi="tisycanti" place="2"></nlword>
+<nlword word="sweet" valsi="titla"></nlword>
+<nlword word="sweet" sense="candy" valsi="titspi"></nlword>
+<nlword word="start parenthesis" valsi="to"></nlword>
+<nlword word="sostenuto pedal" valsi="togra'ijmavra" place="1"></nlword>
+<nlword word="soft pedal" valsi="togysmajmavra"></nlword>
+<nlword word="stop" sense="end process" valsi="tolcfagau"></nlword>
+<nlword word="safe for" valsi="tolckape"></nlword>
+<nlword word="snooty" valsi="tolcumla"></nlword>
+<nlword word="shy" valsi="toldarsi"></nlword>
+<nlword word="shortage" valsi="toldu'e"></nlword>
+<nlword word="slow-witted" valsi="tolmencre"></nlword>
+<nlword word="strategy" valsi="tolmocpla" place="2"></nlword>
+<nlword word="skinny" valsi="tolplana"></nlword>
+<nlword word="scornful" sense="utterly" valsi="tolsi'arai"></nlword>
+<nlword word="start" sense="ake first step in performing an action" valsi="tolsisti"></nlword>
+<nlword word="start" sense="take first step in performing an action" valsi="tolsti"></nlword>
+<nlword word="slight" sense="little" valsi="toltce"></nlword>
+<nlword word="serene" valsi="tolxanka"></nlword>
+<nlword word="separate" sense="transitive" valsi="tolxregau"></nlword>
+<nlword word="squeak" sense="high-pitched sharp tone" valsi="torbrato'a"></nlword>
+<nlword word="short" valsi="tordu"></nlword>
+<nlword word="short" sense="in time" valsi="tortei"></nlword>
+<nlword word="superlative" valsi="traji"></nlword>
+<nlword word="supervisory board" valsi="trokamni"></nlword>
+<nlword word="secretary" sense="of government department" valsi="trupauja'a"></nlword>
+<nlword word="strong" valsi="tsali"></nlword>
+<nlword word="sky" valsi="tsani"></nlword>
+<nlword word="seasoning" valsi="tsapi"></nlword>
+<nlword word="sit down" sense="become seated" valsi="tsebi'o"></nlword>
+<nlword word="sassaby" valsi="tsesebe"></nlword>
+<nlword word="seat" sense="place in which to sit" valsi="tsestu"></nlword>
+<nlword word="seed" valsi="tsiju"></nlword>
+<nlword word="stage" valsi="tsina"></nlword>
+<nlword word="semen" valsi="tsiselcigla"></nlword>
+<nlword word="start text scope" valsi="tu'e"></nlword>
+<nlword word="sibling-in-law" valsi="tubyspe" place="1"></nlword>
+<nlword word="settle" sense="pacify" valsi="tugbi'o"></nlword>
+<nlword word="swallow" sense="ingest" valsi="tulcti"></nlword>
+<nlword word="survey" sense="plane" valsi="tumymre"></nlword>
+<nlword word="sibling" valsi="tunba"></nlword>
+<nlword word="swallow" valsi="tunlo"></nlword>
+<nlword word="sumti whether" valsi="u"></nlword>
+<nlword word="surprise" valsi="ue"></nlword>
+<nlword word="surprised?" valsi="uepei"></nlword>
+<nlword word="sadness" valsi="ui"></nlword>
+<nlword word="scalar selbri" valsi="va'e"></nlword>
+<nlword word="significance domain" valsi="vajrai" place="4"></nlword>
+<nlword word="suffocate" sense="transitive" valsi="vaxydicra"></nlword>
+<nlword word="small space interval" valsi="ve'a"></nlword>
+<nlword word="sell" valsi="vecnu"></nlword>
+<nlword word="sales objective" sense="quota" valsi="velventerzu'e"></nlword>
+<nlword word="sales quota" valsi="velventerzu'e"></nlword>
+<nlword word="sales" sense="activity of selling" valsi="vencu'u" place="1"></nlword>
+<nlword word="spring" valsi="vensa"></nlword>
+<nlword word="sales letter" sense="direct mail" valsi="venxa'a"></nlword>
+<nlword word="similar by standard" valsi="vepa'a"></nlword>
+<nlword word="superlative among" valsi="verai"></nlword>
+<nlword word="similar in property" valsi="vetai"></nlword>
+<nlword word="subsidiary company" valsi="vipkagni" place="1"></nlword>
+<nlword word="subsidiary" sense="of company" valsi="vipkagni"></nlword>
+<nlword word="state" sense="in a federation" valsi="vipygu'e" place="1"></nlword>
+<nlword word="spot" sense="find" valsi="visfa'i"></nlword>
+<nlword word="see" valsi="viska"></nlword>
+<nlword word="see" sense="become aware of through sight" valsi="visysanji"></nlword>
+<nlword word="scold" valsi="vlasfa"></nlword>
+<nlword word="shape of word" valsi="vlatai"></nlword>
+<nlword word="shred" valsi="vlika'a"></nlword>
+<nlword word="shredder" valsi="vlika'a" place="1"></nlword>
+<nlword word="spacetime" valsi="vonca'u"></nlword>
+<nlword word="size of caltrop" valsi="vondi'o" place="2"></nlword>
+<nlword word="square dance " sense="music" valsi="vonseldansu"></nlword>
+<nlword word="square dance" sense="quadrille music" valsi="vonseldansu"></nlword>
+<nlword word="square dance for four couples " sense="music" valsi="vonseldansu"></nlword>
+<nlword word="square dance" sense="quadrille dance" valsi="vonynundansu"></nlword>
+<nlword word="switch" sense="electronics" valsi="vrabatke" place="1"></nlword>
+<nlword word="squeak" valsi="vrumli"></nlword>
+<nlword word="sin" sense="emotive" valsi="vu'enai"></nlword>
+<nlword word="subfective" sense="starting before natural beginning" valsi="xa'o"></nlword>
+<nlword word="settle" sense="fix one's residence" valsi="xa'urbi'o"></nlword>
+<nlword word="sport" sense="physical" valsi="xadykelci'e" place="1"></nlword>
+<nlword word="sanguine" sense="optimistic" valsi="xagjijnu"></nlword>
+<nlword word="standard of goodness" valsi="xagme'a" place="4"></nlword>
+<nlword word="superlative in goodness" valsi="xagrai"></nlword>
+<nlword word="saxophone" valsi="xagrnsaksofono"></nlword>
+<nlword word="snout" sense="of pig" valsi="xajyzbi"></nlword>
+<nlword word="spend" sense="consume" valsi="xaksu"></nlword>
+<nlword word="saloon drinkers" valsi="xalbarja" place="2"></nlword>
+<nlword word="saloon" sense="tavern" valsi="xalbarja" place="1"></nlword>
+<nlword word="satisfactory" valsi="xamgu"></nlword>
+<nlword word="sea" valsi="xamsi"></nlword>
+<nlword word="stubborn" valsi="xarnu"></nlword>
+<nlword word="shore" valsi="xaskoi"></nlword>
+<nlword word="sweat" valsi="xasne"></nlword>
+<nlword word="sea worm" valsi="xasycurnu"></nlword>
+<nlword word="sea mine" valsi="xasyjbama"></nlword>
+<nlword word="standard of betterness" valsi="xauzma" place="4"></nlword>
+<nlword word="saturday" valsi="xavdei"></nlword>
+<nlword word="subscript" valsi="xi"></nlword>
+<nlword word="skateboard" valsi="xilta'o"></nlword>
+<nlword word="stabled horses" valsi="xirzda" place="2"></nlword>
+<nlword word="stable" sense="for horses" valsi="xirzda" place="1"></nlword>
+<nlword word="spiteful" valsi="xladji"></nlword>
+<nlword word="suffer" valsi="xlafri"></nlword>
+<nlword word="standard of badness" valsi="xlamau" place="3"></nlword>
+<nlword word="suspicious" sense="distrustful of the motives of others" valsi="xlamu'ijijnu"></nlword>
+<nlword word="some" sense="unspecified number" valsi="xo'e"></nlword>
+<nlword word="sarcastically" sense="ironically taunting" valsi="xo'o"></nlword>
+<nlword word="sincerely" sense="straightforwardly honest" valsi="xo'o"></nlword>
+<nlword word="saddlebag" valsi="xorjina"></nlword>
+<nlword word="sketch" sense="draw" valsi="xraci'a"></nlword>
+<nlword word="sketch" sense="drawing" valsi="xraselci'a"></nlword>
+<nlword word="spearwort" sense="plant" valsi="xrulnranunkulu"></nlword>
+<nlword word="stoned" sense="influenced by narcotics" valsi="xumsne"></nlword>
+<nlword word="smooth" valsi="xutla"></nlword>
+<nlword word="state abstract" valsi="za'i"></nlword>
+<nlword word="superfective" valsi="za'o"></nlword>
+<nlword word="still" sense="at the present time, as in the past" valsi="za'o"></nlword>
+<nlword word="select alphabet" valsi="zai"></nlword>
+<nlword word="shop" sense="store" valsi="zaisle"></nlword>
+<nlword word="store" sense="shop" valsi="zaisle"></nlword>
+<nlword word="spiny anteater" valsi="zalgosu"></nlword>
+<nlword word="soap" valsi="zbabu"></nlword>
+<nlword word="sniffle" valsi="zbisakci"></nlword>
+<nlword word="sniff" sense="inhale through the nose" valsi="zbisakci"></nlword>
+<nlword word="snort" sense="inhale through the nose" valsi="zbisakci"></nlword>
+<nlword word="snort" sense="make sound" valsi="zbisnava'u"></nlword>
+<nlword word="stay home" valsi="zdasta"></nlword>
+<nlword word="short time interval" valsi="ze'i"></nlword>
+<nlword word="short-term liability" sense="company finance" valsi="ze'i zei seldejni" place="1"></nlword>
+<nlword word="short-term debt" valsi="ze'i zei seldejni"></nlword>
+<nlword word="sunday" valsi="zeldei"></nlword>
+<nlword word="steal" valsi="zerle'a"></nlword>
+<nlword word="shell ginger" valsi="zermbeto"></nlword>
+<nlword word="surveillance aircraft" valsi="zgavinji"></nlword>
+<nlword word="short time" valsi="zi"></nlword>
+<nlword word="set free" sense="from confinement" valsi="zifcru"></nlword>
+<nlword word="state" sense="sovereign polity" valsi="zifyje'a"></nlword>
+<nlword word="si" sense="lojban cmavo" valsi="zo si si zei fa'o"></nlword>
+<nlword word="something associated with" valsi="zo'ei"></nlword>
+<nlword word="smiley face" valsi="zo'obu"></nlword>
+<nlword word="seriously" valsi="zo'onai"></nlword>
+<nlword word="sit" valsi="zutse"></nlword>
+<nlword word="search for" sense="try to find the location of" valsi="zvasisku"></nlword>
+<nlword word="seek" sense="try to find the location of" valsi="zvasisku"></nlword></direction>

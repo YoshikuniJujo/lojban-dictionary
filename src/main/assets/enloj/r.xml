@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<direction from="lojban" to="English"><nlword word="repose" valsi="a'inai"></nlword>
+<nlword word="repulsion" valsi="a'unai"></nlword>
+<nlword word="refusal" valsi="ainai"></nlword>
+<nlword word="racoon" valsi="arxokuna"></nlword>
+<nlword word="reluctance" valsi="aunai"></nlword>
+<nlword word="replaced by" valsi="ba'i"></nlword>
+<nlword word="rampart" valsi="badbi'u"></nlword>
+<nlword word="run away" valsi="bajli'a"></nlword>
+<nlword word="run" valsi="bajra"></nlword>
+<nlword word="racer" valsi="bajyjvi" place="1"></nlword>
+<nlword word="race" sense="run" valsi="bajyjvi"></nlword>
+<nlword word="racetrack" valsi="bajyjvi" place="5"></nlword>
+<nlword word="run towards" valsi="bajykla"></nlword>
+<nlword word="run" sense="towards a destination" valsi="bajykla"></nlword>
+<nlword word="running track" valsi="bajystu"></nlword>
+<nlword word="regents" sense="of a university" valsi="balcu'e" place="5"></nlword>
+<nlword word="realm" valsi="baltutra"></nlword>
+<nlword word="replace" valsi="basti"></nlword>
+<nlword word="replace" sense="agentive" valsi="basygau"></nlword>
+<nlword word="replace one another" valsi="basysi'u"></nlword>
+<nlword word="request to send" valsi="be'e"></nlword>
+<nlword word="rosary" valsi="bidjylinsi"></nlword>
+<nlword word="respond abruptly" valsi="bikspu"></nlword>
+<nlword word="relief" sense="sculptured" valsi="blixra"></nlword>
+<nlword word="roll up" sense="intransitive" valsi="bolbi'o"></nlword>
+<nlword word="ready" sense="prepared" valsi="bredi"></nlword>
+<nlword word="ready" sense="make something ready" valsi="bregau"></nlword>
+<nlword word="rug" valsi="buklolgai"></nlword>
+<nlword word="require" sense="ask for peremptorily" valsi="ca'icpe"></nlword>
+<nlword word="roaring" valsi="caivru"></nlword>
+<nlword word="retail/wholesale sector" valsi="cajgundi"></nlword>
+<nlword word="rlpowell" valsi="camgusmis"></nlword>
+<nlword word="roar" sense="an expression" valsi="camki'a"></nlword>
+<nlword word="roar" sense="make threatening linguistic utternace" valsi="capsidba'u"></nlword>
+<nlword word="reel in" valsi="carcpu"></nlword>
+<nlword word="rain" valsi="carvi"></nlword>
+<nlword word="raincoat" valsi="cavykosta"></nlword>
+<nlword word="rotten" sense="decayed" valsi="cazyfusra"></nlword>
+<nlword word="realize" sense="become aware of" valsi="cfasanji"></nlword>
+<nlword word="rolling surface for tricycle" valsi="cibyxilma'e" place="3"></nlword>
+<nlword word="repair" valsi="cikre"></nlword>
+<nlword word="romance" sense="behave amourously" valsi="cinjikca"></nlword>
+<nlword word="raven" sense="bird" valsi="cipnrkorvo"></nlword>
+<nlword word="rubber" valsi="ckabu"></nlword>
+<nlword word="rise" sense="from bed" valsi="ckali'a"></nlword>
+<nlword word="ridicule" valsi="ckasu"></nlword>
+<nlword word="related" valsi="ckini"></nlword>
+<nlword word="relationship" valsi="ckini" place="3"></nlword>
+<nlword word="run a marathon" valsi="clabajykla"></nlword>
+<nlword word="rifle" sense="shoulder held firearm" valsi="clacelxa'i"></nlword>
+<nlword word="recursive function" valsi="cmacnrekursi" place="1"></nlword>
+<nlword word="recursive" valsi="cmacnrekursi"></nlword>
+<nlword word="recursion" valsi="cmacnrekursi"></nlword>
+<nlword word="roll" sense="bakery article" valsi="cmananba"></nlword>
+<nlword word="rivulet" valsi="cmatceri'e"></nlword>
+<nlword word="register" sense="enroll as user of computer resource" valsi="cmeveigau"></nlword>
+<nlword word="register" sense="enroll in program or organization" valsi="cmiveigau"></nlword>
+<nlword word="reward" valsi="cnemu"></nlword>
+<nlword word="relieved" valsi="co'urdu'u"></nlword>
+<nlword word="ride" sense="sex" valsi="cpanygle"></nlword>
+<nlword word="refuse" sense="decline" valsi="cpapro"></nlword>
+<nlword word="receive" sense="accept with consent" valsi="cpazau"></nlword>
+<nlword word="request by saying" valsi="cpesku"></nlword>
+<nlword word="radio" valsi="cradi"></nlword>
+<nlword word="radio receiver/transmitter" valsi="cradyvelcradi"></nlword>
+<nlword word="radio transmitter/receiver" valsi="cradyvelcradi"></nlword>
+<nlword word="radio transceiver" valsi="cradyvelcradi"></nlword>
+<nlword word="rule sysetm" sense="permitting" valsi="crujva" place="3"></nlword>
+<nlword word="rule system" sense="permitting" valsi="crujva" place="3"></nlword>
+<nlword word="rule" sense="permitting" valsi="crujva" place="1"></nlword>
+<nlword word="rollerblade" sense="vehicle" valsi="cucma'e"></nlword>
+<nlword word="roller skate" sense="vehicle" valsi="cucma'e"></nlword>
+<nlword word="round" sense="2-dimensional" valsi="cukla"></nlword>
+<nlword word="record" sense="gramophone record" valsi="cukyku'ovelvei"></nlword>
+<nlword word="random" valsi="cunso"></nlword>
+<nlword word="random number" valsi="cunyna'u"></nlword>
+<nlword word="round trip" sense="travel" valsi="cupli'u"></nlword>
+<nlword word="revise" valsi="cusku'i"></nlword>
+<nlword word="ribcage" valsi="cutygreku"></nlword>
+<nlword word="road sign" valsi="dagysni"></nlword>
+<nlword word="rancher" valsi="dalcange" place="3"></nlword>
+<nlword word="ranch" valsi="dalcange" place="1"></nlword>
+<nlword word="road" valsi="dargu"></nlword>
+<nlword word="ribbon" valsi="dasri"></nlword>
+<nlword word="report" sense="information describing events" valsi="datnynoi"></nlword>
+<nlword word="register" sense="computer memory" valsi="datnyvau"></nlword>
+<nlword word="recent utterance" valsi="de'u"></nlword>
+<nlword word="ring" sense="jewelry" valsi="degja'i"></nlword>
+<nlword word="resumptitive" valsi="di'a"></nlword>
+<nlword word="regularly" valsi="di'i"></nlword>
+<nlword word="rusticle" valsi="digyligykamju"></nlword>
+<nlword word="regional" valsi="diklo"></nlword>
+<nlword word="regular" valsi="dikni"></nlword>
+<nlword word="rivet" valsi="dinkrnite"></nlword>
+<nlword word="radiate" valsi="dirce"></nlword>
+<nlword word="ring" valsi="djine"></nlword>
+<nlword word="role-player" valsi="dracykei"></nlword>
+<nlword word="role-playing game" valsi="dracyselkei" place="1"></nlword>
+<nlword word="rectify" sense="rectifying event" valsi="draga'i"></nlword>
+<nlword word="right" sense="agentive" valsi="dragau"></nlword>
+<nlword word="rectify" valsi="dragau"></nlword>
+<nlword word="roof" valsi="drudi"></nlword>
+<nlword word="request" valsi="e'o"></nlword>
+<nlword word="reverse of" valsi="fa'e"></nlword>
+<nlword word="reverse" sense="turn backward or over" valsi="fa'ergau"></nlword>
+<nlword word="reciprocal of" valsi="fa'i"></nlword>
+<nlword word="reveal" valsi="fa'irgau"></nlword>
+<nlword word="reversible" sense="sequence" valsi="fatka'e"></nlword>
+<nlword word="reverse" valsi="fatne"></nlword>
+<nlword word="roars" sense="angry non-linguistic utterence" valsi="fe'ucmo"></nlword>
+<nlword word="roar" sense="angry utterence" valsi="fegba'u"></nlword>
+<nlword word="reject" sense="an offer" valsi="fitytoltu'i"></nlword>
+<nlword word="rebellious" valsi="flapro"></nlword>
+<nlword word="rebel" sense="opponent of authority" valsi="flapro" place="1"></nlword>
+<nlword word="resident" sense="legal" valsi="flaxa'u" place="1"></nlword>
+<nlword word="raspberry" valsi="frambesi"></nlword>
+<nlword word="react" valsi="frati"></nlword>
+<nlword word="rational number" valsi="frinyna'u"></nlword>
+<nlword word="reverse Polish" valsi="fu'a"></nlword>
+<nlword word="raft" valsi="fultapla"></nlword>
+<nlword word="rust" valsi="furtirse"></nlword>
+<nlword word="rotten" valsi="fusra"></nlword>
+<nlword word="responsible" valsi="fuzme"></nlword>
+<nlword word="raise" sense="elevate" valsi="galgau"></nlword>
+<nlword word="rise" sense="move upwards" valsi="galmu'u"></nlword>
+<nlword word="rail" sense="tool" valsi="garna"></nlword>
+<nlword word="railing" sense="tool" valsi="garna"></nlword>
+<nlword word="rim" sense="anal-oral sex" valsi="gaxmolgle"></nlword>
+<nlword word="root" sense="plant appendage" valsi="genja"></nlword>
+<nlword word="root word" valsi="gismu"></nlword>
+<nlword word="randy" sense="sex" valsi="glebre"></nlword>
+<nlword word="recent bridi" valsi="go'a"></nlword>
+<nlword word="rod" sense="shape/form" valsi="grana"></nlword>
+<nlword word="representative" sense="parliament" valsi="gubyka'iseltru" place="2"></nlword>
+<nlword word="republic" valsi="gubyseltru" place="1"></nlword>
+<nlword word="reputation" valsi="gubysizykai"></nlword>
+<nlword word="roll" sense="of an object" valsi="gunro"></nlword>
+<nlword word="roll" sense="dice" valsi="gurgau"></nlword>
+<nlword word="ray" sense="line of light" valsi="gusli'i"></nlword>
+<nlword word="reflective" sense="light-reflective" valsi="gusminra"></nlword>
+<nlword word="restaurant" valsi="gusta"></nlword>
+<nlword word="respect" valsi="io"></nlword>
+<nlword word="referent conversion" valsi="ja'ei"></nlword>
+<nlword word="roman candle" sense="explosive" valsi="jadypo'a"></nlword>
+<nlword word="rocket" valsi="jakne"></nlword>
+<nlword word="result" valsi="jalge"></nlword>
+<nlword word="rifle" sense="near-shoulder weapon" valsi="jancelxa'i"></nlword>
+<nlword word="rocket launcher" sense="shoulder held" valsi="janjaknyxa'i"></nlword>
+<nlword word="reed" sense="wetland grass" valsi="jaursrasu"></nlword>
+<nlword word="rule" valsi="javni"></nlword>
+<nlword word="reduce" sense="bring down" valsi="jdikygau"></nlword>
+<nlword word="resolute" valsi="jditce"></nlword>
+<nlword word="roger" valsi="je'e"></nlword>
+<nlword word="regiment" sense="ramy unit" valsi="jempausle"></nlword>
+<nlword word="resurrect" valsi="ji'exru"></nlword>
+<nlword word="resurrectee" valsi="ji'exru" place="2"></nlword>
+<nlword word="revive" valsi="ji'exru"></nlword>
+<nlword word="resurrecter" valsi="ji'exru" place="1"></nlword>
+<nlword word="rounded up" valsi="ji'ima'u"></nlword>
+<nlword word="rounded down" valsi="ji'ini'u"></nlword>
+<nlword word="retire" sense="cease working" valsi="jibmu'o"></nlword>
+<nlword word="retiree" valsi="jibmu'o" place="1"></nlword>
+<nlword word="report" sense="notify" valsi="jungau"></nlword>
+<nlword word="rush" sense="plant" valsi="junkace"></nlword>
+<nlword word="reflect" sense="think about seriously" valsi="jurpei"></nlword>
+<nlword word="racehorse" valsi="jvixi'a"></nlword>
+<nlword word="racehorse breed" valsi="jvixi'a" place="2"></nlword>
+<nlword word="represented by" valsi="ka'i"></nlword>
+<nlword word="representative democracy" valsi="ka'irtrusi'o"></nlword>
+<nlword word="relation" sense="manner in which two things may be associated" valsi="kamra'a"></nlword>
+<nlword word="roommate" valsi="kanxa'u"></nlword>
+<nlword word="relativized it" valsi="ke'a"></nlword>
+<nlword word="repeating" valsi="ke'u"></nlword>
+<nlword word="repeat" sense="say again" valsi="ke'usku"></nlword>
+<nlword word="reset to original value" valsi="kraga'igau"></nlword>
+<nlword word="reset" sense="to original value" valsi="kraga'igau"></nlword>
+<nlword word="rights" sense="entitlements" valsi="krali"></nlword>
+<nlword word="right" sense="entitlement" valsi="krali"></nlword>
+<nlword word="represent" valsi="krati"></nlword>
+<nlword word="representative" sense="agent" valsi="krati" place="1"></nlword>
+<nlword word="recur" valsi="krefu"></nlword>
+<nlword word="removed hair" valsi="krevi'u" place="2"></nlword>
+<nlword word="reason" valsi="krinu"></nlword>
+<nlword word="room" valsi="kumfa"></nlword>
+<nlword word="reach" sense="touch by virtue of extent" valsi="kuspe"></nlword>
+<nlword word="range" valsi="kuspe"></nlword>
+<nlword word="rule with iron fist" valsi="kustru"></nlword>
+<nlword word="rose" sense="colour" valsi="labyxu'e"></nlword>
+<nlword word="rely" valsi="lacri"></nlword>
+<nlword word="recent" valsi="lampru"></nlword>
+<nlword word="roar" sense="loudly moan" valsi="laucmo"></nlword>
+<nlword word="repossess" valsi="le'axru"></nlword>
+<nlword word="refrigerator" valsi="lekmi'i"></nlword>
+<nlword word="religion" valsi="lijda"></nlword>
+<nlword word="row" sense="of objects" valsi="lijgri"></nlword>
+<nlword word="rub" sense="applying cream/ointment" valsi="likpu'i"></nlword>
+<nlword word="ravine" valsi="ma'arfe'a"></nlword>
+<nlword word="reference" valsi="manri"></nlword>
+<nlword word="read" sense="consume" valsi="mencti"></nlword>
+<nlword word="ray-finned fish" valsi="merlanu"></nlword>
+<nlword word="repairman" sense="repairing/maintaining machines" valsi="mi'ircikre"></nlword>
+<nlword word="reflect" valsi="minra"></nlword>
+<nlword word="reverberation" valsi="mirsna"></nlword>
+<nlword word="reincarnate" valsi="mivgau"></nlword>
+<nlword word="raise" sense="resurrect" valsi="mivgau"></nlword>
+<nlword word="resplendent" valsi="mleba'i"></nlword>
+<nlword word="rightwardly" valsi="mo'iri'u"></nlword>
+<nlword word="rearwardsly" valsi="mo'iti'a"></nlword>
+<nlword word="remind" valsi="mojgau"></nlword>
+<nlword word="reminder" sense="message" valsi="mojgaunoi" place="1"></nlword>
+<nlword word="reminisce" valsi="mojypei"></nlword>
+<nlword word="remember" valsi="morji"></nlword>
+<nlword word="rub off" valsi="mosyvi'u"></nlword>
+<nlword word="rye" valsi="mraji"></nlword>
+<nlword word="real number" valsi="mrena'u"></nlword>
+<nlword word="real" sense="number" valsi="mrena'u"></nlword>
+<nlword word="robin" sense="American robin" valsi="najycutcpi"></nlword>
+<nlword word="rare" sense="uncommon" valsi="nalfadni"></nlword>
+<nlword word="raw" sense="uncooked" valsi="nalseljukpa"></nlword>
+<nlword word="relentless" valsi="nalsti"></nlword>
+<nlword word="reference point" valsi="nau"></nlword>
+<nlword word="recommend" sense="bestow commendation on" valsi="nelti'i"></nlword>
+<nlword word="reasoner" valsi="nibyti'i" place="3"></nlword>
+<nlword word="rationale" sense="premise" valsi="nibyti'i" place="1"></nlword>
+<nlword word="reset" sense="to new value" valsi="ninga'igau"></nlword>
+<nlword word="reset to new value" valsi="ninga'igau"></nlword>
+<nlword word="rookie" valsi="nintadni"></nlword>
+<nlword word="royalty" valsi="nolba'i"></nlword>
+<nlword word="royal" valsi="nolba'i"></nlword>
+<nlword word="regent" sense="monarch" valsi="nolraitru"></nlword>
+<nlword word="royal servant" valsi="nolse'u"></nlword>
+<nlword word="release from promise" valsi="nu'ecu'i"></nlword>
+<nlword word="recreation" sense="involving playful activity" valsi="nunkei"></nlword>
+<nlword word="rural" valsi="nurma"></nlword>
+<nlword word="rescue" valsi="nurxru"></nlword>
+<nlword word="redeem" sense="rescue" valsi="nurxru"></nlword>
+<nlword word="rescuer" valsi="nurxru" place="1"></nlword>
+<nlword word="rescued" valsi="nurxru" place="2"></nlword>
+<nlword word="rashness" valsi="o'inai"></nlword>
+<nlword word="relaxation" valsi="o'u"></nlword>
+<nlword word="ratio" valsi="pa'i"></nlword>
+<nlword word="rate" sense="amount measured in relation to another amount" valsi="parbi"></nlword>
+<nlword word="robe" valsi="pastu"></nlword>
+<nlword word="rhetorical question" valsi="paunai"></nlword>
+<nlword word="reciprocal" sense="multiplicative inverse" valsi="pavdilcu"></nlword>
+<nlword word="restrictive phrase" valsi="pe"></nlword>
+<nlword word="return" sense="think back" valsi="peixru"></nlword>
+<nlword word="remark" sense="express a comment" valsi="piksku"></nlword>
+<nlword word="remark" sense="comment" valsi="pinka"></nlword>
+<nlword word="row" sense="of table" valsi="pinpau"></nlword>
+<nlword word="rank" sense="of chessboard" valsi="pinpau"></nlword>
+<nlword word="row vector" valsi="pinynacmei"></nlword>
+<nlword word="rarely" valsi="piso'uroi"></nlword>
+<nlword word="record" sense="log of performance or use" valsi="plivei"></nlword>
+<nlword word="route" sense="any path along defined points" valsi="pluta"></nlword>
+<nlword word="relative clause" sense="selbri restrictive relative clause" valsi="po'oi"></nlword>
+<nlword word="restrictive identity" valsi="po'u"></nlword>
+<nlword word="restrictive clause" valsi="poi"></nlword>
+<nlword word="right" valsi="pritu"></nlword>
+<nlword word="right hand" valsi="prityxa'e"></nlword>
+<nlword word="recent sumti" valsi="ra"></nlword>
+<nlword word="relative clause" valsi="ra'abri"></nlword>
+<nlword word="repeating decimal" valsi="ra'e"></nlword>
+<nlword word="retained earnings" valsi="ra'erprali" place="1"></nlword>
+<nlword word="retained surplus" valsi="ra'erprali"></nlword>
+<nlword word="rabbit" valsi="ractu"></nlword>
+<nlword word="radian" valsi="radno"></nlword>
+<nlword word="retain" valsi="ralte"></nlword>
+<nlword word="rambutan" valsi="rambutane"></nlword>
+<nlword word="remake" valsi="rapfinti" place="1"></nlword>
+<nlword word="repeat" sense="re-occuring action" valsi="rapli"></nlword>
+<nlword word="rape" sense="vegetable" valsi="rasykobli"></nlword>
+<nlword word="rat" valsi="ratcu"></nlword>
+<nlword word="rabbi" valsi="ravboni"></nlword>
+<nlword word="ready to receive" valsi="re'i"></nlword>
+<nlword word="restart" sense="begin again" valsi="refcfa"></nlword>
+<nlword word="restart" sense="cause to begin again" valsi="refcfari'a"></nlword>
+<nlword word="reload" sense="refresh a web page" valsi="refkibycpa"></nlword>
+<nlword word="refresh" sense="reload a web page" valsi="refkibycpa"></nlword>
+<nlword word="recognise" sense="seen before" valsi="refsajbi'o"></nlword>
+<nlword word="recognize" sense="seen before" valsi="refsajbi'o"></nlword>
+<nlword word="recapitulate" sense="repeat expression" valsi="refsku"></nlword>
+<nlword word="repeat" sense="expression" valsi="refsku"></nlword>
+<nlword word="record" sense="make a record of information" valsi="rejgau"></nlword>
+<nlword word="rolling surface for bike" valsi="relxilma'e" place="3"></nlword>
+<nlword word="railway station" valsi="renytcana"></nlword>
+<nlword word="reaper" sense="farm equipment" valsi="repmi'i"></nlword>
+<nlword word="reptile" valsi="respa"></nlword>
+<nlword word="release of emotion" valsi="ri'e"></nlword>
+<nlword word="restraint of emotion" valsi="ri'enai"></nlword>
+<nlword word="restrained" valsi="ri'urgau" place="2"></nlword>
+<nlword word="rich" valsi="ricfu"></nlword>
+<nlword word="resin" valsi="ricyblu" place="1"></nlword>
+<nlword word="rhythm" valsi="rilti"></nlword>
+<nlword word="rhyme" valsi="rimni"></nlword>
+<nlword word="restrain" valsi="rinju"></nlword>
+<nlword word="rare" valsi="rirci"></nlword>
+<nlword word="river" valsi="rirxe"></nlword>
+<nlword word="rice field" valsi="risfoi"></nlword>
+<nlword word="rice" valsi="rismi"></nlword>
+<nlword word="rice wine" valsi="risyvanju"></nlword>
+<nlword word="rite" valsi="ritli"></nlword>
+<nlword word="rock" valsi="rokci"></nlword>
+<nlword word="rock face" valsi="roksfe" place="1"></nlword>
+<nlword word="rose" valsi="rozgu"></nlword>
+<nlword word="rough" valsi="rufsu"></nlword>
+<nlword word="ripe" sense="as a fruit" valsi="rutma'u"></nlword>
+<nlword word="r" valsi="ry"></nlword>
+<nlword word="replacement quote" valsi="sa'ai"></nlword>
+<nlword word="rise" sense="stand up" valsi="sa'irbi'o"></nlword>
+<nlword word="robot" valsi="sampre"></nlword>
+<nlword word="recognize" sense="discern" valsi="sanji"></nlword>
+<nlword word="requiring" valsi="sau"></nlword>
+<nlword word="reverting thing" valsi="se'ixru" place="1"></nlword>
+<nlword word="revert" valsi="se'ixru"></nlword>
+<nlword word="return" sense="intransitive" valsi="se'ixru"></nlword>
+<nlword word="results because" valsi="seja'e"></nlword>
+<nlword word="results despite" valsi="seja'enai"></nlword>
+<nlword word="related to" valsi="seki'i"></nlword>
+<nlword word="reason therefore" valsi="seki'u"></nlword>
+<nlword word="reason nevertheless" valsi="seki'unai"></nlword>
+<nlword word="ride" sense="be carried" valsi="selma'e"></nlword>
+<nlword word="rider" valsi="selma'e" place="1"></nlword>
+<nlword word="reptile species" valsi="selrespa" place="1"></nlword>
+<nlword word="raised" valsi="selrirni"></nlword>
+<nlword word="root" sense="nth root" valsi="seltenfa"></nlword>
+<nlword word="reed" sense="for an instrument" valsi="selxagri"></nlword>
+<nlword word="rest" sense="that which remains" valsi="selyli'a" place="1"></nlword>
+<nlword word="raise oneself" valsi="sezgalgau"></nlword>
+<nlword word="resumé" valsi="sezyskinoi"></nlword>
+<nlword word="rub together" valsi="simtermosygau"></nlword>
+<nlword word="respect" sense="have respect for" valsi="sinma"></nlword>
+<nlword word="represent" sense="serve as a sign or symbol of" valsi="sinxa"></nlword>
+<nlword word="referent" sense="that which is referred" valsi="sitna" place="2"></nlword>
+<nlword word="referrer" valsi="sitna" place="1"></nlword>
+<nlword word="refer" sense="make reference to" valsi="sitna"></nlword>
+<nlword word="refer" sense="express with reference to" valsi="sitsku"></nlword>
+<nlword word="rope" valsi="skori"></nlword>
+<nlword word="register" sense="linguistic" valsi="skutadji"></nlword>
+<nlword word="rook" sense="chess" valsi="slanydi'u"></nlword>
+<nlword word="resemble" valsi="smimlu"></nlword>
+<nlword word="resemble each other" valsi="smisi'u"></nlword>
+<nlword word="refer" sense="make a reference to" valsi="smugau"></nlword>
+<nlword word="record" sense="sound" valsi="snavei"></nlword>
+<nlword word="reciprocal sumti" valsi="soi"></nlword>
+<nlword word="ration" sense="field ration" valsi="soirsai"></nlword>
+<nlword word="radish" sense="plant" valsi="spatnrafanu"></nlword>
+<nlword word="reply" valsi="spuda"></nlword>
+<nlword word="relate" sense="pertain" valsi="srana"></nlword>
+<nlword word="relevant" valsi="srana"></nlword>
+<nlword word="rib" sense="curved bones" valsi="srubo'u"></nlword>
+<nlword word="radish" sense="root/bulb" valsi="stagnrafanu"></nlword>
+<nlword word="remain" valsi="stali"></nlword>
+<nlword word="rhubarb" sense="pieplant" valsi="stanyxruba"></nlword>
+<nlword word="real estate" valsi="stuselpo'e"></nlword>
+<nlword word="raisin" sense="dried grape" valsi="sudvanjba"></nlword>
+<nlword word="right ascension" valsi="sunsicyjudri"></nlword>
+<nlword word="relax" sense="to relax someone" valsi="surgau"></nlword>
+<nlword word="rest" sense="take repose" valsi="surla"></nlword>
+<nlword word="relax" sense="to be at ease" valsi="surla"></nlword>
+<nlword word="rush" sense="go quickly" valsi="sutkla"></nlword>
+<nlword word="rapid" valsi="sutra"></nlword>
+<nlword word="roadrunner" valsi="sutybajycpi"></nlword>
+<nlword word="rush" sense="transitive" valsi="sutygau"></nlword>
+<nlword word="return to main point" valsi="ta'onai"></nlword>
+<nlword word="rainbow" valsi="tanbargu"></nlword>
+<nlword word="route" sense="network route" valsi="tcanylu'a"></nlword>
+<nlword word="reader" sense="agentive" valsi="tcidu" place="1"></nlword>
+<nlword word="read" valsi="tcidu"></nlword>
+<nlword word="reschedule" sense="change time of appointment" valsi="tcikyga'i"></nlword>
+<nlword word="representing in" valsi="teka'i"></nlword>
+<nlword word="rules of standard" valsi="tema'i"></nlword>
+<nlword word="ruin" sense="remains of something destroyed, disintegrated, or decayed." valsi="temfesti"></nlword>
+<nlword word="receive" sense="get" valsi="terbe'i"></nlword>
+<nlword word="rowing" valsi="terblo"></nlword>
+<nlword word="ridiculous" valsi="terckasu"></nlword>
+<nlword word="restraint" sense="device" valsi="terkavbu"></nlword>
+<nlword word="rub against" valsi="termosra"></nlword>
+<nlword word="rub" sense="agentive" valsi="termosygau"></nlword>
+<nlword word="reserve" sense="book in advance" valsi="ternupcpe"></nlword>
+<nlword word="rate" sense="evaluate" valsi="terva'i"></nlword>
+<nlword word="reason for importance" valsi="tervai"></nlword>
+<nlword word="request" sense="place an order for" valsi="tervencpe"></nlword>
+<nlword word="rights" sense="entitlements, permissions" valsi="terzi'e" place="1"></nlword>
+<nlword word="retreat" sense="behind something" valsi="ti'ekla"></nlword>
+<nlword word="regulate" sense="somebody changes something" valsi="tikygau"></nlword>
+<nlword word="rich in detail" valsi="tilcfu"></nlword>
+<nlword word="rude" valsi="tolclite"></nlword>
+<nlword word="reluctant" valsi="toldarsi"></nlword>
+<nlword word="resumed" valsi="toldicra" place="2"></nlword>
+<nlword word="resume" sense="restart" valsi="toldicra" place="1"></nlword>
+<nlword word="reason(s) for resumption" valsi="toldicra" place="3"></nlword>
+<nlword word="rise" sense="ascend" valsi="tolfa'u"></nlword>
+<nlword word="release" sense="from grasp" valsi="toljgari"></nlword>
+<nlword word="ruthless" valsi="tolke'i"></nlword>
+<nlword word="ridge" valsi="tolku'o"></nlword>
+<nlword word="release from" valsi="tolri'ugau"></nlword>
+<nlword word="rabies" valsi="tolvut"></nlword>
+<nlword word="rabid" valsi="tolvutu"></nlword>
+<nlword word="refute" sense="negate" valsi="tolxu'a"></nlword>
+<nlword word="reach" sense="arrive" valsi="tolyli'a"></nlword>
+<nlword word="regime" valsi="truci'e"></nlword>
+<nlword word="repentance" valsi="u'u"></nlword>
+<nlword word="right bracket" valsi="ve'o"></nlword>
+<nlword word="remnant" valsi="velvi'u"></nlword>
+<nlword word="remainder" valsi="velvi'u"></nlword>
+<nlword word="result" sense="remainder" valsi="velvi'u"></nlword>
+<nlword word="revenge" valsi="venfu"></nlword>
+<nlword word="receipt" valsi="venvei"></nlword>
+<nlword word="rubbish" valsi="victerlu'i"></nlword>
+<nlword word="refuse" sense="garbage" valsi="victerlu'i"></nlword>
+<nlword word="remove" valsi="vimcu"></nlword>
+<nlword word="reproach" valsi="vlasfa"></nlword>
+<nlword word="rebuke" valsi="vlasfa"></nlword>
+<nlword word="ripped piece" valsi="vlika'a" place="3"></nlword>
+<nlword word="ripped item" valsi="vlika'a" place="2"></nlword>
+<nlword word="rip" valsi="vlika'a"></nlword>
+<nlword word="ring finger" valsi="vonmomdegji"></nlword>
+<nlword word="record" valsi="vreji"></nlword>
+<nlword word="reclining" valsi="vreta"></nlword>
+<nlword word="rustle" sense="sound" valsi="vrurapkilpra"></nlword>
+<nlword word="rich complex sound" valsi="vruvricypra"></nlword>
+<nlword word="reed" sense="instrument" valsi="xagri"></nlword>
+<nlword word="reed" sense="grass" valsi="xagryspa"></nlword>
+<nlword word="regret" valsi="xenru"></nlword>
+<nlword word="rotavirus" valsi="xilvidru"></nlword>
+<nlword word="return" sense="carry back" valsi="xrubei"></nlword>
+<nlword word="request someone to return" valsi="xrucpe"></nlword>
+<nlword word="return, caused to" valsi="xrugau"></nlword>
+<nlword word="route of returning" valsi="xrukla" place="4"></nlword>
+<nlword word="returner" sense="one who goes back" valsi="xrukla" place="1"></nlword>
+<nlword word="return" sense="go back" valsi="xrukla"></nlword>
+<nlword word="ranunculus" sense="plant" valsi="xrulnranunkulu"></nlword>
+<nlword word="return" sense="to an earlier state" valsi="xruti"></nlword>
+<nlword word="red" valsi="xunre"></nlword>
+<nlword word="rent" valsi="zasyve'u"></nlword>
+<nlword word="rhino" valsi="zbiseljirna"></nlword>
+<nlword word="rhinoceros" valsi="zbiseljirna"></nlword>
+<nlword word="rel clause joiner" valsi="zi'e"></nlword>
+<nlword word="right" sense="due" valsi="zi'ejva"></nlword>
+<nlword word="release" sense="set free" valsi="zifcru"></nlword>
+<nlword word="request attendance" valsi="zvacpe"></nlword>
+<nlword word="registration list" valsi="zvaste"></nlword></direction>
