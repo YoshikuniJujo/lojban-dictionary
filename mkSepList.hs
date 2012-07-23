@@ -4,16 +4,18 @@ import System.Environment
 import Control.Monad
 import System.Directory
 
+directory = "src/main/assets/"
+
 main = do
 	[lang] <- getArgs
 	str <- readFile $ "lojban_" ++ lang ++ ".xml"
 	let	Document _ _ topElem _ = xmlParse lang str
 		lojen = head $ childrenE topElem
 		enloj = head $ tail $ childrenE topElem
-	createDirectory $ "loj" ++ lang
-	createDirectory $ lang ++ "loj"
-	mkFiles lojen "abcdefgijklmnoprstuvxyz" $ "loj" ++ lang
-	mkFiles enloj "abcdefghijklmnopqrstuvwxyz" $ lang ++ "loj"
+	createDirectory $ directory ++ "loj" ++ lang
+	createDirectory $ directory ++ lang ++ "loj"
+	mkFiles lojen "abcdefgijklmnoprstuvxyz" $ directory ++ "loj" ++ lang
+	mkFiles enloj "abcdefghijklmnopqrstuvwxyz" $ directory ++ lang ++ "loj"
 
 mkFiles :: Element i -> String -> FilePath -> IO ()
 mkFiles elem chars dir = do
