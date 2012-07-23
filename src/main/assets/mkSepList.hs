@@ -1,20 +1,42 @@
 import Text.XML.HaXml
 import Data.List
 import System.Environment
+import Control.Monad
+import System.Directory
 
 main = do
-	(xml_file : cn : rest) <- getArgs
-	let filterRule = case cn of
-		"not" -> notSelectWord $ head rest
-		[c] -> selectWord c
-	str <- readFile xml_file
-	let body = case xmlParse xml_file str of
-		(Document _ _ elem@(Elem _ _ contents) _) ->
-			intercalate "\n" $ map showElement $
-				filter filterRule $
-				childrenE $ head $ childrenE elem
-	putStr $ header ++ "<direction from=\"lojban\" to=\"English\">" ++ body ++
+	[lang] <- getArgs
+	str <- readFile $ "lojban_" ++ lang ++ ".xml"
+	let	Document _ _ topElem _ = xmlParse lang str
+		lojen = head $ childrenE topElem
+		enloj = head $ tail $ childrenE topElem
+	createDirectory $ "loj" ++ lang
+	createDirectory $ lang ++ "loj"
+	mkFiles lojen "abcdefgijklmnoprstuvxyz" $ "loj" ++ lang
+	mkFiles enloj "abcdefghijklmnopqrstuvwxyz" $ lang ++ "loj"
+
+mkFiles :: Element i -> String -> FilePath -> IO ()
+mkFiles elem chars dir = do
+	forM_ chars $ \c -> do
+--		putStr $ mkXmlString elem c
+		writeFile (dir ++ "/" ++ [c] ++ ".xml") $ mkXmlString elem c
+	writeFile (dir ++ "/rest.xml") $ mkXmlStringRest elem chars
+
+mkXmlStringRest :: Element i -> String -> String
+mkXmlStringRest elem cs =
+	header ++ "<direction from=\"lojban\" to=\"English\">" ++ body ++
 		"</direction>\n"
+	where
+	body = intercalate "\n" $ map showElement $ filter (notSelectWord cs) $
+		childrenE elem
+
+mkXmlString :: Element i -> Char -> String
+mkXmlString elem c =
+	header ++ "<direction from=\"lojban\" to=\"English\">" ++ body ++
+		"</direction>\n"
+	where
+	body = intercalate "\n" $ map showElement $ filter (selectWord c) $
+		childrenE elem
 
 header = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n"
 
@@ -40,13 +62,13 @@ getElem _ = error "not CElem"
 getN :: QName -> String
 getN (N n) = n
 
-showContent :: Show i => Content i -> String
+showContent :: Content i -> String
 showContent (CElem elem info) = showElement elem
 showContent (CString ws cd info) = cd
 showContent (CRef ref info) = show ref
 showContent (CMisc misc info) = "misc"
 
-showElement :: Show i => Element i -> String
+showElement :: Element i -> String
 showElement (Elem name attrs conts) =
 	"<" ++ showQName name ++ " " ++
 	intercalate " " (map showAttr attrs) ++ ">" ++
