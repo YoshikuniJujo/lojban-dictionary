@@ -7,7 +7,7 @@ import System.Directory
 directory = "src/main/assets/"
 
 main = do
-	[lang] <- getArgs
+	[lang, chars] <- getArgs
 	str <- readFile $ "lojban_" ++ lang ++ ".xml"
 	let	Document _ _ topElem _ = xmlParse lang str
 		lojen = head $ childrenE topElem
@@ -15,7 +15,7 @@ main = do
 	createDirectory $ directory ++ "loj" ++ lang
 	createDirectory $ directory ++ lang ++ "loj"
 	mkFiles lojen "abcdefgijklmnoprstuvxyz" $ directory ++ "loj" ++ lang
-	mkFiles enloj "abcdefghijklmnopqrstuvwxyz" $ directory ++ lang ++ "loj"
+	mkFiles enloj chars $ directory ++ lang ++ "loj"
 
 mkFiles :: Element i -> String -> FilePath -> IO ()
 mkFiles elem chars dir = do

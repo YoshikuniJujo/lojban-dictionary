@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="Settings">
+<ListPreference
+	android:key="lang"
+	android:title="Languages"
+	android:summary="Select language"
+	android:dialogTitle="Select language"
+	android:entries="@array/languages"
+	android:entryValues="@array/entryvalues"
+	/>
+</PreferenceCategory>
+</PreferenceScreen>

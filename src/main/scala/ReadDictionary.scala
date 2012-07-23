@@ -4,8 +4,9 @@ import _root_.java.io.{BufferedReader, InputStreamReader, FileNotFoundException}
 import _root_.scala.xml.{XML, Node}
 
 import _root_.android.content.res.AssetManager
+import _root_.android.content.SharedPreferences
 
-class ReadDictionary(asset: AssetManager) {
+class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	val initialString = "Hello!\nThis is Lojban dictionary!"
 
 	lazy val reader = new BufferedReader(new InputStreamReader(
@@ -21,6 +22,7 @@ class ReadDictionary(asset: AssetManager) {
 	line = ""
 	while ({line = cmavo.readLine(); line != null}) { clist ::= line }
 
+/*
 	lazy val englishFile = new BufferedReader(new InputStreamReader(
 		asset.open("lojen/rest.xml") , "UTF-8"))
 	lazy val englishXml = XML.load(englishFile)
@@ -28,14 +30,19 @@ class ReadDictionary(asset: AssetManager) {
 	lazy val enlojFile = new BufferedReader(new InputStreamReader(
 		asset.open("enloj/rest.xml"), "UTF-8"))
 	lazy val enlojXml = XML.load(enlojFile)
+*/
 
 	def getEn(loj: String): Node = {
 
 		if (loj == "") return null
 
+		val lang = if (sp.contains("lang")) sp.getString("lang", "en")
+			else "en"
+		val dir = "loj" + lang + "/"
+
 		try {
 			lazy val file = new BufferedReader(new InputStreamReader(
-				asset.open("lojen/" + loj.substring(0, 1) + ".xml"),
+				asset.open(dir + loj.substring(0, 1) + ".xml"),
 					"UTF-8"))
 			lazy val xml = XML.load(file)
 
@@ -46,7 +53,11 @@ class ReadDictionary(asset: AssetManager) {
 			case ex: FileNotFoundException =>
 		}
 
-		for (valsi <- englishXml \ "valsi") {
+		val file = new BufferedReader(new InputStreamReader(
+		asset.open(dir + "rest.xml") , "UTF-8"))
+		val xml = XML.load(file)
+
+		for (valsi <- xml \ "valsi") {
 			if ((valsi \ "@word").toString == loj) return valsi
 		}
 		return null
@@ -56,9 +67,13 @@ class ReadDictionary(asset: AssetManager) {
 
 		if (en == "") return null
 
+		val lang = if (sp.contains("lang")) sp.getString("lang", "en")
+			else "en"
+		val dir = lang + "loj/"
+
 		try {
 			lazy val file = new BufferedReader(new InputStreamReader(
-				asset.open("enloj/" + en.substring(0, 1) + ".xml"),
+				asset.open(dir + en.substring(0, 1) + ".xml"),
 					"UTF-8"))
 			lazy val xml = XML.load(file)
 
@@ -69,7 +84,11 @@ class ReadDictionary(asset: AssetManager) {
 			case ex: FileNotFoundException =>
 		}
 
-		for (nlword <- enlojXml \ "nlword") {
+		val file = new BufferedReader(new InputStreamReader(
+		asset.open(dir + "rest.xml"), "UTF-8"))
+		val xml = XML.load(file)
+
+		for (nlword <- xml \ "nlword") {
 			if ((nlword \ "@word").toString == en) return nlword
 		}
 		return null
