@@ -4,11 +4,13 @@
 <string-array name="languages">
 <item>English</item>
 <item>日本語</item>
+<item>lojban</item>
 </string-array>
 
 <string-array name="entryvalues">
 <item>en</item>
 <item>ja</item>
+<item>lojban</item>
 </string-array>
 
 </resources>
