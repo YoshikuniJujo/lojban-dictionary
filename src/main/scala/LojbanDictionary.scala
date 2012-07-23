@@ -74,7 +74,6 @@ class LojbanDictionary extends Activity with TypedActivity {
 	override def onOptionsItemSelected(item: MenuItem): Boolean = {
 		item.getItemId() match {
 		case 0 =>
-			Toast.makeText(this, "begin", Toast.LENGTH_SHORT).show()
 			val intent = new Intent(this, classOf[Preference])
 			startActivity(intent)
 		}

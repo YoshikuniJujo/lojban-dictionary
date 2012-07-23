@@ -115,6 +115,30 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		for (nlword <- xml \ "nlword") {
 			if ((nlword \ "@word").toString == en) return nlword
 		}
+
+		val diren = "enloj/"
+
+		try {
+			lazy val file = new BufferedReader(new InputStreamReader(
+				asset.open(diren + en.substring(0, 1) + ".xml"),
+					"UTF-8"))
+			lazy val xml = XML.load(file)
+
+			for (nlword <- xml \ "nlword") {
+				if ((nlword \ "@word").toString == en) return nlword
+			}
+		} catch {
+			case ex: FileNotFoundException =>
+		}
+
+		val fileen = new BufferedReader(new InputStreamReader(
+		asset.open(diren + "rest.xml") , "UTF-8"))
+		val xmlen = XML.load(fileen)
+
+		for (nlword <- xmlen \ "nlword") {
+			if ((nlword \ "@word").toString == en) return nlword
+		}
+
 		return null
 	}
 
