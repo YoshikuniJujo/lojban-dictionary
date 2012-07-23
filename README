@@ -1,1 +1,6 @@
 lojban dictionary for android
+
+runhaskell mkSepList.hs en abcdefghijklmnopqrstuvwxyz
+runhaskell mkSepList.hs ja ""
+runhaskell mkRafsiList.hs ja
+runhaskell mkRafsiList.hs en
