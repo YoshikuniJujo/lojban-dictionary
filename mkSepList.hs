@@ -1,4 +1,4 @@
-import Text.XML.HaXml
+import Text.XML.HaXml hiding (when)
 import Data.List
 import System.Environment
 import Control.Monad
@@ -12,15 +12,19 @@ main = do
 	let	Document _ _ topElem _ = xmlParse lang str
 		lojen = head $ childrenE topElem
 		enloj = head $ tail $ childrenE topElem
-	createDirectory $ directory ++ "loj" ++ lang
-	createDirectory $ directory ++ lang ++ "loj"
+	createDirectoryIfNotExist $ directory ++ "loj" ++ lang
+	createDirectoryIfNotExist $ directory ++ lang ++ "loj"
 	mkFiles lojen "abcdefgijklmnoprstuvxyz" $ directory ++ "loj" ++ lang
 	mkFiles enloj chars $ directory ++ lang ++ "loj"
+
+createDirectoryIfNotExist :: FilePath -> IO ()
+createDirectoryIfNotExist dir = do
+	b <- doesDirectoryExist dir
+	when (not b) $ createDirectory dir
 
 mkFiles :: Element i -> String -> FilePath -> IO ()
 mkFiles elem chars dir = do
 	forM_ chars $ \c -> do
---		putStr $ mkXmlString elem c
 		writeFile (dir ++ "/" ++ [c] ++ ".xml") $ mkXmlString elem c
 	writeFile (dir ++ "/rest.xml") $ mkXmlStringRest elem chars
 

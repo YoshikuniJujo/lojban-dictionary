@@ -22,15 +22,33 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	line = ""
 	while ({line = cmavo.readLine(); line != null}) { clist ::= line }
 
-/*
-	lazy val englishFile = new BufferedReader(new InputStreamReader(
-		asset.open("lojen/rest.xml") , "UTF-8"))
-	lazy val englishXml = XML.load(englishFile)
+	def getRafsi(rafsi: String): Node = {
+		val lang = if (sp.contains("lang")) sp.getString("lang", "en")
+			else "en"
+		val file_name = "gismu/" ++ lang ++ ".xml"
 
-	lazy val enlojFile = new BufferedReader(new InputStreamReader(
-		asset.open("enloj/rest.xml"), "UTF-8"))
-	lazy val enlojXml = XML.load(enlojFile)
-*/
+		val file = new BufferedReader(new InputStreamReader(
+		asset.open(file_name) , "UTF-8"))
+		val xml = XML.load(file)
+
+		for (valsi <- xml \ "valsi") {
+			val list = for (r <- valsi \ "rafsi") yield r.text
+			if (list contains rafsi) return valsi
+		}
+
+		val file_name_en = "gismu/en.xml"
+
+		val file_en = new BufferedReader(new InputStreamReader(
+		asset.open(file_name_en) , "UTF-8"))
+		val xml_en = XML.load(file_en)
+
+		for (valsi <- xml_en \ "valsi") {
+			val list = for (r <- valsi \ "rafsi") yield r.text
+			if (list contains rafsi) return valsi
+		}
+
+		return null
+	}
 
 	def getEn(loj: String): Node = {
 
@@ -165,6 +183,12 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		val en = getEn(loj)
 		if (en != null) leStr(en)
 		else loj + ": no result"
+	}
+
+	def rafsiToLoj2(rafsi: String): String = {
+		val en = getRafsi(rafsi)
+		if (en != null) leStr(en)
+		else rafsi + ":no result"
 	}
 
 	def lojToEn(loj: String): String = {
