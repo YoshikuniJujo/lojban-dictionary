@@ -31,6 +31,8 @@ class ReadDictionary(asset: AssetManager) {
 
 	def getEn(loj: String): Node = {
 
+		if (loj == "") return null
+
 		try {
 			lazy val file = new BufferedReader(new InputStreamReader(
 				asset.open("lojen/" + loj.substring(0, 1) + ".xml"),
@@ -51,6 +53,8 @@ class ReadDictionary(asset: AssetManager) {
 	}
 
 	def getLoj(en: String): Node = {
+
+		if (en == "") return null
 
 		try {
 			lazy val file = new BufferedReader(new InputStreamReader(
