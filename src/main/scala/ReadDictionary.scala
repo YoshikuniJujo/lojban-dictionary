@@ -11,17 +11,23 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 
 	def lojToEn(loj: String): String = {
 		val en = getEn(loj)
-		if (en != null) leStr(en) else loj + ": no result"
+		var str = ""
+		for (n <- en) str += leStr(n) + "\n\n"
+		str
 	}
 
 	def enToLoj(en: String): String = {
 		val loj = getLoj(en)
-		if (loj != null) elStr(loj) else en + ": no result"
+		var str = ""
+		for (n <- loj) str += elStr(n) + "\n\n"
+		str
 	}
 
 	def rafsiToLoj(rafsi: String): String = {
 		val en = getRafsi(rafsi)
-		if (en != null) leStr(en) else rafsi + ":no result"
+		var str = ""
+		for (n <- en) str += leStr(n) + "\n\n"
+		str
 	}
 
 	def leStr(valsi: Node): String = {
@@ -38,14 +44,15 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	}
 
 	def getDef(file_name: String, tag: String,
-		filter: (String, Node) => Boolean, trgt: String): Node = {
+		filter: (String, Node) => Boolean, trgt: String): List[Node] = {
+		var list: List[Node] = List()
 		val file = new BufferedReader(new InputStreamReader(
 			asset.open(file_name), "UTF-8"))
 		val xml = XML.load(file)
 		for (definition <- xml \ tag) {
-			if (filter(trgt, definition)) return definition
+			if (filter(trgt, definition)) list = definition :: list
 		}
-		return null
+		return list
 	}
 
 	def filter(trgt: String, definition: Node) =
@@ -56,8 +63,8 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		list contains trgt
 	}
 
-	def getEn(loj: String): Node = {
-		if (loj == "") return null
+	def getEn(loj: String): List[Node] = {
+		if (loj == "") return List()
 
 		val dir = "loj" + (if (sp.contains("lang"))
 			sp.getString("lang", "en") else "en") + "/"
@@ -66,20 +73,20 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		for (d <- List(dir, "lojen/")) {
 			try {
 				val ret1 = getDef(d + fn, "valsi", filter, loj)
-				if (ret1 != null) return ret1
+				if (ret1 != List()) return ret1
 			} catch {
 			case ex: FileNotFoundException =>
 				val ret2 = getDef(d + "rest.xml", "valsi",
 					filter, loj)
-				if (ret2 != null) return ret2
+				if (ret2 != List()) return ret2
 			}
 		}
 
-		return null
+		return List()
 	}
 
-	def getLoj(en: String): Node = {
-		if (en == "") return null
+	def getLoj(en: String): List[Node] = {
+		if (en == "") return List()
 
 		val dir = (if (sp.contains("lang")) sp.getString("lang", "en")
 			else "en") + "loj/"
@@ -88,31 +95,31 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		for (d <- List(dir, "enloj/")) {
 			try {
 				val ret1 = getDef(d + fn, "nlword", filter, en)
-				if (ret1 != null) return ret1
+				if (ret1 != List()) return ret1
 			} catch {
 			case ex: FileNotFoundException =>
 				val ret2 = getDef(d + "rest.xml", "nlword",
 					filter, en)
-				if (ret2 != null) return ret2
+				if (ret2 != List()) return ret2
 			}
 		}
 
-		return null
+		return List()
 	}
 
-	def getRafsi(rafsi: String): Node = {
+	def getRafsi(rafsi: String): List[Node] = {
 		val fn = if (sp.contains("lang"))
 				sp.getString("lang", "en") + ".xml"
 			else	"en.xml"
 
 		for (f <- List(fn, "en.xml")) {
 			val ret1 = getDef("gismu/" ++ f, "valsi", filterR, rafsi)
-			if (ret1 != null) return ret1
+			if (ret1 != List()) return ret1
 			val ret2 = getDef("cmavo/" ++ f, "valsi", filterR, rafsi)
-			if (ret2 != null) return ret2
+			if (ret2 != List()) return ret2
 		}
 
-		return null
+		return List()
 	}
 
 }
