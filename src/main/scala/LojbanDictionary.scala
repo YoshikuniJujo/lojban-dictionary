@@ -35,21 +35,21 @@ class LojbanDictionary extends Activity with TypedActivity {
 		lojen.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
-				textView.setText(readDic.lojToEn2(str))
+				textView.setText(readDic.lojToEn(str))
 			}
 		})
 
 		enloj.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
-				textView.setText(readDic.enToLoj2(str))
+				textView.setText(readDic.enToLoj(str))
 			}
 		})
 
 		rafsi.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
-				textView.setText(readDic.rafsiToLoj2(str))
+				textView.setText(readDic.rafsiToLoj(str))
 			}
 		})
 
