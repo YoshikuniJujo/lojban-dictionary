@@ -13,10 +13,18 @@ main = do
 		lojen = head $ childrenE topElem
 		body = intercalate "\n" $ map showElement $
 			filter isGismu $ childrenE lojen
-		cont = header ++ "<direction from=\"lojban\" to=\"English\">" ++
-			body ++ "</direction>\n"
+		cont = mkXmlFromBody body
+		body2 = intercalate "\n" $ map showElement $
+			filter isCmavo $ childrenE lojen
+		cont2 = mkXmlFromBody body2
 	createDirectoryIfNotExist (directory ++ "gismu/")
+	createDirectoryIfNotExist (directory ++ "cmavo/")
 	writeFile (directory ++ "gismu/" ++ lang ++ ".xml") cont
+	writeFile (directory ++ "cmavo/" ++ lang ++ ".xml") cont2
+
+mkXmlFromBody :: String -> String
+mkXmlFromBody body = header ++ "<direction from=\"lojban\" to=\"English\">" ++
+	body ++ "</direction>\n"
 
 createDirectoryIfNotExist :: FilePath -> IO ()
 createDirectoryIfNotExist dir = do
@@ -26,6 +34,9 @@ createDirectoryIfNotExist dir = do
 isGismu :: Element i -> Bool
 isGismu (Elem _ attrs _) =
 	maybe False ((== "gismu") . show) $ lookup (N "type") attrs
+
+isCmavo (Elem _ attrs _) =
+	maybe False ((== "cmavo") . show) $ lookup (N "type") attrs
 
 header = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n"
 

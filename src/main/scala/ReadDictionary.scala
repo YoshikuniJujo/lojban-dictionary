@@ -34,6 +34,28 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 			if (list contains rafsi) return valsi
 		}
 
+		val file_name_cmavo = "cmavo/" ++ lang ++ ".xml"
+
+		val file_cmavo = new BufferedReader(new InputStreamReader(
+		asset.open(file_name_cmavo) , "UTF-8"))
+		val xml_cmavo = XML.load(file_cmavo)
+
+		for (valsi <- xml_cmavo \ "valsi") {
+			val list = for (r <- valsi \ "rafsi") yield r.text
+			if (list contains rafsi) return valsi
+		}
+
+		val file_name_en_cmavo = "cmavo/en.xml"
+
+		val file_en_cmavo = new BufferedReader(new InputStreamReader(
+		asset.open(file_name_en_cmavo) , "UTF-8"))
+		val xml_en_cmavo = XML.load(file_en_cmavo)
+
+		for (valsi <- xml_en_cmavo \ "valsi") {
+			val list = for (r <- valsi \ "rafsi") yield r.text
+			if (list contains rafsi) return valsi
+		}
+
 		return null
 	}
 
