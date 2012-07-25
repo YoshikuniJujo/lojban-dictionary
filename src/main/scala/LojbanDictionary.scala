@@ -62,9 +62,11 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 		rafsi.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
-				var str = editText.getText.toString()
+				val str = editText.getText.toString()
+				val result = readDic.rafsiToLoj(str)
 				textView.setText(
-					Html.fromHtml(readDic.rafsiToLoj(str)))
+					Html.fromHtml(result._1))
+				mkLinks(result._2)
 			}
 		})
 

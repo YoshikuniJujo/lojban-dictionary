@@ -28,11 +28,16 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		str
 	}
 
-	def rafsiToLoj(rafsi: String): String = {
+	def rafsiToLoj(rafsi: String): (String, List[String]) = {
 		val en = getRafsi(rafsi)
 		var str = ""
 		for (n <- en) str += leStr(n) + "<BR/><BR/>"
-		str
+		var lookupList: List[String] = List()
+		for (valsi <- """\{[^}]+\}""".r findAllIn (en(0) \ "notes").text) {
+			lookupList = valsi.substring(1, valsi.length - 1) ::
+				lookupList
+		}
+		(str, lookupList)
 	}
 
 	def leStr(valsi: Node): String = {
