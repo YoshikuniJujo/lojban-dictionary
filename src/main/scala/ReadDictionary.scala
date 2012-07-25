@@ -21,11 +21,11 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		(str, lookupList.reverse)
 	}
 
-	def enToLoj(en: String): String = {
+	def enToLoj(en: String): List[(String, String)] = {
 		val loj = getLoj(en)
-		var str = ""
-		for (n <- loj) str += elStr(n) + "<BR/><BR/>"
-		str
+		var str: List[(String, String)] = List()
+		for (n <- loj) str = elStr(n) :: str
+		str.reverse
 	}
 
 	def rafsiToLoj(rafsi: String): (String, List[String]) = {
@@ -49,9 +49,10 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 			"<BR/>notes: " + (valsi \ "notes").text
 	}
 
-	def elStr(nlword: Node): String = {
-		return "<B>" + nlword \ "@valsi" + "</B><BR/>word: " +
-			nlword \ "@word" + "<BR/>sense: " + nlword \ "@sense"
+	def elStr(nlword: Node): (String, String) = {
+		return ((nlword \ "@valsi").text, "word: " +
+			nlword \ "@word" + "<BR/>sense: " + nlword \ "@sense" +
+			"<BR/>")
 	}
 
 	def getDef(file_name: String, tag: String,

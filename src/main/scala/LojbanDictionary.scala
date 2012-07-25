@@ -55,8 +55,12 @@ class LojbanDictionary extends Activity with TypedActivity {
 		enloj.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
+				textView.setText("")
+				mkEnLoj(readDic.enToLoj(str))
+/*
 				textView.setText(
 					Html.fromHtml(readDic.enToLoj(str)))
+*/
 			}
 		})
 
@@ -74,6 +78,27 @@ class LojbanDictionary extends Activity with TypedActivity {
 		findView(TR.textview).setText(readDic.initialString)
 
 //		mkLinks(List("gerku", "prami", "klama"))
+	}
+
+	def mkEnLoj(list: List[(String, String)]) {
+		listview.removeAllViews
+		for (result <- list) {
+			val tv1 = new TextView(this)
+			val tv2 = new TextView(this)
+			tv1.setTextSize(30)
+			tv1.setText(result._1)
+			tv1.setOnClickListener(new View.OnClickListener() {
+				def onClick(v: View) {
+					val result2 = readDic.lojToEn(result._1)
+					textView.setText(Html.fromHtml(result2._1))
+					mkLinks(result2._2)
+				}
+			})
+			tv1.setClickable(true)
+			tv2.setText(Html.fromHtml(result._2))
+			listview.addView(tv1)
+			listview.addView(tv2)
+		}
 	}
 
 	def mkLinks(list: List[String]) {
