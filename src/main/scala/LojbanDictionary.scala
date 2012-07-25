@@ -1,5 +1,6 @@
 package iocikun.juj.lojban.dictionary
 
+
 import _root_.android.app.Activity
 import _root_.android.content.Intent
 import _root_.android.os.Bundle
@@ -8,6 +9,7 @@ import _root_.android.view.View.OnClickListener
 import _root_.android.widget.TextView
 import _root_.android.widget.Button
 import _root_.android.widget.EditText
+import _root_.android.widget.LinearLayout
 import _root_.android.view.Menu
 import _root_.android.view.MenuItem
 import _root_.android.widget.Toast
@@ -29,6 +31,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val lojen = findView(TR.lojen).asInstanceOf[Button]
 	lazy val enloj = findView(TR.enloj).asInstanceOf[Button]
 	lazy val rafsi = findView(TR.rafsi).asInstanceOf[Button]
+	lazy val listview = findView(TR.listview).asInstanceOf[LinearLayout]
 
 	lazy val sp = PreferenceManager.getDefaultSharedPreferences(this)
 
@@ -41,9 +44,11 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 		lojen.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
-				var str = editText.getText.toString()
+				val str = editText.getText.toString()
+				val result = readDic.lojToEn(str)
 				textView.setText(
-					Html.fromHtml(readDic.lojToEn(str)))
+					Html.fromHtml(result._1))
+				mkLinks(result._2)
 			}
 		})
 
@@ -64,8 +69,27 @@ class LojbanDictionary extends Activity with TypedActivity {
 		})
 
 
-//		readDic = new ReadDictionary(getAssets())
 		findView(TR.textview).setText(readDic.initialString)
+
+//		mkLinks(List("gerku", "prami", "klama"))
+	}
+
+	def mkLinks(list: List[String]) {
+		listview.removeAllViews
+		for (valsi <- list) {
+			val tv = new TextView(this)
+			tv.setTextSize(30)
+			tv.setText(valsi)
+			tv.setClickable(true)
+			tv.setOnClickListener(new View.OnClickListener() {
+				def onClick(v: View) {
+					val result = readDic.lojToEn(valsi)
+					textView.setText(Html.fromHtml(result._1))
+					mkLinks(result._2)
+				}
+			})
+			listview.addView(tv)
+		}
 	}
 
 	override def onResume {

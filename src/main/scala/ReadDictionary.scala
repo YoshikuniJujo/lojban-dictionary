@@ -9,24 +9,29 @@ import _root_.android.content.SharedPreferences
 class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	val initialString = "Hello!\nThis is Lojban dictionary!"
 
-	def lojToEn(loj: String): String = {
+	def lojToEn(loj: String): (String, List[String]) = {
 		val en = getEn(loj)
 		var str = ""
-		for (n <- en) str += leStr(n) + "\n\n"
-		str
+		for (n <- en) str += leStr(n) + "<BR/><BR/>"
+		var lookupList: List[String] = List()
+		for (valsi <- """\{[^}]+\}""".r findAllIn (en(0) \ "notes").text) {
+			lookupList = valsi.substring(1, valsi.length - 1) ::
+				lookupList
+		}
+		(str, lookupList)
 	}
 
 	def enToLoj(en: String): String = {
 		val loj = getLoj(en)
 		var str = ""
-		for (n <- loj) str += elStr(n) + "\n\n"
+		for (n <- loj) str += elStr(n) + "<BR/><BR/>"
 		str
 	}
 
 	def rafsiToLoj(rafsi: String): String = {
 		val en = getRafsi(rafsi)
 		var str = ""
-		for (n <- en) str += leStr(n) + "\n\n"
+		for (n <- en) str += leStr(n) + "<BR/><BR/>"
 		str
 	}
 
