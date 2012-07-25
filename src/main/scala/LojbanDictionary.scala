@@ -12,6 +12,8 @@ import _root_.android.view.Menu
 import _root_.android.view.MenuItem
 import _root_.android.widget.Toast
 
+import _root_.android.view.Window;
+
 import _root_.android.preference.PreferenceManager
 
 import iocikun.juj.lojban.dictionary.ReadDictionary
@@ -30,6 +32,9 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 	override def onCreate(bundle: Bundle) {
 		super.onCreate(bundle)
+
+		requestWindowFeature(Window.FEATURE_NO_TITLE)
+
 		setContentView(R.layout.main)
 
 		lojen.setOnClickListener(new View.OnClickListener() {
