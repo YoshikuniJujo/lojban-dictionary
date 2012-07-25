@@ -18,7 +18,7 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 			lookupList = valsi.substring(1, valsi.length - 1) ::
 				lookupList
 		}
-		(str, lookupList)
+		(str, lookupList.reverse)
 	}
 
 	def enToLoj(en: String): String = {
@@ -37,7 +37,7 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 			lookupList = valsi.substring(1, valsi.length - 1) ::
 				lookupList
 		}
-		(str, lookupList)
+		(str, lookupList.reverse)
 	}
 
 	def leStr(valsi: Node): String = {
