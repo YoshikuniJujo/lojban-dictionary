@@ -32,15 +32,16 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 
 	def leStr(valsi: Node): String = {
 		var rafsiStr = ""
-		for (r <- valsi \ "rafsi") rafsiStr += "\nrafsi: " + r.text
-		return valsi \ "@word" + "\ntype: " + valsi \ "@type" + rafsiStr +
-			"\ndefinition: " + (valsi \ "definition").text +
-			"\nnotes: " + (valsi \ "notes").text
+		for (r <- valsi \ "rafsi") rafsiStr += "<BR/>rafsi: " + r.text
+		return "<B>" + valsi \ "@word" + "</B><BR/>type: " +
+			valsi \ "@type" + rafsiStr +
+			"<BR/>definition: " + (valsi \ "definition").text +
+			"<BR/>notes: " + (valsi \ "notes").text
 	}
 
 	def elStr(nlword: Node): String = {
-		return nlword \ "@valsi" + "\nword: " + nlword \ "@word" +
-			"\nsense: " + nlword \ "@sense"
+		return "<B>" + nlword \ "@valsi" + "</B><BR/>word: " +
+			nlword \ "@word" + "<BR/>sense: " + nlword \ "@sense"
 	}
 
 	def getDef(file_name: String, tag: String,

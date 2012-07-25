@@ -12,9 +12,11 @@ import _root_.android.view.Menu
 import _root_.android.view.MenuItem
 import _root_.android.widget.Toast
 
-import _root_.android.view.Window;
+import _root_.android.view.Window
 
 import _root_.android.preference.PreferenceManager
+
+import _root_.android.text.Html
 
 import iocikun.juj.lojban.dictionary.ReadDictionary
 
@@ -40,21 +42,24 @@ class LojbanDictionary extends Activity with TypedActivity {
 		lojen.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
-				textView.setText(readDic.lojToEn(str))
+				textView.setText(
+					Html.fromHtml(readDic.lojToEn(str)))
 			}
 		})
 
 		enloj.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
-				textView.setText(readDic.enToLoj(str))
+				textView.setText(
+					Html.fromHtml(readDic.enToLoj(str)))
 			}
 		})
 
 		rafsi.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
-				textView.setText(readDic.rafsiToLoj(str))
+				textView.setText(
+					Html.fromHtml(readDic.rafsiToLoj(str)))
 			}
 		})
 
