@@ -9,16 +9,18 @@ import _root_.android.content.SharedPreferences
 class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	val initialString = "Hello!\nThis is Lojban dictionary!"
 
-	def lojToEn(loj: String): (String, List[String]) = {
+	def lojToEn(loj: String): (String, String, List[String]) = {
 		val en = getEn(loj)
-		var str = ""
-		for (n <- en) str += leStr(n) + "<BR/><BR/>"
+//		var str = ""
+//		for (n <- en) str += leStr(n) + "<BR/><BR/>"
+		val ret = leStr(en(0))
+		val str = ret._2 + "<BR/>"
 		var lookupList: List[String] = List()
 		for (valsi <- """\{[^}]+\}""".r findAllIn (en(0) \ "notes").text) {
 			lookupList = valsi.substring(1, valsi.length - 1) ::
 				lookupList
 		}
-		(str, lookupList.reverse)
+		(ret._1, str, lookupList.reverse)
 	}
 
 	def enToLoj(en: String): List[(String, String)] = {
@@ -28,25 +30,27 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		str.reverse
 	}
 
-	def rafsiToLoj(rafsi: String): (String, List[String]) = {
+	def rafsiToLoj(rafsi: String): (String, String, List[String]) = {
 		val en = getRafsi(rafsi)
-		var str = ""
-		for (n <- en) str += leStr(n) + "<BR/><BR/>"
+//		var str = ""
+//		for (n <- en) str += leStr(n) + "<BR/><BR/>"
+		val ret = leStr(en(0))
+		val str = "<B>" + ret._1 + "</B><BR/>" + ret._2
 		var lookupList: List[String] = List()
 		for (valsi <- """\{[^}]+\}""".r findAllIn (en(0) \ "notes").text) {
 			lookupList = valsi.substring(1, valsi.length - 1) ::
 				lookupList
 		}
-		(str, lookupList.reverse)
+		(ret._1, ret._2 + "<BR/>", lookupList.reverse)
 	}
 
-	def leStr(valsi: Node): String = {
+	def leStr(valsi: Node): (String, String) = {
 		var rafsiStr = ""
 		for (r <- valsi \ "rafsi") rafsiStr += "<BR/>rafsi: " + r.text
-		return "<B>" + valsi \ "@word" + "</B><BR/>type: " +
+		return ((valsi \ "@word").text, "type: " +
 			valsi \ "@type" + rafsiStr +
 			"<BR/>definition: " + (valsi \ "definition").text +
-			"<BR/>notes: " + (valsi \ "notes").text
+			"<BR/>notes: " + (valsi \ "notes").text)
 	}
 
 	def elStr(nlword: Node): (String, String) = {

@@ -27,13 +27,15 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val readDic: ReadDictionary = new ReadDictionary(getAssets(), sp)
 
 	lazy val editText = findView(TR.input).asInstanceOf[EditText]
-	lazy val textView = findView(TR.textview).asInstanceOf[TextView]
+//	lazy val textView = findView(TR.textview).asInstanceOf[TextView]
 	lazy val lojen = findView(TR.lojen).asInstanceOf[Button]
 	lazy val enloj = findView(TR.enloj).asInstanceOf[Button]
 	lazy val rafsi = findView(TR.rafsi).asInstanceOf[Button]
 	lazy val listview = findView(TR.listview).asInstanceOf[LinearLayout]
 
 	lazy val sp = PreferenceManager.getDefaultSharedPreferences(this)
+
+	def mkTextView = new TextView(this)
 
 	override def onCreate(bundle: Bundle) {
 		super.onCreate(bundle)
@@ -44,23 +46,27 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 		lojen.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
+//				textView.setText("")
+				val tv1 = mkTextView
+				val tv2 = mkTextView
 				val str = editText.getText.toString()
 				val result = readDic.lojToEn(str)
-				textView.setText(
-					Html.fromHtml(result._1))
-				mkLinks(result._2)
+				tv1.setTextSize(30)
+				tv1.setText(result._1)
+				tv2.setText(
+					Html.fromHtml(result._2))
+				listview.removeAllViews
+				listview.addView(tv1)
+				listview.addView(tv2)
+				mkLinks(result._3)
 			}
 		})
 
 		enloj.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
-				textView.setText("")
+//				textView.setText("")
 				mkEnLoj(readDic.enToLoj(str))
-/*
-				textView.setText(
-					Html.fromHtml(readDic.enToLoj(str)))
-*/
 			}
 		})
 
@@ -68,14 +74,21 @@ class LojbanDictionary extends Activity with TypedActivity {
 			def onClick(v: View) {
 				val str = editText.getText.toString()
 				val result = readDic.rafsiToLoj(str)
-				textView.setText(
-					Html.fromHtml(result._1))
-				mkLinks(result._2)
+				listview.removeAllViews
+				val tv1 = mkTextView
+				val tv2 = mkTextView
+//				textView.setText(
+				tv1.setTextSize(30)
+				tv1.setText(result._1)
+				tv2.setText(Html.fromHtml(result._2))
+				listview.addView(tv1)
+				listview.addView(tv2)
+				mkLinks(result._3)
 			}
 		})
 
 
-		findView(TR.textview).setText(readDic.initialString)
+//		findView(TR.textview).setText(readDic.initialString)
 
 //		mkLinks(List("gerku", "prami", "klama"))
 	}
@@ -90,8 +103,16 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv1.setOnClickListener(new View.OnClickListener() {
 				def onClick(v: View) {
 					val result2 = readDic.lojToEn(result._1)
-					textView.setText(Html.fromHtml(result2._1))
-					mkLinks(result2._2)
+//					textView.setText(Html.fromHtml(result2._1))
+					val tv3 = mkTextView
+					val tv4 = mkTextView
+					tv3.setTextSize(30)
+					tv3.setText(result._1)
+					tv4.setText(Html.fromHtml(result2._2))
+					listview.removeAllViews
+					listview.addView(tv3)
+					listview.addView(tv4)
+					mkLinks(result2._3)
 				}
 			})
 			tv1.setClickable(true)
@@ -102,7 +123,6 @@ class LojbanDictionary extends Activity with TypedActivity {
 	}
 
 	def mkLinks(list: List[String]) {
-		listview.removeAllViews
 		for (valsi <- list) {
 			val tv = new TextView(this)
 			tv.setTextSize(30)
@@ -111,8 +131,16 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv.setOnClickListener(new View.OnClickListener() {
 				def onClick(v: View) {
 					val result = readDic.lojToEn(valsi)
-					textView.setText(Html.fromHtml(result._1))
-					mkLinks(result._2)
+//					textView.setText(Html.fromHtml(result._1))
+					val tv3 = mkTextView
+					val tv4 = mkTextView
+					tv3.setTextSize(30)
+					tv3.setText(result._1)
+					tv4.setText(Html.fromHtml(result._2))
+					listview.removeAllViews
+					listview.addView(tv3)
+					listview.addView(tv4)
+					mkLinks(result._3)
 				}
 			})
 			listview.addView(tv)
