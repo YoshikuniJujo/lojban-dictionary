@@ -15,6 +15,8 @@ import _root_.android.widget.LinearLayout
 import _root_.android.preference.PreferenceManager
 import _root_.android.text.Html
 
+import _root_.android.util.Log
+
 class LojbanDictionary extends Activity with TypedActivity {
 
 	lazy val sp = PreferenceManager getDefaultSharedPreferences this
@@ -29,9 +31,12 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val velcki = findView(TR.velcki)
 
 	override def onCreate(bundle: Bundle) {
+		Log.d("LojbanDictionary", "onCreate")
 		super.onCreate(bundle)
 		requestWindowFeature(Window.FEATURE_NO_TITLE)
 		setContentView(R.layout.main)
+
+		putDef(("", "coi rodo mi jbovlaste", List()))
 
 		lojen setOnClickListener new OnClickListener() {
 			def onClick(v: View) =

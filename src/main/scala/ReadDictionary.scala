@@ -54,7 +54,7 @@ class ReadDictionaryGen(
 	def lojToEn(loj: String): (String, String, List[String]) = {
 		val en = getEn(loj)
 		val ret = if (en == List())
-			return (loj, "no such valsi in the dictionary", List())
+			return ("", loj + ": no such valsi in the dictionary", List())
 			else leStr(en(0))
 		val str = ret._2 + "<BR/>"
 		var lookupList: List[String] = List()
