@@ -17,7 +17,7 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	def enToLoj(en: String):List[(String, String)] =
 		readDic.enToLoj(en)
 
-	def rafsiToLoj(rafsi: String): (String, String, List[String]) =
+	def rafsi(rafsi: String): (String, String, List[String]) =
 		readDic.rafsiToLoj(rafsi)
 
 	def elStr(nlword: Node): (String, String) = {
