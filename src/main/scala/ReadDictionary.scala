@@ -13,7 +13,9 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		val en = getEn(loj)
 //		var str = ""
 //		for (n <- en) str += leStr(n) + "<BR/><BR/>"
-		val ret = leStr(en(0))
+		val ret = if (en == List())
+			return (loj, "no such valsi in the dictionary", List())
+			else leStr(en(0))
 		val str = ret._2 + "<BR/>"
 		var lookupList: List[String] = List()
 		for (valsi <- """\{[^}]+\}""".r findAllIn (en(0) \ "notes").text) {
@@ -34,7 +36,9 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		val en = getRafsi(rafsi)
 //		var str = ""
 //		for (n <- en) str += leStr(n) + "<BR/><BR/>"
-		val ret = leStr(en(0))
+		val ret = if (en == List())
+			return (rafsi, "no such rafsi in the dictionary", List())
+			else leStr(en(0))
 		val str = "<B>" + ret._1 + "</B><BR/>" + ret._2
 		var lookupList: List[String] = List()
 		for (valsi <- """\{[^}]+\}""".r findAllIn (en(0) \ "notes").text) {
