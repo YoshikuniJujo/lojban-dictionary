@@ -7,12 +7,52 @@ import _root_.android.content.res.AssetManager
 import _root_.android.content.SharedPreferences
 
 class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
-	val initialString = "Hello!\nThis is Lojban dictionary!"
+	lazy val readDic = new ReadDictionaryGen(
+		getDef,
+		() => if (sp.contains("lang")) sp.getString("lang", "en") else "en")
+
+	def lojToEn(loj: String): (String, String, List[String]) =
+		readDic.lojToEn(loj)
+
+	def enToLoj(en: String):List[(String, String)] =
+		readDic.enToLoj(en)
+
+	def rafsiToLoj(rafsi: String): (String, String, List[String]) =
+		readDic.rafsiToLoj(rafsi)
+
+	def elStr(nlword: Node): (String, String) = {
+		return ((nlword \ "@valsi").text, "word: " +
+			nlword \ "@word" + "<BR/>sense: " + nlword \ "@sense" +
+			"<BR/>")
+	}
+
+	def getDef(file_name: String, tag: String,
+		filter: (String, Node) => Boolean, trgt: String): List[Node] = {
+		var list: List[Node] = List()
+		val file = new BufferedReader(new InputStreamReader(
+			asset.open(file_name), "UTF-8"))
+		val xml = XML.load(file)
+		for (definition <- xml \ tag) {
+			if (filter(trgt, definition)) list = definition :: list
+		}
+		return list
+	}
+}
+
+class ReadDictionaryGen(
+	getDef: (String, String, (String, Node) => Boolean, String) => List[Node],
+	lang: () => String) {
+
+	def filter(trgt: String, definition: Node) =
+		(definition \ "@word").toString == trgt
+
+	def filterR(trgt: String, definition: Node) = {
+		val list = for (r <- definition \ "rafsi") yield r.text
+		list contains trgt
+	}
 
 	def lojToEn(loj: String): (String, String, List[String]) = {
 		val en = getEn(loj)
-//		var str = ""
-//		for (n <- en) str += leStr(n) + "<BR/><BR/>"
 		val ret = if (en == List())
 			return (loj, "no such valsi in the dictionary", List())
 			else leStr(en(0))
@@ -34,8 +74,6 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 
 	def rafsiToLoj(rafsi: String): (String, String, List[String]) = {
 		val en = getRafsi(rafsi)
-//		var str = ""
-//		for (n <- en) str += leStr(n) + "<BR/><BR/>"
 		val ret = if (en == List())
 			return (rafsi, "no such rafsi in the dictionary", List())
 			else leStr(en(0))
@@ -48,46 +86,10 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		(ret._1, ret._2 + "<BR/>", lookupList.reverse)
 	}
 
-	def leStr(valsi: Node): (String, String) = {
-		var rafsiStr = ""
-		for (r <- valsi \ "rafsi") rafsiStr += "<BR/>rafsi: " + r.text
-		return ((valsi \ "@word").text, "type: " +
-			valsi \ "@type" + rafsiStr +
-			"<BR/>definition: " + (valsi \ "definition").text +
-			"<BR/>notes: " + (valsi \ "notes").text)
-	}
-
-	def elStr(nlword: Node): (String, String) = {
-		return ((nlword \ "@valsi").text, "word: " +
-			nlword \ "@word" + "<BR/>sense: " + nlword \ "@sense" +
-			"<BR/>")
-	}
-
-	def getDef(file_name: String, tag: String,
-		filter: (String, Node) => Boolean, trgt: String): List[Node] = {
-		var list: List[Node] = List()
-		val file = new BufferedReader(new InputStreamReader(
-			asset.open(file_name), "UTF-8"))
-		val xml = XML.load(file)
-		for (definition <- xml \ tag) {
-			if (filter(trgt, definition)) list = definition :: list
-		}
-		return list
-	}
-
-	def filter(trgt: String, definition: Node) =
-		(definition \ "@word").toString == trgt
-
-	def filterR(trgt: String, definition: Node) = {
-		val list = for (r <- definition \ "rafsi") yield r.text
-		list contains trgt
-	}
-
 	def getEn(loj: String): List[Node] = {
 		if (loj == "") return List()
 
-		val dir = "loj" + (if (sp.contains("lang"))
-			sp.getString("lang", "en") else "en") + "/"
+		val dir = "loj" + lang() + "/"
 		val fn = loj.substring(0, 1) + ".xml"
 
 		for (d <- List(dir, "lojen/")) {
@@ -108,8 +110,7 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	def getLoj(en: String): List[Node] = {
 		if (en == "") return List()
 
-		val dir = (if (sp.contains("lang")) sp.getString("lang", "en")
-			else "en") + "loj/"
+		val dir = lang() + "loj/"
 		val fn = en.substring(0, 1) + ".xml"
 
 		for (d <- List(dir, "enloj/")) {
@@ -128,9 +129,7 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	}
 
 	def getRafsi(rafsi: String): List[Node] = {
-		val fn = if (sp.contains("lang"))
-				sp.getString("lang", "en") + ".xml"
-			else	"en.xml"
+		val fn = lang() + ".xml"
 
 		for (f <- List(fn, "en.xml")) {
 			val ret1 = getDef("gismu/" ++ f, "valsi", filterR, rafsi)
@@ -142,4 +141,18 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		return List()
 	}
 
+	def leStr(valsi: Node): (String, String) = {
+		var rafsiStr = ""
+		for (r <- valsi \ "rafsi") rafsiStr += "<BR/>rafsi: " + r.text
+		return ((valsi \ "@word").text, "type: " +
+			valsi \ "@type" + rafsiStr +
+			"<BR/>definition: " + (valsi \ "definition").text +
+			"<BR/>notes: " + (valsi \ "notes").text)
+	}
+
+	def elStr(nlword: Node): (String, String) = {
+		return ((nlword \ "@valsi").text, "word: " +
+			nlword \ "@word" + "<BR/>sense: " + nlword \ "@sense" +
+			"<BR/>")
+	}
 }
