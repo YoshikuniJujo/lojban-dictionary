@@ -1,6 +1,5 @@
 package iocikun.juj.lojban.dictionary
 
-
 import _root_.android.app.Activity
 import _root_.android.content.Intent
 import _root_.android.os.Bundle
@@ -27,7 +26,6 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val readDic: ReadDictionary = new ReadDictionary(getAssets(), sp)
 
 	lazy val editText = findView(TR.input).asInstanceOf[EditText]
-//	lazy val textView = findView(TR.textview).asInstanceOf[TextView]
 	lazy val lojen = findView(TR.lojen).asInstanceOf[Button]
 	lazy val enloj = findView(TR.enloj).asInstanceOf[Button]
 	lazy val rafsi = findView(TR.rafsi).asInstanceOf[Button]
@@ -35,37 +33,25 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 	lazy val sp = PreferenceManager.getDefaultSharedPreferences(this)
 
-	def mkTextView = new TextView(this)
+	lazy val tvValsi = findView(TR.valsi).asInstanceOf[TextView]
+	lazy val tvDefn = findView(TR.defn).asInstanceOf[TextView]
 
 	override def onCreate(bundle: Bundle) {
 		super.onCreate(bundle)
-
 		requestWindowFeature(Window.FEATURE_NO_TITLE)
-
 		setContentView(R.layout.main)
 
 		lojen.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
-//				textView.setText("")
-				val tv1 = mkTextView
-				val tv2 = mkTextView
 				val str = editText.getText.toString()
 				val result = readDic.lojToEn(str)
-				tv1.setTextSize(30)
-				tv1.setText(result._1)
-				tv2.setText(
-					Html.fromHtml(result._2))
-				listview.removeAllViews
-				listview.addView(tv1)
-				listview.addView(tv2)
-				mkLinks(result._3)
+				putDefinition(result)
 			}
 		})
 
 		enloj.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
 				var str = editText.getText.toString()
-//				textView.setText("")
 				mkEnLoj(readDic.enToLoj(str))
 			}
 		})
@@ -74,23 +60,9 @@ class LojbanDictionary extends Activity with TypedActivity {
 			def onClick(v: View) {
 				val str = editText.getText.toString()
 				val result = readDic.rafsiToLoj(str)
-				listview.removeAllViews
-				val tv1 = mkTextView
-				val tv2 = mkTextView
-//				textView.setText(
-				tv1.setTextSize(30)
-				tv1.setText(result._1)
-				tv2.setText(Html.fromHtml(result._2))
-				listview.addView(tv1)
-				listview.addView(tv2)
-				mkLinks(result._3)
+				putDefinition(result)
 			}
 		})
-
-
-//		findView(TR.textview).setText(readDic.initialString)
-
-//		mkLinks(List("gerku", "prami", "klama"))
 	}
 
 	def mkEnLoj(list: List[(String, String)]) {
@@ -103,16 +75,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv1.setOnClickListener(new View.OnClickListener() {
 				def onClick(v: View) {
 					val result2 = readDic.lojToEn(result._1)
-//					textView.setText(Html.fromHtml(result2._1))
-					val tv3 = mkTextView
-					val tv4 = mkTextView
-					tv3.setTextSize(30)
-					tv3.setText(result._1)
-					tv4.setText(Html.fromHtml(result2._2))
-					listview.removeAllViews
-					listview.addView(tv3)
-					listview.addView(tv4)
-					mkLinks(result2._3)
+					putDefinition(result2)
 				}
 			})
 			tv1.setClickable(true)
@@ -131,16 +94,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv.setOnClickListener(new View.OnClickListener() {
 				def onClick(v: View) {
 					val result = readDic.lojToEn(valsi)
-//					textView.setText(Html.fromHtml(result._1))
-					val tv3 = mkTextView
-					val tv4 = mkTextView
-					tv3.setTextSize(30)
-					tv3.setText(result._1)
-					tv4.setText(Html.fromHtml(result._2))
-					listview.removeAllViews
-					listview.addView(tv3)
-					listview.addView(tv4)
-					mkLinks(result._3)
+					putDefinition(result)
 				}
 			})
 			listview.addView(tv)
@@ -167,5 +121,14 @@ class LojbanDictionary extends Activity with TypedActivity {
 			startActivity(intent)
 		}
 		return true
+	}
+
+	def putDefinition(result: (String, String, List[String])) {
+		tvValsi.setText(result._1)
+		tvDefn.setText(Html.fromHtml(result._2))
+		listview.removeAllViews
+		listview.addView(tvValsi)
+		listview.addView(tvDefn)
+		mkLinks(result._3)
 	}
 }
