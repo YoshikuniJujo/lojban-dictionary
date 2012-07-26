@@ -1,7 +1,6 @@
 import iocikun.juj.lojban.dictionary
 import org.scalatest.matchers.ShouldMatchers
 import org.scalatest.FunSpec
-import iocikun.juj.lojban.dictionary.TestTest
 import iocikun.juj.lojban.dictionary.ReadDictionaryGen
 
 import scala.xml.{XML, Node}

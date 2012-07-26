@@ -31,7 +31,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val rafsi = findView(TR.rafsi).asInstanceOf[Button]
 	lazy val listview = findView(TR.listview).asInstanceOf[LinearLayout]
 
-	lazy val sp = PreferenceManager.getDefaultSharedPreferences(this)
+	lazy val sp = PreferenceManager getDefaultSharedPreferences this
 
 	lazy val tvValsi = findView(TR.valsi).asInstanceOf[TextView]
 	lazy val tvDefn = findView(TR.defn).asInstanceOf[TextView]
@@ -41,20 +41,13 @@ class LojbanDictionary extends Activity with TypedActivity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE)
 		setContentView(R.layout.main)
 
-		lojen.setOnClickListener(new View.OnClickListener() {
-			def onClick(v: View) {
-				val str = editText.getText.toString()
-				val result = readDic.lojToEn(str)
-				putDefinition(result)
-			}
-		})
+		lojen setOnClickListener new View.OnClickListener() {
+			def onClick(v: View) = putDefinition(
+				readDic lojToEn editText.getText.toString)}
 
-		enloj.setOnClickListener(new View.OnClickListener() {
-			def onClick(v: View) {
-				var str = editText.getText.toString()
-				mkEnLoj(readDic.enToLoj(str))
-			}
-		})
+		enloj setOnClickListener new View.OnClickListener() {
+			def onClick(v: View) = mkEnLoj(
+				readDic enToLoj editText.getText.toString)}
 
 		rafsi.setOnClickListener(new View.OnClickListener() {
 			def onClick(v: View) {
@@ -82,22 +75,6 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv2.setText(Html.fromHtml(result._2))
 			listview.addView(tv1)
 			listview.addView(tv2)
-		}
-	}
-
-	def mkLinks(list: List[String]) {
-		for (valsi <- list) {
-			val tv = new TextView(this)
-			tv.setTextSize(30)
-			tv.setText(valsi)
-			tv.setClickable(true)
-			tv.setOnClickListener(new View.OnClickListener() {
-				def onClick(v: View) {
-					val result = readDic.lojToEn(valsi)
-					putDefinition(result)
-				}
-			})
-			listview.addView(tv)
 		}
 	}
 
@@ -130,5 +107,21 @@ class LojbanDictionary extends Activity with TypedActivity {
 		listview.addView(tvValsi)
 		listview.addView(tvDefn)
 		mkLinks(result._3)
+	}
+
+	def mkLinks(list: List[String]) {
+		for (valsi <- list) {
+			val tv = new TextView(this)
+			tv.setTextSize(30)
+			tv.setText(valsi)
+			tv.setClickable(true)
+			tv.setOnClickListener(new View.OnClickListener() {
+				def onClick(v: View) {
+					val result = readDic.lojToEn(valsi)
+					putDefinition(result)
+				}
+			})
+			listview.addView(tv)
+		}
 	}
 }
