@@ -147,7 +147,8 @@ class ReadDictionaryGen(
 		return ((valsi \ "@word").text, "<B>type</B>: " +
 			valsi \ "@type" + rafsiStr +
 			"<BR/><B>definition</B>: " + (valsi \ "definition").text +
-			"<BR/><B>notes</B>: " + (valsi \ "notes").text)
+			"<BR/><B>notes</B>: " + (valsi \ "notes").text.filterNot
+				{c => '{'.equals(c) || '}'.equals(c)})
 	}
 
 	def elStr(nlword: Node): (String, String) = {

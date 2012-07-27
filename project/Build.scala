@@ -6,8 +6,8 @@ import AndroidKeys._
 object General {
   val settings = Defaults.defaultSettings ++ Seq (
     name := "Lojban Dictionary",
-    version := "0.14.3",
-    versionCode := 34,
+    version := "0.14.4",
+    versionCode := 35,
     scalaVersion := "2.9.1",
     platformName in Android := "android-15"
   )
