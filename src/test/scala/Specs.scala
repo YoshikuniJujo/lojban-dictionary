@@ -23,7 +23,7 @@ class Specs extends FunSpec with ShouldMatchers {
 
 		it("should be no such valsi") {
 			readDic.lojToEn("hoge")._2 should be (
-				"no such valsi in the dictionary")
+				"hoge: no such valsi in the dictionary")
 		}
 	}
 

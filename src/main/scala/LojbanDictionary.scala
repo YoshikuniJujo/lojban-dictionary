@@ -1,5 +1,6 @@
 package iocikun.juj.lojban.dictionary
 
+
 import _root_.android.app.Activity
 import _root_.android.os.Bundle
 import _root_.android.content.Intent
@@ -16,6 +17,7 @@ import _root_.android.preference.PreferenceManager
 import _root_.android.text.Html
 
 import _root_.android.util.Log
+import _root_.android.widget.Toast
 
 class LojbanDictionary extends Activity with TypedActivity {
 
@@ -30,6 +32,8 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val valsi = findView(TR.valsi)
 	lazy val velcki = findView(TR.velcki)
 
+	val history: MyList[(Boolean, String)] = new MyList(false, "")
+
 	override def onCreate(bundle: Bundle) {
 		Log.d("LojbanDictionary", "onCreate")
 		super.onCreate(bundle)
@@ -39,16 +43,24 @@ class LojbanDictionary extends Activity with TypedActivity {
 		putDef(("", "coi rodo mi jbovlaste", List()))
 
 		lojen setOnClickListener new OnClickListener() {
-			def onClick(v: View) =
-				putDef(dic lojToEn input.getText.toString)}
+			def onClick(v: View) {
+				val result = dic lojToEn input.getText.toString
+				history.add(false, result._1)
+				putDef(result)}}
 
 		enloj setOnClickListener new OnClickListener() {
-			def onClick(v: View) =
-				mkEnLoj(dic enToLoj input.getText.toString)}
+			def onClick(v: View) = {
+				val en = input.getText.toString
+				val list = dic enToLoj en
+				if (list != Nil) history.add(true, en)
+				mkEnLoj(list)}
+			}
 
 		rafsi setOnClickListener new OnClickListener() {
-			def onClick(v: View) =
-				putDef(dic rafsi input.getText.toString)}
+			def onClick(v: View) {
+				val result = dic rafsi input.getText.toString
+				history.add(false, result._1)
+				putDef(result)}}
 	}
 
 	override def onResume {
@@ -91,6 +103,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv.setOnClickListener(new View.OnClickListener() {
 				def onClick(_v: View) {
 					val result = dic.lojToEn(v)
+					history.add(false, result._1)
 					putDef(result)
 				}
 			})
@@ -108,6 +121,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv1.setOnClickListener(new View.OnClickListener() {
 				def onClick(v: View) {
 					val result2 = dic.lojToEn(result._1)
+					history.add(false, result._1)
 					putDef(result2)
 				}
 			})
@@ -116,5 +130,19 @@ class LojbanDictionary extends Activity with TypedActivity {
 			field.addView(tv1)
 			field.addView(tv2)
 		}
+	}
+
+	def back(view: View) {
+		history.backward
+		var (en, str) = history.get
+		if (en) mkEnLoj(dic enToLoj str)
+		else putDef(dic lojToEn str)
+	}
+
+	def forward(view: View) {
+		history.forward
+		var (en, str) = history.get
+		if (en) mkEnLoj(dic enToLoj str)
+		else putDef(dic lojToEn str)
 	}
 }

@@ -75,7 +75,7 @@ class ReadDictionaryGen(
 	def rafsiToLoj(rafsi: String): (String, String, List[String]) = {
 		val en = getRafsi(rafsi)
 		val ret = if (en == List())
-			return (rafsi, "no such rafsi in the dictionary", List())
+			return ("", rafsi + ": no such rafsi in the dictionary", List())
 			else leStr(en(0))
 		val str = "<B>" + ret._1 + "</B><BR/>" + ret._2
 		var lookupList: List[String] = List()
