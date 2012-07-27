@@ -143,16 +143,16 @@ class ReadDictionaryGen(
 
 	def leStr(valsi: Node): (String, String) = {
 		var rafsiStr = ""
-		for (r <- valsi \ "rafsi") rafsiStr += "<BR/>rafsi: " + r.text
-		return ((valsi \ "@word").text, "type: " +
+		for (r <- valsi \ "rafsi") rafsiStr += "<BR/><B>rafsi</B>: " + r.text
+		return ((valsi \ "@word").text, "<B>type</B>: " +
 			valsi \ "@type" + rafsiStr +
-			"<BR/>definition: " + (valsi \ "definition").text +
-			"<BR/>notes: " + (valsi \ "notes").text)
+			"<BR/><B>definition</B>: " + (valsi \ "definition").text +
+			"<BR/><B>notes</B>: " + (valsi \ "notes").text)
 	}
 
 	def elStr(nlword: Node): (String, String) = {
-		return ((nlword \ "@valsi").text, "word: " +
-			nlword \ "@word" + "<BR/>sense: " + nlword \ "@sense" +
+		return ((nlword \ "@valsi").text, "<B>word</B>: " +
+			nlword \ "@word" + "<BR/><B>sense</B>: " + nlword \ "@sense" +
 			"<BR/>")
 	}
 }

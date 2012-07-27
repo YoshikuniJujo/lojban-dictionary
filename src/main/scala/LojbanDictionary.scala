@@ -44,14 +44,14 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 		lojen setOnClickListener new OnClickListener() {
 			def onClick(v: View) {
-				val result = dic lojToEn input.getText.toString
+				val result = dic lojToEn input.getText.toString.trim
 				if (result._1 != "")
 					history.add(false, result._1)
 				putDef(result)}}
 
 		enloj setOnClickListener new OnClickListener() {
 			def onClick(v: View) = {
-				val en = input.getText.toString
+				val en = input.getText.toString.trim
 				val list = dic enToLoj en
 				if (list != Nil) history.add(true, en)
 				mkEnLoj(list)}
@@ -59,7 +59,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 		rafsi setOnClickListener new OnClickListener() {
 			def onClick(v: View) {
-				val result = dic rafsi input.getText.toString
+				val result = dic rafsi input.getText.toString.trim
 				if (result._1 != "")
 					history.add(false, result._1)
 				putDef(result)}}
