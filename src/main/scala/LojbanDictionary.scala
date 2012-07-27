@@ -105,7 +105,8 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv.setOnClickListener(new View.OnClickListener() {
 				def onClick(_v: View) {
 					val result = dic.lojToEn(v)
-					history.add(false, result._1)
+					if (result._1 != "")
+						history.add(false, result._1)
 					putDef(result)
 				}
 			})
@@ -123,7 +124,8 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv1.setOnClickListener(new View.OnClickListener() {
 				def onClick(v: View) {
 					val result2 = dic.lojToEn(result._1)
-					history.add(false, result._1)
+					if (result._1 != "")
+						history.add(false, result._1)
 					putDef(result2)
 				}
 			})
