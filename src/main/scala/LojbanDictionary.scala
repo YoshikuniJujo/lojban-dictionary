@@ -19,6 +19,8 @@ import _root_.android.text.Html
 import _root_.android.util.Log
 import _root_.android.widget.Toast
 
+import _root_.android.view.KeyEvent
+
 class LojbanDictionary extends Activity with TypedActivity {
 
 	lazy val sp = PreferenceManager getDefaultSharedPreferences this
@@ -74,7 +76,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 	}
 
 	override def onCreateOptionsMenu(menu: Menu): Boolean = {
-		menu.add(Menu.NONE, 0, 0, "Select Lang")
+		menu.add(Menu.NONE, 0, 0, "settings")
 		return super.onCreateOptionsMenu(menu)
 	}
 
@@ -136,11 +138,14 @@ class LojbanDictionary extends Activity with TypedActivity {
 		}
 	}
 
-	def back(view: View) {
-		history.backward
+	def back(view: View) = backGen
+
+	def backGen(): Boolean = {
+		val ret = history.backward
 		var (en, str) = history.get
 		if (en) mkEnLoj(dic enToLoj str)
 		else putDef(dic lojToEn str)
+		return ret
 	}
 
 	def forward(view: View) {
@@ -148,5 +153,18 @@ class LojbanDictionary extends Activity with TypedActivity {
 		var (en, str) = history.get
 		if (en) mkEnLoj(dic enToLoj str)
 		else putDef(dic lojToEn str)
+	}
+
+	override def onKeyDown(keyCode: Int, event: KeyEvent): Boolean = {
+		if (keyCode == KeyEvent.KEYCODE_BACK) {
+			if (sp.contains("backbutton") &&
+				sp.getBoolean("backbutton", false)) {
+				backGen
+				return true
+			} else {
+				return super.onKeyDown(keyCode, event)
+			}
+		}
+		return super.onKeyDown(keyCode, event)
 	}
 }
