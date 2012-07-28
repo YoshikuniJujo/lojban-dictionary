@@ -43,6 +43,8 @@ class ReadDictionaryGen(
 	getDef: (String, String, (String, Node) => Boolean, String) => List[Node],
 	lang: () => String) {
 
+	val mr = new MyRegex
+
 	def filter(trgt: String, definition: Node) =
 		(definition \ "@word").toString == trgt
 
@@ -146,9 +148,11 @@ class ReadDictionaryGen(
 		for (r <- valsi \ "rafsi") rafsiStr += "<BR/><B>rafsi</B>: " + r.text
 		return ((valsi \ "@word").text, "<B>type</B>: " +
 			valsi \ "@type" + rafsiStr +
-			"<BR/><B>definition</B>: " + (valsi \ "definition").text +
-			"<BR/><B>notes</B>: " + (valsi \ "notes").text.filterNot
-				{c => '{'.equals(c) || '}'.equals(c)})
+			"<BR/><B>definition</B>: " +
+			mr.rep((valsi \ "definition").text) +
+			"<BR/><B>notes</B>: " +
+			mr.rep((valsi \ "notes").text.filterNot
+				{c => '{'.equals(c) || '}'.equals(c)}))
 	}
 
 	def elStr(nlword: Node): (String, String) = {
