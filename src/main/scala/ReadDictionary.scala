@@ -20,10 +20,35 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	def rafsi(rafsi: String): (String, String, List[String]) =
 		readDic.rafsiToLoj(rafsi)
 
-	def elStr(nlword: Node): (String, String) = {
+	def elStr(nlword: Node): (String, String) =
 		return ((nlword \ "@valsi").text, "word: " +
 			nlword \ "@word" + "<BR/>sense: " + nlword \ "@sense" +
 			"<BR/>")
+
+	def allwords: Array[String] = {
+		var wordlist: List[String] = List()
+		for (h <- "abcdefgijklmnoprstuvxyz")
+			wordlist = wordlist :::
+				getWords("lojen/" + h + ".xml", "valsi")
+		wordlist = wordlist ::: getWords("lojen/rest.xml", "valsi")
+		for (h <- "abcdefghijklmnopqrstuvwxyz")
+			wordlist = wordlist :::
+				getWords("enloj/" + h + ".xml", "nlword")
+		wordlist = wordlist ::: getWords("enloj/rest.xml", "nlword")
+		val lang = if (sp.contains("lang"))
+			sp.getString("lang", "en") else "en"
+		wordlist = wordlist ::: getWords(lang + "loj/rest.xml", "nlword")
+		return wordlist.toArray
+	}
+
+	def getWords(file_name:String, tag: String): List[String] = {
+		var wordlist: List[String] = List()
+		val file = new BufferedReader(new InputStreamReader(
+			asset.open(file_name), "UTF-8"))
+		val xml = XML.load(file)
+		for (definition <- (xml \ tag).reverse)
+			wordlist = (definition \ "@word").text :: wordlist
+		wordlist
 	}
 
 	def getDef(file_name: String, tag: String,

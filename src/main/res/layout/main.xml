@@ -19,7 +19,7 @@
 	android:layout_height="wrap_content"
 	android:src="@drawable/lojban_40"/>
 
-<EditText
+<AutoCompleteTextView
 	android:id="@+id/input"
 	android:layout_width="fill_parent"
 	android:layout_height="wrap_content"

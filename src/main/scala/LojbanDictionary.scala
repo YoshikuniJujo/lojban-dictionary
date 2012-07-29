@@ -10,6 +10,8 @@ import _root_.android.view.Window
 import _root_.android.view.Menu
 import _root_.android.view.MenuItem
 import _root_.android.widget.TextView
+import _root_.android.widget.AutoCompleteTextView
+import _root_.android.widget.ArrayAdapter
 import _root_.android.widget.EditText
 import _root_.android.widget.Button
 import _root_.android.widget.LinearLayout
@@ -36,11 +38,17 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 	val history: MyList[(Boolean, String)] = new MyList(false, "")
 
+	lazy val allwords = dic.allwords
+	lazy val adapter = new ArrayAdapter[String](
+		this, android.R.layout.simple_dropdown_item_1line, allwords)
+
 	override def onCreate(bundle: Bundle) {
 		Log.d("LojbanDictionary", "onCreate")
 		super.onCreate(bundle)
 		requestWindowFeature(Window.FEATURE_NO_TITLE)
 		setContentView(R.layout.main)
+		if (sp.contains("complete") && sp.getBoolean("complete", false))
+			input.setAdapter(adapter)
 
 		putDef(("", "coi rodo mi jbovlaste", List()))
 
