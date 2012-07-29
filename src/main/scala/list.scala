@@ -19,13 +19,24 @@ class MyList[T](default: T) {
 	def get = if (list1 == Nil) default else list1(0)
 
 	def forward = list2 match {
-		case h :: t => { list1 = h :: list1; list2 = t; t != Nil }
-		case Nil => false }
+		case h :: t => 
+			list1 = h :: list1
+			list2 = t
+			(t != Nil, true)
+		case Nil => (false, false) }
+
+	def backable = list1 match {
+		case h :: Nil => false
+		case Nil => false
+		case lst => true }
 
 	def backward = list1 match {
-		case h :: Nil => false
-		case h :: t => { list2 = h :: list2; list1 = t; t != Nil }
-		case Nil => false }
+		case h :: Nil => (false, false)
+		case h :: t =>
+			list2 = h :: list2
+			list1 = t
+			(t.size > 1, true)
+		case Nil => (false, false) }
 
 	override def toString() = (list1.reverse ::: list2).toString
 }

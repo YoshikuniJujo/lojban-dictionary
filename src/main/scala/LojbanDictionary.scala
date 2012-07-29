@@ -36,6 +36,9 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val valsi = findView(TR.valsi)
 	lazy val velcki = findView(TR.velcki)
 
+	lazy val back = findView(TR.back)
+	lazy val forward = findView(TR.forward)
+
 	val history: MyList[(Boolean, String)] = new MyList(false, "")
 
 	lazy val allwords = dic.allwords
@@ -51,27 +54,39 @@ class LojbanDictionary extends Activity with TypedActivity {
 			input.setAdapter(adapter)
 
 		putDef(("", "coi rodo mi jbovlaste", List()))
+		back.setImageResource(R.drawable.back_no)
+		forward.setImageResource(R.drawable.forward_no)
 
 		lojen setOnClickListener new OnClickListener() {
 			def onClick(v: View) {
 				val result = dic lojToEn input.getText.toString.trim
-				if (result._1 != "")
+				if (result._1 != "") {
 					history.add(false, result._1)
+					if (history.backable)
+						back.setImageResource(R.drawable.back)
+				}
 				putDef(result)}}
 
 		enloj setOnClickListener new OnClickListener() {
 			def onClick(v: View) = {
 				val en = input.getText.toString.trim
 				val list = dic enToLoj en
-				if (list != Nil) history.add(true, en)
+				if (list != Nil) {
+					history.add(true, en)
+					if (history.backable)
+						back.setImageResource(R.drawable.back)
+				}
 				mkEnLoj(list)}
 			}
 
 		rafsi setOnClickListener new OnClickListener() {
 			def onClick(v: View) {
 				val result = dic rafsi input.getText.toString.trim
-				if (result._1 != "")
+				if (result._1 != "") {
 					history.add(false, result._1)
+					if (history.backable)
+						back.setImageResource(R.drawable.back)
+				}
 				putDef(result)}}
 	}
 
@@ -115,8 +130,11 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv.setOnClickListener(new View.OnClickListener() {
 				def onClick(_v: View) {
 					val result = dic.lojToEn(v)
-					if (result._1 != "")
+					if (result._1 != "") {
 						history.add(false, result._1)
+						if (history.backable)
+							back.setImageResource(R.drawable.back)
+					}
 					putDef(result)
 				}
 			})
@@ -134,8 +152,11 @@ class LojbanDictionary extends Activity with TypedActivity {
 			tv1.setOnClickListener(new View.OnClickListener() {
 				def onClick(v: View) {
 					val result2 = dic.lojToEn(result._1)
-					if (result._1 != "")
+					if (result._1 != "") {
 						history.add(false, result._1)
+						if (history.backable)
+							back.setImageResource(R.drawable.back)
+					}
 					putDef(result2)
 				}
 			})
@@ -149,18 +170,26 @@ class LojbanDictionary extends Activity with TypedActivity {
 	def back(view: View) = backGen
 
 	def backGen(): Boolean = {
-		val ret = history.backward
+		val (ret, move) = history.backward
 		var (en, str) = history.get
-		if (en) mkEnLoj(dic enToLoj str)
-		else putDef(dic lojToEn str)
+		if (move) {
+			forward.setImageResource(R.drawable.forward)
+			if (en) mkEnLoj(dic enToLoj str)
+			else putDef(dic lojToEn str)
+			if (!ret) back.setImageResource(R.drawable.back_no)
+		}
 		return ret
 	}
 
 	def forward(view: View) {
-		history.forward
+		val (ret, move) = history.forward
 		var (en, str) = history.get
-		if (en) mkEnLoj(dic enToLoj str)
-		else putDef(dic lojToEn str)
+		if (move) {
+			back.setImageResource(R.drawable.back)
+			if (en) mkEnLoj(dic enToLoj str)
+			else putDef(dic lojToEn str)
+			if (!ret) forward.setImageResource(R.drawable.forward_no)
+		}
 	}
 
 	override def onKeyDown(keyCode: Int, event: KeyEvent): Boolean = {
