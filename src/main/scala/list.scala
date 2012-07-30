@@ -14,7 +14,11 @@ class MyList[T](default: T) {
 	var list1: List[T] = List()
 	var list2: List[T] = List()
 
-	def add(elem: T) { list1 = elem :: list1 }
+	def add(elem: T) {
+		if ((list1 == Nil || list1(0) != elem) &&
+			(list2 == Nil || list2(0) != elem))
+			list1 = elem :: list1
+	}
 
 	def get = if (list1 == Nil) default else list1(0)
 
