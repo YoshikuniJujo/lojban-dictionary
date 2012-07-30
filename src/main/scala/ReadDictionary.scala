@@ -46,8 +46,11 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		val file = new BufferedReader(new InputStreamReader(
 			asset.open(file_name), "UTF-8"))
 		val xml = XML.load(file)
-		for (definition <- (xml \ tag).reverse)
+		for (definition <- (xml \ tag).reverse) {
+			for (rafsi <- definition \ "rafsi")
+				wordlist = rafsi.text :: wordlist
 			wordlist = (definition \ "@word").text :: wordlist
+		}
 		wordlist
 	}
 
