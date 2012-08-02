@@ -37,6 +37,9 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		wordlist = wordlist ::: getWords("enloj/rest.xml", "nlword")
 		val lang = if (sp.contains("lang"))
 			sp.getString("lang", "en") else "en"
+		for (h <- "abcdefghijklmnopqrstuvwxyz")
+			wordlist = wordlist :::
+				getWords(lang + "loj/" + h + ".xml", "nlword")
 		wordlist = wordlist ::: getWords(lang + "loj/rest.xml", "nlword")
 		return wordlist.toArray
 	}
