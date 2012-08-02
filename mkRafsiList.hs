@@ -1,74 +1,39 @@
-import Text.XML.HaXml hiding(when)
-import Data.List
+import XMLTools
+import Text.XML.HaXml
 import System.Environment
 import Control.Monad
-import System.Directory
 
-directory = "src/main/assets/"
+directory = "./src/main/assets/rafsi/"
 
 main = do
 	[lang] <- getArgs
-	str <- readFile $ "lojban_" ++ lang ++ ".xml"
-	let	Document _ _ topElem _ = xmlParse lang str
-		lojen = head $ childrenE topElem
-		body = intercalate "\n" $ map showElement $
-			filter isGismu $ childrenE lojen
-		cont = mkXmlFromBody body
-		body2 = intercalate "\n" $ map showElement $
-			filter isCmavo $ childrenE lojen
-		cont2 = mkXmlFromBody body2
-	createDirectoryIfNotExist (directory ++ "gismu/")
-	createDirectoryIfNotExist (directory ++ "cmavo/")
-	writeFile (directory ++ "gismu/" ++ lang ++ ".xml") cont
-	writeFile (directory ++ "cmavo/" ++ lang ++ ".xml") cont2
+	cnt <- readFile $ "lojban_" ++ lang ++ ".xml"
+	let	Document _ _ topElem _ = xmlParse lang cnt
+		elems = childrenE $ head $ childrenE topElem
+	createDirectoryIfNotExist directory
+	createDirectoryIfNotExist $ directory ++ lang ++ "/"
+	forM_ "bcdfghjklmnprstvxz" $ \c ->
+		makeChrRafsiFiles lang c elems
 
-mkXmlFromBody :: String -> String
-mkXmlFromBody body = header ++ "<direction from=\"lojban\" to=\"English\">" ++
-	body ++ "</direction>\n"
+makeChrRafsiFiles :: String -> Char -> [Element i] -> IO ()
+makeChrRafsiFiles lang c = writeFile
+	(directory ++ lang ++ "/" ++ [c] ++ ".xml") . makeChrRafsiString c
 
-createDirectoryIfNotExist :: FilePath -> IO ()
-createDirectoryIfNotExist dir = do
-	b <- doesDirectoryExist dir
-	when (not b) $ createDirectory dir
+makeChrRafsiString :: Char -> [Element i] -> String
+makeChrRafsiString c = makeXMLString . filterRafsi c
 
-isGismu :: Element i -> Bool
-isGismu (Elem _ attrs _) =
-	maybe False ((== "gismu") . show) $ lookup (N "type") attrs
+getChildrenByName :: String -> Element i -> [Element i]
+getChildrenByName name = filter (isName name) . childrenE
 
-isCmavo (Elem _ attrs _) =
-	maybe False ((== "cmavo") . show) $ lookup (N "type") attrs
+isName :: String -> Element i -> Bool
+isName n0 (Elem n1 _ _) = N n0 == n1
 
-header = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n"
+filterRafsi :: Char -> [Element i] -> [Element i]
+filterRafsi = filter . isHeadRafsi
 
-childrenE :: Element i -> [Element i]
-childrenE (Elem _ _ cs) = map getElem $ filter isElem cs
+isHeadRafsi :: Char -> Element i -> Bool
+isHeadRafsi h0 = not . null . filter (\(h1 : _) -> h0 == h1) . getRafsi
 
-isElem :: Content i -> Bool
-isElem (CElem _ _) = True
-isElem _ = False
-
-getElem :: Content i -> Element i
-getElem (CElem elem _) = elem
-getElem _ = error "not CElem"
-
-getN :: QName -> String
-getN (N n) = n
-
-showContent :: Content i -> String
-showContent (CElem elem info) = showElement elem
-showContent (CString ws cd info) = cd
-showContent (CRef ref info) = show ref
-showContent (CMisc misc info) = "misc"
-
-showElement :: Element i -> String
-showElement (Elem name attrs conts) =
-	"<" ++ showQName name ++ " " ++
-	intercalate " " (map showAttr attrs) ++ ">" ++
-	concatMap showContent conts ++
-	"</" ++ showQName name ++ ">"
-
-showQName :: QName -> String
-showQName (N n) = n
-
-showAttr :: Attribute -> String
-showAttr (N name, attv) = name ++ "=\"" ++ show attv ++ "\""
+getRafsi :: Element i -> [String]
+getRafsi elem = (\(Elem _ _ [c]) -> showContent c) `map`
+	getChildrenByName "rafsi" elem

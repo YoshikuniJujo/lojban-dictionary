@@ -159,16 +159,22 @@ class ReadDictionaryGen(
 	}
 
 	def getRafsi(rafsi: String): List[Node] = {
-		val fn = lang() + ".xml"
+		if (rafsi == "") return List()
 
-		for (f <- List(fn, "en.xml")) {
-			val ret1 = getDef("gismu/" ++ f, "valsi", filterR, rafsi)
-			if (ret1 != List()) return ret1
-			val ret2 = getDef("cmavo/" ++ f, "valsi", filterR, rafsi)
-			if (ret2 != List()) return ret2
+		val dir = "rafsi/" + lang() + "/"
+		val fn = rafsi.substring(0, 1) + ".xml"
+
+		for (d <- List(dir, "rafsi/en/")) {
+			try {
+				val ret1 = getDef(d + fn, "valsi", filterR, rafsi)
+				if (ret1 != List()) return ret1
+			} catch {
+			case ex: FileNotFoundException =>
+			}
 		}
 
 		return List()
+
 	}
 
 	def leStr(valsi: Node): (String, String) = {
