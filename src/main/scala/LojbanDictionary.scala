@@ -93,8 +93,8 @@ class LojbanDictionary extends Activity with TypedActivity {
 	override def onResume {
 		super.onResume
 		if (sp.contains("lang")) {
-			lojen.setText("loj -> " + sp.getString("lang", ""))
-			enloj.setText(sp.getString("lang", "") + " -> loj")
+			lojen.setText("jbo -> " + sp.getString("lang", ""))
+			enloj.setText(sp.getString("lang", "") + " -> jbo")
 		}
 	}
 
