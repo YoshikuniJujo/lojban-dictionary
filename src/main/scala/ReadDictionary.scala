@@ -6,6 +6,8 @@ import _root_.scala.xml.{XML, Node}
 import _root_.android.content.res.AssetManager
 import _root_.android.content.SharedPreferences
 
+import _root_.android.util.Log
+
 class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 	lazy val readDic = new ReadDictionaryGen(
 		getDef,
@@ -37,10 +39,10 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		wordlist = wordlist ::: getWords("enloj/rest.xml", "nlword")
 		val lang = if (sp.contains("lang"))
 			sp.getString("lang", "en") else "en"
-		for (h <- "abcdefghijklmnopqrstuvwxyz")
-			wordlist = wordlist :::
-				getWords(lang + "loj/" + h + ".xml", "nlword")
-		wordlist = wordlist ::: getWords(lang + "loj/rest.xml", "nlword")
+		if (lang != "en")
+			for (path <- asset.list(lang + "loj"))
+				wordlist = wordlist :::
+					getWords(lang + "loj/" + path, "nlword")
 		return wordlist.toArray
 	}
 
