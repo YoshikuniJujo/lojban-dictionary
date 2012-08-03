@@ -1475,8 +1475,6 @@ Place x44 is absent for some reason</notes></valsi>
 
 <valsi word="certu" type="gismu"><rafsi>cre</rafsi><definition>$x_{1}$ is an expert/pro/has prowess in/is skilled at $x_{2}$ (event/activity) by standard $x_{3}$.</definition><notes>Also competent, skilled.  See also {djuno}, {stati}, {kakne}.</notes></valsi>
 
-<valsi word="ceryrig" type="cmene"><definition>morning sickness</definition></valsi>
-
 <valsi word="cesri'a" type="lujvo"><definition>$r_1$ blesses/sanctifies $c_1$ in the name of person/people/culture/religion/cult/group $c_2$ under conditions $r_3$.</definition><notes>Cf. {ruxyzau}, {dapma}, {lijda}, {cevni}, {makfa}, {xamgu}, {vrude}.</notes></valsi>
 
 <valsi word="cesri'isi'a" type="lujvo"><definition>$s_1$ worships $s_2=c_1$, which is holy/sacred to $c_2=r_3$, with ritual $r_1$ having form/rules $r_4$.</definition><notes>Cf. {cesri'a}.</notes></valsi>
@@ -2999,6 +2997,8 @@ Place x44 is absent for some reason</notes></valsi>
 
 <valsi word="draga'i" type="lujvo"><definition>$g_1$ (event) corrects $g_2$ into $g_3=d_1$, correct in property/aspect $x_4=d_2$ (ka) in situation $x_5=d_3$ by standard $x_6=d_4$.</definition><notes>Cf. {dragau}, {draga'igau}, {drari'a}.</notes></valsi>
 
+<valsi word="dragana" type="fu'ivla"><definition>$x_1$ (female) is precious to $x_2$</definition></valsi>
+
 <valsi word="dragau" type="lujvo"><definition>$g_1$ (person/agent) corrects $d_1$.</definition><notes>Cf. {draga'i}, {drari'a}, {draga'igau}, {cusku}, {fapro}, {sidju}, {madysku}.</notes></valsi>
 
 <valsi word="drani" type="gismu"><rafsi>dra</rafsi><definition>$x_{1}$ is correct/proper/right/perfect in property/aspect $x_{2}$ (ka) in situation $x_{3}$ by standard $x_{4}$.</definition><notes>See also {srera}, {mapti}.</notes></valsi>
@@ -3016,6 +3016,8 @@ Place x44 is absent for some reason</notes></valsi>
 <valsi word="du" type="cmavo"><rafsi>dub</rafsi><rafsi>du'o</rafsi><selmaho>GOhA</selmaho><definition>identity selbri; = sign; $x_{1}$ identically equals $x_{2}$, $x_{3}$, etc.; attached sumti refer to same thing.</definition></valsi>
 
 <valsi word="du'a" type="cmavo"><selmaho>FAhA1</selmaho><definition>location tense relation/direction; east of.</definition></valsi>
+
+<valsi unofficial="true" word="du'au" type="experimental cmavo"><selmaho>LAhE</selmaho><definition>Text to bridi conversion</definition><notes>Roughly equivalent to just la'e, but precise about the type of the result. Inverse of {lu'au}.</notes></valsi>
 
 <valsi word="du'e" type="cmavo"><selmaho>PA4</selmaho><definition>digit/number: too many; subjective.</definition></valsi>
 
@@ -4353,6 +4355,8 @@ If you are actually translating something with a copyright notice, you should le
 <valsi word="italian" type="cmene"><definition>Italy.</definition><notes>Cf. {gugdrtalia}, {gugde'itu}.</notes></valsi>
 
 <valsi word="italias" type="cmene"><definition>Italy.</definition></valsi>
+
+<valsi word="itkuile" type="fu'ivla"><definition>$x_1$ pertains to Ithkuil/Illaksh language in aspect $x_2$</definition></valsi>
 
 <valsi word="itlgu'e" type="fu'ivla"><definition>$x_1$ is Italy.</definition><notes>See {itlo}, {gugde'itu}.</notes></valsi>
 
@@ -6323,6 +6327,8 @@ Four lds. = Sufficient to be a target of assassination.</notes></valsi>
 
 <valsi word="lu'a" type="cmavo"><selmaho>LAhE</selmaho><definition>the members of the set/components of the mass; converts another description type to individuals.</definition></valsi>
 
+<valsi unofficial="true" word="lu'au" type="experimental cmavo"><selmaho>LAhE</selmaho><definition>Bridi to text conversion</definition><notes>Essentially equivalent to {se} in the context of a {se} {du'u}. Inverse of {du'au}; however note that this is not single-valued, while {du'au} (provided context) is single-valued. Hence "lu'au du'au" is a useful idiom for constructing a text which has the same basic meaning as another text but is not necessarily the same text.</notes></valsi>
+
 <valsi word="lu'e" type="cmavo"><selmaho>LAhE</selmaho><definition>the symbol for (indirect discourse); uses the symbol/word(s) for a sumti as the desired sumti.</definition></valsi>
 
 <valsi word="lu'i" type="cmavo"><selmaho>LAhE</selmaho><definition>the set with members; converts another description type to a set of the members.</definition></valsi>
@@ -6358,6 +6364,8 @@ Four lds. = Sufficient to be a target of assassination.</notes></valsi>
 <valsi word="lunra" type="gismu"><rafsi>lur</rafsi><definition>$x_{1}$ is Earth's moon (default); $x_{1}$ is a major natural satellite/moon of planet $x_{2}$.</definition><notes>See also {plini}, {solri}, {terdi}, {mluni}.</notes></valsi>
 
 <valsi word="lunsa" type="gismu"><rafsi>lus</rafsi><definition>$x_{1}$ condenses/liquefies on/into $x_{2}$ at temperature $x_{3}$, pressure $x_{4}$; $x_{1}$ is dew/condensate on $x_{2}$.</definition><notes>See also {cilmo}, {dunja}, {febvi}, {runme}, {bumru}.</notes></valsi>
+
+<valsi word="luodna" type="fu'ivla"><definition>$x_1$ is a capelin of species/subspecies $x_2$</definition></valsi>
 
 <valsi word="lupcartci" type="lujvo"><definition>$t_1$ is a screwdriver for turning screw $k_1$</definition></valsi>
 
@@ -9046,8 +9054,6 @@ See {plopijnytci} for stapler.</notes></valsi>
 
 <valsi word="re'a" type="cmavo"><selmaho>VUhU4</selmaho><definition>unary mathematical operator: matrix transpose/dual; A*.</definition></valsi>
 
-<valsi word="re'ajinkytoldu'evir" type="cmene"><definition>$v_1$=$jt_1$=$r_1$ is HIV [Human immunodeficiency virus] of $jt_2$.</definition><notes>From {remna}, {jinkytoldu'e}, {vidru}. v2 and v3 subsumed.</notes></valsi>
-
 <valsi word="re'azda" type="lujvo"><definition>$z_1$ is a house for human being $z_2=r_1$.</definition></valsi>
 
 <valsi word="re'e" type="cmavo"><selmaho>UI4</selmaho><definition>emotion category/modifier: religious/spiritual/worship - sacrilege.</definition><notes>See also {lijda}.</notes></valsi>
@@ -9079,8 +9085,6 @@ See {plopijnytci} for stapler.</notes></valsi>
 <valsi word="refkibycpa" type="lujvo"><definition>$c_1$ reloads $c_2=kr_2$ from $c_3=ki_1$.</definition><notes>Cf. {kibro}, {kibycpa}, {kibypapri}, {kibyca'o}.</notes></valsi>
 
 <valsi word="refmri" type="lujvo"><definition>$m_1$ resends/forwards/remails $m_2$ to $m_3$ from $m_4$ through carrier $m_5$ for the $k_3$rd time; $m_1$ is a forwarder/remailer.</definition><notes>often {ke'umri}; see {cmeclax}</notes></valsi>
-
-<valsi word="refsajbi'o" type="lujvo"><definition>$b_1=s_1$ recognizes $s_2$ (object/abstract).</definition><notes>Cf. {krefu}, {sanji}, {binxo}.</notes></valsi>
 
 <valsi word="refsku" type="lujvo"><definition>$c_1$ repeats/recapitulates $c_2$ (sedu'u/text/lu'e concept) to audience $c_3$ via expressive medium $c_4$, $k_3$ times (default:one).</definition><notes>Cf. {cusku}, {krefu}, {rapsku}.</notes></valsi>
 
@@ -10693,8 +10697,6 @@ Cf. {xangle}, {xanse'agle}, {gletci}, {runpinji}, {desmi'i}.</notes></valsi>
 <valsi word="smani" type="gismu"><definition>$x_{1}$ is a monkey/ape/simian/baboon/chimpanzee of species/breed $x_{2}$.</definition><notes>See also {mabru}, {danlu}.</notes></valsi>
 
 <valsi word="smanyjinkytoldu'evidru" type="lujvo"><definition>$v_1$=$jt_1$=$s_1$ is SIV [Simian immunodeficiency virus] of $jt_2$.</definition><notes>From {smani}, {jinkytoldu'e}, {vidru}. s2, v2 and v3 subsumed.</notes></valsi>
-
-<valsi word="smanyjinkytoldu'evir" type="cmene"><definition>v1=jt1=r1 is SIV [simian immunodeficiency virus] of jt2.</definition><notes>From {smani}, {jinkytoldu'e}, {vidru}. v2, v3 and s2 subsumed. See also HIV (={re'ajinkytoldu'evir}).</notes></valsi>
 
 <valsi word="smasku" type="lujvo"><definition>$c_1$ whispers $c_2=s_1$ (sedu'u/text/lu'e concept) to audience $c_3$ via expressive medium $c_4$, quietly by standard $s_3$</definition><notes>Cf. {smaba'u}, {lausku}, {laurba'u}, {mliba'u}, {laurblesku}.</notes></valsi>
 
@@ -15924,8 +15926,6 @@ Cf. {xance}, {bangu}</notes></valsi>
 
 <nlword word="expert" valsi="certu"/>
 
-<nlword word="morning sickness" valsi="ceryrig"/>
-
 <nlword word="bless" valsi="cesri'a"/>
 
 <nlword word="sanctify" valsi="cesri'a"/>
@@ -18191,6 +18191,8 @@ Cf. {xance}, {bangu}</notes></valsi>
 <nlword word="same identity as" valsi="du"/>
 
 <nlword word="east of" valsi="du'a"/>
+
+<nlword word="text to bridi" valsi="du'au"/>
 
 <nlword word="too many" valsi="du'e"/>
 
@@ -22570,6 +22572,8 @@ Cf. {xance}, {bangu}</notes></valsi>
 
 <nlword word="the individuals of" valsi="lu'a"/>
 
+<nlword word="bridi to text" valsi="lu'au"/>
+
 <nlword word="the symbol for" valsi="lu'e"/>
 
 <nlword word="the set composed of" valsi="lu'i"/>
@@ -22607,6 +22611,8 @@ Cf. {xance}, {bangu}</notes></valsi>
 <nlword word="lunar" valsi="lunra"/>
 
 <nlword word="condense" valsi="lunsa"/>
+
+<nlword word="capelin" valsi="luodna"/>
 
 <nlword word="screwdriver" valsi="lupcartci"/>
 
@@ -26348,10 +26354,6 @@ Cf. {xance}, {bangu}</notes></valsi>
 
 <nlword word="refresh" sense="reload a web page" valsi="refkibycpa"/>
 
-<nlword word="recognise" sense="seen before" valsi="refsajbi'o"/>
-
-<nlword word="recognize" sense="seen before" valsi="refsajbi'o"/>
-
 <nlword word="recapitulate" sense="repeat expression" valsi="refsku"/>
 
 <nlword word="repeat" sense="expression" valsi="refsku"/>
@@ -28301,8 +28303,6 @@ Cf. {xance}, {bangu}</notes></valsi>
 <nlword word="monkey" valsi="smani"/>
 
 <nlword word="SIV" sense="virus" valsi="smanyjinkytoldu'evidru"/>
-
-<nlword word="SIV-positive" valsi="smanyjinkytoldu'evir" place="2"/>
 
 <nlword word="whisper" sense="express quietly" valsi="smasku"/>
 
