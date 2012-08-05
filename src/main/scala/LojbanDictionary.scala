@@ -4,6 +4,7 @@ package iocikun.juj.lojban.dictionary
 import _root_.android.app.Activity
 import _root_.android.os.Bundle
 import _root_.android.content.Intent
+import _root_.android.content.pm.ActivityInfo
 import _root_.android.view.View
 import _root_.android.view.View.OnClickListener
 import _root_.android.view.Window
@@ -95,6 +96,16 @@ class LojbanDictionary extends Activity with TypedActivity {
 		if (sp.contains("lang")) {
 			lojen.setText("jbo -> " + sp.getString("lang", ""))
 			enloj.setText(sp.getString("lang", "") + " -> jbo")
+		}
+		if (sp.contains("orientation")) {
+			sp.getString("orientation", "auto") match {
+				case "auto" => setRequestedOrientation(
+					ActivityInfo.SCREEN_ORIENTATION_UNSPECIFIED)
+				case "portrait" => setRequestedOrientation(
+					ActivityInfo.SCREEN_ORIENTATION_PORTRAIT)
+				case "landscape" => setRequestedOrientation(
+					ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE)
+			}
 		}
 	}
 

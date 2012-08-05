@@ -15,4 +15,16 @@
 <item>ja</item>
 </string-array>
 
+<string-array name="orientation">
+<item>auto</item>
+<item>portrait</item>
+<item>landscape</item>
+</string-array>
+
+<string-array name="orientationvalues">
+<item>auto</item>
+<item>portrait</item>
+<item>landscape</item>
+</string-array>
+
 </resources>

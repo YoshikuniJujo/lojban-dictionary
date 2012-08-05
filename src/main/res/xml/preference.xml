@@ -10,6 +10,14 @@
 	android:entries="@array/languages"
 	android:entryValues="@array/entryvalues"
 	/>
+<ListPreference
+	android:key="orientation"
+	android:title="Orientation"
+	android:summary="Set orientation"
+	android:dialogTitle="Set orientation"
+	android:entries="@array/orientation"
+	android:entryValues="@array/orientationvalues"
+	/>
 <CheckBoxPreference
 	android:key="backbutton"
 	android:title="back button"
