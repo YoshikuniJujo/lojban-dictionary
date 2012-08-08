@@ -79,7 +79,7 @@ class ReadDictionaryGen(
 	val mr = new MyRegex
 
 	def filter(trgt: String, definition: Node) =
-		(definition \ "@word").toString == trgt
+		(definition \ "@word").toString.toLowerCase == trgt.toLowerCase
 
 	def filterR(trgt: String, definition: Node) = {
 		val list = for (r <- definition \ "rafsi") yield r.text
@@ -127,12 +127,19 @@ class ReadDictionaryGen(
 		val dir = "loj" + lang() + "/"
 		val fn = loj.substring(0, 1) + ".xml"
 
+		var ret1: List[Node] = List()
+
 		for (d <- List(dir, "lojen/")) {
 			try {
-				val ret1 = getDef(d + fn, "valsi", filter, loj)
+				ret1 = getDef(d + fn, "valsi", filter, loj)
 				if (ret1 != List()) return ret1
 			} catch {
 			case ex: FileNotFoundException =>
+				val ret2 = getDef(d + "rest.xml", "valsi",
+					filter, loj)
+				if (ret2 != List()) return ret2
+			}
+			if (ret1 == List()) {
 				val ret2 = getDef(d + "rest.xml", "valsi",
 					filter, loj)
 				if (ret2 != List()) return ret2
@@ -149,15 +156,15 @@ class ReadDictionaryGen(
 		val fn = en.substring(0, 1) + ".xml"
 
 		for (d <- List(dir, "enloj/")) {
+			var ret1: List[Node] = List()
 			try {
-				val ret1 = getDef(d + fn, "nlword", filter, en)
+				ret1 = getDef(d + fn, "nlword", filter, en)
 				if (ret1 != List()) return ret1
 			} catch {
 			case ex: FileNotFoundException =>
-				val ret2 = getDef(d + "rest.xml", "nlword",
-					filter, en)
-				if (ret2 != List()) return ret2
 			}
+			val ret2 = getDef(d + "rest.xml", "nlword", filter, en)
+			if (ret2 != List()) return ret1 ::: ret2
 		}
 
 		return List()
