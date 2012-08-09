@@ -102,6 +102,8 @@ class ReadDictionaryGen(
 
 	def enToLoj(en: String): List[(String, String)] = {
 		val loj = getLoj(en)
+		if (loj == List())
+			return List(("", en + ": no such word in the dictionary"))
 		var str: List[(String, String)] = List()
 		for (n <- loj) str = elStr(n) :: str
 		str.reverse
