@@ -60,7 +60,8 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 		lojen setOnClickListener new OnClickListener() {
 			def onClick(v: View) {
-				val result = dic lojToEn input.getText.toString.trim
+				val result = dic lojToEn
+					input.getText.toString.trim.toLowerCase
 				if (result._1 != "") {
 					history.add(false, result._1)
 					if (history.backable)
@@ -70,9 +71,9 @@ class LojbanDictionary extends Activity with TypedActivity {
 
 		enloj setOnClickListener new OnClickListener() {
 			def onClick(v: View) = {
-				val en = input.getText.toString.trim
+				val en = input.getText.toString.trim.toLowerCase
 				val list = dic enToLoj en
-				if (list != Nil) {
+				if (list != Nil && list(0)._1 != "") {
 					history.add(true, en)
 					if (history.backable)
 						back.setImageResource(R.drawable.back)
