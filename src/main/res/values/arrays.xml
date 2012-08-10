@@ -2,14 +2,18 @@
 <resources>
 
 <string-array name="languages">
+<item>Deutsch</item>
 <item>English</item>
+<item>Français</item>
 <item>Svenska</item>
 <item>lojban</item>
 <item>日本語</item>
 </string-array>
 
 <string-array name="entryvalues">
+<item>de</item>
 <item>en</item>
+<item>fr</item>
 <item>sv</item>
 <item>lojban</item>
 <item>ja</item>

@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<direction from="lojban" to="Deutsch">
+
+<valsi word="a'a" type="cmavo"><selmaho>UI1</selmaho><definition>Perspektivum: Aufmerksamkeit - Unaufmerksamkeit - Ausweichen (z.B. einer Diskussion)</definition></valsi>
+
+<valsi word="a'i" type="cmavo"><selmaho>UI1</selmaho><definition>Perspektivum: Aufwand/Mühe - Mühelosigkeit - Untätigkeit/Muße</definition></valsi>
+
+<valsi word="a'o" type="cmavo"><selmaho>UI1</selmaho><definition>Perspektivum: Hoffnung - Verzweiflung</definition></valsi>
+
+<valsi word="a'u" type="cmavo"><selmaho>UI1</selmaho><definition>Perspektivum: Interesse - Desinteresse - Abscheu</definition></valsi>
+
+<valsi word="ai" type="cmavo"><selmaho>UI1</selmaho><definition>Perspektivum: Absicht/Vorsatz - Unschlüssigkeit - Ablehnung</definition></valsi>
+
+<valsi word="au" type="cmavo"><selmaho>UI1</selmaho><definition>Perspektivum: Begehren/Sehnsucht - Gleichgültigkeit - Abneigung/Widerwille</definition></valsi>
+
+<valsi word="aufklerunge" type="fu'ivla"><definition>$x_1$ (Vorgang/Konzept) ist Aufklärung im Sinne von Philosophie $x_2$</definition></valsi>
+
+<valsi word="badna" type="gismu"><definition>$x_1$ ist eine Banane/Kochbanane [Frucht/Pflanze] der Art/Sorte $x_2$</definition><notes>Siehe auch {grute}</notes></valsi>
+
+<valsi word="badri" type="gismu"><rafsi>dri</rafsi><definition>$x_1$ ist traurig/bedrückt/depremiert/[unglücklich/empfindet (tiefe) Trauer] über $x_2$ (Abstraktion)</definition><notes>Siehe auch {klaku}, {gleki}, {betri}, {cinmo}, {junri}, {uinai}.</notes></valsi>
+
+<valsi word="bajra" type="gismu"><rafsi>baj</rafsi><definition>$x_{1}$ rennt/läuft auf der Oberfläche $x_{2}$ mit den Gliedmaßen $x_{3}$ in der Gangart $x_{4}$.</definition><notes>Siehe auch {cadzu}, {klama}, {litru}, {stapa}, {plipe}, {cpare}.</notes></valsi>
+
+<valsi word="bakfu" type="gismu"><rafsi>baf</rafsi><definition>$x_1$ ist ein Bündel/Packet/Packen mit dem Inhalt $x_2$, zusammengehalten von $x_3$</definition><notes>Siehe auch {daski}, {dakli}, {tanxe}.</notes></valsi>
+
+<valsi word="bakni" type="gismu"><rafsi>bak</rafsi><definition>$x_1$ ist ein Rind/Kuh/Ochse[/Bulle/Stier/Kalb] [Nutzrind/Fleischrind] Art/Gattung $x_2$</definition><notes>Siehe auch {danlu}.</notes></valsi>
+
+<valsi word="balre" type="gismu"><rafsi>ba'e</rafsi><definition>$x_1$ ist die Klinge des Werkzeugs/der Waffe $x_2$</definition><notes>See also {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}.</notes></valsi>
+
+<valsi word="banzu" type="gismu"><rafsi>baz</rafsi><definition>$x_{1}$ (Objekt) genügt/reicht/ist genug/ausreichend für Zweck $x_{2}$ unter Bedingungen $x_{3}$.</definition><notes>Siehe auch {dukse}, {claxu}, {nitcu}, {ricfu}, {curmi}.</notes></valsi>
+
+<valsi word="barda" type="gismu"><rafsi>bra</rafsi><definition>$x_1$ ist groß in der Dimension/Eigenschaft $x_2$ (ka) im Vergleich zu Standard/Norm $x_3$.</definition><notes>Siehe auch {banli}, {clani}, {ganra}, {condi}, {plana}, {cmalu}, {rotsu}, {banro}, {xanto}.</notes></valsi>
+
+<valsi word="bartu" type="gismu"><rafsi>bar</rafsi><definition>$x_1$ ist außerhalb von $x_2$</definition><notes>Siehe auch {jibni}, {nenri}, {sruri}, {lamji}, {korbi}, {calku}, {vasru}.</notes></valsi>
+
+<valsi word="batci" type="gismu"><rafsi>bat</rafsi><definition>$x_1$ beißt/kneift/zwickt $x_2$ an der Stelle $x_3$ mit $x_4$</definition><notes>Siehe auch {denci}, {jgalu}, {guska}, {citka}.</notes></valsi>
+
+<valsi word="bersa" type="gismu"><rafsi>bes</rafsi><rafsi>be'a</rafsi><definition>$x_1$ ist Sohn der Mutter/des Vaters/der Eltern $x_2$ [nicht notwendigerweise biologisch]</definition><notes>Siehe auch {verba}, {nanla}, {nakni}, {nanmu}, {patfu}, {mamta}, {bruna}, {rirni}, {rorci}, {panzi}, {tixnu}.</notes></valsi>
+
+<valsi word="besna" type="gismu"><rafsi>ben</rafsi><definition>$x_1$ ist ein/das Gehirn von $x_2$</definition><notes>See also {menli}, {stedu}, {rango}, {pensi}.</notes></valsi>
+
+<valsi word="bi" type="cmavo"><rafsi>biv</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 8 [Acht].</definition></valsi>
+
+<valsi word="bifce" type="gismu"><rafsi>bic</rafsi><definition>$x_1$ ist eine Biene/Wespe/Hornisse der Art/Gattung $x_2$</definition><notes>Siehe auch {cinki}, {sfani}, {lakse}.</notes></valsi>
+
+<valsi word="birje" type="gismu"><definition>$x_{1}$ besteht aus/enthält/ist eine Menge Bier/ein Gebräu gebräut aus $x_{2}$.</definition><notes>Siehe auch {pinxe}, {barja}, {jikru}, {vanju}, {xalka}, {fusra}.</notes></valsi>
+
+<valsi word="blabi" type="gismu"><rafsi>lab</rafsi><definition>$x_1$ ist weiß/hat eine sehr helle Farbe [Farbadjektiv].</definition><notes>Helle/bleiche Formen anderer Farben sind eine Zusammensetzung mit Weiß; z.B. Pink (= {labyxu'e}, {xunblabi}) ({kandi} wird benutzt für blass = Intensitätslos). Siehe auch {skari}, {xekri}, {grusi}, {kandi}, {manku}, {carmi}, {bakri}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.</notes></valsi>
+
+<valsi word="blanu" type="gismu"><rafsi>bla</rafsi><definition>$x_1$ ist blau [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {zirpu}, {kandi}, {carmi}, {cicna}.</notes></valsi>
+
+<valsi word="botpi" type="gismu"><rafsi>bot</rafsi><rafsi>bo'i</rafsi><definition>$x_{1}$ ist eine Flasche/eine Buddel/ein Tiegel/eine Urne/ein verschließbarer Behälter für $x_{2}$ aus dem Material $x_{3}$ mit dem Deckel $x_{4}$.</definition><notes>Siehe auch {baktu}, {lante}, {patxu}, {tansi}, {tanxe}, {vasru}, {gacri}.</notes></valsi>
+
+<valsi word="bradi" type="gismu"><definition>$x_1$ ist Gegner/Kontrahent/Widersacher von $x_2$ im Kampf/in der Auseinandersetung</definition></valsi>
+
+<valsi word="bredi" type="gismu"><rafsi>red</rafsi><rafsi>bre</rafsi><definition>$x_1$ vorbereitet/fertig für $x_2$ (Ereignis)</definition><notes>Siehe auch spaji, jukpa.</notes></valsi>
+
+<valsi word="brife" type="gismu"><rafsi>bif</rafsi><rafsi>bi'e</rafsi><definition>$x_1$ ist eine Briese/ein Wind/ein Sturm aus der Richtung $x_2$ mit der Geschwindigkeit $x_3$; $x_1$ bläst von $x_2$.</definition><notes>Siehe auch {tcima}.</notes></valsi>
+
+<valsi word="briju" type="gismu"><rafsi>bij</rafsi><definition>$x_1$ ist das Büro/Arbeitszimmer von $x_2$ am Ort $x_3$</definition><notes>Siehe auch {jibri}, {gunka}.</notes></valsi>
+
+<valsi word="brito" type="gismu"><rafsi>rit</rafsi><definition>$x_{1}$ spiegelt die britische/nordirländische Kultur/Nationalität in Aspekt $x_{2}$ wieder.</definition><notes>Siehe auch {glico}, {skoto}, {merko}, {ropno}.</notes></valsi>
+
+<valsi word="bunre" type="gismu"><rafsi>bur</rafsi><rafsi>bu'e</rafsi><definition>$x_1$ ist braun [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}.</notes></valsi>
+
+<valsi word="cadzu" type="gismu"><rafsi>dzu</rafsi><definition>$x_{1}$ geht/schreitet auf der Oberfläche $x_{2}$ mit den Gliedmaßen $x_{3}$.</definition><notes>Siehe auch {stapa}, {bajra}, {klama}, {litru}.</notes></valsi>
+
+<valsi word="cakla" type="gismu"><definition>$x_1$ ist aus Schoklade/Kakao gemacht; $x_1$ enthält Schoklade/Kakao</definition></valsi>
+
+<valsi word="catra" type="gismu"><definition>$x_1$ tötet/schlachtet/ermorded $x_2$ durch Tat/Methode $x_3$</definition><notes>Siehe auch {morsi}, {xarci}.</notes></valsi>
+
+<valsi word="certu" type="gismu"><rafsi>cre</rafsi><definition>$x_{1}$ ist ein Experte/Profi/hat Fähigkeiten in/ist begabt in $x_{2}$ (Ereignis/Aktivität) nach Standard $x_{3}$.</definition><notes>Auch kompetent, talentiert.  Siehe auch {djuno}, {stati}, {kakne}.</notes></valsi>
+
+<valsi word="cfika" type="gismu"><rafsi>fik</rafsi><rafsi>fi'a</rafsi><definition>$x_{1}$ ist ein fiktives Werk über die Handlung/das Thema $x_{2}$/unter Konvention $x_{2}$ vom Verfasser $x_{3}$.</definition><notes>Auch Geschichte, Lüge, unwahr.  Siehe auch {cukta}, {lisri}, {prosa}, {fatci}, {jitfa}, {jetnu}, {xanri}.</notes></valsi>
+
+<valsi word="cfila" type="gismu"><rafsi>cfi</rafsi><definition>$x_1$ (Eigenschaft) ist ein Makel/Fehler/Defekt in $x_2$, der $x_3$ hervorruft.</definition><notes>Siehe auch {cikre}, {srera}, {fenra}, {fliba}, {prane}.</notes></valsi>
+
+<valsi word="ci" type="cmavo"><rafsi>cib</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 3 [Drei]</definition></valsi>
+
+<valsi word="cidja" type="gismu"><rafsi>dja</rafsi><definition>$x_{1}$ ernährt/ist Essen/Futter/Nahrung für $x_{2}$; $x_{1}$ ist essbar.</definition><notes>Siehe auch {citka}, {nitcu}, {pinxe}, {xagji}, {cpina}.</notes></valsi>
+
+<valsi word="cinfo" type="gismu"><definition>$x_{1}$ ist ein Löwe/[eine Löwin] der Art/Rasse $x_{2}$.</definition><notes>Siehe auch {mlatu}.</notes></valsi>
+
+<valsi word="cinmo" type="gismu"><rafsi>cni</rafsi><definition>$x_{1}$ verspürt Gefühl/Emotion $x_{2}$ (ka) über $x_{3}$.</definition><notes>Siehe auch Cmavo-Liste {ci'o}, {cumla}, {jilra}, {nelci}, {xendo}, {ckeji}, {cortu}, {jgira}, {kecti}, {kufra}, {manci}, {prami}, {steba}, {zungi}, {badri}, {burna}, {gleki}.</notes></valsi>
+
+<valsi word="cipni" type="gismu"><rafsi>cpi</rafsi><definition>$x_{1}$ ist ein Vogel/Geflügel der Art $x_{2}$.</definition><notes>Siehe auch {datka}, {gunse}, {jipci}, {nalci}, {pimlu}, {vofli}, {xruki}, {danlu}.</notes></valsi>
+
+<valsi word="citka" type="gismu"><rafsi>cti</rafsi><definition>$x_{1}$ isst/nimmt zu sich/konsumiert (transitives Verb) $x_{2}$.</definition><notes>Siehe auch {cidja}, {pinxe}, {tunlo}, {xagji}, {xaksu}, {batci}, {gusta}, {kabri}.</notes></valsi>
+
+<valsi word="claxu" type="gismu"><rafsi>cau</rafsi><definition>$x_{1}$ mangelt es an/ist ohne/frei von $x_{2}$; $x_{1}$ ist $x_{2}$-los.</definition><notes>Siehe auch Cmavo-Liste {cau}, {cirko}, {kunti}, {nitcu}, {pindi}, {banzu}.</notes></valsi>
+
+<valsi word="cmalu" type="gismu"><rafsi>cma</rafsi><definition>$x_{1}$ ist klein in Eigenschaft/Größe $x_{2}$ (ka) verglichen mit Standard/Norm $x_{3}$.</definition><notes>Siehe auch {caxno}, {cinla}, {jarki}, {tordu}, {barda}.</notes></valsi>
+
+<valsi word="co'o" type="cmavo"><selmaho>COI</selmaho><definition>Vokativ: Tschüss</definition></valsi>
+
+<valsi word="coi" type="cmavo"><selmaho>COI</selmaho><definition>Vokativ: Hallo</definition></valsi>
+
+<valsi word="cortu" type="gismu"><rafsi>cor</rafsi><rafsi>cro</rafsi><definition>$x_1$ hat Schmerzen an Stelle $x_2$.</definition><notes>Siehe auch {cinmo}, {xrani}.</notes></valsi>
+
+<valsi word="crida" type="gismu"><rafsi>rid</rafsi><definition>$x_{1}$ ist eine Fee/ein Elf/ein Gnom/ein Heinzelmännchen/ein Kobold [ein menschenähnliches Fabelwesen] des Mythos/der Religion $x_{2}$.</definition><notes>Auch Ork, Riese, Dämon oder Teufel (wenn vom Mythos/von der Religion eine menschenähnliche Form vorgegeben wird), Gespenst, Buhmann.  (vgl. {ranmi}, besonders für nicht-menschenähnliche Fabelwesen, und {lijda})</notes></valsi>
+
+<valsi word="crino" type="gismu"><rafsi>ri'o</rafsi><definition>$x_1$ ist grün [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {cicna}.</notes></valsi>
+
+<valsi word="cukta" type="gismu"><rafsi>cku</rafsi><definition>$x_1$ ist ein Buch, das das Werk $x_2$ des Autors $x_3$ für die Zielgruppe $x_4$ in Medium $x_5$ beinhaltet.</definition><notes>[$x_1$ ist eine Manifestation/ein Behälter - ein Naturgegenstand oder sein Gegenstück - eines Werkes/Inhalts, das nicht zwingend Papier verwendet (= {selpapri})]; Siehe auch {cfika}, {prina}, {prosa}, {tcidu}, {papri}.</notes></valsi>
+
+<valsi word="culno" type="gismu"><rafsi>clu</rafsi><definition>$x_{1}$ ist voll/bis oben hin gefüllt mit $x_{2}$.</definition><notes>Siehe auch {tisna}, {kunti}, {mulno}, {setca}, {tisna}.</notes></valsi>
+
+<valsi word="cusku" type="gismu"><rafsi>cus</rafsi><rafsi>sku</rafsi><definition>$x_1$ sagt $x_2$/drückt $x_2$ aus für Zuhörer $x_3$ mittels Medium/Kommunikationsform $x_4$</definition></valsi>
+
+<valsi word="danlu" type="gismu"><rafsi>dal</rafsi><rafsi>da'u</rafsi><definition>$x_1$ ist ein Tier der Spezies $x_2$; $x_1$ ist biologisch lebendig.</definition><notes>Siehe auch {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru}, {bakni}.</notes></valsi>
+
+<valsi word="datka" type="gismu"><definition>$x_{1}$ ist eine Ente/[ein Erpel] der Art/Gattung $x_{2}$.</definition><notes>Siehe auch {cipni}.</notes></valsi>
+
+<valsi word="dinju" type="gismu"><rafsi>dij</rafsi><rafsi>di'u</rafsi><definition>$x_{1}$ ist ein Gebäude für den Zweck $x_{2}$.</definition><notes>Siehe auch {ginka}, {zdani}, {zarci}.</notes></valsi>
+
+<valsi word="djica" type="gismu"><rafsi>dji</rafsi><definition>$x_1$ möchte/wünscht/hofft auf $x_2$ (Ereignis/Zustand) zum Zwecke $x_3$</definition><notes>Im Gegensatz zu {pacna} macht djica explizit keine Aussage über die Wahrscheinlichkeit des Eintretens von $x_2$.</notes></valsi>
+
+<valsi word="djuno" type="gismu"><rafsi>jun</rafsi><rafsi>ju'o</rafsi><definition>$x_1$ weiß/kennt den Fakt/die Fakten $x_2$ (du'u) über das Thema $x_3$ gemäß Erkenntnistheorie $x_4$</definition></valsi>
+
+<valsi word="do" type="cmavo"><rafsi>don</rafsi><rafsi>doi</rafsi><selmaho>KOhA3</selmaho><definition>prosumti: Du/ihr die Zuhörer; Definiert durch doi.</definition></valsi>
+
+<valsi word="dotco" type="gismu"><rafsi>dot</rafsi><rafsi>do'o</rafsi><definition>$x_1$ spiegelt die deutsche/germanische Kultur/Nationalität/Sprache in Aspekt $x_2$ wieder.</definition><notes>Siehe auch {ropno}.</notes></valsi>
+
+<valsi word="fanva" type="gismu"><definition>$x_{1}$ übersetzt Text/Äußerung $x_{2}$ in Sprache $x_{3}$ aus Sprache $x_{4}$ mit Übersetzungsergebnis $x_{5}$.</definition><notes>Siehe auch {cusku}, {bangu}.</notes></valsi>
+
+<valsi word="finpe" type="gismu"><rafsi>fip</rafsi><rafsi>fi'e</rafsi><definition>$x_1$ ist ein Fisch der Spezies $x_2$ [auch Haie, andere Wirbeltiere im Wasser].</definition><notes>Siehe auch {danlu}.</notes></valsi>
+
+<valsi word="finti" type="gismu"><rafsi>fin</rafsi><rafsi>fi'i</rafsi><definition>$x_{1}$ erfindet/erschafft/komponiert/verfasst $x_{2}$ für die Funktion/den Zweck $x_{3}$ aus den existierenden Elementen/Ideen $x_{4}$.</definition><notes>$x_1$ ist kreativ/erfinderisch.  Siehe auch Cmavo-Liste {fi'e}, {ciska}, {pemci}, {zbasu}, {larcu}, {prosa}, {skina}.</notes></valsi>
+
+<valsi word="fliba" type="gismu"><rafsi>fli</rafsi><definition>$x_1$ scheitert daran, $x_2$ (Ereignis/Zustand) zu tun/sein; $x_1$ ist ein Versager in seiner Rolle als $x_2$.</definition><notes>Auch: $x_2$ scheitert an/wegen $x_1$. Siehe auch {cfila}, {snada}, {srera}, {troci}, {sisti}, {ranji}, {denpa}, {bebna}, {zunti}.</notes></valsi>
+
+<valsi word="gerku" type="gismu"><rafsi>ger</rafsi><rafsi>ge'u</rafsi><definition>$x_{1}$ ist ein Hund/[eine Hündin] der Art/Rasse $x_{2}$.</definition><notes>Siehe auch {lorxu}, {labno}, {mlatu}.</notes></valsi>
+
+<valsi word="ginka" type="gismu"><rafsi>gik</rafsi><definition>$x_{1}$ ist ein (Feld-)Lager von $x_{2}$ an Ort $x_{3}$.</definition><notes>Siehe auch {dinju}, {xabju}, {zdani}.</notes></valsi>
+
+<valsi word="gleki" type="gismu"><rafsi>gek</rafsi><rafsi>gei</rafsi><definition>$x_{1}$ is glücklich/fröhlich/froh/freut sich über $x_{2}$ (Ereignis/Zustand).</definition><notes>Siehe auch {badri}, {cinmo}.</notes></valsi>
+
+<valsi word="grusi" type="gismu"><rafsi>rus</rafsi><definition>$x_1$ ist grau [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}.</notes></valsi>
+
+<valsi word="grute" type="gismu"><rafsi>rut</rafsi><definition>$x_1$ ist eine Frucht [Körperteil] der Spezies $x_2$.</definition><notes>Siehe auch {badna}, {dembi}, {figre}, {guzme}, {narge}, {perli}, {pilka}, {plise}, {spati}, {stagi}, {tamca}, {tsiju}, {tarbi}, {panzi}, {rorci}, te {pruce}, {jbari}, {nimre}.</notes></valsi>
+
+<valsi word="gunka" type="gismu"><rafsi>gun</rafsi><rafsi>gu'a</rafsi><definition>$x_1$ (Person) arbeitet an $x_2$ (Aktivität/Aufgabe) mit dem Ziel/Auftrag $x_3$</definition><notes>nicht physikalische Arbeit (siehe {muvyselbai})</notes></valsi>
+
+<valsi word="gunse" type="gismu"><definition>$x_{1}$ ist eine Gans/[ein Gänserich] der Art/Gattung $x_{2}$.</definition><notes>Siehe auch {cipni}.</notes></valsi>
+
+<valsi word="jilra" type="gismu"><definition>$x_{1}$ (Person) ist eifersüchtig auf/beneidet $x_{2}$ (Person) wegen $x_{3}$ (Eigenschaft - ka).</definition><notes>Siehe auch {cinmo}.</notes></valsi>
+
+<valsi word="ke'o" type="cmavo"><selmaho>COI</selmaho><definition>Vokativ: bitte wiederhole.</definition></valsi>
+
+<valsi word="kecti" type="gismu"><rafsi>kec</rafsi><rafsi>ke'i</rafsi><definition>$x_{1}$ (Person) bemitleidet/hat Mitleid mit $x_{2}$ (Person) wegen $x_{3}$ (Abstraktion).</definition><notes>Siehe auch {cinmo}, {xendo}.</notes></valsi>
+
+<valsi word="kerfa" type="gismu"><rafsi>kre</rafsi><definition>$x_{1}$ ist ein/das Haar/Fell [Körperteil] von $x_{2}$ an Körperstelle $x_{3}$.</definition><notes>Siehe auch {skapi}, {sunla}, {pimlu}.</notes></valsi>
+
+<valsi word="kevna" type="gismu"><rafsi>kev</rafsi><rafsi>ke'a</rafsi><definition>$x_1$ ist eine Höhle/Loch/Einbuchtung in $x_2$; $x_1$ ist konkav innerhalb von $x_2$; $x_2$ ist Hohl an $x_1$.</definition><notes>Auch Grube; Hohl (= {selke'a}). Siehe auch {fenra}, {kunti}, {canlu}, {canko}, {galxe}, {tubnu}.</notes></valsi>
+
+<valsi word="klama" type="gismu"><rafsi>kla</rafsi><definition>$x_1$ geht/kommt/reist/bewegt sich nach $x_2$ von $x_3$ über/entlang $x_4$ mittels $x_5$</definition><notes>Wie durch $x_5$ impliziert ist "gehen" nicht auf eine Bewegung zu Fuß beschränkt. Vgl. {cadzu}.</notes></valsi>
+
+<valsi word="korbi" type="gismu"><rafsi>kor</rafsi><rafsi>koi</rafsi><definition>$x_{1}$ ist eine Kante/ein Rand/eine Grenze von $x_{2}$ neben/angrenzend an $x_{3}$.</definition><notes>Siehe auch Cmavo-Liste {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.</notes></valsi>
+
+<valsi word="kumfa" type="gismu"><rafsi>kum</rafsi><rafsi>ku'a</rafsi><definition>$x_{1}$ ist ein Raum/ein Zimmer der Struktur $x_{2}$ umgeben von Wänden/Decke/Boden $x_{3}$ (Masse/jo'u).</definition><notes>Auch Kammer.  Siehe auch {bitmu}, {canlu}, {zdani}.</notes></valsi>
+
+<valsi word="labno" type="gismu"><definition>$x_{1}$ ist ein Wolf der Art/Rasse $x_{2}$.</definition><notes>Siehe auch {gerku}.</notes></valsi>
+
+<valsi word="lorxu" type="gismu"><rafsi>lor</rafsi><rafsi>lo'u</rafsi><definition>$x_{1}$ ist ein Fuchs [ein Wildhund mit buschigem Schwanz] der Art/Rasse $x_{2}$.</definition><notes>Siehe auch {gerku}.</notes></valsi>
+
+<valsi word="makcu" type="gismu"><rafsi>ma'u</rafsi><definition>$x_{1}$ ist erwachsen/reif/ausgewachsen in Entwicklungsqualität $x_{2}$ (ka).</definition><notes>Siehe auch {cifnu}, {ninmu}, {verba}, {banro}, {farvi}, {nanmu}.</notes></valsi>
+
+<valsi word="manku" type="gismu"><rafsi>man</rafsi><definition>$x_{1}$ ist dunkel/ohne Beleuchtung</definition><notes>(vgl. blabi, gusni, ctino; benutze kandi oder xekri mit Farben, ctino)</notes></valsi>
+
+<valsi word="marsipane" type="fu'ivla"><definition>$x_1$ ist/enthält Marzipan der Sorte/Marke $x_2$</definition><notes>S. a. {titspi}, {smela}.</notes></valsi>
+
+<valsi word="mensi" type="gismu"><rafsi>mes</rafsi><rafsi>me'i</rafsi><definition>$x_1$ ist eine Schwester von $x_2$ bezuglich/durch Verbindung $x_3$; [nicht unbedingt biologisch].</definition><notes>Siehe auch {bruna}, {tunba}, {tamne}, {famti}.</notes></valsi>
+
+<valsi word="mi" type="cmavo"><rafsi>mib</rafsi><selmaho>KOhA3</selmaho><definition>prosumti: Ich/wir die/der Sprecher/Autor(en); Definiert durch mi'e.</definition><notes>Siehe auch {mi'e}, {mi'o}, {mi'a}, {ma'a}.</notes></valsi>
+
+<valsi word="mipri" type="gismu"><rafsi>mip</rafsi><definition>$x_{1}$ hält $x_{2}$ geheim/versteckt vor $x_{3}$ durch Methode $x_{4}$; $x_{2}$ ist ein Geheimnis; $x_{1}$ versteckt/verbirgt $x_{2}$.</definition><notes>Intransitiv versteckt/geheim, ohne einen Handelnden (= {selcri}); Geheimnis (= {selmipri}).  Siehe auch {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}.</notes></valsi>
+
+<valsi word="mlatu" type="gismu"><rafsi>lat</rafsi><definition>$x_{1}$ ist eine Katze/[eine Mieze/eine Muschi/ein Kätzchen] [ein katzenartiges Tier] der Art/Rasse $x_{2}$</definition><notes>Siehe auch {cinfo}, {tirxu}, {gerku}.</notes></valsi>
+
+<valsi word="mo" type="cmavo"><selmaho>GOhA</selmaho><definition>pro-bridi: Frage nach bridi/selbri/brivla.</definition></valsi>
+
+<valsi word="morsi" type="gismu"><rafsi>mro</rafsi><definition>$x_{1}$ ist tot/lebt nicht mehr.</definition><notes>Siehe auch {jmive}, {catra}, {betri}.</notes></valsi>
+
+<valsi word="mu" type="cmavo"><rafsi>mum</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 5 [Fünf]</definition></valsi>
+
+<valsi word="mutce" type="gismu"><rafsi>tce</rafsi><definition>$x_1$ ist in $x_2$ sehr $x_3$; die Eigenschaft $x_2$ von $x_1$ tendiert stark in Richtung $x_3$.</definition><notes>Auch: viel, sehr, extrem (Adverb), ziemlich, ungewöhnlich (Adverb), stark.</notes></valsi>
+
+<valsi word="nanmu" type="gismu"><rafsi>nau</rafsi><definition>$x_{1}$ ist ein Mann/sind Männer; $x_{1}$ ist eine männliche menschenähnliche Person [nicht unbedingt erwachsen].</definition><notes>Wort in Metapher/Beispiel als sexistisch nicht bevorzugt; (benutze remna oder prenu).  Siehe auch {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.</notes></valsi>
+
+<valsi word="nelci" type="gismu"><rafsi>nel</rafsi><rafsi>nei</rafsi><definition>$x_1$ mag/genießt $x_2$</definition></valsi>
+
+<valsi word="ni'o" type="cmavo"><selmaho>NIhO</selmaho><definition>Diskursiv: Absatz; beginnt ein neues Thema.</definition></valsi>
+
+<valsi word="ninmu" type="gismu"><rafsi>nim</rafsi><rafsi>ni'u</rafsi><definition>$x_{1}$ ist eine Frau/sind Frauen; $x_{1}$ ist eine weibliche menschenähnliche Person [nicht unbedingt erwachsen].</definition><notes>Wort in Metapher/Beispiel als sexistisch nicht bevorzugt; (benutze remna oder prenu).  Siehe auch {nanmu}, {remna}, {prenu}, {makcu}, {nixli}.</notes></valsi>
+
+<valsi word="nitcu" type="gismu"><rafsi>tcu</rafsi><definition>$x_{1}$ braucht/benötigt/ist abhängig von/[will] Notwendigkeit $x_{2}$ für den Zweck/die Tat/den Prozessabschnitt $x_{3}$.</definition><notes>Keine Andeutung von Mangel.  Siehe auch {banzu}, {cidja}, {claxu}, {pindi}, {xebni}, {sarcu}, {lacri}, {djica}, {taske}, {xagji}.</notes></valsi>
+
+<valsi word="no" type="cmavo"><rafsi>non</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 0 [Null].</definition></valsi>
+
+<valsi word="pa" type="cmavo"><rafsi>pav</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 1 [Eins]</definition></valsi>
+
+<valsi word="pelxu" type="gismu"><rafsi>pel</rafsi><definition>$x_1$ ist gelb/golden [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.</notes></valsi>
+
+<valsi word="pendo" type="gismu"><rafsi>ped</rafsi><rafsi>pe'o</rafsi><definition>$x_1$ (Handelnder) ist ein Freund von $x_2$.; $x_2$ ist $x_1$ ein Freund.</definition><notes>Siehe auch {bradi}, {xendo}, {nelci}, {prami}, {bradi}.</notes></valsi>
+
+<valsi word="pilno" type="gismu"><rafsi>pli</rafsi><definition>$x_1$ benutzt $x_2$ [Werkzeug/Maschine/Helfer/Material] mit dem Ziel/Zweck $x_3$</definition></valsi>
+
+<valsi word="pimlu" type="gismu"><rafsi>pim</rafsi><rafsi>pi'u</rafsi><definition>$x_{1}$ ist eine/die Feder/das Federkleid/Gefieder [Körperteil] von Tier/Art $x_{2}$.</definition><notes>Siehe auch {cipni}, {nalci}, {rebla}, {kerfa}, {penbi}.</notes></valsi>
+
+<valsi word="pinxe" type="gismu"><rafsi>pix</rafsi><definition>$x_{1}$ (Handelnder) trinkt Getränk/flüssige Erfrischung $x_{2}$ aus Behälter/Quelle $x_{3}$.</definition><notes>Siehe auch {cidja}, {citka}, {taske}, {tunlo}, {xaksu}, {barja}, {birje}.</notes></valsi>
+
+<valsi word="plise" type="gismu"><definition>$x_1$ ist ein Apfel [Frucht] der Spezies/des Stammes $x_2$.</definition><notes>Siehe auch {grute}</notes></valsi>
+
+<valsi word="prami" type="gismu"><rafsi>pam</rafsi><rafsi>pa'i</rafsi><definition>$x_1$ liebt/fühlt starke liebevolle Zuneigung zu $x_2$</definition><notes>Siehe auch {cinmo}, {xebni}, {nelci}, {djica}, {sinma}, {pluka}, {kurji}, {pendo}, {speni}.</notes></valsi>
+
+<valsi word="ractu" type="gismu"><definition>$x_1$ ist ein Hase/Kaninchen/Karnickel der Art/Gattung $x_2$.</definition><notes>Siehe auch {mabru}, {kerlo}.</notes></valsi>
+
+<valsi word="re" type="cmavo"><rafsi>rel</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 2 [Zwei]</definition></valsi>
+
+<valsi word="remna" type="gismu"><rafsi>rem</rafsi><rafsi>re'a</rafsi><definition>$x_{1}$ ist ein Mensch; (adjektiv:) $x_{1}$ ist menschlich.</definition><notes>Siehe auch {nanmu}, {ninmu}, {prenu}.</notes></valsi>
+
+<valsi word="ricfoi" type="lujvo"><definition>$f_1$ ist ein Wald, vorherrschend aus Bäumen der Art/Sorte $t_2$.</definition></valsi>
+
+<valsi word="ropno" type="gismu"><rafsi>ron</rafsi><rafsi>ro'o</rafsi><definition>$x_{1}$ spiegelt die europäische Kultur/Nationalität/Geographie/die indogermanische Sprache in Aspekt $x_{2}$ wieder.</definition><notes>Siehe auch {brito}.</notes></valsi>
+
+<valsi word="sampla" type="lujvo"><definition>$p_1$ erstellt Computerprogramm $p_2$ für den Prozess/Verwendungszweck $p_3$.</definition></valsi>
+
+<valsi word="senva" type="gismu"><rafsi>sev</rafsi><rafsi>sne</rafsi><definition>$x_1$ träumt über/dass $x_2$ (Tatsache/Idee/Ereignis/Zustand); $x_2$ ist ein Traum/eine Träumerei von $x_1$.</definition><notes>Traum/Träumerei (= {selsne}). Siehe auch {sipna}, {xanri}.</notes></valsi>
+
+<valsi word="sidbo" type="gismu"><rafsi>sib</rafsi><rafsi>si'o</rafsi><definition>$x_1$ (Idee abstrakt) ist eine Idee/Konzept/Gedanke über $x_2$ (Objekt/abstrakt) von Denker $x_3$.</definition><notes>Auch: $x_1$ ist Ideell (adjektiv). Siehe auch {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi}, {xanri}, {si'o}.</notes></valsi>
+
+<valsi word="sipna" type="gismu"><rafsi>sip</rafsi><definition>$x_1$ schläft.</definition><notes>Siehe auch {senva}, {tatpi}, {cikna}, {sanji}.</notes></valsi>
+
+<valsi word="skami" type="gismu"><rafsi>sam</rafsi><definition>$x_1$ ist ein Computer mit dem Verwendungszweck $x_2$.</definition><notes>Siehe auch {kanji}, {minji}, {pensi}</notes></valsi>
+
+<valsi word="skina" type="gismu"><rafsi>kin</rafsi><definition>$x_{1}$ ist ein Film über $x_{2}$ [Handlung/Thema/Aktivität] von Filmemacher $x_{3}$ für Zielgruppe $x_{4}$.</definition><notes>$x_2$ kann auch eine Konvention statt eines Themas sein; Trickfilm (= selxraci'a {skina}); Fernsehsendung (= tivyskina, unabhängig von Länge, Inhalt, usw.).  Siehe auch {tivni}, {vidni}, {pixra}, {finti}.</notes></valsi>
+
+<valsi word="snada" type="gismu"><rafsi>sad</rafsi><definition>$x_1$ (Handelnder) erreicht/ist erfolgreich bei/schafft $x_2$ durch Versuch/Aktion $x_3$.</definition><notes>Auch: $x_1$ ist erfolgreich. Siehe auch {fliba}, {troci}, {jgira}.</notes></valsi>
+
+<valsi word="so" type="cmavo"><rafsi>soz</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 9 [Neun].</definition></valsi>
+
+<valsi word="stati" type="gismu"><definition>$x_{1}$ hat ein Talent/eine Begabung/eine angeborene Fähigkeit für das Tun/Sein $x_{2}$.</definition><notes>Siehe auch {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.</notes></valsi>
+
+<valsi word="sutra" type="gismu"><rafsi>sut</rafsi><definition>$x_1$ ist schnell/rasch/eilig dabei $x_2$ (Ereignis/Zustand) zu tun/sein.</definition><notes>Siehe auch {masno}.</notes></valsi>
+
+<valsi word="taske" type="gismu"><definition>$x_{1}$ dürstet es nach/hat Durst auf $x_{2}$; $x_{1}$ braucht/will Getränk/Flüssigkeit/Schmiermittel $x_{2}$.</definition><notes>Siehe auch {nitcu}, {djica}, {xagji}, {pinxe}.</notes></valsi>
+
+<valsi word="tatpi" type="gismu"><rafsi>ta'i</rafsi><definition>$x_1$ ist müde/erschöpft wegen Anstrengung/Situation $x_2$ (Ereignis); $x_1$ braucht/will Erholung.</definition><notes>Siehe auch {cikna}, {sipna}, {surla}.</notes></valsi>
+
+<valsi word="tavla" type="gismu"><rafsi>tav</rafsi><rafsi>ta'a</rafsi><definition>$x_1$ redet/spricht mit/vor $x_2$ über das Thema $x_3$ in der Sprache $x_4$</definition><notes>Sofern nicht anders angegeben, nicht auf Sprache beschränkt, auch wenn dies durch $x_4$ impliziert ist. Andere gismu, wie {cusku}, {casnu}, {skicu} oder {ciksi}, implizieren die Verwendung von Sprache weniger stark.</notes></valsi>
+
+<valsi word="tcidu" type="gismu"><rafsi>tid</rafsi><definition>$x_1$ liest Text $x_2$ von Fläche/Dokument $x_3$.</definition><notes>Siehe auch {ciska}, {cukta}, {karni}.</notes></valsi>
+
+<valsi word="tcima" type="gismu"><rafsi>tim</rafsi><rafsi>ti'a</rafsi><definition>$x_{1}$ ist Wetter an Ort/in Region $x_{2}$; (adjektiv:) $x_{1}$ ist meteorologisch.</definition><notes>Siehe auch {brife}, {bumru}, {carvi}, {dilnu}, {bratu}.</notes></valsi>
+
+<valsi word="tirxu" type="gismu"><definition>$x_{1}$ ist ein Tiger/ein Leopard/ein Jaguar/[eine Tigerin] der Art/Rasse $x_{2}$ mit der Fellzeichnung $x_{3}$.</definition><notes>Eine Großkatze, die sich durch ihre Fellzeichnung auszeichnet.  Siehe auch {mlatu}.</notes></valsi>
+
+<valsi word="tricu" type="gismu"><rafsi>ric</rafsi><definition>$x_1$ ist ein Baum der Spezies/Sorte $x_2$.</definition></valsi>
+
+<valsi word="troci" type="gismu"><rafsi>toc</rafsi><rafsi>toi</rafsi><definition>$x_1$ versucht $x_2$ (Ereignis/Zustand/Eigenschaft) zu tun/erreichen durch Aktion/Methode $x_3$.</definition><notes>Auch "experimentiert mit". Siehe auch {fliba}, {snada}, {cipra}.</notes></valsi>
+
+<valsi word="ui" type="cmavo"><selmaho>UI1</selmaho><definition>Attitudinal: Freude - Trauer.</definition><notes>Siehe auch {gleki}.</notes></valsi>
+
+<valsi word="uinai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>Attitudinal: Freude - Trauer.</definition><notes>Siehe auch {badri}.</notes></valsi>
+
+<valsi word="vasru" type="gismu"><rafsi>vas</rafsi><rafsi>vau</rafsi><definition>$x_1$ beinhält/umschließt $x_2$; $x_1$ ist ein Behälter mit $x_2$ drin.</definition><notes>[Umschließung muss nicht vollständig sein]; Siehe auch {bartu}, {jbini}, {nenri}, {zvati}, {cpana}, {botpi}, {lanka}.</notes></valsi>
+
+<valsi word="vo" type="cmavo"><rafsi>von</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 4 [Vier]</definition></valsi>
+
+<valsi word="xa" type="cmavo"><rafsi>xav</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 6 [Sechs].</definition></valsi>
+
+<valsi word="xa'anze" type="fu'ivla"><definition>$x_1$ ist hansisch/hanseatisch/zur Hanse gehörig in Aspekt $x_2$</definition><notes>S. a. {canja}, {bijgri}, {bloti}, {dotco}, {baurnudusu}.</notes></valsi>
+
+<valsi word="xagji" type="gismu"><definition>$x_{1}$ hungert nach/hat Hunger auf $x_{2}$; $x_{1}$ braucht/will Nahrung/Treibstoff $x_{2}$.</definition><notes>Siehe auch {cidja}, {citka}, {djica}, {nitcu}, {taske}.</notes></valsi>
+
+<valsi word="xekri" type="gismu"><rafsi>xek</rafsi><rafsi>xe'i</rafsi><definition>$x_1$ ist schwarz/hat eine sehr dunkle Farbe [Farbadjektiv].</definition><notes>Siehe auch {blabi}, {grusi}, {manku}, {skari}, {xekri}, {kandi}, {carmi}, {blanu}, {bunre}, {cicna}, {crino}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}.</notes></valsi>
+
+<valsi word="xircmo" type="lujvo"><definition>$c_1$ wiehert.</definition></valsi>
+
+<valsi word="xunre" type="gismu"><rafsi>xun</rafsi><rafsi>xu'e</rafsi><definition>$x_1$ ist rot [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu}, {zirpu}.</notes></valsi>
+
+<valsi word="zdani" type="gismu"><rafsi>zda</rafsi><definition>$x_1$ ist ein Nest/ein Haus/ein Bau/[ein Zuhause] von/für $x_2$</definition><notes>Haus (Gebäude) (={zdadi'u}). Siehe auch {dinju}, {ginka}, {kumfa}, {xabju}</notes></valsi>
+
+<valsi word="ze" type="cmavo"><rafsi>zel</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 7 [Sieben].</definition></valsi>
+
+<valsi word="zgana" type="gismu"><rafsi>zga</rafsi><definition>$x_{1}$ beobachtet/[bemerkt]/schaut/sieht/guckt/erblickt $x_{2}$ mit den Sinnen/Mitteln $x_{3}$ unter den Bedingungen $x_{4}$.</definition><notes>Siehe auch {ga'a}, {ganse}, {viska}, {catlu}, {tirna}, {pencu}, {sumne}, {kurji}, {canci}, {catlu}, {jarco}, {lanli}, {pinka}, {simlu}.</notes></valsi>
+
+<valsi word="zirpu" type="gismu"><rafsi>zir</rafsi><rafsi>zi'u</rafsi><definition>$x_{1}$ ist lila/violett [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {blanu}, {xunre}.</notes></valsi>
+
+<valsi word="zutse" type="gismu"><rafsi>zut</rafsi><rafsi>tse</rafsi><definition>$x_1$ sitzt auf der Fläche $x_2$.</definition><notes>Siehe auch {stizu}, {cpana}, {vreta}.</notes></valsi>
+
+<valsi word="zvati" type="gismu"><rafsi>zva</rafsi><definition>$x_1$ (Objekt/Ereignis) ist an $x_2$ (Ort)/auf $x_2$ (Veranstaltung)</definition></valsi></direction><direction from="Deutsch" to="lojban">
+
+<nlword word="Aufklärung" valsi="aufklerunge"/>
+
+<nlword word="Banane" valsi="badna" place="1"/>
+
+<nlword word="Kochbanane" valsi="badna"/>
+
+<nlword word="Bananenart" valsi="badna" place="2"/>
+
+<nlword word="traurig" valsi="badri"/>
+
+<nlword word="unglücklich" valsi="badri"/>
+
+<nlword word="betrübt" valsi="badri"/>
+
+<nlword word="laufen" valsi="bajra"/>
+
+<nlword word="rennen" valsi="bajra"/>
+
+<nlword word="Bündel" valsi="bakfu" place="1"/>
+
+<nlword word="Rind" valsi="bakni"/>
+
+<nlword word="Klinge" valsi="balre" place="1"/>
+
+<nlword word="ausreichen" valsi="banzu"/>
+
+<nlword word="groß" sense="Ausmaß" valsi="barda"/>
+
+<nlword word="Größenstandard" valsi="barda" place="3"/>
+
+<nlword word="Größenausmaß" valsi="barda" place="2"/>
+
+<nlword word="außerhalb" valsi="bartu"/>
+
+<nlword word="beißen" valsi="batci"/>
+
+<nlword word="Bissstelle" valsi="batci" place="3"/>
+
+<nlword word="Sohn" valsi="bersa" place="1"/>
+
+<nlword word="Gehirn" valsi="besna"/>
+
+<nlword word="8" valsi="bi"/>
+
+<nlword word="Acht" valsi="bi"/>
+
+<nlword word="Bienengattung" valsi="bifce" place="2"/>
+
+<nlword word="Biene" valsi="bifce" place="1"/>
+
+<nlword word="Bier" valsi="birje"/>
+
+<nlword word="белый" sense="цвет" valsi="blabi" place="1"/>
+
+<nlword word="светлый" sense="цвет" valsi="blabi"/>
+
+<nlword word="weiß" valsi="blabi"/>
+
+<nlword word="blau" valsi="blanu"/>
+
+<nlword word="Flasche" valsi="botpi"/>
+
+<nlword word="Gegner" valsi="bradi"/>
+
+<nlword word="vorbereitet" valsi="bredi"/>
+
+<nlword word="Wind" sense="Briese" valsi="brife"/>
+
+<nlword word="Briese" valsi="brife"/>
+
+<nlword word="Windrichtung" valsi="brife" place="1"/>
+
+<nlword word="Windgeschwindigkeit" valsi="brife" place="2"/>
+
+<nlword word="Büro" sense="Arbeitsplatz" valsi="briju"/>
+
+<nlword word="britisch" valsi="brito"/>
+
+<nlword word="braun" valsi="bunre"/>
+
+<nlword word="Schokolade" valsi="cakla"/>
+
+<nlword word="Kakao" valsi="cakla"/>
+
+<nlword word="töten" valsi="catra"/>
+
+<nlword word="Experte" valsi="certu"/>
+
+<nlword word="Fiktion" valsi="cfika"/>
+
+<nlword word="Fehler" valsi="cfila"/>
+
+<nlword word="Defekt" valsi="cfila"/>
+
+<nlword word="Makel" valsi="cfila"/>
+
+<nlword word="3" valsi="ci"/>
+
+<nlword word="Drei" valsi="ci"/>
+
+<nlword word="Essen" valsi="cidja"/>
+
+<nlword word="Löwe" valsi="cinfo"/>
+
+<nlword word="Gefühl" valsi="cinmo"/>
+
+<nlword word="Vogel" valsi="cipni"/>
+
+<nlword word="essen" valsi="citka"/>
+
+<nlword word="ohne" valsi="claxu"/>
+
+<nlword word="klein" valsi="cmalu"/>
+
+<nlword word="Auf Wiedersehen!" valsi="co'o"/>
+
+<nlword word="Leb wohl!" valsi="co'o"/>
+
+<nlword word="Mach's gut!" valsi="co'o"/>
+
+<nlword word="Tschüss" valsi="co'o"/>
+
+<nlword word="Grüß dich!" valsi="coi"/>
+
+<nlword word="Hallo" valsi="coi"/>
+
+<nlword word="Hi" valsi="coi"/>
+
+<nlword word="Schmerz" valsi="cortu"/>
+
+<nlword word="Fee" valsi="crida"/>
+
+<nlword word="grün" valsi="crino"/>
+
+<nlword word="Buch" valsi="cukta"/>
+
+<nlword word="Autor" sense="eines Buches" valsi="cukta" place="3"/>
+
+<nlword word="voll" valsi="culno"/>
+
+<nlword word="sagen" valsi="cusku"/>
+
+<nlword word="Aussage" sense="ausgedrückter Sprachinhalt" valsi="cusku" place="2"/>
+
+<nlword word="Medium" sense="Kommunikationskanal" valsi="cusku" place="4"/>
+
+<nlword word="ausdrücken" sense="eine Bedeutung zum Ausdruck bringen" valsi="cusku"/>
+
+<nlword word="erwähnen" sense="ein Konzept in Sprache einbetten" valsi="cusku"/>
+
+<nlword word="Tier" valsi="danlu"/>
+
+<nlword word="Ente" valsi="datka"/>
+
+<nlword word="Gebäude" valsi="dinju"/>
+
+<nlword word="wünschen" sense="auf etwas hoffen" valsi="djica"/>
+
+<nlword word="hoffen" valsi="djica"/>
+
+<nlword word="wissen" sense="Faktenwissen" valsi="djuno"/>
+
+<nlword word="ihr" valsi="do"/>
+
+<nlword word="du" valsi="do"/>
+
+<nlword word="germanisch" valsi="dotco"/>
+
+<nlword word="deutsch" valsi="dotco"/>
+
+<nlword word="übersetzen" valsi="fanva"/>
+
+<nlword word="Fisch" valsi="finpe"/>
+
+<nlword word="erfinden" valsi="finti"/>
+
+<nlword word="Versager" valsi="fliba" place="1"/>
+
+<nlword word="scheitern" valsi="fliba"/>
+
+<nlword word="versagen" valsi="fliba"/>
+
+<nlword word="fehlschlagen" valsi="fliba"/>
+
+<nlword word="Hund" valsi="gerku"/>
+
+<nlword word="Lager" sense="vorübergehender Wohnort" valsi="ginka"/>
+
+<nlword word="glücklich" valsi="gleki"/>
+
+<nlword word="grau" valsi="grusi"/>
+
+<nlword word="Obst" valsi="grute"/>
+
+<nlword word="Frucht" valsi="grute"/>
+
+<nlword word="Ziel ; Auftrag" sense="erhofftes Ergebnis bewusster Arbeit" valsi="gunka" place="3"/>
+
+<nlword word="Arbeit" sense="Bearbeitung einer Aufgabe" valsi="gunka"/>
+
+<nlword word="Arbeiter" valsi="gunka" place="1"/>
+
+<nlword word="Aufgabe ; Aktivität" sense="Gegenstand bewusster Arbeit" valsi="gunka" place="2"/>
+
+<nlword word="Gans" valsi="gunse"/>
+
+<nlword word="eifersüchtig" valsi="jilra"/>
+
+<nlword word="bitte wiederhole" valsi="ke'o"/>
+
+<nlword word="Mitleid" valsi="kecti"/>
+
+<nlword word="Haar" valsi="kerfa"/>
+
+<nlword word="Loch" valsi="kevna"/>
+
+<nlword word="Höhle" valsi="kevna"/>
+
+<nlword word="Vehikel" sense="Transportmittel" valsi="klama" place="5"/>
+
+<nlword word="bewegen" valsi="klama"/>
+
+<nlword word="Ziel" sense="Endpunkt einer Reise" valsi="klama" place="2"/>
+
+<nlword word="kommen" valsi="klama"/>
+
+<nlword word="gehen" valsi="klama"/>
+
+<nlword word="Herkunft" sense="Ausgangspunkt einer Reise" valsi="klama" place="3"/>
+
+<nlword word="reisen" sense="zielgerichtete, meist langstreckige Fortbewegung" valsi="klama"/>
+
+<nlword word="Reisender" valsi="klama" place="1"/>
+
+<nlword word="Weg" sense="Route/Zwischenstation einer Reise" valsi="klama" place="4"/>
+
+<nlword word="Rand" valsi="korbi"/>
+
+<nlword word="Kante" valsi="korbi"/>
+
+<nlword word="Begrenzung" valsi="korbi"/>
+
+<nlword word="Raum" sense="Zimmer" valsi="kumfa"/>
+
+<nlword word="Zimmer" valsi="kumfa"/>
+
+<nlword word="Wolf" valsi="labno"/>
+
+<nlword word="Fuchs" valsi="lorxu"/>
+
+<nlword word="erwachsen" valsi="makcu"/>
+
+<nlword word="dunkel" valsi="manku"/>
+
+<nlword word="Marzipansorte" valsi="marsipane" place="2"/>
+
+<nlword word="Marzipan" valsi="marsipane" place="1"/>
+
+<nlword word="Schwester" valsi="mensi"/>
+
+<nlword word="ich" valsi="mi"/>
+
+<nlword word="wir" valsi="mi"/>
+
+<nlword word="geheim" valsi="mipri"/>
+
+<nlword word="Katze" valsi="mlatu"/>
+
+<nlword word="bridi ?" valsi="mo"/>
+
+<nlword word="tot" valsi="morsi"/>
+
+<nlword word="Fünf" valsi="mu"/>
+
+<nlword word="5" valsi="mu"/>
+
+<nlword word="viel" sense="Adverb: beschriebene Eigenschaft ist in großer Menge vorhanden" valsi="mutce"/>
+
+<nlword word="sehr" sense="Adverb: beschriebene Eigenschaft ist in großer Menge vorhanden" valsi="mutce"/>
+
+<nlword word="Mann" valsi="nanmu"/>
+
+<nlword word="mögen" valsi="nelci"/>
+
+<nlword word="genießen" valsi="nelci"/>
+
+<nlword word="Absatz" valsi="ni'o"/>
+
+<nlword word="neues Thema" valsi="ni'o"/>
+
+<nlword word="Frau" valsi="ninmu"/>
+
+<nlword word="brauchen" valsi="nitcu"/>
+
+<nlword word="Null" valsi="no"/>
+
+<nlword word="1" valsi="pa"/>
+
+<nlword word="Eins" valsi="pa"/>
+
+<nlword word="gelb" valsi="pelxu"/>
+
+<nlword word="golden" valsi="pelxu"/>
+
+<nlword word="Kumpel" valsi="pendo"/>
+
+<nlword word="Freundin" valsi="pendo"/>
+
+<nlword word="Freund" valsi="pendo"/>
+
+<nlword word="benutzen" valsi="pilno"/>
+
+<nlword word="Feder" valsi="pimlu"/>
+
+<nlword word="trinken" valsi="pinxe"/>
+
+<nlword word="Apfel" valsi="plise"/>
+
+<nlword word="lieben" valsi="prami"/>
+
+<nlword word="Hase" valsi="ractu"/>
+
+<nlword word="Kaninchen" valsi="ractu"/>
+
+<nlword word="Karnickel" valsi="ractu"/>
+
+<nlword word="Zwei" valsi="re"/>
+
+<nlword word="2" valsi="re"/>
+
+<nlword word="Mensch" valsi="remna"/>
+
+<nlword word="Wald" valsi="ricfoi"/>
+
+<nlword word="Forst" valsi="ricfoi"/>
+
+<nlword word="europäisch" valsi="ropno"/>
+
+<nlword word="Programmierer" valsi="sampla" place="1"/>
+
+<nlword word="Programm" sense="Computer" valsi="sampla" place="2"/>
+
+<nlword word="programmieren" valsi="sampla"/>
+
+<nlword word="Träumer" valsi="senva" place="1"/>
+
+<nlword word="träumen" valsi="senva"/>
+
+<nlword word="Traum" valsi="senva" place="2"/>
+
+<nlword word="Gedanke" valsi="sidbo"/>
+
+<nlword word="Idee" valsi="sidbo"/>
+
+<nlword word="schlafen" valsi="sipna"/>
+
+<nlword word="Verwendungszweck" sense="Computer" valsi="skami" place="2"/>
+
+<nlword word="Computer" valsi="skami"/>
+
+<nlword word="Film" valsi="skina"/>
+
+<nlword word="schaffen" valsi="snada"/>
+
+<nlword word="erfolgreich" valsi="snada"/>
+
+<nlword word="Neun" valsi="so"/>
+
+<nlword word="9" valsi="so"/>
+
+<nlword word="Talent" valsi="stati"/>
+
+<nlword word="schnell" valsi="sutra"/>
+
+<nlword word="eilig" valsi="sutra"/>
+
+<nlword word="Durst" valsi="taske"/>
+
+<nlword word="müde" valsi="tatpi"/>
+
+<nlword word="erschöpft" valsi="tatpi"/>
+
+<nlword word="Sprecher" valsi="tavla" place="1"/>
+
+<nlword word="reden" valsi="tavla"/>
+
+<nlword word="Sprache" valsi="tavla" place="4"/>
+
+<nlword word="Publikum" sense="der durch den Sprecher Angesprochene" valsi="tavla" place="2"/>
+
+<nlword word="sprechen" valsi="tavla"/>
+
+<nlword word="Thema" sense="einer sprachlichen Ausführung" valsi="tavla" place="3"/>
+
+<nlword word="lesen" valsi="tcidu"/>
+
+<nlword word="Wetter" valsi="tcima"/>
+
+<nlword word="Tiger" valsi="tirxu"/>
+
+<nlword word="Baum" sense="Pflanze" valsi="tricu"/>
+
+<nlword word="versuchen" valsi="troci"/>
+
+<nlword word="Freude" valsi="ui"/>
+
+<nlword word="Traurigkeit" valsi="uinai"/>
+
+<nlword word="beinhalten" valsi="vasru"/>
+
+<nlword word="Behälter" valsi="vasru" place="1"/>
+
+<nlword word="umschließen" valsi="vasru"/>
+
+<nlword word="4" valsi="vo"/>
+
+<nlword word="Vier" valsi="vo"/>
+
+<nlword word="6" valsi="xa"/>
+
+<nlword word="Sechs" valsi="xa"/>
+
+<nlword word="hanseatisch" valsi="xa'anze" place="1"/>
+
+<nlword word="Hunger" valsi="xagji"/>
+
+<nlword word="schwarz" valsi="xekri"/>
+
+<nlword word="wiehern" valsi="xircmo"/>
+
+<nlword word="rot" valsi="xunre"/>
+
+<nlword word="Heimat" valsi="zdani"/>
+
+<nlword word="zu Hause" valsi="zdani"/>
+
+<nlword word="Nest" valsi="zdani"/>
+
+<nlword word="Bewohner" valsi="zdani" place="2"/>
+
+<nlword word="Sieben" valsi="ze"/>
+
+<nlword word="7" valsi="ze"/>
+
+<nlword word="beobachten" valsi="zgana"/>
+
+<nlword word="lila" valsi="zirpu"/>
+
+<nlword word="sitzen" valsi="zutse"/>
+
+<nlword word="Ort ; Veranstaltung" sense="räumliche Positionsbestimmung" valsi="zvati" place="2"/>
+
+<nlword word="auf" sense="auf einer Veranstaltung sein/stattfinden" valsi="zvati"/>
+
+<nlword word="an" sense="an einem Ort sein/stattfinden" valsi="zvati"/></direction></dictionary>
