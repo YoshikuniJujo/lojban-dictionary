@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="iocikun.juj.lojban.dictionary">
+    package="iocikun.juj.lojban.dictionary"
+    android:installLocation="auto">
 
     <application
         android:icon="@drawable/lojban_72"
