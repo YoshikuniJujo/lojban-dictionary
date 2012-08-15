@@ -24,6 +24,101 @@ import _root_.android.widget.Toast
 
 import _root_.android.view.KeyEvent
 
+import _root_.android.app.SearchManager
+
+class SearchActivity extends Activity with TypedActivity {
+	lazy val sp = PreferenceManager getDefaultSharedPreferences this
+	lazy val dic = new ReadDictionary(getAssets(), sp)
+
+	lazy val field = findView(TR.fieldS)
+	lazy val valsi = findView(TR.valsiS)
+	lazy val velcki = findView(TR.velckiS)
+
+	override def onCreate(savedInstanceState: Bundle) {
+		super.onCreate(savedInstanceState);
+		requestWindowFeature(Window.FEATURE_NO_TITLE)
+		setContentView(R.layout.search)
+
+		val intent = getIntent()
+		var action: String = null
+		var query: String = null
+		if (intent != null) action = intent.getAction()
+		if (action != null)
+			if (action.equals(Intent.ACTION_SEARCH))
+				query = intent.getStringExtra(SearchManager.QUERY);
+
+		if (query != null) {
+			val result1 = dic lojToEn query.trim.toLowerCase
+			val result2 = dic enToLoj query.trim.toLowerCase
+			val result3 = dic rafsi query.trim.toLowerCase
+			if (result1._1 != "") {
+				putDef(result1)
+			} else if (result2 != Nil && result2(0)._1 != "") {
+				mkEnLoj(result2)
+			} else {
+				putDef(result3)
+			}
+
+//			Toast.makeText(this, result3._2, Toast.LENGTH_LONG).show();
+		}
+	}
+
+	override def onCreateOptionsMenu(menu: Menu): Boolean = {
+		menu.add(Menu.NONE, 0, 0, "settings")
+		return super.onCreateOptionsMenu(menu)
+	}
+
+	def putDef(result: (String, String, List[String])) {
+		valsi.setText(result._1)
+		velcki.setText(Html.fromHtml(result._2))
+		field.removeAllViews
+		field.addView(valsi)
+		field.addView(velcki)
+		mkLinks(result._3)
+	}
+
+	def mkLinks(list: List[String]) {
+		for (v <- list) {
+			val tv = new TextView(this)
+			tv.setTextSize(30)
+			tv.setText(v)
+			tv.setClickable(true)
+			tv.setOnClickListener(new View.OnClickListener() {
+				def onClick(_v: View) {
+					val result = dic.lojToEn(v)
+					putDef(result)
+				}
+			})
+			field.addView(tv)
+		}
+	}
+
+	def mkEnLoj(list: List[(String, String)]) {
+		valsi.setText("")
+		velcki.setText("")
+		field.removeAllViews
+		for (result <- list) {
+			val tv1 = new TextView(this)
+			val tv2 = new TextView(this)
+			tv1.setTextSize(30)
+			tv1.setText(result._1)
+			tv1.setOnClickListener(new View.OnClickListener() {
+				def onClick(v: View) {
+		Log.d("LojbanDictionary", "onClick start")
+					val result2 = dic.lojToEn(result._1)
+		Log.d("LojbanDictionary", result2._1)
+					putDef(result2)
+		Log.d("LojbanDictionary", "onClick end")
+				}
+			})
+			tv1.setClickable(true)
+			tv2.setText(Html.fromHtml(result._2))
+			field.addView(tv1)
+			field.addView(tv2)
+		}
+	}
+}
+
 class LojbanDictionary extends Activity with TypedActivity {
 
 	lazy val sp = PreferenceManager getDefaultSharedPreferences this
