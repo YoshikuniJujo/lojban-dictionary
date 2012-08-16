@@ -169,6 +169,9 @@ class LojbanDictionary extends Activity with TypedActivity {
 		back.setImageResource(R.drawable.back_no)
 		forward.setImageResource(R.drawable.forward_no)
 
+		val suggestions = new SearchRecentSuggestions(this,
+				"lojban dictionary", 1);
+
 		lojen setOnClickListener new OnClickListener() {
 			def onClick(v: View) {
 				val result = dic lojToEn
@@ -177,6 +180,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 					history.add(false, result._1)
 					if (history.backable)
 						back.setImageResource(R.drawable.back)
+					suggestions.saveRecentQuery(result._1, null);
 				}
 				putDef(result)}}
 
@@ -188,17 +192,20 @@ class LojbanDictionary extends Activity with TypedActivity {
 					history.add(true, en)
 					if (history.backable)
 						back.setImageResource(R.drawable.back)
+					suggestions.saveRecentQuery(en, null);
 				}
 				mkEnLoj(list)}
 			}
 
 		rafsi setOnClickListener new OnClickListener() {
 			def onClick(v: View) {
-				val result = dic rafsi input.getText.toString.trim
+				val r = input.getText.toString.trim
+				val result = dic rafsi r
 				if (result._1 != "") {
 					history.add(false, result._1)
 					if (history.backable)
 						back.setImageResource(R.drawable.back)
+					suggestions.saveRecentQuery(r, null);
 				}
 				putDef(result)}}
 	}
