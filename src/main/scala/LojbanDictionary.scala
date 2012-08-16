@@ -26,9 +26,18 @@ import _root_.android.view.KeyEvent
 
 import _root_.android.app.SearchManager
 
+import _root_.android.content.SearchRecentSuggestionsProvider
+import _root_.android.provider.SearchRecentSuggestions
+
+class MySuggestionProviderClass extends SearchRecentSuggestionsProvider {
+	setupSuggestions("lojban dictionary", 1);
+}
+
 class SearchActivity extends Activity with TypedActivity {
 	lazy val sp = PreferenceManager getDefaultSharedPreferences this
 	lazy val dic = new ReadDictionary(getAssets(), sp)
+
+	lazy val test = findView(TR.test)
 
 	lazy val field = findView(TR.fieldS)
 	lazy val valsi = findView(TR.valsiS)
@@ -43,9 +52,12 @@ class SearchActivity extends Activity with TypedActivity {
 		var action: String = null
 		var query: String = null
 		if (intent != null) action = intent.getAction()
-		if (action != null)
-			if (action.equals(Intent.ACTION_SEARCH))
+		if (action != null) {
+			test.setText(action)
+			if (action.equals(Intent.ACTION_SEARCH) ||
+				action.equals(Intent.ACTION_VIEW))
 				query = intent.getStringExtra(SearchManager.QUERY);
+		}
 
 		if (query != null) {
 			val result1 = dic lojToEn query.trim.toLowerCase
@@ -58,6 +70,10 @@ class SearchActivity extends Activity with TypedActivity {
 			} else {
 				putDef(result3)
 			}
+
+			val suggestions = new SearchRecentSuggestions(this,
+				"lojban dictionary", 1);
+			suggestions.saveRecentQuery(query, null);
 
 //			Toast.makeText(this, result3._2, Toast.LENGTH_LONG).show();
 		}
