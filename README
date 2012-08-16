@@ -8,4 +8,5 @@ runhaskell mkRafsiList.hs en
 runhaskell mkRafsiList.hs lojban
 
 mkdir src/main/assets/completion/
-runhaskell mkEnWords.hs > src/main/assets/completion/en.txt
+runhaskell mkWords.hs en
+runhaskell mkWords.hs fr
