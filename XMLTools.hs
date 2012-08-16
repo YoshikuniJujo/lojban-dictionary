@@ -1,8 +1,12 @@
 module XMLTools (
 	makeXMLString,
 	showContent,
+	showElement,
 	childrenE,
-	createDirectoryIfNotExist
+	createDirectoryIfNotExist,
+	getAttr,
+	isElemName,
+	getElemText
 ) where
 
 import Text.XML.HaXml hiding (when)
@@ -50,6 +54,20 @@ isElem :: Content i -> Bool
 isElem (CElem _ _) = True
 isElem _ = False
 
+isString :: Content i -> Bool
+isString (CString _ _ _) = True
+isString _ = False
+
 getElem :: Content i -> Element i
 getElem (CElem elem _) = elem
 getElem _ = error "not CElem"
+
+getAttr :: Element i -> String -> Maybe String
+getAttr (Elem name attrs conts) n0
+	= fmap show $ lookup (N n0) attrs
+
+isElemName :: String -> Element i -> Bool
+isElemName n0 (Elem name _ _) = N n0 == name
+
+getElemText :: Element i -> String
+getElemText (Elem _ _ cs) = concatMap (\(CString _ s _) -> s) $ filter isString cs

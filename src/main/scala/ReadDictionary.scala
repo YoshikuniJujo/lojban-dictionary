@@ -29,14 +29,13 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 
 	def allwords: Array[String] = {
 		var wordlist: List[String] = List()
-		for (h <- "abcdefgijklmnoprstuvxyz")
-			wordlist = wordlist :::
-				getWords("lojen/" + h + ".xml", "valsi")
-		wordlist = wordlist ::: getWords("lojen/rest.xml", "valsi")
-		for (h <- "abcdefghijklmnopqrstuvwxyz")
-			wordlist = wordlist :::
-				getWords("enloj/" + h + ".xml", "nlword")
-		wordlist = wordlist ::: getWords("enloj/rest.xml", "nlword")
+		
+		val file = new BufferedReader(new InputStreamReader(
+			asset.open("completion/en.txt"), "UTF-8"))
+		var word: String = null
+		while ({word = file.readLine; word != null}) {
+			wordlist = word :: wordlist
+		}
 		val lang = if (sp.contains("lang"))
 			sp.getString("lang", "en") else "en"
 		if (lang != "en")

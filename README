@@ -6,3 +6,6 @@ runhaskell mkSepList.hs lojban abcdefgijklmnoprstuvxyz
 runhaskell mkRafsiList.hs ja
 runhaskell mkRafsiList.hs en
 runhaskell mkRafsiList.hs lojban
+
+mkdir src/main/assets/completion/
+runhaskell mkEnWords.hs > src/main/assets/completion/en.txt
