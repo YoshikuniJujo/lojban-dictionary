@@ -38,10 +38,14 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 		}
 		val lang = if (sp.contains("lang"))
 			sp.getString("lang", "en") else "en"
-		if (lang != "en")
-			for (path <- asset.list(lang + "loj"))
-				wordlist = wordlist :::
-					getWords(lang + "loj/" + path, "nlword")
+		if (lang != "en") {
+			val file = new BufferedReader(new InputStreamReader(
+				asset.open("completion/" + lang + ".txt"), "UTF-8"))
+			var word: String = null
+			while ({word = file.readLine; word != null}) {
+				wordlist = word :: wordlist
+			}
+		}
 		return wordlist.toArray
 	}
 
