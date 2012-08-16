@@ -79,11 +79,6 @@ class SearchActivity extends Activity with TypedActivity {
 		}
 	}
 
-	override def onCreateOptionsMenu(menu: Menu): Boolean = {
-		menu.add(Menu.NONE, 0, 0, "settings")
-		return super.onCreateOptionsMenu(menu)
-	}
-
 	def putDef(result: (String, String, List[String])) {
 		valsi.setText(result._1)
 		velcki.setText(Html.fromHtml(result._2))
