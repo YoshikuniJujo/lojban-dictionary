@@ -23,10 +23,5 @@
 	android:title="back button"
 	android:summary="use back button to back to previous search"
 	/>
-<CheckBoxPreference
-	android:key="complete"
-	android:title="auto complete"
-	android:summary="auto complete on/off (you should restart the program)"
-	/>
 </PreferenceCategory>
 </PreferenceScreen>

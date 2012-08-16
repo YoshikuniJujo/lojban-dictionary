@@ -162,8 +162,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 		super.onCreate(bundle)
 		requestWindowFeature(Window.FEATURE_NO_TITLE)
 		setContentView(R.layout.main)
-		if (sp.contains("complete") && sp.getBoolean("complete", false))
-			input.setAdapter(adapter)
+		input.setAdapter(adapter)
 
 		putDef(("", "coi rodo mi jbovlaste", List()))
 		back.setImageResource(R.drawable.back_no)
