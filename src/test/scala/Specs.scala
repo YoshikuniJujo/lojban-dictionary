@@ -25,6 +25,15 @@ class Specs extends FunSpec with ShouldMatchers {
 			readDic.lojToEn("hoge")._2 should be (
 				"hoge: no such valsi in the dictionary")
 		}
+
+		it("should be #..;") {
+			readDic.lojToEn("mo'u")._2 should be (
+				"<B>type</B>: cmavo<BR/><B>definition</B>: " +
+				"interval event contour: " +
+				"at the natural ending point of ...;" +
+				" completive              |    &gt;|&lt;.<BR/>" +
+				"<B>notes</B>: <BR/>")
+		}
 	}
 
 	def getDef(file_name: String, tag: String,
