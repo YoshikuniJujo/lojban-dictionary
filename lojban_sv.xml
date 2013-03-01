@@ -90,10 +90,10 @@
 
 <valsi word="babilon" type="cmene"><definition>Babylon</definition></valsi>
 
-<valsi word="bacru" type="gismu"><rafsi>ba'u</rafsi><definition>$x_1$ uttalar verbalt/säger/telefonerar/talar [gör språkliga ljud] $x_2$</definition><notes>Även röster; förutsätter inte nödvändigtvis kommunikation eller lyssnare ("säger" är oftast {cuska}. Se även {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></valsi>
+<valsi word="bacru" type="gismu"><rafsi>ba'u</rafsi><definition>$x_1$ uttalar muntligt/säger/talar [producerar språkliga ljud/foner] $x_2$</definition><notes>Även röster; förutsätter inte nödvändigtvis kommunikation eller lyssnare ("säger" är oftast {cusku}. Se även {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></valsi>
 
-<valsi word="badna" type="gismu"><definition>$x_1$ är en banan/kokbanan/dessertbanan [frukt/växt] av arten/sorten $x_2$.</definition><notes>Banan är ett bär, en ört, och en frukt tillhörande banansläktet (Musa) i familjen bananväxter (Musaceae).
-Plantan odlas i två huvudtyper, den vanliga bananen (dessertbananen) samt kokbananen. </notes></valsi>
+<valsi word="badna" type="gismu"><definition>$x_1$ är en banan/kokbanan/dessertbanan [frukt/växt] av arten/sorten $x_2$.</definition><notes>Banan är ett bär, en ört, eller en frukt tillhörande banansläktet (Musa).
+Se även {jupybadna}. </notes></valsi>
 
 <valsi word="badri" type="gismu"><rafsi>dri</rafsi><definition>$x_1$ är ledsen/dyster/betryckt/bedrövad/nedstämd/[olycklig/känner sorg] över $x_2$ (abstraktion).</definition><notes>Se även {klaku}, {gleki}, {betri}, {cinmo}, {junri}, {uinai}.</notes></valsi>
 
@@ -486,6 +486,8 @@ för att vara pedantisk så vad gäller objekt/varor, så är detta sumti-höjan
 <valsi word="cibmast" type="cmene"><definition>tredje månaden på året (mars i typisk kontext).</definition><notes>tredje månaden på året kan variera beroende på vilken kalender som används, men betyder mars om inget annat anges.</notes></valsi>
 
 <valsi word="cicna" type="gismu"><definition>$x_1$ är cyan/turkosblå/grönaktigt blå [färgnyans].</definition></valsi>
+
+<valsi word="cicnysluni" type="lujvo"><definition>$x_1$ är en blålök (Allium cyaneum) av sort/variant $x_2$.</definition></valsi>
 
 <valsi word="cidja" type="gismu"><rafsi>dja</rafsi><definition>$x_1$ är mat/föda/näring/kost/[foder] för $x_2$; $x_1$ är ätbar/närande för $x_2$.</definition></valsi>
 
@@ -1352,6 +1354,8 @@ I en svensk kontext syftar x2 oftast på vänner eller arbetskamrater, och x3 ä
 
 <valsi word="gleki" type="gismu"><rafsi>gek</rafsi><rafsi>gei</rafsi><definition>$x_1$ är glad/lycklig/förtjust/munter över $x_2$ (händelse/tillstånd).</definition></valsi>
 
+<valsi word="glepe'o" type="lujvo"><definition>$p_1=g_1$ är en sexpartner/knullkompis till $p_2=g_2$.</definition></valsi>
+
 <valsi word="gletu" type="gismu"><rafsi>let</rafsi><rafsi>gle</rafsi><definition>$x_1$ parar sig/kopulerar/knullar/häckar/ligger/har sex/samlag med $x_2$.</definition><notes>x1 och x2 är symmetriska. Sätter på/rider (={cpanygle}).</notes></valsi>
 
 <valsi word="gliban" type="cmene"><definition>engelska språket</definition></valsi>
@@ -1383,7 +1387,7 @@ guanJOUS är baserad på mandarinuttal.För namnet baserat på lokal kantonesisk
 
 <valsi word="gubni" type="gismu"><rafsi>gub</rafsi><definition>$x_{1}$ är offentlig/allmän/icke-gömd/öppen/gemensamt tillgänglig för/ägd av alla inom samhälle $x_{2}$ (mass).</definition></valsi>
 
-<valsi word="gugde" type="gismu"><rafsi>gug</rafsi><rafsi>gu'e</rafsi><definition>$x_{1}$ är landet av folken $x_{2}$ med land/territorium $x_{3}$; (folk/territoriellt förhållande).</definition><notes>Även självständighet, inhemsk (i motsats till utländsk), nation (då det inte refererar till ethos).</notes></valsi>
+<valsi word="gugde" type="gismu"><rafsi>gug</rafsi><rafsi>gu'e</rafsi><definition>$x_{1}$ är landet av folken $x_{2}$ med land/territorium $x_{3}$; (folk/territoriellt förhållande).</definition><notes>Även självständighet, inhemsk (i motsats till utländsk), nation (då det inte refererar till ethnos).</notes></valsi>
 
 <valsi word="gugl" type="cmene"><definition>Google</definition></valsi>
 
@@ -1608,7 +1612,7 @@ Påskfastan eller bara fastan är perioden för de kristnas fastetid till minne 
 
 <valsi word="mam" type="cmene"><definition>Mamma</definition></valsi>
 
-<valsi word="masKUAS" type="cmene"><definition>Moskva</definition></valsi>
+<valsi word="matryxilma'e" type="lujvo"><definition>$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.</definition><notes>Den exakta definitionen kan variera beroende på respektive lands lagstiftning, men i en svensk kontext så kan x1 vara traktor, motorredskap, terrängmotorfordon eller motorfordon (={matrydagma'e}).</notes></valsi>
 
 <valsi word="megdo" type="gismu"><rafsi>meg</rafsi><definition>$x_{1}$ är en miljon [$10^{6}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).</definition></valsi>
 
@@ -1679,6 +1683,10 @@ Påskfastan eller bara fastan är perioden för de kristnas fastetid till minne 
 <valsi word="paf" type="cmene"><definition>Pappa</definition></valsi>
 
 <valsi word="palsita" type="fu'ivla"><definition>$x_1$ är en Sith/mörk Jedi med kraft/nivå/rank $x_2$.</definition></valsi>
+
+<valsi word="pamglepe'o" type="lujvo"><definition>$pe_1=g_1=pa_1$ är en älskare/älskarinna till $pe_2=g_2=pa_2$.</definition></valsi>
+
+<valsi word="pampe'o" type="lujvo"><definition>$pr_1=pe_1$ är en pojkvän/flickvän till $pr_2=pe_2$.</definition></valsi>
 
 <valsi word="pano" type="cmavo cluster"><selmaho>PA*</selmaho><definition>nummer: 10 (siffra) [tio].</definition></valsi>
 
@@ -1933,11 +1941,21 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="tala" sense="i telefon" valsi="bacru"/>
 
+<nlword word="använda rösten" valsi="bacru"/>
+
+<nlword word="uttalare" valsi="bacru" place="1"/>
+
 <nlword word="yttrande" valsi="bacru" place="2"/>
 
 <nlword word="yttra" valsi="bacru"/>
 
+<nlword word="fon" sense="språkljud" valsi="bacru" place="2"/>
+
 <nlword word="telefonera" valsi="bacru"/>
+
+<nlword word="uttala" valsi="bacru"/>
+
+<nlword word="muntlig" valsi="bacru"/>
 
 <nlword word="utsägare" valsi="bacru" place="1"/>
 
@@ -3478,6 +3496,8 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 <nlword word="turkosblå" valsi="cicna"/>
 
 <nlword word="cyan" valsi="cicna"/>
+
+<nlword word="blålök" sense="Allium cyaneum" valsi="cicnysluni"/>
 
 <nlword word="ätbar" valsi="cidja"/>
 
@@ -5641,6 +5661,12 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="glädjeämne" valsi="gleki" place="2"/>
 
+<nlword word="knullkompis" valsi="glepe'o"/>
+
+<nlword word="KK" sense="sexpartner" valsi="glepe'o"/>
+
+<nlword word="sexpartner" valsi="glepe'o"/>
+
 <nlword word="pippa" valsi="gletu"/>
 
 <nlword word="ha samlag med" valsi="gletu"/>
@@ -6173,7 +6199,7 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="Mamma" sense="vid tilltal" valsi="mam"/>
 
-<nlword word="Moskva" valsi="masKUAS"/>
+<nlword word="motordrivet fordon" valsi="matryxilma'e"/>
 
 <nlword word="mega-" sense="SI-prefix" valsi="megdo"/>
 
@@ -6291,6 +6317,14 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="sith" sense="fiktivt begrepp (star wars)" valsi="palsita"/>
 
+<nlword word="älskare" valsi="pamglepe'o"/>
+
+<nlword word="älskarinna" valsi="pamglepe'o"/>
+
+<nlword word="pojkvän" valsi="pampe'o"/>
+
+<nlword word="flickvän" valsi="pampe'o"/>
+
 <nlword word="tio" sense="nummer" valsi="pano"/>
 
 <nlword word="januari" valsi="pavmast"/>
@@ -6365,8 +6399,6 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="Stockholm" valsi="stakolm"/>
 
-<nlword word="Finland" valsi="suomis"/>
-
 <nlword word="Tjeckien" valsi="tcesk"/>
 
 <nlword word="Jorden" sense="planet" valsi="terd"/>
@@ -6398,8 +6430,6 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 <nlword word="Nätet" sense="dator" valsi="ueb"/>
 
 <nlword word="World Wide Web" valsi="ueb"/>
-
-<nlword word="Wikipedia" valsi="uikipedias"/>
 
 <nlword word="Wiki" valsi="uikis"/>
 

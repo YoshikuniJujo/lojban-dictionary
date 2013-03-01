@@ -126,6 +126,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 
 <valsi word="jundi" type="gismu"><rafsi>jud</rafsi><rafsi>ju'i</rafsi><definition>$x_1$ est attentif / prête attention à $x_2$</definition></valsi>
 
+<valsi word="kamxada" type="fu'ivla"><definition>$x_1$ est un camarade de $x_2$, unis dans $x_3$ (ka).</definition><notes>Plus impersonel que {pendo}, puisque pendo n'indique pas le lien précis entre les personnes. Pourtant, «kamxada» indique un sentiment union important qui le rend différent de {kansa}.</notes></valsi>
+
 <valsi word="karkaju" type="fu'ivla"><definition>$x_1$ est un carcajou de variété $x_2$</definition></valsi>
 
 <valsi word="kenyDAS" type="cmene"><definition>le Canada</definition><notes>Cf. {KEnydys}, {kadnygu'e}, {gugdecu'a}.</notes></valsi>
@@ -137,6 +139,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <valsi word="kurbarile" type="fu'ivla"><definition>$x_1$ est un/du courbaril d'espèce/de varieté $x_2$</definition><notes>Grand arbre césalpinioïde du Brésil et de la Guyane qui donne une résine fragrante qui autrefois était fossilisée en ambre.</notes></valsi>
 
 <valsi word="lojbo" type="gismu"><rafsi>lob</rafsi><rafsi>jbo</rafsi><definition>$x_1$ reflette la langue/culture/nationalité lojbanic par l'aspect $x_2$</definition></valsi>
+
+<valsi word="melbi" type="gismu"><rafsi>mel</rafsi><rafsi>mle</rafsi><definition>$x_1$ (objet/idée) est beau pour $x_2$ (observateur) selon $x_3$ (norme/standard)</definition></valsi>
 
 <valsi word="mlongena" type="fu'ivla"><definition>$x_1$ est une aubergine de variété $x_2$</definition><notes>voir aussi {patlu}, {tamca}, {kapsiku}, {labnyjba}</notes></valsi>
 
@@ -173,6 +177,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <valsi word="sipna" type="gismu"><rafsi>sip</rafsi><definition>$x_1$ dort / est endormit</definition></valsi>
 
 <valsi word="skami" type="gismu"><rafsi>sam</rafsi><definition>$x_1$ est un ordinateur qui a pour but $x_2$</definition></valsi>
+
+<valsi word="sutra" type="gismu"><rafsi>sut</rafsi><definition>$x_1$ est rapide à faire $x_2$ (une action)</definition></valsi>
 
 <valsi word="tcidu" type="gismu"><rafsi>tid</rafsi><definition>$x_1$ [entité capable d'exercer un choix librement] lit $x_2$ [un texte] sur une surface/un document $x_3$</definition></valsi>
 
@@ -434,6 +440,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 
 <nlword word="prêter attention" valsi="jundi"/>
 
+<nlword word="camarade" valsi="kamxada"/>
+
 <nlword word="carcajou" valsi="karkaju"/>
 
 <nlword word="Canada" valsi="kenyDAS"/>
@@ -445,6 +453,12 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <nlword word="courbaril" valsi="kurbarile"/>
 
 <nlword word="lojban" valsi="lojbo"/>
+
+<nlword word="joli" valsi="melbi"/>
+
+<nlword word="beau" valsi="melbi"/>
+
+<nlword word="belle" valsi="melbi"/>
 
 <nlword word="apprécier" valsi="nelci"/>
 
@@ -483,6 +497,10 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <nlword word="endormi" valsi="sipna"/>
 
 <nlword word="ordinateur" valsi="skami"/>
+
+<nlword word="vite" valsi="sutra"/>
+
+<nlword word="rapide" valsi="sutra"/>
 
 <nlword word="lire" valsi="tcidu"/>
 

@@ -43,6 +43,8 @@
 
 <valsi word="cidjrbentou" type="fu'ivla"><definition>$x1$ は弁当(食べ物)</definition></valsi>
 
+<valsi word="cirlnxiogluto" type="fu'ivla"><definition>$x_1$はヨーグルト</definition></valsi>
+
 <valsi word="ckupra" type="lujvo"><definition>$cup_1$ は $cup_2=cuk_1$ （本）を $cup_3$ （過程）によって出版する／製本する</definition><notes>{cukta} {cupra}</notes></valsi>
 
 <valsi word="cnijbi" type="lujvo"><definition>$j_1=c_1$ は $j_2=c_1$ と、 $j_3=c_2$ （感情）を共に覚える点で近い／（感情）に同感する</definition><notes>{cinmo} {jibni}; {o'e}</notes></valsi>
@@ -67,11 +69,18 @@
 
 <valsi word="dergapru" type="lujvo"><definition>$g_1$ は地面よりも上</definition><notes>{dertu} {gapru}</notes></valsi>
 
+<valsi word="dicysabji" type="lujvo"><definition>$s_1$は$s_2=d_1$(電気)を$s_3$(媒体)に$d_3$(極性/属性)で給電する/電力供給する</definition><notes>s3はs1から充電する
+s1はコンデンサーやバッテリーなど
+d3は交流電源、直流電源、マイナス極、プラス極など
+</notes></valsi>
+
 <valsi word="djekarni" type="lujvo"><definition>$k_1$ は $k_2$ （内容）・ $k_3$ （出版社）・ $k_4$ （読者）の日刊紙</definition><notes>{djedi} {karni}</notes></valsi>
 
 <valsi word="do'a" type="cmavo"><selmaho>UI3</selmaho><definition>談話系：良気前 - 吝嗇</definition><notes>{dunda}, {mutce}, {traji}</notes></valsi>
 
 <valsi word="do'anai" type="cmavo cluster"><selmaho>UI*3</selmaho><definition>談話系：良気前 - 吝嗇</definition><notes>{do'a}, {nai}</notes></valsi>
+
+<valsi word="drojbama" type="lujvo"><definition>$c_1=j_1$は水素爆弾</definition><notes>水素爆弾は核融合による爆発をするので、わざわざ起爆方法を明示するためのPS j2は不要だと考えて削除した。</notes></valsi>
 
 <valsi word="faktumli'u" type="lujvo"><definition>$l_1=f_1$ は $l_2=t_1$ （土地）を $l_3$ （方法）で、 $f_2$ （命題）を発見しながら探検する</definition><notes>{facki} {tumla} {litru}</notes></valsi>
 
@@ -140,6 +149,8 @@
 
 <valsi word="kacmyxra" type="lujvo"><definition>$p_1$ は $p_2$ （主題）の $p_3$ （作者）による $p_4=k_3$ （現像媒体）の写真</definition><notes>{kacma} {pixra}</notes></valsi>
 
+<valsi word="kamglara'e" type="lujvo"><definition>$r_1$は$r_2=k_1$(熱)を保つ/保温する/保熱する</definition></valsi>
+
 <valsi word="kau" type="cmavo"><selmaho>UI3a</selmaho><definition>談話系：間接疑問</definition><notes>左の語を間接疑問の対象とする</notes></valsi>
 
 <valsi word="kaurselju'o" type="lujvo"><definition>$d_2=k_1$ は $d_1=k_2$ にとって $d_3$（題目）について $d_4$（認識体系）の下で常識</definition><notes>Cf. {selju'o}, {kampu}.</notes></valsi>
@@ -151,7 +162,11 @@
 
 <valsi word="kinli" type="gismu"><rafsi>kil</rafsi><definition>$x_1$は$x_2$の箇所で鋭利である</definition><notes>参照: {balre}, {dakfu}, {jesni}.</notes></valsi>
 
-<valsi word="klama" type="gismu"><rafsi>kla</rafsi><definition>$x_1$ は行く／来る、 $x_2$ （終点）に向かって、 $x_3$ （起点）から、 $x_4$ （経路）を通って、 $x_5$ (移動手段／乗り物）を使って</definition><notes>～へ～から「旅行する」、「移動する」という意味もある。 x1 は「旅行者」。 x4 は集合としては少なくとも経路を限定できるような地点を含む。関連語： {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo の {ka'a}, {pluta}, {bevri}, {farlu}, {limna}, {vitke}.</notes></valsi>
+<valsi word="klacpe" type="lujvo"><definition>$c1$は呼ぶ/招集する/呼び出す $c_3=k_1$(人/組織/プログラム)を $k2$(場所)へ $c4$(方法/形態)で</definition><notes>比較せよ:{cpedu}</notes></valsi>
+
+<valsi word="klama" type="gismu"><rafsi>kla</rafsi><definition>$x_1$ は行く／来る、 $x_2$ （終点）に向かって、 $x_3$ （起点）から、 $x_4$ （経路）を通って、 $x_5$ (移動手段／乗り物）を使って</definition><notes>～へ～から「旅行する」、「移動する」という意味もある。 x1 は「旅行者」。 x4 は集合としては少なくとも経路を限定できるような地点を含む。関連語： {cadzu}, {bajra}, {marce}, {vofli}, {litru}, {muvdu}, {cpare}, cmavo の ka'a, {pluta}, {bevri}, {farlu}, {limna}, {vitke}.</notes></valsi>
+
+<valsi unofficial="true" word="ko'oi" type="experimental cmavo"><selmaho>UI6</selmaho><definition>談話系：命令</definition><notes>``{ko}'' は ''{do} {ko'oi}'' の短縮形。{au}, {a'o}, {e'o}, {e'u}, {e'a}, {ei} の上位語。{minde}, {cpedu}, {curmi}, {pacna}, {stidi}, {djica}, {bilga}</notes></valsi>
 
 <valsi word="ku'i" type="cmavo"><selmaho>UI3b</selmaho><definition>談話系：しかしながら</definition><notes>しかし／だが／ところが／それでも
 {frica}, {karbi}, {dukti}, {na'e} {panra}</notes></valsi>
@@ -212,6 +227,8 @@
 <valsi word="na'i" type="cmavo"><selmaho>UI3a</selmaho><definition>談話系：メタ言語否定</definition><notes>命題を否定せずに心態面における否定を表す； 肯定文でも使える
 {na'e} {drani}; {na'e} {mapti}</notes></valsi>
 
+<valsi word="nalgundei" type="lujvo"><definition>$x_1=d_1$は$x_2=d_2$(日)の$x_4=g_2$(仕事)をする$x_3=g_1$(労働者)の休業日/非番</definition><notes>d_3は不要であると考えて消去しました(和訳)</notes></valsi>
+
 <valsi word="nanbi'e" type="lujvo"><definition>$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の南風</definition><notes>{snanu} {brife}</notes></valsi>
 
 <valsi word="nauspe" type="lujvo"><definition>$s_1=n_1$ は $s_2$ にとっての $s_3$ （法律／慣習）での男性配偶者</definition><notes>{nanmu} {speni}</notes></valsi>
@@ -254,6 +271,13 @@
 
 <valsi word="purmo" type="gismu"><rafsi>pum</rafsi><rafsi>pu'o</rafsi><definition>$x_1$は材料$x_2$でできた粉である</definition><notes>参照: {pulce}, {zalvi}.</notes></valsi>
 
+<valsi word="ratyjbama" type="lujvo"><definition>$r_1=j_1$は$r_2=j_2$(原子番号)$r_3$(原子量)による核爆弾/原子爆弾</definition><notes>原子による爆弾というだけで、爆発原理が核分裂か核融合かの区別はしない
+</notes></valsi>
+
+<valsi word="remcatra" type="lujvo"><definition>$c_1=r_1$ （殺すヒト）は $c_2=r_1$ （殺されるヒト）を $c_3$ （動作／方法）で殺す； $c_1=r_1$ は人殺し</definition><notes>殺す者と殺される者は、両方ともヒト。 {remna} {catra}; {remselcatra}</notes></valsi>
+
+<valsi word="remselcatra" type="lujvo"><definition>$s_1=r_1$（殺されるヒト）は$s_2=r_1$（殺すヒト）に$s_3$（動作／方法）で殺される；$s_1=r_1$は殺人被害者</definition><notes>殺される者と殺す者は、両方ともヒト。 {remna} {se} {catra}; {remcatra}</notes></valsi>
+
 <valsi word="resycei" type="lujvo"><definition>$c_1$ は $c_2$ （者／宗教）の、 $c_3$ （領域）をつかさどる竜の神／龍神／ドラゴンの神</definition><notes>{respa} {cevni} {resycrida}</notes></valsi>
 
 <valsi word="resycrida" type="lujvo"><definition>$c_1$ は $c_2$ （物語）の竜／龍／ドラゴン</definition><notes>{respa} {crida} {resycei}</notes></valsi>
@@ -265,6 +289,12 @@
 <valsi word="rolstire'e" type="lujvo"><definition>$s_1=t_1$ は $t_2$ （荷／客）・ $t_3$ （線路網／軌道）・ $t_4$ （原動力）の 各駅停車の 列車／鉄道／電車／汽車／地下鉄</definition><notes>Cf. {ro}, {sisti}, {trene}.</notes></valsi>
 
 <valsi word="rufsfe" type="lujvo"><definition>$r_1=s_1$ は $s_2$（もの）・ $s_3$（側）・ $s_4$（境）のザラザラ面</definition><notes>Cf. {rufsu}, {sefta}</notes></valsi>
+
+<valsi word="rupnujupuje" type="fu'ivla"><definition>$x_1$は$x_2$(金額)コード ISO 4217 JPY の通貨</definition></valsi>
+
+<valsi word="selmifybi'o" type="lujvo"><definition>$m_2=b_1$(平文)は$m_1=b_2$(暗号文)へ$m_3=b_3$(暗号アルゴリズム/暗号方式)によって暗号化する</definition><notes>復号は{tolselmifybi'o}
+"暗号化すること"ならば{nunselmifybi'o}
+"復号化すること"ならば{nuntolselmifybi'o}</notes></valsi>
 
 <valsi word="selsrodi'i" type="lujvo"><definition>$s1$ は $s_2=j_1$ （お金）を $s3$ （容器/空間）に貯金する/貯蓄する</definition></valsi>
 
@@ -287,6 +317,12 @@
 <valsi word="tcapau" type="lujvo"><definition>$p_1$ は $p_2=t_1$ （市）の町村区</definition><notes>{tcadu} {pagbu}</notes></valsi>
 
 <valsi word="temci" type="gismu"><rafsi>tem</rafsi><rafsi>tei</rafsi><definition>$x_1$は時刻/出来事$x_2$から始まり時刻/出来事$x_3$で終わる時間/間隔/期間である</definition><notes>参照: {cacra}, {cedra}, {citsi}, {ranji}, {tcika}, {junla}, {renvi}.</notes></valsi>
+
+<valsi word="termifckiku" type="lujvo"><definition>$m_1=c_1$は$m_3$(暗号方式/暗号体系)の暗号学的な鍵</definition><notes>m_3にはRSAやElGamalやRijndaelなどのアルゴリズム名
+公開鍵暗号方式であっても、秘密鍵か公開鍵かの区別はないペア鍵
+また、暗号化のための鍵か、復号のための鍵かも区別しない</notes></valsi>
+
+<valsi word="tolmifybi'o" type="lujvo"><definition>$m_1=b_1$(暗号文)は$m_2=b_2$(平文)へ$m_3=b_3$(暗号アルゴリズム/暗号方式)によって復号する</definition><notes>暗号化の真逆であるが、「復号化」でなく、「復号」が本来暗号学上の用語としては正しい</notes></valsi>
 
 <valsi word="trusi'o" type="lujvo"><definition>$s_1$ は $t_1$ （統治者）・ $t_2$ （民衆／領土）の統治の $s_3$ （思想家）による政治思想／政治理念／イデオロギー</definition><notes>{turni} {sidbo}</notes></valsi>
 
@@ -334,6 +370,9 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 
 <valsi word="xadri'u" type="lujvo"><definition>$r_1=xa_2$ は $r_2$ （障害）のために $r_3$ が制限される身体障害者</definition><notes>{xadni} {rinju} {ka'enri'u}</notes></valsi>
 
+<valsi word="xamgu" type="gismu"><rafsi>xag</rafsi><rafsi>xau</rafsi><definition>$x_1$ (物/出来事) が $x_2$ にとって $x_3$ という基準で良い/役に立つ/すてきである/[まあまあである]。</definition><notes>「まあまあである」は {mlixau}, {norxau}, {xaurselcru}。
+{melbi}, {xlali}, {vrude}, {zabna}も見よ。</notes></valsi>
+
 <valsi word="xanjaisi'u" type="lujvo"><definition>$s_1$ は互いに手をつなぐ／握手する</definition><notes>{xance} {jgari} {simxu}</notes></valsi>
 
 <valsi word="xedja" type="gismu"><rafsi>xej</rafsi><rafsi>xe'a</rafsi><definition>$x_1$は$x_2$の顎である</definition><notes>参照: {stedu}.</notes></valsi>
@@ -350,6 +389,8 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 （ x2 （公式の定義の x3 ） は場所や人や事や状況。） ; {xrugau} {krefu} {rapli} {rinka}</notes></valsi>
 
 <valsi word="zifre" type="gismu"><rafsi>zif</rafsi><rafsi>zi'e</rafsi><definition>$x_1$ は自由である、 $x_2$ （事／状態）になることにおいて、 $x_3$ という条件で</definition><notes>制限されていない、拘束されない、束縛のない、（ x1 は）自主性がある、（ x2 は）自由意志による、自発的にされる、自由にできる、随意にできる、任意にできる（「 x1 は自発的に x2 をする」という意味にもなる）  関連語：{pinfu}, {rinju}, {bilga}, {curmi},{kakne}, {frili}.</notes></valsi>
+
+<valsi word="zilselfat" type="cmene"><definition>$f_1$は一方向/非可逆/不可逆</definition><notes>f_2はzi'oで消去</notes></valsi>
 
 <valsi word="zinki" type="gismu"><rafsi>zin</rafsi><rafsi>zi'i</rafsi><definition>$x_1$は鉛である/を含んでいる/でできている; [比喩: 硬い金属]</definition><notes>参照: {jinme}.</notes></valsi></direction><direction from="日本語" to="lojban">
 
@@ -521,6 +562,12 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 
 <nlword word="地上" valsi="dergapru"/>
 
+<nlword word="給電する" valsi="dicysabji"/>
+
+<nlword word="充電する" valsi="dicysabji"/>
+
+<nlword word="電力供給する" valsi="dicysabji"/>
+
 <nlword word="日刊紙" valsi="djekarni"/>
 
 <nlword word="新聞" sense="日刊紙" valsi="djekarni"/>
@@ -532,6 +579,12 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 <nlword word="偏狭" sense="心が狭い" valsi="do'anai"/>
 
 <nlword word="吝嗇" sense="けち" valsi="do'anai"/>
+
+<nlword word="爆弾" valsi="drojbama"/>
+
+<nlword word="水素" sense="化学" valsi="drojbama"/>
+
+<nlword word="水素爆弾" sense="爆弾" valsi="drojbama"/>
 
 <nlword word="調査" sense="陸地の探険" valsi="faktumli'u"/>
 
@@ -703,6 +756,12 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 
 <nlword word="写真" valsi="kacmyxra"/>
 
+<nlword word="保熱する" sense="熱" valsi="kamglara'e"/>
+
+<nlword word="保温する" sense="熱" valsi="kamglara'e"/>
+
+<nlword word="保つ" sense="熱" valsi="kamglara'e"/>
+
 <nlword word="間接疑問" valsi="kau"/>
 
 <nlword word="常識" valsi="kaurselju'o"/>
@@ -730,6 +789,8 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 <nlword word="移動者／旅行者" valsi="klama" place="1"/>
 
 <nlword word="行く" valsi="klama"/>
+
+<nlword word="命令" valsi="ko'oi"/>
 
 <nlword word="だが" valsi="ku'i"/>
 
@@ -847,6 +908,12 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 
 <nlword word="とんでもない" sense="正しくない" valsi="na'i"/>
 
+<nlword word="非労働日" valsi="nalgundei"/>
+
+<nlword word="運休日" valsi="nalgundei"/>
+
+<nlword word="休業日" valsi="nalgundei"/>
+
 <nlword word="南風" valsi="nanbi'e"/>
 
 <nlword word="亭主" sense="男性配偶者" valsi="nauspe"/>
@@ -929,6 +996,36 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 
 <nlword word="大衆" valsi="prevrici"/>
 
+<nlword word="爆発" sense="化学" valsi="ratyjbama"/>
+
+<nlword word="核" sense="化学" valsi="ratyjbama"/>
+
+<nlword word="原子爆弾" sense="爆弾" valsi="ratyjbama"/>
+
+<nlword word="原子" sense="化学" valsi="ratyjbama"/>
+
+<nlword word="人殺し" sense="加害者" valsi="remcatra" place="1"/>
+
+<nlword word="手口" sense="殺人" valsi="remcatra" place="3"/>
+
+<nlword word="加害者" sense="殺人" valsi="remcatra"/>
+
+<nlword word="害者" sense="殺人被害者" valsi="remcatra" place="2"/>
+
+<nlword word="殺害する" valsi="remselcatra" place="2"/>
+
+<nlword word="殺人する" valsi="remselcatra" place="3"/>
+
+<nlword word="殺害" valsi="remselcatra" place="2"/>
+
+<nlword word="殺人" valsi="remselcatra" place="3"/>
+
+<nlword word="殺す" sense="人" valsi="remselcatra" place="1"/>
+
+<nlword word="害者" sense="殺人" valsi="remselcatra" place="1"/>
+
+<nlword word="被害者" sense="殺人" valsi="remselcatra"/>
+
 <nlword word="竜" sense="神" valsi="resycei"/>
 
 <nlword word="龍神" valsi="resycei"/>
@@ -954,6 +1051,10 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 <nlword word="各駅停車" sense="列車" valsi="rolstire'e"/>
 
 <nlword word="ザラザラ" valsi="rufsfe"/>
+
+<nlword word="日本円" sense="日本" valsi="rupnujupuje"/>
+
+<nlword word="暗号化する" sense="暗号" valsi="selmifybi'o"/>
 
 <nlword word="貯蓄する" valsi="selsrodi'i"/>
 
@@ -1010,6 +1111,16 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 <nlword word="村" sense="町村区" valsi="tcapau"/>
 
 <nlword word="町" sense="町村区" valsi="tcapau"/>
+
+<nlword word="鍵" sense="暗号" valsi="termifckiku"/>
+
+<nlword word="暗号鍵" sense="暗号" valsi="termifckiku"/>
+
+<nlword word="暗号文" sense="暗号" valsi="tolmifybi'o"/>
+
+<nlword word="平文" sense="暗号" valsi="tolmifybi'o"/>
+
+<nlword word="復号する" sense="暗号" valsi="tolmifybi'o"/>
 
 <nlword word="政治理念" valsi="trusi'o"/>
 
@@ -1111,6 +1222,16 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 
 <nlword word="身体障がいのある人" valsi="xadri'u"/>
 
+<nlword word="役に立つ" valsi="xamgu"/>
+
+<nlword word="すてきだ" valsi="xamgu"/>
+
+<nlword word="良い" valsi="xamgu"/>
+
+<nlword word="よい" valsi="xamgu"/>
+
+<nlword word="利益" valsi="xamgu" place="1"/>
+
 <nlword word="手を握る" sense="手を握り合う" valsi="xanjaisi'u"/>
 
 <nlword word="手を握り合う" valsi="xanjaisi'u"/>
@@ -1173,4 +1294,10 @@ x2 は特定の「品物」、あるいは群（集まり）としての「品�
 
 <nlword word="じゆう" sense="自由" valsi="zifre"/>
 
-<nlword word="自由" valsi="zifre"/></direction></dictionary>
+<nlword word="自由" valsi="zifre"/>
+
+<nlword word="不可逆" valsi="zilselfat"/>
+
+<nlword word="非可逆" valsi="zilselfat"/>
+
+<nlword word="一方向" valsi="zilselfat"/></direction></dictionary>

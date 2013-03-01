@@ -154,6 +154,8 @@
 
 <valsi word="kevna" type="gismu"><rafsi>kev</rafsi><rafsi>ke'a</rafsi><definition>$x_1$ ist eine Höhle/Loch/Einbuchtung in $x_2$; $x_1$ ist konkav innerhalb von $x_2$; $x_2$ ist Hohl an $x_1$.</definition><notes>Auch Grube; Hohl (= {selke'a}). Siehe auch {fenra}, {kunti}, {canlu}, {canko}, {galxe}, {tubnu}.</notes></valsi>
 
+<valsi word="klagi'a" type="lujvo"><definition>$x_1$ führt $x_2$ zu/nach $x_3$ von $x_4$  aus, via Route $x_5$</definition><notes>{klama} {gidva}</notes></valsi>
+
 <valsi word="klama" type="gismu"><rafsi>kla</rafsi><definition>$x_1$ geht/kommt/reist/bewegt sich nach $x_2$ von $x_3$ über/entlang $x_4$ mittels $x_5$</definition><notes>Wie durch $x_5$ impliziert ist "gehen" nicht auf eine Bewegung zu Fuß beschränkt. Vgl. {cadzu}.</notes></valsi>
 
 <valsi word="korbi" type="gismu"><rafsi>kor</rafsi><rafsi>koi</rafsi><definition>$x_{1}$ ist eine Kante/ein Rand/eine Grenze von $x_{2}$ neben/angrenzend an $x_{3}$.</definition><notes>Siehe auch Cmavo-Liste {koi}, {greku}, {mlana}, {jimte}, {ctebi}, {bartu}.</notes></valsi>
@@ -169,6 +171,8 @@
 <valsi word="manku" type="gismu"><rafsi>man</rafsi><definition>$x_{1}$ ist dunkel/ohne Beleuchtung</definition><notes>(vgl. blabi, gusni, ctino; benutze kandi oder xekri mit Farben, ctino)</notes></valsi>
 
 <valsi word="marsipane" type="fu'ivla"><definition>$x_1$ ist/enthält Marzipan der Sorte/Marke $x_2$</definition><notes>S. a. {titspi}, {smela}.</notes></valsi>
+
+<valsi word="melbi" type="gismu"><rafsi>mel</rafsi><rafsi>mle</rafsi><definition>$x_1$ ist schön/angenehm für $x_2$ in Aspekt $x_3$ und ästhetischem Standard $x_4$</definition><notes>auch hübsch, süß, heiß, anmutig.; siehe auch {pluka}, {xamgu}.</notes></valsi>
 
 <valsi word="mensi" type="gismu"><rafsi>mes</rafsi><rafsi>me'i</rafsi><definition>$x_1$ ist eine Schwester von $x_2$ bezuglich/durch Verbindung $x_3$; [nicht unbedingt biologisch].</definition><notes>Siehe auch {bruna}, {tunba}, {tamne}, {famti}.</notes></valsi>
 
@@ -186,6 +190,8 @@
 
 <valsi word="mutce" type="gismu"><rafsi>tce</rafsi><definition>$x_1$ ist in $x_2$ sehr $x_3$; die Eigenschaft $x_2$ von $x_1$ tendiert stark in Richtung $x_3$.</definition><notes>Auch: viel, sehr, extrem (Adverb), ziemlich, ungewöhnlich (Adverb), stark.</notes></valsi>
 
+<valsi word="nadmau" type="lujvo"><definition>$x_1$ ist schwieriger als $x_2$ für $x_3$ mit Ausmaß $x_4$</definition></valsi>
+
 <valsi word="nanmu" type="gismu"><rafsi>nau</rafsi><definition>$x_{1}$ ist ein Mann/sind Männer; $x_{1}$ ist eine männliche menschenähnliche Person [nicht unbedingt erwachsen].</definition><notes>Wort in Metapher/Beispiel als sexistisch nicht bevorzugt; (benutze remna oder prenu).  Siehe auch {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.</notes></valsi>
 
 <valsi word="nelci" type="gismu"><rafsi>nel</rafsi><rafsi>nei</rafsi><definition>$x_1$ mag/genießt $x_2$</definition></valsi>
@@ -199,6 +205,8 @@
 <valsi word="no" type="cmavo"><rafsi>non</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 0 [Null].</definition></valsi>
 
 <valsi word="pa" type="cmavo"><rafsi>pav</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 1 [Eins]</definition></valsi>
+
+<valsi word="pamsi'u" type="lujvo"><definition>$x_1$ lieben sich (gegenseitig)/lieben einander/sind eineinander verliebt</definition></valsi>
 
 <valsi word="pelxu" type="gismu"><rafsi>pel</rafsi><definition>$x_1$ ist gelb/golden [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {narju}, {solji}.</notes></valsi>
 
@@ -222,6 +230,8 @@
 
 <valsi word="ricfoi" type="lujvo"><definition>$f_1$ ist ein Wald, vorherrschend aus Bäumen der Art/Sorte $t_2$.</definition></valsi>
 
+<valsi word="rolju'o" type="lujvo"><definition>$x_1$ weiß alles/ist allwissend über $x_2$ basierend auf Epistemologie  $x_3$</definition></valsi>
+
 <valsi word="ropno" type="gismu"><rafsi>ron</rafsi><rafsi>ro'o</rafsi><definition>$x_{1}$ spiegelt die europäische Kultur/Nationalität/Geographie/die indogermanische Sprache in Aspekt $x_{2}$ wieder.</definition><notes>Siehe auch {brito}.</notes></valsi>
 
 <valsi word="sampla" type="lujvo"><definition>$p_1$ erstellt Computerprogramm $p_2$ für den Prozess/Verwendungszweck $p_3$.</definition></valsi>
@@ -239,6 +249,8 @@
 <valsi word="snada" type="gismu"><rafsi>sad</rafsi><definition>$x_1$ (Handelnder) erreicht/ist erfolgreich bei/schafft $x_2$ durch Versuch/Aktion $x_3$.</definition><notes>Auch: $x_1$ ist erfolgreich. Siehe auch {fliba}, {troci}, {jgira}.</notes></valsi>
 
 <valsi word="so" type="cmavo"><rafsi>soz</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 9 [Neun].</definition></valsi>
+
+<valsi word="sorju'o" type="lujvo"><definition>$x_1$ kennt sich aus mit/weiß viel über $x_2$ basierend auf Epistemologie  $x_3$</definition></valsi>
 
 <valsi word="stati" type="gismu"><definition>$x_{1}$ hat ein Talent/eine Begabung/eine angeborene Fähigkeit für das Tun/Sein $x_{2}$.</definition><notes>Siehe auch {jinzi}, {certu}, {rarna}, {larcu}, {kakne}.</notes></valsi>
 
@@ -281,6 +293,8 @@
 <valsi word="xunre" type="gismu"><rafsi>xun</rafsi><rafsi>xu'e</rafsi><definition>$x_1$ ist rot [Farbadjektiv].</definition><notes>Siehe auch {skari}, {blabi}, {xekri}, {kandi}, {carmi}, {nukni}, {narju}, {rozgu}, {zirpu}.</notes></valsi>
 
 <valsi word="zdani" type="gismu"><rafsi>zda</rafsi><definition>$x_1$ ist ein Nest/ein Haus/ein Bau/[ein Zuhause] von/für $x_2$</definition><notes>Haus (Gebäude) (={zdadi'u}). Siehe auch {dinju}, {ginka}, {kumfa}, {xabju}</notes></valsi>
+
+<valsi word="zdazva" type="lujvo"><definition>$x_1$ ist zu Hause bei $x_2$ [Standard: bei sich selbst]</definition></valsi>
 
 <valsi word="ze" type="cmavo"><rafsi>zel</rafsi><selmaho>PA1</selmaho><definition>Zahl/Ziffer: 7 [Sieben].</definition></valsi>
 
@@ -510,6 +524,8 @@
 
 <nlword word="Höhle" valsi="kevna"/>
 
+<nlword word="hinführen" sense="bringen" valsi="klagi'a"/>
+
 <nlword word="Vehikel" sense="Transportmittel" valsi="klama" place="5"/>
 
 <nlword word="bewegen" valsi="klama"/>
@@ -534,6 +550,8 @@
 
 <nlword word="Begrenzung" valsi="korbi"/>
 
+<nlword word="" valsi="kumfa"/>
+
 <nlword word="Raum" sense="Zimmer" valsi="kumfa"/>
 
 <nlword word="Zimmer" valsi="kumfa"/>
@@ -549,6 +567,8 @@
 <nlword word="Marzipansorte" valsi="marsipane" place="2"/>
 
 <nlword word="Marzipan" valsi="marsipane" place="1"/>
+
+<nlword word="schön" valsi="melbi"/>
 
 <nlword word="Schwester" valsi="mensi"/>
 
@@ -572,6 +592,10 @@
 
 <nlword word="sehr" sense="Adverb: beschriebene Eigenschaft ist in großer Menge vorhanden" valsi="mutce"/>
 
+<nlword word="schwerer" sense="schwieriger" valsi="nadmau"/>
+
+<nlword word="schwieriger" valsi="nadmau"/>
+
 <nlword word="Mann" valsi="nanmu"/>
 
 <nlword word="mögen" valsi="nelci"/>
@@ -591,6 +615,8 @@
 <nlword word="1" valsi="pa"/>
 
 <nlword word="Eins" valsi="pa"/>
+
+<nlword word="einander lieben" valsi="pamsi'u"/>
 
 <nlword word="gelb" valsi="pelxu"/>
 
@@ -628,6 +654,8 @@
 
 <nlword word="Forst" valsi="ricfoi"/>
 
+<nlword word="allwissend" valsi="rolju'o"/>
+
 <nlword word="europäisch" valsi="ropno"/>
 
 <nlword word="Programmierer" valsi="sampla" place="1"/>
@@ -661,6 +689,8 @@
 <nlword word="Neun" valsi="so"/>
 
 <nlword word="9" valsi="so"/>
+
+<nlword word="sich auskennen" valsi="sorju'o"/>
 
 <nlword word="Talent" valsi="stati"/>
 
@@ -726,11 +756,11 @@
 
 <nlword word="Heimat" valsi="zdani"/>
 
-<nlword word="zu Hause" valsi="zdani"/>
-
 <nlword word="Nest" valsi="zdani"/>
 
 <nlword word="Bewohner" valsi="zdani" place="2"/>
+
+<nlword word="zu Hause" valsi="zdazva"/>
 
 <nlword word="Sieben" valsi="ze"/>
 

@@ -10,3 +10,11 @@ runhaskell mkRafsiList.hs lojban
 mkdir src/main/assets/completion/
 runhaskell mkWords.hs en
 runhaskell mkWords.hs fr
+
+languages now
+de
+en
+fr
+ja
+lojban
+sv
