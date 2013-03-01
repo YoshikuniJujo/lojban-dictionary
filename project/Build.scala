@@ -9,7 +9,7 @@ object General {
     version := "0.18.6",
     versionCode := 62,
     scalaVersion := "2.9.1",
-    platformName in Android := "android-15"
+    platformName in Android := "android-17"
   )
 
   val proguardSettings = Seq (
@@ -30,7 +30,7 @@ object General {
 
 object AndroidBuild extends Build {
   lazy val main = Project (
-    "Lojban Dictionary",
+    "LojbanDictionary",
     file("."),
     settings = General.fullAndroidSettings
   )
