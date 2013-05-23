@@ -238,6 +238,8 @@
 
 <valsi word="senva" type="gismu"><rafsi>sev</rafsi><rafsi>sne</rafsi><definition>$x_1$ träumt über/dass $x_2$ (Tatsache/Idee/Ereignis/Zustand); $x_2$ ist ein Traum/eine Träumerei von $x_1$.</definition><notes>Traum/Träumerei (= {selsne}). Siehe auch {sipna}, {xanri}.</notes></valsi>
 
+<valsi word="sezybitygau" type="lujvo"><definition>$x_1$ vergissert sich, dass $x_2$ (du'u) über $x_3$ wahr ist.</definition></valsi>
+
 <valsi word="sidbo" type="gismu"><rafsi>sib</rafsi><rafsi>si'o</rafsi><definition>$x_1$ (Idee abstrakt) ist eine Idee/Konzept/Gedanke über $x_2$ (Objekt/abstrakt) von Denker $x_3$.</definition><notes>Auch: $x_1$ ist Ideell (adjektiv). Siehe auch {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi}, {xanri}, {si'o}.</notes></valsi>
 
 <valsi word="sipna" type="gismu"><rafsi>sip</rafsi><definition>$x_1$ schläft.</definition><notes>Siehe auch {senva}, {tatpi}, {cikna}, {sanji}.</notes></valsi>
@@ -669,6 +671,12 @@
 <nlword word="träumen" valsi="senva"/>
 
 <nlword word="Traum" valsi="senva" place="2"/>
+
+<nlword word="sicherstellen" sense="vergewissern" valsi="sezybitygau"/>
+
+<nlword word="vergewissern" valsi="sezybitygau"/>
+
+<nlword word="sich vergewissern" valsi="sezybitygau"/>
 
 <nlword word="Gedanke" valsi="sidbo"/>
 

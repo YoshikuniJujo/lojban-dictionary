@@ -80,7 +80,7 @@
 
 <valsi word="ba'i" type="cmavo"><selmaho>BAI</selmaho><definition>basti modal, 1st place ersatt av</definition></valsi>
 
-<valsi word="ba'o" type="cmavo"><selmaho>ZAhO</selmaho><definition>intervall händelsekontur: i efterverkningarna av...; sedan ...; perfektiv</definition></valsi>
+<valsi word="ba'o" type="cmavo"><selmaho>ZAhO</selmaho><definition>intervall händelsekontur: i efterverkningarna av...; sedan ...; perfekt</definition></valsi>
 
 <valsi word="ba'u" type="cmavo"><selmaho>UI3</selmaho><definition>diskursiv: överdrift - riktighet - understatement.</definition></valsi>
 
@@ -1612,7 +1612,11 @@ Påskfastan eller bara fastan är perioden för de kristnas fastetid till minne 
 
 <valsi word="mam" type="cmene"><definition>Mamma</definition></valsi>
 
-<valsi word="matryxilma'e" type="lujvo"><definition>$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.</definition><notes>Den exakta definitionen kan variera beroende på respektive lands lagstiftning, men i en svensk kontext så kan x1 vara traktor, motorredskap, terrängmotorfordon eller motorfordon (={matrydagma'e}).</notes></valsi>
+<valsi word="matrycarce" type="lujvo"><definition>$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.</definition></valsi>
+
+<valsi word="matryma'etci" type="lujvo"><definition>$mar_1=t_1$ är ett motorredskap som används till  $t_2$, och som transporterar $m_2$ på underlag $m_3$, och som drivs med $m_4$.</definition></valsi>
+
+<valsi word="matrytu'ama'e" type="lujvo"><definition>$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.</definition></valsi>
 
 <valsi word="megdo" type="gismu"><rafsi>meg</rafsi><definition>$x_{1}$ är en miljon [$10^{6}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).</definition></valsi>
 
@@ -1729,6 +1733,8 @@ Påskfastan eller bara fastan är perioden för de kristnas fastetid till minne 
 <valsi word="romas" type="cmene"><definition>Rom</definition></valsi>
 
 <valsi word="saupaulos" type="cmene"><definition>$x_1$ är São Paulo.</definition></valsi>
+
+<valsi word="selkeima'e" type="lujvo"><definition>$m_1$ är ett lekfordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.</definition><notes>Se även fordonsleksak (={ma'erselkei}).</notes></valsi>
 
 <valsi word="sferies" type="cmene"><definition>Sverige</definition></valsi>
 
@@ -1932,6 +1938,8 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 <nlword word="ersatt av" sense="basti modal" valsi="ba'i"/>
 
 <nlword word="perfektiv" sense="tempus" valsi="ba'o"/>
+
+<nlword word="perfekt" sense="tempus" valsi="ba'o"/>
 
 <nlword word="överdrift" valsi="ba'u"/>
 
@@ -6199,7 +6207,9 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="Mamma" sense="vid tilltal" valsi="mam"/>
 
-<nlword word="motordrivet fordon" valsi="matryxilma'e"/>
+<nlword word="motordrivet fordon" valsi="matrycarce"/>
+
+<nlword word="motorredskap" valsi="matryma'etci"/>
 
 <nlword word="mega-" sense="SI-prefix" valsi="megdo"/>
 
@@ -6234,8 +6244,6 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 <nlword word="Jupiter" sense="planet" valsi="mumplin"/>
 
 <nlword word="maj" sense="månad" valsi="mumymast"/>
-
-<nlword word="googol" valsi="namcrgogolo"/>
 
 <nlword word="googolplex" valsi="namcrgogolplexu"/>
 
@@ -6378,6 +6386,8 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 <nlword word="Rom" sense="stad" valsi="romas"/>
 
 <nlword word="São Paulo" sense="stad/delstat" valsi="saupaulos"/>
+
+<nlword word="lekfordon" valsi="selkeima'e"/>
 
 <nlword word="Sverige" valsi="sferies"/>
 
