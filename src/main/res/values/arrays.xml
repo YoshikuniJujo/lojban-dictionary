@@ -8,6 +8,7 @@
 <item>Svenska</item>
 <item>lojban</item>
 <item>日本語</item>
+<item>Русский</item>
 </string-array>
 
 <string-array name="entryvalues">
@@ -17,6 +18,7 @@
 <item>sv</item>
 <item>lojban</item>
 <item>ja</item>
+<item>ru</item>
 </string-array>
 
 <string-array name="orientation">
