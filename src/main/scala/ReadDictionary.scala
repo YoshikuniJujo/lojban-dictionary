@@ -29,15 +29,18 @@ class ReadDictionary(asset: AssetManager, sp: SharedPreferences) {
 
 	def allwords: Array[String] = {
 		var wordlist: List[String] = List()
-		
-		val file = new BufferedReader(new InputStreamReader(
-			asset.open("completion/en.txt"), "UTF-8"))
-		var word: String = null
-		while ({word = file.readLine; word != null}) {
-			wordlist = word :: wordlist
-		}
+
 		val lang = if (sp.contains("lang"))
 			sp.getString("lang", "en") else "en"
+		
+		if (lang != "ru") {
+			val file = new BufferedReader(new InputStreamReader(
+				asset.open("completion/en.txt"), "UTF-8"))
+			var word: String = null
+			while ({word = file.readLine; word != null}) {
+				wordlist = word :: wordlist
+			}
+		}
 		if (lang != "en") {
 			val file = new BufferedReader(new InputStreamReader(
 				asset.open("completion/" + lang + ".txt"), "UTF-8"))
