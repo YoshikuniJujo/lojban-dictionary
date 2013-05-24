@@ -152,6 +152,13 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val adapter = new ArrayAdapter[String](
 		this, android.R.layout.simple_dropdown_item_1line, allwords)
 
+	def resetCompletion() {
+		val allwords = dic.allwords
+		val adapter = new ArrayAdapter[String](
+			this, android.R.layout.simple_dropdown_item_1line, allwords)
+		input.setAdapter(adapter)
+	}
+
 	override def onCreate(bundle: Bundle) {
 		Log.d("LojbanDictionary", "onCreate")
 		super.onCreate(bundle)
@@ -209,6 +216,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 		if (sp.contains("lang")) {
 			lojen.setText("jbo -> " + sp.getString("lang", ""))
 			enloj.setText(sp.getString("lang", "") + " -> jbo")
+			resetCompletion
 		}
 		if (sp.contains("orientation")) {
 			sp.getString("orientation", "auto") match {
