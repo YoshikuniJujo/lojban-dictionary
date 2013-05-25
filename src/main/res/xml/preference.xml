@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <PreferenceScreen
 	xmlns:android="http://schemas.android.com/apk/res/android">
-<PreferenceCategory android:title="Settings">
+<PreferenceCategory android:title="lo se cuxna">
 <ListPreference
 	android:key="lang"
-	android:title="Languages"
-	android:summary="Select language"
-	android:dialogTitle="Select language"
+	android:title="lo bangu"
+	android:summary=""
+	android:dialogTitle="lo bangu"
 	android:entries="@array/languages"
 	android:entryValues="@array/entryvalues"
 	/>
 <ListPreference
 	android:key="orientation"
-	android:title="Orientation"
-	android:summary="Set orientation"
-	android:dialogTitle="Set orientation"
+	android:title="lo carna farna"
+	android:summary=""
+	android:dialogTitle="lo carna farna"
 	android:entries="@array/orientation"
 	android:entryValues="@array/orientationvalues"
 	/>
 <CheckBoxPreference
 	android:key="backbutton"
-	android:title="back button"
-	android:summary="use back button to back to previous search"
+	android:title="lo xruti batke"
+	android:summary="pilno lo xruti batke tu'a lo lidne se sisku"
 	/>
 </PreferenceCategory>
 </PreferenceScreen>

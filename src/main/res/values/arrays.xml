@@ -5,26 +5,26 @@
 <item>Deutsch</item>
 <item>English</item>
 <item>Français</item>
-<item>Svenska</item>
-<item>lojban</item>
 <item>日本語</item>
+<item>lojban</item>
 <item>Русский</item>
+<item>Svenska</item>
 </string-array>
 
 <string-array name="entryvalues">
 <item>de</item>
 <item>en</item>
 <item>fr</item>
-<item>sv</item>
-<item>lojban</item>
 <item>ja</item>
+<item>lojban</item>
 <item>ru</item>
+<item>sv</item>
 </string-array>
 
 <string-array name="orientation">
-<item>auto</item>
-<item>portrait</item>
-<item>landscape</item>
+<item>zmiku</item>
+<item>sraji</item>
+<item>pinta</item>
 </string-array>
 
 <string-array name="orientationvalues">

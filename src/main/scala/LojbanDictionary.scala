@@ -231,7 +231,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 	}
 
 	override def onCreateOptionsMenu(menu: Menu): Boolean = {
-		menu.add(Menu.NONE, 0, 0, "settings")
+		menu.add(Menu.NONE, 0, 0, "lo se cuxna")
 		return super.onCreateOptionsMenu(menu)
 	}
 
