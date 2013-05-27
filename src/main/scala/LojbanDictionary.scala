@@ -384,8 +384,12 @@ class LojbanDictionary extends Activity with TypedActivity {
 		if (keyCode == KeyEvent.KEYCODE_BACK) {
 			if (sp.contains("backbutton") &&
 				sp.getBoolean("backbutton", false)) {
-				backGen
-				return true
+				if (history.backable) {
+					backGen
+					return true
+				} else {
+					return super.onKeyDown(keyCode, event)
+				}
 			} else {
 				return super.onKeyDown(keyCode, event)
 			}
