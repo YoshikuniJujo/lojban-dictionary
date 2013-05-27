@@ -39,7 +39,14 @@ class Specs extends FunSpec with ShouldMatchers {
 */
 
 		it("shold be ??") {
-			Tools getBoolStrings("f cmene\n\nf lujvo\n") should be {
+			Tools getBoolStrings("f@cmene\n\nf@lujvo\n") should be {
+				new MyList((false, ""),
+					List((true, "hello")), List((false, "hello")))
+			}
+		}
+
+		it("shold be hoge") {
+			Tools getBoolStrings("f@cmene\n\n") should be {
 				new MyList((false, ""),
 					List((true, "hello")), List((false, "hello")))
 			}

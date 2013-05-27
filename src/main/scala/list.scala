@@ -35,18 +35,25 @@ object Tools {
 	def getBoolStrings(str: String): MyList[(Boolean, String)] = {
 		val list = str split('\n') toList
 		val l1 = list takeWhile (_ != "") map
-			(l => readBoolString(l split (' ') toList))
-		val l2 = (list dropWhile (_ != "") tail) map
-			(l => readBoolString(l split (' ') toList))
+			(l => readBoolString(l split ('@') toList))
+		val l2 = tail(list dropWhile (_ != "")) map
+			(l => readBoolString(l split ('@') toList))
 		val ret = new MyList[(Boolean, String)]((false, ""), l1, l2)
 		return ret
 	}
+
+	def tail(l: List[String]): List[String] =
+		if (l isEmpty) List() else l.tail
 
 	def showBoolStrings(ml: MyList[(Boolean, String)]): String = {
 		val (l1, l2) = ml getMembers
 		val ret = (l1 map (l => showBoolString(l)) mkString("\n")) + "\n\n" +
 			(l2 map (l => showBoolString(l)) mkString("\n"))
-		return ret
+		if ((l1 isEmpty) && (l2 isEmpty)) {
+			return ""
+		} else {
+			return ret
+		}
 	}
 
 	def readBoolString(p: List[String]): (Boolean, String) = p match {
@@ -56,8 +63,8 @@ object Tools {
 	}
 
 	def showBoolString(bs: (Boolean, String)): String = bs match {
-		case (true, str) => "t " + str
-		case (false, str) => "f " + str
+		case (true, str) => "t@" + str
+		case (false, str) => "f@" + str
 	}
 }
 
@@ -80,6 +87,10 @@ class MyList[T](default: T) {
 	}
 
 	def get = if (list1 == Nil) default else list1(0)
+
+	def forwardable = list2 match {
+		case Nil => false
+		case lst => true }
 
 	def forward = list2 match {
 		case h :: t => 

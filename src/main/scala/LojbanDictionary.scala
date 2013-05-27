@@ -153,6 +153,7 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val forward = findView(TR.forward)
 
 	lazy val historyStr = spr.getString("history", "")
+//	lazy val history = new MyList(false, "")
 	lazy val history: MyList[(Boolean, String)] = Tools getBoolStrings(historyStr) // ("f cmene\n\nf lujvo\n") // new MyList(false, "")
 
 	lazy val allwords = dic.allwords
@@ -178,16 +179,41 @@ class LojbanDictionary extends Activity with TypedActivity {
 		spre putInt("DATA1", test + 1);
 		spre commit
 */
+		Log.d("LojbanDictionary", "history = " + history.toString)
 
+		val (b, v) = history.get
 		putDef(("", "coi rodo mi jbovlaste", List()))
-		back.setImageResource(R.drawable.back_no)
-		forward.setImageResource(R.drawable.forward_no)
+		if (v == "") {
+			putDef(("", "coi rodo mi jbovlaste", List()))
+		} else {
+			if (b) {
+				val list = dic enToLoj v
+				mkEnLoj(list)
+			} else {
+				val result = dic lojToEn v
+				putDef(result)
+			}
+		}
+
+		if (history.backable) {
+			back.setImageResource(R.drawable.back)
+		} else {
+			back.setImageResource(R.drawable.back_no)
+		}
+		if (history.forwardable) {
+			forward.setImageResource(R.drawable.forward)
+		} else {
+			forward.setImageResource(R.drawable.forward_no)
+		}
+//		back.setImageResource(R.drawable.back_no)
+//		forward.setImageResource(R.drawable.forward_no)
 
 		val suggestions = new SearchRecentSuggestions(this,
 				"lojban dictionary", 1);
 
 		lojen setOnClickListener new OnClickListener() {
 			def onClick(v: View) {
+				Log.d("LojbanDictionary", "clicked lojen button")
 				val result = dic lojToEn
 					input.getText.toString.trim.toLowerCase
 				if (result._1 != "") {
@@ -196,7 +222,11 @@ class LojbanDictionary extends Activity with TypedActivity {
 						back.setImageResource(R.drawable.back)
 					suggestions.saveRecentQuery(result._1, null);
 				}
-				putDef(result)}}
+				Log.d("LojbanDictionary", "putDef(result) will do")
+				putDef(result)
+				Log.d("LojbanDictionary", "putDef(result) done")
+			}
+		}
 
 		enloj setOnClickListener new OnClickListener() {
 			def onClick(v: View) = {
@@ -250,18 +280,22 @@ class LojbanDictionary extends Activity with TypedActivity {
 	}
 
 	override def onCreateOptionsMenu(menu: Menu): Boolean = {
-		menu.add(Menu.NONE, 0, 0, "lo se cuxna")
-		menu.add(Menu.NONE, 1, 1, "vimcu lo vreji")
+		menu.add(Menu.NONE, 1, 1, "lo se cuxna")
+		menu.add(Menu.NONE, 0, 0, "vimcu lo vreji")
 		return super.onCreateOptionsMenu(menu)
 	}
 
 	override def onOptionsItemSelected(item: MenuItem): Boolean = {
 		item.getItemId() match {
-		case 0 =>
+		case 1 =>
 			val intent = new Intent(this, classOf[Preference])
 			startActivity(intent)
-		case 1 =>
+		case 0 =>
+			Log.d("LojbanDictionary", "history.clear will do")
 			history.clear
+			Log.d("LojbanDictionary", "history.clear done")
+			putDef(("", "coi rodo mi jbovlaste", List()))
+//			Log.d("LojbanDictionary", "putDef done")
 		}
 		return true
 	}
