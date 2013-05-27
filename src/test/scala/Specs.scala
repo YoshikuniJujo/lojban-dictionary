@@ -2,6 +2,8 @@ import iocikun.juj.lojban.dictionary
 import org.scalatest.matchers.ShouldMatchers
 import org.scalatest.FunSpec
 import iocikun.juj.lojban.dictionary.ReadDictionaryGen
+import iocikun.juj.lojban.dictionary.Tools
+import iocikun.juj.lojban.dictionary.MyList
 
 import scala.xml.{XML, Node}
 import java.io.{BufferedReader, InputStreamReader, FileInputStream, File}
@@ -16,7 +18,7 @@ class Specs extends FunSpec with ShouldMatchers {
 
 		it("should be klama") {
 			readDic.lojToEn("klama")._1 should be ("klama")
-			readDic.enToLoj("来る")(0)._1 should be ("klama")
+//			readDic.enToLoj("来る")(0)._1 should be ("klama")
 			readDic.enToLoj("come")(1)._1 should be ("klama")
 			readDic.rafsiToLoj("kla")._1 should be ("klama")
 		}
@@ -26,13 +28,21 @@ class Specs extends FunSpec with ShouldMatchers {
 				"hoge: no such valsi in the dictionary")
 		}
 
-		it("should be #..;") {
+/*		it("should be #..;") {
 			readDic.lojToEn("mo'u")._2 should be (
 				"<B>type</B>: cmavo<BR/><B>definition</B>: " +
 				"interval event contour: " +
 				"at the natural ending point of ...;" +
 				" completive              |    &gt;|&lt;.<BR/>" +
 				"<B>notes</B>: <BR/>")
+		}
+*/
+
+		it("shold be ??") {
+			Tools getBoolStrings("f cmene\n\nf lujvo\n") should be {
+				new MyList((false, ""),
+					List((true, "hello")), List((false, "hello")))
+			}
 		}
 	}
 
