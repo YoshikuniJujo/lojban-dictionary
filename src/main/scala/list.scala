@@ -6,7 +6,20 @@ object TestList {
 		myList.add("hello")
 		myList.backward
 		myList.add("world")
+		myList.backward
+		myList.add("!")
 		println(myList)
+		println(myList toLines)
+
+		val testList = Tools stringToMyList("hello\nworld\n\n!")
+		println(testList)
+		println(testList toLines)
+
+		val testBSStr = "t hello\nf world\n\nt good\nf bye\nt world\n"
+		val testBSList = Tools getBoolStrings(testBSStr)
+		println(testBSList)
+		println(testBSList toLines)
+		println(Tools showBoolStrings(testBSList))
 	}
 }
 
@@ -17,6 +30,34 @@ object Tools {
 		val l2 = list dropWhile (_ != "") tail
 		val ret = new MyList[String]("", l1, l2)
 		return ret
+	}
+
+	def getBoolStrings(str: String): MyList[(Boolean, String)] = {
+		val list = str split('\n') toList
+		val l1 = list takeWhile (_ != "") map
+			(l => readBoolString(l split (' ') toList))
+		val l2 = (list dropWhile (_ != "") tail) map
+			(l => readBoolString(l split (' ') toList))
+		val ret = new MyList[(Boolean, String)]((false, ""), l1, l2)
+		return ret
+	}
+
+	def showBoolStrings(ml: MyList[(Boolean, String)]): String = {
+		val (l1, l2) = ml getMembers
+		val ret = (l1 map (l => showBoolString(l)) mkString("\n")) + "\n\n" +
+			(l2 map (l => showBoolString(l)) mkString("\n"))
+		return ret
+	}
+
+	def readBoolString(p: List[String]): (Boolean, String) = p match {
+		case "t" :: str :: _ => (true, str)
+		case "f" :: str :: _ => (false, str)
+		case _ => (false, "")
+	}
+
+	def showBoolString(bs: (Boolean, String)): String = bs match {
+		case (true, str) => "t " + str
+		case (false, str) => "f " + str
 	}
 }
 
@@ -29,6 +70,8 @@ class MyList[T](default: T) {
 		list1 = l1
 		list2 = l2
 	}
+
+	def getMembers() = (list1, list2)
 
 	def add(elem: T) {
 		if ((list1 == Nil || list1(0) != elem) &&
