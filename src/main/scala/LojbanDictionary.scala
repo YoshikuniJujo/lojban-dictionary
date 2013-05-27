@@ -295,6 +295,8 @@ class LojbanDictionary extends Activity with TypedActivity {
 			history.clear
 			Log.d("LojbanDictionary", "history.clear done")
 			putDef(("", "coi rodo mi jbovlaste", List()))
+			back.setImageResource(R.drawable.back_no)
+			forward.setImageResource(R.drawable.forward_no)
 //			Log.d("LojbanDictionary", "putDef done")
 		}
 		return true
