@@ -10,9 +10,25 @@ object TestList {
 	}
 }
 
+object Tools {
+	def stringToMyList(str: String): MyList[String] = {
+		val list = str split('\n') toList
+		val l1 = list takeWhile (_ != "")
+		val l2 = list dropWhile (_ != "") tail
+		val ret = new MyList[String]("", l1, l2)
+		return ret
+	}
+}
+
 class MyList[T](default: T) {
 	var list1: List[T] = List()
 	var list2: List[T] = List()
+
+	def this(default: T, l1: List[T], l2: List[T]) {
+		this(default)
+		list1 = l1
+		list2 = l2
+	}
 
 	def add(elem: T) {
 		if ((list1 == Nil || list1(0) != elem) &&
@@ -41,6 +57,8 @@ class MyList[T](default: T) {
 			list1 = t
 			(t.size > 1, true)
 		case Nil => (false, false) }
+
+	def toLines = (list1 ::: "" :: list2).mkString("\n")
 
 	override def toString() = (list1.reverse ::: list2).toString
 }
