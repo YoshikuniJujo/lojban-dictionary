@@ -103,5 +103,10 @@ class MyList[T](default: T) {
 
 	def toLines = (list1 ::: "" :: list2).mkString("\n")
 
+	def clear {
+		list1 = List()
+		list2 = List()
+	}
+
 	override def toString() = (list1.reverse ::: list2).toString
 }

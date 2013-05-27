@@ -29,6 +29,9 @@ import _root_.android.app.SearchManager
 import _root_.android.content.SearchRecentSuggestionsProvider
 import _root_.android.provider.SearchRecentSuggestions
 
+import _root_.android.content.Context
+import _root_.android.content.SharedPreferences
+
 class MySuggestionProviderClass extends SearchRecentSuggestionsProvider {
 	setupSuggestions("lojban dictionary", 1);
 }
@@ -132,6 +135,9 @@ class SearchActivity extends Activity with TypedActivity {
 
 class LojbanDictionary extends Activity with TypedActivity {
 
+	lazy val spr = getSharedPreferences("content01", Context.MODE_PRIVATE);
+	lazy val spre = spr edit
+
 	lazy val sp = PreferenceManager getDefaultSharedPreferences this
 	lazy val dic = new ReadDictionary(getAssets(), sp)
 
@@ -146,7 +152,8 @@ class LojbanDictionary extends Activity with TypedActivity {
 	lazy val back = findView(TR.back)
 	lazy val forward = findView(TR.forward)
 
-	val history: MyList[(Boolean, String)] = new MyList(false, "")
+	lazy val historyStr = spr.getString("history", "")
+	lazy val history: MyList[(Boolean, String)] = Tools getBoolStrings(historyStr) // ("f cmene\n\nf lujvo\n") // new MyList(false, "")
 
 	lazy val allwords = dic.allwords
 	lazy val adapter = new ArrayAdapter[String](
@@ -165,6 +172,12 @@ class LojbanDictionary extends Activity with TypedActivity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE)
 		setContentView(R.layout.main)
 		input.setAdapter(adapter)
+
+/*
+		val test = spr.getInt("DATA1", 0);
+		spre putInt("DATA1", test + 1);
+		spre commit
+*/
 
 		putDef(("", "coi rodo mi jbovlaste", List()))
 		back.setImageResource(R.drawable.back_no)
@@ -230,8 +243,15 @@ class LojbanDictionary extends Activity with TypedActivity {
 		}
 	}
 
+	override def onDestroy{
+		spre.putString("history", Tools showBoolStrings(history))
+		spre.commit
+		super.onDestroy
+	}
+
 	override def onCreateOptionsMenu(menu: Menu): Boolean = {
 		menu.add(Menu.NONE, 0, 0, "lo se cuxna")
+		menu.add(Menu.NONE, 1, 1, "vimcu lo vreji")
 		return super.onCreateOptionsMenu(menu)
 	}
 
@@ -240,6 +260,8 @@ class LojbanDictionary extends Activity with TypedActivity {
 		case 0 =>
 			val intent = new Intent(this, classOf[Preference])
 			startActivity(intent)
+		case 1 =>
+			history.clear
 		}
 		return true
 	}
