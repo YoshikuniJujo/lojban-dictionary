@@ -273,10 +273,10 @@ class LojbanDictionary extends Activity with TypedActivity {
 		}
 	}
 
-	override def onDestroy{
+	override def onPause{
 		spre.putString("history", Tools showBoolStrings(history))
 		spre.commit
-		super.onDestroy
+		super.onPause
 	}
 
 	override def onCreateOptionsMenu(menu: Menu): Boolean = {
