@@ -10,12 +10,16 @@ main = do
 	[lang, chars] <- getArgs
 	str <- readFile $ "lojban_" ++ lang ++ ".xml"
 	let	Document _ _ topElem _ = xmlParse lang str
-		lojen = head $ childrenE topElem
-		enloj = head $ tail $ childrenE topElem
+		lojen = myHead "lojen" $ childrenE topElem
+		enloj = myHead "enloj" $ tail $ childrenE topElem
 	createDirectoryIfNotExist $ directory ++ "loj" ++ lang
 	createDirectoryIfNotExist $ directory ++ lang ++ "loj"
 	mkFiles lojen "abcdefgijklmnoprstuvxyz" $ directory ++ "loj" ++ lang
 	mkFiles enloj chars $ directory ++ lang ++ "loj"
+
+myHead :: String -> [a] -> a
+myHead emsg [] = error emsg
+myHead _ (x : _) = x
 
 createDirectoryIfNotExist :: FilePath -> IO ()
 createDirectoryIfNotExist dir = do
@@ -48,11 +52,11 @@ header = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n"
 
 selectWord :: Char -> Element i -> Bool
 selectWord c (Elem _ attrs _) =
-	maybe False ((c ==) . head . show) $ lookup (N "word") attrs
+	maybe False ((c ==) . myHead "selectWord" . show) $ lookup (N "word") attrs
 
 notSelectWord :: String -> Element i -> Bool
 notSelectWord cs (Elem _ attrs _) =
-	maybe False ((`notElem` cs) . head . show) $ lookup (N "word") attrs
+	maybe False ((`notElem` cs) . myHead "notSelectWord" . show) $ lookup (N "word") attrs
 
 childrenE :: Element i -> [Element i]
 childrenE (Elem _ _ cs) = map getElem $ filter isElem cs
