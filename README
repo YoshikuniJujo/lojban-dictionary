@@ -12,10 +12,10 @@ runhaskell mkWords.hs en
 runhaskell mkWords.hs fr
 
 languages now
-de
-en
-fr
-ja
+de: Deutsch
+en: English
+fr: Fran[cs]ais
+ja: ÆüËÜ¸ì
 lojban
-sv
-ru
+sv: Svenska
+ru: PycckNN

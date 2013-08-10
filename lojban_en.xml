@@ -1031,6 +1031,9 @@
 <valsi word="bergamia" type="fu'ivla"><definition>$x_1$ is a bergamot orange of variety/cultivar $x_2$</definition>
 <definitionid>18237</definitionid></valsi>
 
+<valsi unofficial="true" word="bergu" type="experimental gismu"><definition>$x_1$ pertains to bear goo metaphysics in aspect $x_2$</definition>
+<definitionid>42003</definitionid></valsi>
+
 <valsi word="bermau" type="lujvo"><definition>$b_1=z_1$ is farther north than $b_2=z_1$ according to frame of reference $b_3$ by distance/gap/margin $z_4$.</definition>
 <definitionid>7922</definitionid><notes>Cf. {berti}, {zmadu}, {beryrai}.</notes></valsi>
 
@@ -1217,8 +1220,14 @@
 <valsi word="bimei" type="cmavo cluster"><selmaho>MOI*</selmaho><definition>quantifier selbri: convert 8 to cardinal selbri; $x_{1}$ is a set with the octet of members $x_{2}$.</definition>
 <definitionid>1392</definitionid></valsi>
 
+<valsi word="bimkemnipyple" type="lujvo"><definition>$p_1$=$s_1$ is a wallpaper from source $p_2$, sticking on wall $s_2$=$b_1$.</definition>
+<definitionid>41883</definitionid><notes>For wallpaper without a “wall” sumti place, see {bimple}.</notes></valsi>
+
 <valsi word="bimoi" type="cmavo cluster"><selmaho>MOI*</selmaho><definition>quantified selbri: convert 8 to ordinal selbri; $x_{1}$ is eighth among $x_{2}$ ordered by rule $x_{3}$.</definition>
 <definitionid>1393</definitionid></valsi>
+
+<valsi word="bimple" type="lujvo"><definition>$p_1$ is a wallpaper from source $p_2$.</definition>
+<definitionid>41881</definitionid><notes>If you want to express that the wallpaper also sticks to a certain wall, use {bimkemnipyple}.</notes></valsi>
 
 <valsi word="bimxra" type="lujvo"><definition>$p_1$ is a mural representing/showing $p_2$, made by artist $p_3$ on wall $p_4=b_1$.</definition>
 <definitionid>17566</definitionid></valsi>
@@ -1756,6 +1765,9 @@
 
 <valsi word="brili'e" type="lujvo"><definition>$x_1$ is a prenex of bridi/predicate relationship $x_2$ with relation $x_3$ among arguments $x_4$.</definition>
 <definitionid>13921</definitionid><notes>Cf. {zo'u}.</notes></valsi>
+
+<valsi word="brilogji" type="lujvo"><definition>$l_1$ [rules/methods] is a predicate logic for deducing/concluding/inferring/reasoning to/about $l_2$ (du'u) with predicate relationships $b_1$.</definition>
+<definitionid>42028</definitionid></valsi>
 
 <valsi word="brirebla" type="lujvo"><definition>$x_1$ is a bridi-tail of predicate relationship $x_2$ with relation $x_3$ among arguments (sequence/set) $x_4$.</definition>
 <definitionid>13556</definitionid><notes>Cf. {bridi}, {rebla}.</notes></valsi>
@@ -2681,8 +2693,8 @@
 <valsi word="cicre'a" type="lujvo"><definition>$c_1=r_1$ is a savage/wild human.</definition>
 <definitionid>17621</definitionid><notes>Cf. {cicpre}.</notes></valsi>
 
-<valsi word="cicricfoi" type="lujvo"><definition>$f_1$ is a wild forest with trees $t_1$.</definition>
-<definitionid>38501</definitionid></valsi>
+<valsi word="cicricfoi" type="lujvo"><definition>$f_1$ is a jungle</definition>
+<definitionid>19006</definitionid></valsi>
 
 <valsi word="cicycrepu" type="lujvo"><definition>$cr_1$ wildcrafts $cr_2$ from $cr_3$=$ci_1$.</definition>
 <definitionid>15765</definitionid><notes>Cf. {rarvelcange}.</notes></valsi>
@@ -3113,6 +3125,9 @@
 <valsi word="cizra" type="gismu"><rafsi>ciz</rafsi><definition>$x_{1}$ is strange/weird/deviant/bizarre/odd to $x_{2}$ in property $x_{3}$ (ka).</definition>
 <definitionid>166</definitionid><notes>Also alien, mysterious, deviant, queer, unusual, exotic.  See also {ranxi}, {rirci}, {fange}, {banli}.</notes></valsi>
 
+<valsi word="ckabrceratonia" type="fu'ivla"><definition>$c_1$ is a quantity of/contains/is made of carob gum/locust bean gum (LBG)/carobin/E410  from carob  tree(s) $c_2$  of composition including $c_3$.</definition>
+<definitionid>41908</definitionid></valsi>
+
 <valsi word="ckabrkacia" type="fu'ivla"><definition>$c_1$ is a quantity of/contains/is made of gum arabic from akacia tree(s) $c_2$  of composition including $c_3$.</definition>
 <definitionid>41451</definitionid></valsi>
 
@@ -3236,6 +3251,9 @@
 <valsi word="cladu" type="gismu"><rafsi>lau</rafsi><definition>$x_{1}$ is loud/noisy at observation point $x_{2}$ by standard $x_{3}$.</definition>
 <definitionid>180</definitionid><notes>See also {savru}.</notes></valsi>
 
+<valsi word="clagaldi'u" type="lujvo"><definition>$d_1=g_1=c_1$ is a tower for pupose $d_2$.</definition>
+<definitionid>41977</definitionid><notes>See also: {clani}, {galtu}, {dinju}.</notes></valsi>
+
 <valsi word="clajbatamca" type="lujvo"><definition>$t_1$ is a grape tomato of variety/strain $t_2$.</definition>
 <definitionid>39048</definitionid><notes>See also cherry tomato (={boljbatamca}).</notes></valsi>
 
@@ -3316,6 +3334,9 @@
 
 <valsi word="cmacai" type="lujvo"><definition>$ca_1=cm_1$ is tiny/miniature/diminutive/very small in property $ca_2=cm_2$ to observer $ca_3=cm_3$.</definition>
 <definitionid>14612</definitionid><notes>Cf. {cmalu}, {carmi}, {cmacma}, {ruble}, {toltce}; antonym: {caibra}.</notes></valsi>
+
+<valsi word="cmacelxa'i" type="lujvo"><definition>$xa_1=ce_1$ is a small arm/gun for use against $xa_2$ by $xa_3$, launching small projectile $ce_2=cm_1$, defined as small arms by standard $cm_3$, projectile propelled by $ce_3$.</definition>
+<definitionid>41996</definitionid><notes>The description is usually limited to revolvers, pistols, carbines, rifles, shotguns, submachine guns, assault rifles, sniper rifles etc. In the United States any firearm having a bore diameter of .50 caliber or less is normally considered a "small arm."</notes></valsi>
 
 <valsi word="cmaci" type="gismu"><definition>$x_{1}$ is a mathematics of type/describing $x_{2}$.</definition>
 <definitionid>188</definitionid><notes>See also {mekso}.</notes></valsi>
@@ -3601,6 +3622,9 @@
 <valsi word="coico'o" type="cmavo cluster"><selmaho>COI*</selmaho><definition>vocative: greetings in passing.</definition>
 <definitionid>1448</definitionid></valsi>
 
+<valsi word="coisna" type="lujvo"><definition>$s_1=c_1$ is a deep/rumbling sound produced by $s_2=c_2$ from point of reference $c_3$.</definition>
+<definitionid>41990</definitionid><notes>$c_3$ could also be interpreted as a particular pitch/frequency. See also: {condi}, {sance}.</notes></valsi>
+
 <valsi word="cokcu" type="gismu"><rafsi>cko</rafsi><definition>$x_{1}$ soaks up/absorbs/sucks up $x_{2}$ from $x_{3}$ into $x_{4}$; $x_{1}$ is an absorbant.</definition>
 <definitionid>203</definitionid><notes>See also {panje}, {sakci}, {lacpu}.</notes></valsi>
 
@@ -3828,6 +3852,9 @@
 
 <valsi word="ctecpi" type="lujvo"><definition>$c_1$ is an owl of species $c_2$.</definition>
 <definitionid>19077</definitionid><notes>Cf. {cipni}, {nicte}.</notes></valsi>
+
+<valsi word="ctecutci" type="lujvo"><definition>$c_1$ is a slipper (shoe primarily for wearing at night) for wearing on [feet/hooves] $c_2$, made of material $c_3$.</definition>
+<definitionid>41984</definitionid><notes>See also {nicte}, {cutci}.</notes></valsi>
 
 <valsi word="ctejau" type="lujvo"><definition>$d_1$ is dew.</definition>
 <definitionid>15369</definitionid></valsi>
@@ -4133,7 +4160,7 @@ See also: runcible (={rarnsibe}).</notes></valsi>
 <valsi word="da'acre" type="lujvo"><definition>$c_1=d_2$ is a fighting expert in fighting against $c_2$ over issue $c_3$ (abstract), expert by standard $c_3$.</definition>
 <definitionid>17890</definitionid><notes>Cf. {dabytadji}.</notes></valsi>
 
-<valsi unofficial="true" word="da'ai" type="experimental cmavo"><selmaho>KOhA3</selmaho><definition>other than me; person, not an object</definition>
+<valsi unofficial="true" word="da'ai" type="experimental cmavo"><selmaho>KOhA3</selmaho><definition>other than me</definition>
 <definitionid>41433</definitionid><notes>Can include {do}. {ma'a} can be defined as "{mi} {jo'u} {do} jo'u {da'ai}"</notes></valsi>
 
 <valsi word="da'amoi" type="cmavo cluster"><selmaho>MOI*</selmaho><definition>quantified selbri: converts all-but-(1) to ordinal selbri; $x_{1}$ is penultimate among $x_{2}$ by rule $x_{3}$.</definition>
@@ -4213,6 +4240,9 @@ See also: runcible (={rarnsibe}).</notes></valsi>
 
 <valsi word="dafsku" type="lujvo"><definition>$c_1$ (agent) answers $x_2=d_1$ to question/problem $x_3=d_2$.</definition>
 <definitionid>17185</definitionid></valsi>
+
+<valsi word="dafyfa'i" type="lujvo"><definition>$x_1$ finds solution/answer to problem/question $x_2$</definition>
+<definitionid>42080</definitionid></valsi>
 
 <valsi word="dagypli" type="lujvo"><definition>$p_1$ (person) is a road user using road/highway/street/path/(square) $d_1=p_2$ for purpose $p_3$.</definition>
 <definitionid>38560</definitionid><notes>x1 could be a driver/passenger/pedestrian/skater/cyclist etc.</notes></valsi>
@@ -4453,6 +4483,9 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <valsi word="dapma" type="gismu"><rafsi>dap</rafsi><definition>$x_{1}$ curses/damns/condemns $x_{2}$ to fate (event) $x_{3}$.</definition>
 <definitionid>258</definitionid><notes>Curse with a specific expression (= {dapsku}).  See also {mabla}, {dimna}, {cnemu}, {sfasa}, {dunda}, {cusku}, {cirko}, {jdima}, {di'ai}.</notes></valsi>
 
+<valsi word="dapsku" type="lujvo"><definition>$c_1=d_1$ (agent) curses/damns/condemns by expressing text $c_2$ $c_3=d_2$ via expressive medium $c_4$ to fate $d_3$ (event).</definition>
+<definitionid>42210</definitionid><notes>See also {dapma}, {cusku}.</notes></valsi>
+
 <valsi word="dapsodi" type="fu'ivla"><definition>$x_1$ is an armadillo of species/breed $x_2$.</definition>
 <definitionid>17947</definitionid><notes>Cf. {mabru}, {foldota}.</notes></valsi>
 
@@ -4639,6 +4672,12 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <valsi word="debgrute" type="lujvo"><definition>$g_1$ is a pod/legume fruit with bean/pea/leguminous seed $d_1$, from plant [legume] $d_2$.</definition>
 <definitionid>38966</definitionid></valsi>
 
+<valsi word="debnraki" type="fu'ivla"><definition>$d_1$ is a peanut/earthnut/ground nut/goober pea/monkey nut/pygmy nut/pig nut from plant [legume] $d_2$ (genus Arachis; default A. hypogaea).</definition>
+<definitionid>41911</definitionid><notes>Despite its name and appearance, the peanut is not a nut, but rather a legume.</notes></valsi>
+
+<valsi word="debrceratonia" type="fu'ivla"><definition>$d_1$ is a locust bean from plant [legume] $d_2$ (Ceratonia siliqua).</definition>
+<definitionid>41909</definitionid><notes>Locust beans, are used as animal feed, and are the source of locust bean gum (={vikrceratonia}).</notes></valsi>
+
 <valsi word="debrcice" type="fu'ivla"><definition>$d_1$ is a chickpea/garbanzo bean/ceci bean/sanagalu/chana/hummus/Bengal gram from plant [legume] $d_2$ (Cicer arietinum).</definition>
 <definitionid>38968</definitionid></valsi>
 
@@ -4654,14 +4693,26 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <valsi word="debrlenti" type="fu'ivla"><definition>$d_1$ is a lentil from plant [legume] of species Lens culinaris of type $d_2$.</definition>
 <definitionid>38971</definitionid><notes>x2 could be LePuy green lentil (="la lypuin"), masoor lentil(="la masor"), green (="lo crino"), red (="lo xunre"), etc.</notes></valsi>
 
+<valsi word="debrlupini" type="fu'ivla"><definition>$d_1$ is a lupin/lupini bean from plant [legume] $d_2$ (genus Lupinus).</definition>
+<definitionid>41965</definitionid></valsi>
+
+<valsi word="debrmoce" type="fu'ivla"><definition>$d_1$ is a lima/butter bean from plant [legume] $d_2$ (Phaseolus lunatus).</definition>
+<definitionid>41900</definitionid><notes>The Moche Culture (1-800 AD) cultivated all of the lima beans and often depicted them in their art.</notes></valsi>
+
 <valsi word="debrnuna" type="fu'ivla"><definition>$d_1$ is a nuña bean from from plant [legume] $d_2$ (Phaseolus vulgaris subsp. nunas).</definition>
 <definitionid>38982</definitionid></valsi>
+
+<valsi word="debrpakirizu" type="fu'ivla"><definition>$s_1$ is a yam bean/jícama/goiteño/ahipa bean (genus Pachyrhizus) of species/variety $s_2$.</definition>
+<definitionid>41899</definitionid><notes>Pachyrizus erosus produces seeds that are comparable to lima beans (={debrmoce}).</notes></valsi>
 
 <valsi word="debrpisu" type="fu'ivla"><definition>$d_1$ is a pea from plant [legume] of species Pisum sativum of variation/variety/cultivar $d_2$.</definition>
 <definitionid>38969</definitionid><notes>Yellow/Green split pea (="pelxu/crino je xadba debrpisu"). x2 could be snow pea (="la'o ly saccharatum ly"), snap pea (="la'o ly macrocarpon ly"). See also {rutrpisu}.</notes></valsi>
 
 <valsi word="debysamcu" type="lujvo"><definition>$x_1$ is a jicama of species/variety $x_2$.</definition>
 <definitionid>14277</definitionid><notes>Cf. {samcu}, {dembi}.</notes></valsi>
+
+<valsi word="debyspa" type="lujvo"><definition>$s_1=d_2$ is a legume/plant in the family Fabaceae (or Leguminosae) with bean(s)/pea(s)/leguminous seed(s) $d_1$, of species/strain/cultivar $s_2$.</definition>
+<definitionid>41929</definitionid></valsi>
 
 <valsi word="decmbero" type="fu'ivla"><definition>$x_1$ is December in year $x_2$ on calendar $x_3$</definition>
 <definitionid>17531</definitionid></valsi>
@@ -4945,6 +4996,9 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <valsi word="dijysenta" type="lujvo"><definition>$s_1$ is a story/level/floor of building $x_2=s_3=d_1$.</definition>
 <definitionid>17213</definitionid></valsi>
 
+<valsi word="dijyzbaske" type="lujvo"><definition>$s_2$ is architecture.</definition>
+<definitionid>41986</definitionid><notes>See also {dinju}, {zbasu}, {saske}.</notes></valsi>
+
 <valsi word="dikca" type="gismu"><rafsi>dic</rafsi><definition>$x_{1}$ is electricity [electric charge or current] in/on $x_{2}$ of polarity/quantity $x_{3}$ (def. negative).</definition>
 <definitionid>285</definitionid><notes>($x_3$, a quantifier, can be expressed as a simple polarity using the numerals for positive and negative ma'u and ni'u); (explicitly) negative (= {dutydikca}), positive (= {mardikca}); current (= (sel)muvdikca; again default negative/electron current), charge (= {klodikca}, {stadikca}).  See also {lindi}, {xampo}, {flecu}, {maksi}, {tcana}.</notes></valsi>
 
@@ -5020,11 +5074,17 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <valsi word="dirva'u" type="lujvo"><definition>$v_1$ chokes on/because of $d_3$.</definition>
 <definitionid>18568</definitionid><notes>Cf. {dicra}, {vasxu}, {vaxydicra}.</notes></valsi>
 
+<valsi word="ditcma" type="lujvo"><definition>$x_1$ takes a short time/has a short duration by standard $x_2$</definition>
+<definitionid>42007</definitionid><notes>See also {ze'i}</notes></valsi>
+
 <valsi unofficial="true" word="ditcu" type="experimental gismu"><definition>$x_1$ is the time-duration/interval/period/[elapsed time] of event $x_2$.</definition>
 <definitionid>15153</definitionid><notes>short rafsi is -dit-. Cf. {cedra}, {ranji}, {tcika}, {renvi}, {temci}, {canlu}, {kuspe}, {krafamtei}</notes></valsi>
 
 <valsi word="ditka'e" type="lujvo"><definition>$x_{1}$ = $k_{1}$ is able/can do $x_{2}$ = $k_{2}$ = $d_{2}$ (state/event) under conditions $x_{3}$ = $k_{3}$  (state/event) in time $x_{4}$ = $d_{1}$.</definition>
 <definitionid>38147</definitionid><notes>x4 defaults to the natural duration of the event x2 ({ca'o}) so that it also means "x1 has enough time to do x2". See {ditcu}, {kakne}.</notes></valsi>
+
+<valsi word="ditybra" type="lujvo"><definition>$x_1$ takes a long time/has a long duration by standard $x_2$</definition>
+<definitionid>42005</definitionid><notes>See also {ze'u}</notes></valsi>
 
 <valsi word="dizlo" type="gismu"><rafsi>diz</rafsi><rafsi>dzi</rafsi><definition>$x_{1}$ is low/down/downward in frame of reference $x_{2}$ as compared with baseline/standard height $x_{3}$.</definition>
 <definitionid>296</definitionid><notes>Also lower; $x_3$ is generally some defined distance above a zero point/baseline, or is that baseline itself.  See also {cnita}, {galtu}, {gapru}, {farna}, {loldi}.</notes></valsi>
@@ -5655,6 +5715,9 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 
 <valsi word="falnu" type="gismu"><rafsi>fan</rafsi><definition>$x_{1}$ is a sail for gathering propelling material $x_{2}$ on vehicle/motor $x_{3}$.</definition>
 <definitionid>321</definitionid><notes>Waterwheel (= {jacfanxi'u}).  See also {bloti}.</notes></valsi>
+
+<valsi word="falplini" type="lujvo"><definition>$f_1=p_1$ is a meteor which falls to planet $p_2$ from area/planet $f_3$ with composition $p_3$</definition>
+<definitionid>41950</definitionid></valsi>
 
 <valsi word="fampi'i" type="lujvo"><definition>$x_1$ is the factorial of $x_2$.</definition>
 <definitionid>13953</definitionid><notes>See also {ne'o}</notes></valsi>
@@ -6479,7 +6542,7 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <definitionid>18862</definitionid><notes>Cf. {gapru}, {catlu}.</notes></valsi>
 
 <valsi word="galfi" type="gismu"><rafsi>gaf</rafsi><rafsi>ga'i</rafsi><definition>$x_{1}$ (event) modifies/alters/changes/transforms/converts $x_{2}$ into $x_{3}$.</definition>
-<definitionid>379</definitionid><notes>Causal, resultative change; agentive modification (= {gafygau}, {gafyzu'e}).  (cf. stika for non-resultative, binxo for not-necessarily causal change, cenba for non-resultative change; zasni)</notes></valsi>
+<definitionid>379</definitionid><notes>Causal, resultative change; agentive modification (= {gafygau}, {gafyzu'e}).  (cf. {stika} for non-resultative, {binxo} for not-necessarily causal change, {cenba} for non-resultative change; {zasni})</notes></valsi>
 
 <valsi word="galgau" type="lujvo"><definition>$gas_1$ elevates/raises $gal_1$ by height reference $gal_2$ and height standard $gal_3$.</definition>
 <definitionid>14543</definitionid></valsi>
@@ -7274,7 +7337,7 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <definitionid>8454</definitionid></valsi>
 
 <valsi word="gusni" type="gismu"><rafsi>gus</rafsi><rafsi>gu'i</rafsi><definition>$x_1$ [energy] is light/illumination illuminating $x_2$ from light source $x_3$.</definition>
-<definitionid>427</definitionid><notes>[$x_3$ illuminates/lights $x_2$ with light/illumination $x_1$; $x_2$ is lit/illuminated by illumination $x_1$ from source $x_3$ (= selgu'i for reordered places); light/lamp (= tergu'i)](cf. dirce, manku, solri, carmi, ctino, kantu)</notes></valsi>
+<definitionid>427</definitionid><notes>[$x_3$ illuminates/lights $x_2$ with light/illumination $x_1$; $x_2$ is lit/illuminated by illumination $x_1$ from source $x_3$ (= {selgu'i} for reordered places); light/lamp (= {tergu'i})](cf. {dirce}, {manku}, {solri}, {carmi}, {ctino}, {kantu})</notes></valsi>
 
 <valsi word="gusnunsla" type="lujvo"><definition>$n_1$ is Diwali (Deepavali) celebrated by $s_1$ with activities $s_3$</definition>
 <definitionid>16603</definitionid><notes>from {gusni} {nu} {salci}</notes></valsi>
@@ -8245,6 +8308,9 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <valsi word="jibycu'e" type="lujvo"><definition>$c_1$ is a trade/vocational school at $c_2$ teaching job skills $c_3=j_1$ to audience/community $c_4=j_2$ operated by $c_5$</definition>
 <definitionid>18057</definitionid></valsi>
 
+<valsi word="jibykai" type="lujvo"><definition>$x_1$ does their job / works (activity done regularly for pay).</definition>
+<definitionid>42120</definitionid><notes>Since {gunka} doesn't require working in the sense of a job, this word is necessary. It differs from {jibgu'a} in that one could perform their job without satisfying {gunka}.</notes></valsi>
+
 <valsi word="jibypante" type="lujvo"><definition>$p_1=j_2$ strikes (stops working), complaining about $p_2=j_1$ to audience $p_3$ with action $p_4$.</definition>
 <definitionid>17634</definitionid><notes>Cf. {pante}, {jibri}, {cpedu}.</notes></valsi>
 
@@ -8263,11 +8329,20 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 <valsi word="jicymivykle" type="lujvo"><definition>$k_1$=$jm_1$=$ji_3$ is a phylum [animals]/division [plants] within/of kingdom [biology] $k_2$=$ji_2$.</definition>
 <definitionid>20273</definitionid><notes>From {jimca}, {jmive}, {klesi}. For biological cathegory in general (=mivyske klesi), domain (=?), kingdom (={seljimcymivykle}), phylum (=this definition), class (={xeljutsi}), order (={veljutsi}), family (={terjutsi}), genus (={seljutsi}), species (={jutsi}).</notes></valsi>
 
+<valsi word="jifkritrazu'e" type="lujvo"><definition>$x_1$ pretends to be/do $x_2$ (ka) in order for $x_3$ to falsely believe untruth $x_4$ (du'u), false by standard/epistemology/metaphysics $x_5$</definition>
+<definitionid>41998</definitionid></valsi>
+
 <valsi word="jifselbetfu" type="lujvo"><definition>$x_1$ is a pseudocoelomate with pseudocoelom $x_2$.</definition>
 <definitionid>2486</definitionid></valsi>
 
+<valsi word="jifselvi'a" type="lujvo"><definition>$v_2=j_1$ is an illusion/mirage/etc. seen by $v_1$.</definition>
+<definitionid>41991</definitionid><notes>See also: {jitfa}, {viska}, {se}.</notes></valsi>
+
 <valsi word="jifxu'a" type="lujvo"><definition>$xu_1$ is wrong, falsely claiming $xu_2=j_1$, by truth standard $xu_3$.</definition>
 <definitionid>17835</definitionid><notes>Cf. {xusra}, {srera}.</notes></valsi>
+
+<valsi word="jifyjunxu'a" type="lujvo"><definition>$x_1$ knowingly claims lie $x_2$ (du'u), false/untrue by standard/epistemology/metaphysics $x_3$</definition>
+<definitionid>42000</definitionid></valsi>
 
 <valsi word="jijnu" type="gismu"><rafsi>jij</rafsi><definition>$x_{1}$ (person) intuits $x_{2}$ (du'u) about subject $x_{3}$; [epistemology].</definition>
 <definitionid>487</definitionid><notes>Words usable for epistemology typically have a du'u place.  See also {djuno}, {facki}, {jimpe}, {jinvi}, {nabmi}, {pensi}, {sidbo}, {smadi}.</notes></valsi>
@@ -8430,6 +8505,9 @@ Ballerina (=lo ninmu dansrbaleto).</notes></valsi>
 
 <valsi word="jisra" type="gismu"><definition>$x_{1}$ is made of/contains/is a quantity of juice/nectar from-source/of-type $x_{2}$.</definition>
 <definitionid>507</definitionid><notes>Water-based extract from a (generally) biological source. See also {pinxe}, {djacu}, {grute}, {stagi}.</notes></valsi>
+
+<valsi word="jisrnxananase" type="fu'ivla"><definition>$x_1$ is a quantitiy of pineapple juice made from pineapple/pineapples $x_2$.</definition>
+<definitionid>42217</definitionid><notes>See also: {grutrxananase}, {jisra}.</notes></valsi>
 
 <valsi word="jisygau" type="lujvo"><definition>$x_{1}$ is a do with clean $x_{2}$ with material cleaned away $x_{3}$ with cleanness standard $x_{4}$.</definition>
 <definitionid>8573</definitionid></valsi>
@@ -8875,6 +8953,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="kafrbenediktine" type="fu'ivla"><definition>$x_1$ is a quantity of Monk's Coffee of composition $x_2$ (including Bénédictine).</definition>
 <definitionid>41737</definitionid><notes>See also: liqueur coffee (={jikryckafi}).</notes></valsi>
 
+<valsi word="kafrgimnocladu" type="fu'ivla"><definition>$c_1$ is made of/contains/is a quantity of Kentucky coffee from source/bean/grain $c_2$.</definition>
+<definitionid>41927</definitionid><notes>The seed from the Kentucky coffeetree  (={ricrgimnocladu}) may be roasted and used as a substitute for coffee beans; however, unroasted pods and seeds are toxic.</notes></valsi>
+
 <valsi word="kafrkapucino" type="fu'ivla"><definition>$x_1$ is a quantity of cappuccino [coffee beverage] of composition/type/standard $x_2$.</definition>
 <definitionid>41747</definitionid><notes>For non-cultural specific usage: coffee with hot milk (={glaladyckafi}).</notes></valsi>
 
@@ -9231,9 +9312,6 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="kaurselju'o" type="lujvo"><definition>$d_2=k_1$ is common sense to knowers $d_1=k_2$ about subject $d_3$ by epistemology $d_4$.</definition>
 <definitionid>17825</definitionid><notes>Cf. {selju'o}, {kampu}.</notes></valsi>
-
-<valsi word="kauvboi" type="fu'ivla"><definition>$x_1$ is a cowboy/cowgirl/person pertaining to cowboy culture by standard $x_2$.</definition>
-<definitionid>41686</definitionid><notes>Non-cultural specific usage (={xirbakyku'i}). Cowboy hat (={kauvboi} {mapku}), jeans (={kauvboi} {palku}; {de'emni} {palku}; {bluji}).</notes></valsi>
 
 <valsi word="kavbu" type="gismu"><rafsi>kav</rafsi><definition>$x_{1}$ captures/catches/apprehends/seizes/nabs $x_{2}$ with trap/restraint $x_{3}$.</definition>
 <definitionid>566</definitionid><notes>Catch something thrown (= {rerkavbu}).  See also {jersi}, {kalte}, {pinfu}, {sisku}, se {rinju}.</notes></valsi>
@@ -9666,6 +9744,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="koi" type="cmavo"><selmaho>BAI</selmaho><definition>korbi modal, 1st place (bordered by)              bounded by ...</definition>
 <definitionid>1725</definitionid></valsi>
+
+<valsi word="koidru" type="lujvo"><definition>$k_1$ is an overhanging portion of roof $d_1=k_2$, which is a roof of $d_2$.</definition>
+<definitionid>41975</definitionid><notes>See also: {korbi}, {drudi}.</notes></valsi>
 
 <valsi word="koinka" type="fu'ivla"><definition>$x_1$ is a cognac distilled from grapes $x_2$.</definition>
 <definitionid>18637</definitionid><notes>Cf. {xalka}, {jikru}, {vanjyjikru}, {vanju}. For brandies without an AOC designation use {vanjyjikru}.</notes></valsi>
@@ -10101,6 +10182,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="kurfa" type="gismu"><rafsi>kur</rafsi><definition>$x_{1}$ is a right-angled shape/form defined by set of vertices $x_{2}$, dimensions $x_{3}$ (default 2).</definition>
 <definitionid>620</definitionid><notes>Also rectangle, square, rectilinear; square (= {kubykurfa}, {pitkubykurfa}), cube (= {kurkubli}), rectangle (= {clakurfa}), rhombus/diamond (= {sa'orkurfa}, {sa'orpitkubli}).  See also {bliku}, {kubli}, {tapla}, {salpo}, {tarmi}.</notes></valsi>
+
+<valsi word="kurjga" type="lujvo"><definition>$j_1=k_1$ is a right-angle [2-dimensional shape/form] from vertex $j_2=k_2$ subtended by lateral [segment] $j_3$.</definition>
+<definitionid>41971</definitionid></valsi>
 
 <valsi word="kurji" type="gismu"><rafsi>kuj</rafsi><rafsi>ku'i</rafsi><definition>$x_{1}$ takes-care-of/looks after/attends to/provides for/is caretaker for $x_{2}$ (object/event/person).</definition>
 <definitionid>621</definitionid><notes>Also tends, cares for, keeps; $x_1$ is a keeper/custodian of $x_2$.  See also {jundi}, {cinri}, {prami}, {raktu}, {zgana}.</notes></valsi>
@@ -11624,6 +11708,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="mes" type="cmene"><definition>Sister</definition>
 <definitionid>18685</definitionid><notes>Cf. {mensi}, {bun}, {mam}, {paf}, {bes}, {tix}.</notes></valsi>
 
+<valsi unofficial="true" word="metfo" type="experimental gismu"><definition>$x_1$ (bridi) is a metaphor/figurative expression having literal meaning $x_2$</definition>
+<definitionid>41957</definitionid><notes>See {sidysmu}, {tanru}, {pesna}, {pe'a}, {ve} {lujvo}, {cimjvo}</notes></valsi>
+
 <valsi word="metxani" type="fu'ivla"><definition>$x_1$ is some methane/CH4/marsh gas/natural gas</definition>
 <definitionid>39208</definitionid><notes>See {gapci}</notes></valsi>
 
@@ -11873,6 +11960,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="misrygu'e" type="lujvo"><definition>$x_1$ is Egypt.                                    </definition>
 <definitionid>16668</definitionid><notes>Cf. {misro}, {gugde}, {gugde'egu}.</notes></valsi>
 
+<valsi word="misrylatna" type="lujvo"><definition>$l_{1}=n_2$ is an Egyptian lotus/water lily (genus Nymphaea) [plant/flower/herb]  of strain/cultivar  $l_{2}$ , symbolizing $l_3$ to culture/religion $l_4$.</definition>
+<definitionid>41945</definitionid></valsi>
+
 <valsi word="misryle'u" type="lujvo"><definition>$x_1$ is an Egyptian character in writing system $x_2$ (hieroglyphic/hieratic/demotic) meaning $x_3$.</definition>
 <definitionid>15490</definitionid></valsi>
 
@@ -11929,6 +12019,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="mivmu'i" type="lujvo"><definition>$x_1=m_1$ is a life-goal of $x_3=m_3=j_1$ motivating $x_2=m_2$ .</definition>
 <definitionid>16030</definitionid><notes>Cf. {jmive}, {mukti}</notes></valsi>
+
+<valsi word="mivnalsti" type="lujvo"><definition>$j_1=s_2$ is immortal by standard $j_2$. </definition>
+<definitionid>41988</definitionid><notes>See also {jmive}, {sisti}, {na'e}.</notes></valsi>
 
 <valsi word="mivru'e" type="lujvo"><definition>$p_1$ is the life of $j_1$ through stages $p_4$.</definition>
 <definitionid>18190</definitionid><notes>This focuses on the process of x2's life as a succession of stages (childhood, chrysalis, etc.), while {nunji'e} more generally denotes the event of x2 being alive without a default terbri to specify the stages x2 goes through during that event.</notes></valsi>
@@ -12427,8 +12520,17 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="mudrbri'a" type="fu'ivla"><definition>$m_1$ is a quantity of/is made of/contains cocuswood/Jamaican ebony of type $m_2$.</definition>
 <definitionid>41596</definitionid><notes>The best known species to yield cocuswood is Brya ebenus. See also Brya (={ricrbri'a}).</notes></valsi>
 
+<valsi word="mudrcerci" type="fu'ivla"><definition>$m_1$ is a quantity of/is made of/contains redbud wood (genus Cercis) of type $m_2$.</definition>
+<definitionid>41913</definitionid></valsi>
+
+<valsi word="mudrdenantera" type="fu'ivla"><definition>$m_1$ is a quantity of/is made of/contains sandalwood (genus Adenanthera) of type $m_2$.</definition>
+<definitionid>41938</definitionid></valsi>
+
 <valsi word="mudrfselia" type="fu'ivla"><definition>$m_1$ is a quantity of/is made of/contains afzelia/doussie/pod mahogany of type $m_2$.</definition>
 <definitionid>41447</definitionid></valsi>
+
+<valsi word="mudrgimnocladu" type="fu'ivla"><definition>$m_1$ is a quantity of/is made of/contains Kentucky coffeetree wood (genus Gymnocladus) of type $m_2$.</definition>
+<definitionid>41926</definitionid><notes>The wood is used both by cabinetmakers and carpenters. It has very little sapwood.</notes></valsi>
 
 <valsi word="mudrguiborti" type="fu'ivla"><definition>$m_1$ is a quantity of/is made of/contains African rosewood/bubinga/ovangkol/Congo copal wood (genus Guibourtia) of type $m_2$.</definition>
 <definitionid>41600</definitionid></valsi>
@@ -12454,6 +12556,15 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="mudrpinu" type="fu'ivla"><definition>$x_1$ is a quantity of/is made of/contains pine wood/lumber of type $x_2$.</definition>
 <definitionid>38342</definitionid></valsi>
 
+<valsi word="mudrpterokarpu" type="fu'ivla"><definition>$m_1$ is a quantity of/is made of/contains (red) sanders/sandal/wild teak/padauk/barwood/muninga/Indian kino/mututi wood (genus Pterocarpus), from tree(s) of type/species $m_2$.</definition>
+<definitionid>42023</definitionid></valsi>
+
+<valsi word="mudrxematoksilu" type="fu'ivla"><definition>$m_1$ is a quantity of/is made of/contains logwood (genus Haematoxylum) of type $m_2$.</definition>
+<definitionid>41921</definitionid></valsi>
+
+<valsi word="mudrximene'a" type="fu'ivla"><definition>$s_1$ is a algarrobo/azúcar huayo/jatobá/timber of genus Hymenaea, of species/strain/cultivar $s_2$.</definition>
+<definitionid>41902</definitionid></valsi>
+
 <valsi word="mudyctijalra" type="lujvo"><definition>$j_1$ is a termite of species $j_2$.</definition>
 <definitionid>16421</definitionid><notes>Cf. {jalra}.</notes></valsi>
 
@@ -12468,6 +12579,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="mudypu'o" type="lujvo"><definition>$p_1=m_1$ is sawdust of wood type $p_2=m_2$.</definition>
 <definitionid>17809</definitionid><notes>Cf. {cmamudyspi}, {tricu}.</notes></valsi>
+
+<valsi word="mudyspa" type="lujvo"><definition>$s_1$ is a woody plant/(gnetophyta) of species/strain/cultivar $s_2=m_2$ producing wood $m_1$.</definition>
+<definitionid>41919</definitionid><notes>Woody plants are usually either trees (={tricu}), shrubs (={dzitricu}), or lianas.</notes></valsi>
 
 <valsi word="mudyxultci" type="lujvo"><definition>$t_1$ is an adze</definition>
 <definitionid>18226</definitionid></valsi>
@@ -12721,6 +12835,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="nacmei" type="lujvo"><definition>$x_1$ is a vector of dimension $x_2$ with coordinates $x_3$, $x_4$, $x_5$, ...</definition>
 <definitionid>13973</definitionid><notes>See also {relnacmei}, {cibnacmei}, {pinynacmei}, {rajnacmei}, {nacmemsu'a}</notes></valsi>
 
+<valsi word="nacmeimei" type="lujvo"><definition>$x_1$ is an $x_2$ by $x_3$ vector array/matrix of vectors $x_4$, $x_5$, $x_6$...</definition>
+<definitionid>14055</definitionid><notes>See also {jo'i}, {pi'a}, {sa'i}</notes></valsi>
+
 <valsi word="nacnilbra" type="lujvo"><definition>$x_1$ is the absolute value/norm of $x_2$.</definition>
 <definitionid>13960</definitionid><notes>See also {cu'a}</notes></valsi>
 
@@ -12739,7 +12856,7 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="nagi'a" type="cmavo cluster"><selmaho>GIhA*</selmaho><definition>logical connective: bridi-tail afterthought conditional/only if.</definition>
 <definitionid>1871</definitionid></valsi>
 
-<valsi word="naglatna" type="lujvo"><definition>$l_{1}$ is an Indian lotus/sacred lotus/bean of India, plant/flower/herb of species/strain  $l_{2}$ with nuts $n_{1}$.</definition>
+<valsi word="naglatna" type="lujvo"><definition>$l_{1}=n_2$ is an Indian lotus/sacred lotus/bean of India (Nelumbo nucifera) [plant/flower/herb], with nuts $n_{1}$,  of strain/cultivar  $l_{2}$ , symbolizing $l_3$ to culture/religion $l_4$.</definition>
 <definitionid>38328</definitionid><notes>The Linnaean binomial Nelumbo nucifera (Gaertn.) is the currently recognized name for this species, which has been classified under the former names, Nelumbium speciosum (Willd.) and Nymphaea nelumbo, among others. See also {latna}.</notes></valsi>
 
 <valsi word="nago'i" type="cmavo cluster"><selmaho>GOhA*</selmaho><definition>selbri: repeats preceding bridi while denying it as false; pro-assign values are unchanged.</definition>
@@ -12801,6 +12918,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="nalbolbi'o" type="lujvo"><definition>$bi_1$ unrolls under condition $bi_3$.</definition>
 <definitionid>18874</definitionid><notes>Cf. {na'e}, {bolci}, {binxo}.</notes></valsi>
+
+<valsi word="nalbrezu'e" type="lujvo"><definition>$x_1$ improvises $x_2$ (ka) for purpose/goal/to end $x_3$</definition>
+<definitionid>41940</definitionid></valsi>
 
 <valsi word="nalbro" type="lujvo"><definition>$b_1=n_1$ is gentile.</definition>
 <definitionid>13101</definitionid></valsi>
@@ -12906,6 +13026,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="nalxe'u" type="lujvo"><definition>$x_1$ is unrepentant of $x_2$.</definition>
 <definitionid>14168</definitionid><notes>See also {nalzungi}, {u'ucu'i}</notes></valsi>
+
+<valsi word="nalzaucru" type="lujvo"><definition>$x_1$ tolerates $x_2$ (event) under conditions $x_3$</definition>
+<definitionid>41994</definitionid></valsi>
 
 <valsi word="nalzungi" type="lujvo"><definition>$x_1$ is unremorseful of $x_2$.</definition>
 <definitionid>14170</definitionid><notes>See also {nalxe'u}, {u'unai}</notes></valsi>
@@ -13206,6 +13329,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="nikyge'u" type="lujvo"><definition>$g_1=n_1$ is an exaggerated creature/character (such as a dog made of nickel) of origin $g_2$</definition>
 <definitionid>17474</definitionid><notes>{nikle}, {gerku}</notes></valsi>
+
+<valsi word="nikyjinme" type="lujvo"><definition>$n_1$ is made of/contains/is a quantity of nickel (Ni).</definition>
+<definitionid>41887</definitionid><notes>Unlike {nikle}, this brivla is only true for nickel, but it is untrue for other metals resistant to oxidation. See also {jinme}.</notes></valsi>
 
 <valsi word="nilbra" type="lujvo"><definition>$x_1$ is the size of $x_2$ in property/dimension $x_3$ on scale $x_4$.</definition>
 <definitionid>13968</definitionid></valsi>
@@ -13518,6 +13644,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi unofficial="true" word="norgo" type="experimental gismu"><definition>$x_1$ reflects Norwegian culture/nationality in aspect $x_2$</definition>
 <definitionid>16923</definitionid><notes>Experimental gismu.</notes></valsi>
+
+<valsi word="norlunbe" type="lujvo"><definition>$l_1$ is half-naked; $l_1$ is partly without cover/clothes/[protection].</definition>
+<definitionid>41893</definitionid><notes>See also: {lunbe}, {no'e}, {taxfu}, {bandu}.</notes></valsi>
 
 <valsi word="normano" type="fu'ivla"><definition>$x_1$ reflects Norman culture/nationality/language in aspect $x_2$.</definition>
 <definitionid>18563</definitionid></valsi>
@@ -14392,6 +14521,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="pelnimre" type="lujvo"><definition>$x_1$ is a lemon of variety $x_2$.</definition>
 <definitionid>15822</definitionid><notes>Cf. {pelxu}, {nimre}, {ri'ornimre}, {najnimre}, {branimre}, {nimre}.</notes></valsi>
 
+<valsi word="pelnimryjisra" type="lujvo"><definition>$j_1$ is made of/contains/is a quantity of lemon juice made from lemon/lemons $j_2=n_1$.</definition>
+<definitionid>42199</definitionid><notes>See also: {pelnimre}, {jisra}, {pelxu}, {nimre}</notes></valsi>
+
 <valsi word="pelsmela" type="lujvo"><definition>$x_1$ is an apricot [fruit] of species/variety $x_2$</definition>
 <definitionid>20408</definitionid><notes>Cf. {smela}</notes></valsi>
 
@@ -14464,6 +14596,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="pesku'i" type="lujvo"><definition>$p_1=k_1$ is considerate of $p_2=k_2$.</definition>
 <definitionid>17306</definitionid><notes>Cf. {pensi}, {kurji}.</notes></valsi>
 
+<valsi unofficial="true" word="pesna" type="experimental gismu"><definition>$x_1$: its qualities are represented as a metaphor $x_2$ in dimension $x_3$+1,2</definition>
+<definitionid>41958</definitionid><notes>x3 can include references to x1 and x2. See {pe'a}, {sidysmu}, {tanru}, {metfo}, {ve} {lujvo}, {cimjvo}</notes></valsi>
+
 <valsi word="pesru'e" type="lujvo"><definition>$pr_1$ is cognition (process of thought) with inputs $pr_2=pe_2$, outputs $pr_3=pe_3$, passing through stages $pr_4$.</definition>
 <definitionid>18260</definitionid><notes>Cf. {puvypei}, {nunpei}, {selpei}.</notes></valsi>
 
@@ -14496,6 +14631,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="pezyfaltricu" type="lujvo"><definition>$t_1$ is a deciduous tree of species $t_2$.</definition>
 <definitionid>14407</definitionid><notes>Cf. {ze'erpezytricu}.</notes></valsi>
+
+<valsi word="pezysolrygu'i" type="lujvo"><definition>$g_1$ is sunlight which illuminates $g_3$ after passing through foliage of plant $p_2$ coming from the star/sun $s_1$</definition>
+<definitionid>41959</definitionid></valsi>
 
 <valsi word="pezyxruba" type="lujvo"><definition>$x_1$ is a quantity of sorrel of subspecies $x_2$. </definition>
 <definitionid>18793</definitionid><notes>Cf. {xruba}, {pezli}.</notes></valsi>
@@ -14551,8 +14689,8 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="pikci" type="gismu"><definition>$x_{1}$ begs/pleads/supplicates/entreats/implores/beseeches/prays [asks with humility] $x_{2}$ for $x_{3}$.</definition>
 <definitionid>843</definitionid><notes>Also importune, petition, plea, solicit; $x_2$ benefactor, patron; $x_3$ boon, favor, gift, alms. See also {cpedu} which is more general as to manner, {pindi}.</notes></valsi>
 
-<valsi word="piksku" type="lujvo"><definition>$c_1=p_3$ (agent) comments/remarks on/observes $c_2=p_1$ about subject $x_3=p_2$ to audience $x_4=c_3=p_4$ via expressive medium $x_5=c_5$.</definition>
-<definitionid>17236</definitionid><notes>Cf. {zgana}, {ga'a}, {za'a}, {retsku}.</notes></valsi>
+<valsi word="piksku" type="lujvo"><definition>$x_1$ makes comments $x_2$ (sedu'u/text/lu'e concept) for audience $x_3$  via expressive medium $x_4$</definition>
+<definitionid>41999</definitionid><notes>See {cusku}, {reisku}, {spusku}, {pinka}</notes></valsi>
 
 <valsi word="pikta" type="gismu"><definition>$x_{1}$ is a ticket entitling $x_{2}$ to entitlement/privilege $x_{3}$ (event/state) under conditions $x_{4}$.</definition>
 <definitionid>844</definitionid><notes>See also {jaspu}.</notes></valsi>
@@ -14806,6 +14944,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="plise" type="gismu"><definition>$x_{1}$ is an apple [fruit] of species/strain $x_{2}$.</definition>
 <definitionid>865</definitionid><notes>See also {grute}.</notes></valsi>
 
+<valsi word="plisyjisra" type="lujvo"><definition>$j_1$ is made of/contains/is a quantity of apple juice made from apple/apples $j_2=p_1$.</definition>
+<definitionid>42196</definitionid><notes>See also: {plise}, {jisra}</notes></valsi>
+
 <valsi word="plisysmigrute" type="lujvo"><definition>$g_1=s_1=p_1$ is a pome [fruit] of species/strain $g_2$.</definition>
 <definitionid>41787</definitionid><notes>In botany, a pome (after the Latin word for fruit: pōmum) is a type of fruit (={grute}) produced by flowering plants in the subtribe Malinae of the family Rosaceae. The best-known example of a pome is the apple (={plise}). See also: plants in the subtribe Malinae of the family Rosaceae (={plisysmispa}).</notes></valsi>
 
@@ -14815,8 +14956,8 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="plisytricu" type="lujvo"><definition>$x_{1}$ is an apple tree of tree species $x_{2}$.</definition>
 <definitionid>9124</definitionid></valsi>
 
-<valsi word="plisytsi" type="lujvo"><definition>$p_1=t_1$ is an apple seed.</definition>
-<definitionid>41825</definitionid><notes>See also: {plise}, {tsiju}.</notes></valsi>
+<valsi word="plisytsi" type="lujvo"><definition>$p_1=t_1$ is/are apple seed.</definition>
+<definitionid>41757</definitionid><notes>See also: {plise} and {tsiju}.</notes></valsi>
 
 <valsi word="plita" type="gismu"><rafsi>pit</rafsi><definition>$x_{1}$ is a plane [2-dimensional shape/form] defined by points $x_{2}$ (set); $x_{1}$ is flat/[smooth].</definition>
 <definitionid>866</definitionid><notes>Also: $x_1$ is even/planar/level.  ($x_2$ is a set of points at least sufficient to define the plane); See also {xutla}, {sefta}, {tapla}, {karda}, {boxfo}, {pinta}.</notes></valsi>
@@ -15442,6 +15583,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="raspalma" type="lujvo"><definition>$x_1$ is an oil palm tree of species $x_2$</definition>
 <definitionid>37941</definitionid><notes>Cf. {palma}, {grasu}, {koksypalma}</notes></valsi>
 
+<valsi word="rasrmiletia" type="fu'ivla"><definition>$g_1$ is a quantity of/is made of/contains Honge/Karanja/Pongamia oil from source $g_2$ [plant of genus Millettia].</definition>
+<definitionid>42018</definitionid><notes>See also: Millettia tree (={ricrmiletia}).</notes></valsi>
+
 <valsi word="rastergu'i" type="lujvo"><definition>$x_1$ is an oil lamp using animal or vegetable products, illuminating $x_2$ with light $x_1$.</definition>
 <definitionid>9181</definitionid><notes>Cf. {grasu}, {gusni}, {laktergu'i}, {fagytergu'i}, {dictergu'i}, {ctilytergu'i}.</notes></valsi>
 
@@ -15778,6 +15922,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="ri'ortcati" type="lujvo"><definition>$t_1$ is green tea brewed from $t_2$.</definition>
 <definitionid>14393</definitionid><notes>see also {tcati}</notes></valsi>
 
+<valsi word="ri'ospa" type="lujvo"><definition>$s_1=c_1$ is a green plant/viridiplantae/viridiphyta/chlorobionta/plantae sensu strictu of species/strain/cultivar $s_2$</definition>
+<definitionid>41916</definitionid><notes>This group includes the land plants plus various groups of green algae, including stoneworts. The names given to these groups vary considerably as of July 2011. Viridiplantae encompass a group of organisms that possess chlorophyll a and b, have plastids that are bound by only two membranes, are capable of storing starch, and have cellulose in their cell walls.</notes></valsi>
+
 <valsi word="ri'u" type="cmavo"><selmaho>FAhA2</selmaho><definition>location tense relation/direction; rightwards/to the right of ...</definition>
 <definitionid>2053</definitionid></valsi>
 
@@ -15796,6 +15943,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="ricfu" type="gismu"><rafsi>rif</rafsi><rafsi>cfu</rafsi><definition>$x_{1}$ is rich/wealthy in goods/possessions/property/aspect $x_{2}$.</definition>
 <definitionid>926</definitionid><notes>See also {solji}, {banzu}, {dukse}, {pindi}.</notes></valsi>
 
+<valsi word="ricnritrina" type="fu'ivla"><definition>$s_1$ is a coral tree/flame tree (genus Erythrina) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41933</definitionid><notes>See also: erythravine (={xumnritrina}).</notes></valsi>
+
 <valsi word="ricrbau'inia" type="fu'ivla"><definition>$t_1$ is a Mountain Ebony/Kachnar/orchid tree (genus Bauhinia) of species/cultivar $t_2$.</definition>
 <definitionid>41590</definitionid></valsi>
 
@@ -15811,20 +15961,38 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="ricrceraso" type="fu'ivla"><definition>$x_1$ is a cherry tree of species $x_2$.</definition>
 <definitionid>13536</definitionid><notes>see also {rutrceraso}</notes></valsi>
 
+<valsi word="ricrceratonia" type="fu'ivla"><definition>$t_1$ is a carob tree/St John's-bread (genus Ceratonia) of species/cultivar $t_2$.</definition>
+<definitionid>41905</definitionid></valsi>
+
+<valsi word="ricrcerci" type="fu'ivla"><definition>$t_1$ is a redbud/Judas tree (genus Cercis) of species/cultivar $t_2$.</definition>
+<definitionid>41912</definitionid></valsi>
+
 <valsi word="ricrcinamomu" type="fu'ivla"><definition>$x_1$ is a cinnamon tree (genus Cinnamomum) of species/cultivar $x_2$.</definition>
 <definitionid>38361</definitionid><notes>See also cinnamon spice (={tsaprcinamomu}).</notes></valsi>
 
 <valsi word="ricrcladrasti" type="fu'ivla"><definition>$t_1$ is a yellowwood (genus Cladrastis) of species/cultivar $t_2$.</definition>
 <definitionid>39023</definitionid></valsi>
 
+<valsi word="ricrdalbergia" type="fu'ivla"><definition>$t_1$ is a rosewood/kingwood/tracwood/pinkwood/tulipwood/African blackwood/zebrawood/cocobolo tree (genus Dalbergia), of species/cultivar $t_2$.</definition>
+<definitionid>42025</definitionid></valsi>
+
 <valsi word="ricrdeloni" type="fu'ivla"><definition>$s_1$ is a poinciana tree (genus Delonix ) of species/cultivar $s_2$.</definition>
 <definitionid>39014</definitionid></valsi>
+
+<valsi word="ricrdenantera" type="fu'ivla"><definition>$t_1$ is a Barbados pride/coralwood/peacock flower fence/red beadtree/(red) sandalwood tree/saga (genus Adenanthera) of species/cultivar $s_2$.</definition>
+<definitionid>41937</definitionid></valsi>
 
 <valsi word="ricrdiplotropi" type="fu'ivla"><definition>$t_1$ is a tree of genus Diplotropis of species/cultivar $t_2$.</definition>
 <definitionid>39009</definitionid></valsi>
 
 <valsi word="ricrfokaji" type="fu'ivla"><definition>$t_1$ is an orchid tree/tree of genus Amherstia of species/cultivar $t_2$.</definition>
 <definitionid>41489</definitionid><notes>From Burmese: သော်ကကြီး [θɔ̀ka̰ dʑí]; the Pride of Burma.</notes></valsi>
+
+<valsi word="ricrgimnocladu" type="fu'ivla"><definition>$s_1$ is a Kentucky coffeetree/soap tree (genus Gymnocladus) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41925</definitionid><notes>See also: Kentucky coffee (={kafrgimnocladu}).</notes></valsi>
+
+<valsi word="ricrgleditsia" type="fu'ivla"><definition>$s_1$ is a locust tree (genus Gleditsia) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41939</definitionid></valsi>
 
 <valsi word="ricrgosueilerodendro" type="fu'ivla"><definition>$t_1$ is a tree of genus Gossweilerodendron of species/cultivar $t_2$.</definition>
 <definitionid>41448</definitionid></valsi>
@@ -15838,11 +16006,23 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="ricrkanela" type="fu'ivla"><definition>$x_1$ is a white/wild cinnamon (genus Canella) of species/strain $x_2$.</definition>
 <definitionid>38357</definitionid><notes>See also "cinnamon bark" (={tsaprkanela}).</notes></valsi>
 
+<valsi word="ricrkaragana" type="fu'ivla"><definition>$s_1$ is a caragana  tree (genus Caragana) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41922</definitionid></valsi>
+
+<valsi word="ricrkasia" type="fu'ivla"><definition>$s_1$ is a cassia tree (genus Cassia) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41923</definitionid><notes>Not to be confused with some species of genera Cinnamomum (={ricrcinamomu}) and Senna (={sparsena}).</notes></valsi>
+
 <valsi word="ricrkastanospermu" type="fu'ivla"><definition>$r_1$ is a Moreton Bay chestnut/Blackbean tree (genus Castanospermum) of species/cultivar $s_2$.</definition>
 <definitionid>39000</definitionid></valsi>
 
 <valsi word="ricrkladrasti" type="fu'ivla"><definition>$t_1$ is a yellowwood (genus Cladrastis) of species/cultivar $t_2$.</definition>
 <definitionid>41605</definitionid></valsi>
+
+<valsi word="ricrko'ompasia" type="fu'ivla"><definition>$s_1$ is a tulang/mengaris tree (genus Koompassia) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41924</definitionid><notes>One of the tallest tropical tree species.</notes></valsi>
+
+<valsi word="ricrkolofospermu" type="fu'ivla"><definition>$t_1$ is a Mopani/Mopane tree (genus Colophospermum), of species/cultivar $t_2$.</definition>
+<definitionid>42019</definitionid></valsi>
 
 <valsi word="ricrkordiline" type="fu'ivla"><definition>$t_1$ is a tī/palm lily (genus Cordyline) of species/cultivar $t_2$.</definition>
 <definitionid>38647</definitionid><notes>For species of this genus which are not trees, see {sparkordiline}.</notes></valsi>
@@ -15858,6 +16038,18 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="ricrle'ucena" type="fu'ivla"><definition>$t_1$ is a leadtree/ipil-ipil tree (genus Leucaena) of species/cultivar $t_2$.</definition>
 <definitionid>41623</definitionid><notes>Ipil-ipil tree (=Leucaena leucocephala).</notes></valsi>
+
+<valsi word="ricrle'ukena" type="fu'ivla"><definition>$t_1$ is a leadtree (genus Leucaena) of species/cultivar $t_2$.</definition>
+<definitionid>41895</definitionid><notes>See also: fruit from this genus (={rutrle'ukena}).</notes></valsi>
+
+<valsi word="ricrmaki" type="fu'ivla"><definition>$s_1$ is a tree of genus Maackia of species/strain/cultivar $s_2$.</definition>
+<definitionid>41970</definitionid></valsi>
+
+<valsi word="ricrmakia" type="fu'ivla"><definition>$t_1$ is a tree of genus Maackia of species/cultivar $t_2$.</definition>
+<definitionid>42016</definitionid><notes>Named after the botanist Richard Maack.</notes></valsi>
+
+<valsi word="ricrmiletia" type="fu'ivla"><definition>$t_1$ is an Indian Beech/Pongam Oiltree/Honge/tree of genus Millettia, of species/cultivar $t_2$.</definition>
+<definitionid>42017</definitionid></valsi>
 
 <valsi word="ricrmiristika" type="fu'ivla"><definition>$x_1$ is a nutmeg tree (genus Myristica) of species/cultivar $x_2$.</definition>
 <definitionid>38366</definitionid></valsi>
@@ -15877,8 +16069,17 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="ricrprunu" type="fu'ivla"><definition>$x_1$ is a plum/peach/cherry/apricot/sloe tree of species/variety $x_2$.</definition>
 <definitionid>18829</definitionid><notes>see also {rutrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi}, {fragari}, {plise}, {rozgu}</notes></valsi>
 
+<valsi word="ricrpterokarpu" type="fu'ivla"><definition>$t_1$ is a (red) sanders/sandalwood/wild teak/padauk/barwood/muninga/Indian kino tree/mututi tree (genus Pterocarpus), of species/cultivar $t_2$.</definition>
+<definitionid>42022</definitionid></valsi>
+
+<valsi word="ricrstifnolobi" type="fu'ivla"><definition>$t_1$ is a Pagoda tree/Coralbean/Eve's Necklace tree (genus Styphnolobium), of species/cultivar $t_2$.</definition>
+<definitionid>42024</definitionid></valsi>
+
 <valsi word="ricrte'obroma" type="fu'ivla"><definition>$t_1$ is a tree of genus Theobroma of species/cultivar $t_2$.</definition>
 <definitionid>38866</definitionid><notes>See also cacao tree (T. cacao; ={caklytricu}).</notes></valsi>
+
+<valsi word="ricrxematoksilu" type="fu'ivla"><definition>$s_1$ is a logwood/palo de brasil/peachwood  tree (genus Haematoxylum) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41920</definitionid></valsi>
 
 <valsi word="rictu'a" type="lujvo"><definition>$tu_1$ is a forest of $tr_1$.</definition>
 <definitionid>2626</definitionid></valsi>
@@ -15927,6 +16128,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="rinci" type="gismu"><definition>$x_{1}$ liquid/fluid drains/strains/flushes from source $x_{2}$ through drain/strainer $x_{3}$ by force $x_{4}$.</definition>
 <definitionid>931</definitionid><notes>$x_4$ is usually gravity.  See also {pambe}, {tisna}, {setca}, {flecu}, {muvdu}, {ganxo}, {rirxe}.</notes></valsi>
+
+<valsi unofficial="true" word="rindo" type="experimental gismu"><definition>$x_1$ is Native American/Indian in aspect $x_2$</definition>
+<definitionid>38542</definitionid><notes>See also {abniena}, {niengatu}, {nienke'a}, {ancinabe}, {tsalagi}, {siksika}.</notes></valsi>
 
 <valsi word="rinju" type="gismu"><rafsi>ri'u</rafsi><definition>$x_{1}$ is restrained/held [back]/constrained/kept by restraint $x_{2}$ against $x_{3}$ (event).</definition>
 <definitionid>932</definitionid><notes>Also: $x_2$ is a restraint/binding for $x_1$, $x_2$ keeps/restrains/holds [back]/constrains $x_1$ from $x_3$ (= selri'u for reordered places); agentive restraint (= {ri'urgau}, {ri'urzu'e}).  See also {zifre}, {ralte}, {pinfu}, {kavbu}, {fanta}, {jgari}, {jimte}, {bapli}, {curmi}, {kluza}, {tagji}.</notes></valsi>
@@ -16014,6 +16218,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="ro'inai" type="cmavo cluster"><selmaho>UI*4</selmaho><definition>emotion category/modifier: emotional - denying emotion.</definition>
 <definitionid>2060</definitionid></valsi>
+
+<valsi word="ro'ixra" type="lujvo"><definition>$p_1$=$r_1$ is a statue of $p_2$, made by artist $p_3$, using materials (kind of rock, etc.) $r_2$. </definition>
+<definitionid>41985</definitionid><notes>See also: {rokci}, {pixra}, {blixra}.</notes></valsi>
 
 <valsi word="ro'o" type="cmavo"><selmaho>UI4</selmaho><definition>emotion category/modifier: physical - denying physical.</definition>
 <definitionid>2061</definitionid><notes>See also {xadni}.</notes></valsi>
@@ -16279,7 +16486,7 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="rulsantyspa" type="lujvo"><definition>$x_1$ is an umbellifer (Apiaceae) of genus/species $x_2$.</definition>
 <definitionid>13598</definitionid></valsi>
 
-<valsi word="rulspa" type="lujvo"><definition>$x_1=s_1=xr_2$ is an angiosperm of species $x_2=s_2$ with flower/blossom/bloom $x_3=xr_1$</definition>
+<valsi word="rulspa" type="lujvo"><definition>$x_1=s_1=xr_2$ is an angiosperm/magnoliophyta of species $x_2=s_2$ with flower/blossom/bloom $x_3=xr_1$</definition>
 <definitionid>20711</definitionid></valsi>
 
 <valsi word="rumgau" type="lujvo"><definition>$g_1$ causes $r_1$ to melt at temperature $r_2$ and pressure $r_3$; $x_1$ melts object $x_2$.</definition>
@@ -16351,6 +16558,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 <valsi word="rutrceraso" type="fu'ivla"><definition>$x_1$ is a cherry of species $x_2$.</definition>
 <definitionid>13537</definitionid><notes>see also {ricrceraso}</notes></valsi>
 
+<valsi word="rutrceratonia" type="fu'ivla"><definition>$g_1$ is a carob pod (genus Ceratonia) of variation/variety/cultivar $g_2$.</definition>
+<definitionid>41906</definitionid><notes>Carob syrup (={satyviknu} be lo rutrceratonia; or {vikrceratonia}).</notes></valsi>
+
 <valsi word="rutrcerimoia" type="fu'ivla"><definition>$x_1$ is a cherimoya (Annona cherimoya) of species/strain $x_2$.</definition>
 <definitionid>38406</definitionid></valsi>
 
@@ -16365,6 +16575,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="rutrkoko" type="fu'ivla"><definition>$x_1$ is a coconut of variety/cultivar $x_2$</definition>
 <definitionid>18239</definitionid></valsi>
+
+<valsi word="rutrle'ukena" type="fu'ivla"><definition>$g_1$ is a phakatin/pod from genus Leucaena of species/strain $g_2$.</definition>
+<definitionid>41896</definitionid><notes>See also: leadtree (={ricrle'ukena}).</notes></valsi>
 
 <valsi word="rutrmalpigi" type="fu'ivla"><definition>$x_1$ is an acerola of species/variety $x_2$.</definition>
 <definitionid>15811</definitionid><notes>see also {ragrmalpigi}</notes></valsi>
@@ -16395,6 +16608,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="rutrvanila" type="fu'ivla"><definition>$g_1$ is a vanilla pod of variation/variety/cultivar $g_2$.</definition>
 <definitionid>41354</definitionid></valsi>
+
+<valsi word="rutrximene'a" type="fu'ivla"><definition>$s_1$ is a algarrobo/azúcar huayo/jatobá/fruit of genus Hymenaea, of species/strain/cultivar $s_2$.</definition>
+<definitionid>41903</definitionid></valsi>
 
 <valsi word="rutsalta" type="lujvo"><definition>$s_1$ (mass) is a quantity of fruit salad [food] with ingredients/components including $r_1=s_2$ (mostly fruits).</definition>
 <definitionid>38853</definitionid></valsi>
@@ -16461,6 +16677,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="sackycmu" type="lujvo"><definition>$x_1$ is phosphorus.</definition>
 <definitionid>13589</definitionid></valsi>
+
+<valsi word="sackyta'e" type="lujvo"><definition>$t_1$ is a matchbox made of material $t_3$.</definition>
+<definitionid>41889</definitionid><notes>See also: {sacki}, {tanxe}</notes></valsi>
 
 <valsi word="saclu" type="gismu"><definition>$x_{1}$ (me'o) is the [decimal/binary] equivalent of fractional $x_{2}$ (me'o) in base $x_{3}$ (quantity).</definition>
 <definitionid>958</definitionid><notes>Conversion from fractions to decimal-point based notation. See also {namcu}, {frinu}.</notes></valsi>
@@ -16581,6 +16800,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="samcrniame" type="fu'ivla"><definition>$x_1$ is a yam (Dioscorea) of species/variety $x_2$.</definition>
 <definitionid>14007</definitionid><notes>see also {samcu}</notes></valsi>
+
+<valsi word="samcrpakirizu" type="fu'ivla"><definition>$s_1$ is a yam bean/jícama/goiteño/ahipa edible root (genus Pachyrhizus) of species/variety $s_2$.</definition>
+<definitionid>41898</definitionid><notes>See also: yam bean (={sparpakirizu};plant), yam bean (={debrpakirizu};bean).</notes></valsi>
 
 <valsi word="samcrpediomelu" type="fu'ivla"><definition>$s_1$ is a quantity of Indian breadroots (genus Pediomelum) of species/cultivar $s_2$.</definition>
 <definitionid>41598</definitionid></valsi>
@@ -16824,6 +17046,9 @@ See also coffeemaker (={kafpraca'a}), barista (={crekafpra}), fika/coffee break 
 
 <valsi word="sasysluni" type="lujvo"><definition>$x_1$ is a  rush leek (Allium schoenoprasum) of variety/strain $x_2$.</definition>
 <definitionid>38453</definitionid></valsi>
+
+<valsi word="sasysmispa" type="lujvo"><definition>$s_1$ is a sedge (plant in family Cyperaceae) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41935</definitionid><notes>Sedge superficially resembles grasses or rushes.</notes></valsi>
 
 <valsi word="satci" type="gismu"><definition>$x_{1}$ [measurement/match] is exact/precise to precision $x_{2}$ in property/quantity $x_{3}$ (ka/ni).</definition>
 <definitionid>980</definitionid><notes>See also {sarxe}, {dunli}, {merli}, {mapti}, {kancu}, {mintu}.</notes></valsi>
@@ -18326,6 +18551,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sipyva'u" type="lujvo"><definition>$x1=s1=v1$ snores</definition>
 <definitionid>32215</definitionid></valsi>
 
+<valsi word="sirjga" type="lujvo"><definition>$j_1=s_1$ is a straight angle (=180° or π radians) [2-dimensional shape/form] from vertex $j_2$ subtended by lateral [segment] $j_3$.</definition>
+<definitionid>41972</definitionid></valsi>
+
 <valsi word="sirji" type="gismu"><rafsi>sir</rafsi><definition>$x_{1}$ is straight/direct/line segment/interval between $x_{2}$ and $x_{3}$; (adjective:)  $x_{1}$ is linear.</definition>
 <definitionid>1015</definitionid><notes>See also {korcu}, {linji}, {kruvi}, {kuspe}.</notes></valsi>
 
@@ -18908,6 +19136,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sorselcei" type="lujvo"><definition>$c_2$ believes in many gods/deities $c_1$ with dominion over $c_3$; c2 is a polytheist.</definition>
 <definitionid>18791</definitionid><notes>Cf. {cevni}, {ceikri}, {nalceikri}, {selcei}, {pavyselcei}, {nonselcei}, {ceirsenpi}.</notes></valsi>
 
+<valsi word="sorselsmu" type="lujvo"><definition>$x_1$ has many meanings/is polysemous to interpreter $x_2$</definition>
+<definitionid>42009</definitionid></valsi>
+
 <valsi word="sorsipydi'u" type="lujvo"><definition>$d_1$ is a dormitory (building/place) where people $x_2$ (complete mass) sleep.</definition>
 <definitionid>17496</definitionid><notes>$x_1$ is from {dinju} and $x_2$ is invented but related to {sipna}$_1$. $x_2$ should be used for all the people; e.g. "mi se sorsipydi'u" incorrect speaking for yourself.</notes></valsi>
 
@@ -18973,6 +19204,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="spano" type="gismu"><rafsi>san</rafsi><definition>$x_{1}$ reflects Spanish-speaking culture/nationality/language in aspect $x_{2}$.</definition>
 <definitionid>1071</definitionid><notes>Metaphorical restriction to Spain by contrast with xispo (comparable to the distinction between glico and merko/sralo/brito/kadno); Spain (= {sangu'e}); Spanish dialects spoken in Spain, especially Castillian (= {sansanbau}).  See also {xispo}, {ketco}, {mexno}, {gento}.</notes></valsi>
+
+<valsi word="spanraki" type="fu'ivla"><definition>$s_1$ is a peanut plant/plant from genus Arachis, of species/strain/cultivar $s_2$.</definition>
+<definitionid>41910</definitionid></valsi>
 
 <valsi word="sparaci" type="fu'ivla"><definition>$s_1$ is a plant of the genus Acis of species/strain/cultivar $s_2$.</definition>
 <definitionid>38622</definitionid></valsi>
@@ -19082,6 +19316,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sparblomeria" type="fu'ivla"><definition>$s_1$ is a goldenstar (genus Bloomeria) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38669</definitionid></valsi>
 
+<valsi word="sparbobgunia" type="fu'ivla"><definition>$s_1$ is a  plant of genus Bobgunnia of species/strain/cultivar $s_2$.</definition>
+<definitionid>42021</definitionid></valsi>
+
 <valsi word="sparbrasavola" type="fu'ivla"><definition>$s_1$ is an orchid of genus Brassavola of species/strain/cultivar $s_2$.</definition>
 <definitionid>38947</definitionid></valsi>
 
@@ -19112,6 +19349,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sparcesalpino" type="fu'ivla"><definition>$s_1$ is a nicker/holdback/plant of genus Caesalpinia of species/strain/cultivar $s_2$.</definition>
 <definitionid>41594</definitionid><notes>The generic name honors the botanist, physician and philosopher Andrea Cesalpino (1519-1603).</notes></valsi>
 
+<valsi word="sparcice" type="fu'ivla"><definition>$s_1$ is a plant [legume] of genus Cicer of species/strain/cultivar $s_2$.</definition>
+<definitionid>41928</definitionid><notes>See also: chickpea (={debrcice}).</notes></valsi>
+
 <valsi word="sparcicerbita" type="fu'ivla"><definition>$s_1$ is a blue sow thistle (genus Cicerbita) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38805</definitionid></valsi>
 
@@ -19139,6 +19379,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sparcitisu" type="fu'ivla"><definition>$s_1$ is a broom (genus Cytisus) of species/strain/cultivar $s_2$.</definition>
 <definitionid>41617</definitionid></valsi>
 
+<valsi word="sparcli'antu" type="fu'ivla"><definition>$s_1$ is a Kakabeak/parrot's beak/parrot's bill/lobster claw (plant of genus Clianthus) of species/strain/cultivar $s_2$.</definition>
+<definitionid>42026</definitionid></valsi>
+
 <valsi word="spardaktiloriza" type="fu'ivla"><definition>$s_1$ is a marsh orchid/spotted orchid  (genus Dactylorhiza) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38900</definitionid></valsi>
 
@@ -19156,6 +19399,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="sparderi" type="fu'ivla"><definition>$s_1$ is a plant of genus Derris of species/strain/cultivar $s_2$.</definition>
 <definitionid>39006</definitionid><notes>See also derris powder (={pumrderi}).</notes></valsi>
+
+<valsi word="spardesmodi" type="fu'ivla"><definition>$s_1$ is a tick-trefoil/tick clover/hitch hikers/beggar lice (genus Desmodium) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41969</definitionid></valsi>
 
 <valsi word="spardi'erama" type="fu'ivla"><definition>$s_1$ is a fairy's fishing rods/fairy's wands/fairy bells/wedding bells/hairbells/harebells (genus Dierama) of species/cultivar $s_2$.</definition>
 <definitionid>38700</definitionid></valsi>
@@ -19180,6 +19426,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="spardori'ante" type="fu'ivla"><definition>$s_1$ is a gomea lily/giant spear lily (genus Doryanthes) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38672</definitionid></valsi>
+
+<valsi word="spardoricni" type="fu'ivla"><definition>$s_1$ is a plant of genus Dorycnium of species/strain/cultivar $s_2$.</definition>
+<definitionid>41963</definitionid></valsi>
 
 <valsi word="spardoroniku" type="fu'ivla"><definition>$s_1$ is a leopard's bane/plant of genus Doronicum of species/cultivar $s_2$.</definition>
 <definitionid>38735</definitionid></valsi>
@@ -19253,6 +19502,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sparfedranasa" type="fu'ivla"><definition>$s_1$ is a plant of the genus Phaedranassa of species/strain/cultivar $s_2$.</definition>
 <definitionid>38618</definitionid></valsi>
 
+<valsi word="sparfisostigma" type="fu'ivla"><definition>$s_1$ is a plant of genus Physostigma of species/strain/cultivar $s_2$.</definition>
+<definitionid>41914</definitionid></valsi>
+
 <valsi word="sparflaveria" type="fu'ivla"><definition>$s_1$ is a yellowtop (genus Flaveria) of species/cultivar $s_2$.</definition>
 <definitionid>38731</definitionid></valsi>
 
@@ -19322,6 +19574,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sparkalendula" type="fu'ivla"><definition>$s_1$ is a calendula/marigold (genus Melampodium) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38777</definitionid></valsi>
 
+<valsi word="sparkaliandra" type="fu'ivla"><definition>$s_1$ is a fairy duster/powder puff  plant (genus Calliandra) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41915</definitionid></valsi>
+
 <valsi word="sparkalipso" type="fu'ivla"><definition>$s_1$ is a calypso orchid/fairy slipper/Venus's slipper (genus Calypso) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38949</definitionid></valsi>
 
@@ -19336,6 +19591,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="sparkatananke" type="fu'ivla"><definition>$s_1$ is a Cupid's dart/blue cupidone/cerverina (genus Catananche) of species/cultivar $s_2$.</definition>
 <definitionid>38736</definitionid></valsi>
+
+<valsi word="sparkenedia" type="fu'ivla"><definition>$s_1$ is a kennedia/coral pea  plant (genus Kennedia) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41936</definitionid></valsi>
 
 <valsi word="sparkenomele" type="fu'ivla"><definition>$s_1$ is a japanese/flowering quince (genus Chaenomeles) of species/strain/cultivar x2.</definition>
 <definitionid>41425</definitionid></valsi>
@@ -19379,6 +19637,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sparkore'opsi" type="fu'ivla"><definition>$s_1$ is a calliopsis/tickseed (genus Cicerbita) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38808</definitionid></valsi>
 
+<valsi word="sparkorizema" type="fu'ivla"><definition>$s_1$ is a flame pea  plant (genus Chorizema) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41944</definitionid></valsi>
+
+<valsi word="sparkoronila" type="fu'ivla"><definition>$s_1$ is a crown/scorpion vetch (genus Coronilla) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41941</definitionid></valsi>
+
 <valsi word="sparkrisantemu" type="fu'ivla"><definition>$s_1$ is a chrysanth/mum/xant (genus Chrysantemum) of species/cultivar $s_2$.</definition>
 <definitionid>38754</definitionid></valsi>
 
@@ -19387,6 +19651,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="sparkrokosmia" type="fu'ivla"><definition>$s_1$ is a montbretia/coppertips/falling stars/antholyza/curtonus (genus Crocosmia) of species/cultivar $s_2$.</definition>
 <definitionid>38695</definitionid></valsi>
+
+<valsi word="sparksitropi" type="fu'ivla"><definition>$s_1$ is a locoweed/crazyweed (genus Oxytropis) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41930</definitionid></valsi>
+
+<valsi word="sparkumerovia" type="fu'ivla"><definition>$s_1$ is a Japanese/Korean bushclover (genus Kummerowia) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41943</definitionid></valsi>
 
 <valsi word="sparlablabi" type="fu'ivla"><definition>$s_1$ is a hyacinth bean/Indian bean/calavance/seim/Egyptian bean (genus Lablab) of species/strain/cultivar $s_2$.</definition>
 <definitionid>41615</definitionid><notes>See also {debrlablabi}.</notes></valsi>
@@ -19442,8 +19712,14 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sparlonkokarpu" type="fu'ivla"><definition>$s_1$ is a lancepod (genus Lonchocarpus) of species/strain/cultivar $s_2$.</definition>
 <definitionid>41589</definitionid></valsi>
 
+<valsi word="sparlota" type="fu'ivla"><definition>$s_1$ is a bird's-foot (trefoil)/bacon-and-eggs/deervetch  plant (genus Lotus) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41946</definitionid></valsi>
+
 <valsi word="sparludisi'a" type="fu'ivla"><definition>$s_1$ is a jewel orchid  (genus Ludisia) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38908</definitionid></valsi>
+
+<valsi word="sparlupini" type="fu'ivla"><definition>$s_1$ is a lupin/lupine (genus Lupinus) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41964</definitionid><notes>See also: lupin beans (={debrlupini}).</notes></valsi>
 
 <valsi word="sparmadevalia" type="fu'ivla"><definition>$s_1$ is an orchid of genus Masdevallia of species/strain/cultivar $s_2$.</definition>
 <definitionid>38939</definitionid></valsi>
@@ -19462,6 +19738,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="sparmaurantemu" type="fu'ivla"><definition>$s_1$ is a daisy (genus Mauranthemum) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38775</definitionid></valsi>
+
+<valsi word="sparmedika" type="fu'ivla"><definition>$s_1$ is a medick/burclover (genus Medicago) of species/strain/cultivar $s_2$ (default: Medicago sativa)</definition>
+<definitionid>41967</definitionid><notes>Type species: alfalfa [M. sativa] (=lo'e sparmedika).
+The genus name is based on the Latin name for that plant, medica.</notes></valsi>
 
 <valsi word="sparmelampodi" type="fu'ivla"><definition>$s_1$ is a blackfoot (genus Melampodium) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38767</definitionid></valsi>
@@ -19507,6 +19787,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="sparne'otine'a" type="fu'ivla"><definition>$s_1$ is an orchid of genus Neotinea of species/strain/cultivar $s_2$.</definition>
 <definitionid>41350</definitionid></valsi>
+
+<valsi word="sparneptunia" type="fu'ivla"><definition>$s_1$ is a sensitive plant/yellow-puff/water mimosa (genus Neptunia) of species/strain/cultivar $s_2$.</definition>
+<definitionid>42020</definitionid></valsi>
 
 <valsi word="sparnerine" type="fu'ivla"><definition>$s_1$ is a plant of the genus Nerine of species/strain/cultivar $s_2$.</definition>
 <definitionid>38621</definitionid></valsi>
@@ -19583,11 +19866,17 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="sparpafiopedilu" type="fu'ivla"><definition>$s_1$ is an orchid of genus Paphiopedilum of species/strain/cultivar $s_2$.</definition>
 <definitionid>41360</definitionid></valsi>
 
+<valsi word="sparpakirizu" type="fu'ivla"><definition>$s_1$ is a yam bean/jícama/goiteño/ahipa plant (genus Pachyrhizus) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41897</definitionid><notes>See also: yam bean (={debrpakirizu}; bean), yam bean (={samcrpakirizu}; edible root).</notes></valsi>
+
 <valsi word="sparpapilionante" type="fu'ivla"><definition>$s_1$ is an orchid of genus Papilionanthe of species/strain/cultivar $s_2$.</definition>
 <definitionid>41347</definitionid></valsi>
 
 <valsi word="sparparasenekio" type="fu'ivla"><definition>$s_1$ is a plant of genus Parasenecio of species/strain/cultivar $s_2$.</definition>
 <definitionid>38792</definitionid></valsi>
+
+<valsi word="sparparkinsonia" type="fu'ivla"><definition>$s_1$ is a palo verde  plant (genus Parkinsonia, also Cercidium) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41904</definitionid></valsi>
 
 <valsi word="sparpediomelu" type="fu'ivla"><definition>$s_1$ is an Indian breadroot (genus Pediomelum) of species/strain/cultivar $s_2$.</definition>
 <definitionid>41597</definitionid></valsi>
@@ -19633,6 +19922,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="sparpsofokarpu" type="fu'ivla"><definition>$s_1$ is a plant of genus Psophocarpus of species/strain/cultivar $s_2$.</definition>
 <definitionid>39021</definitionid></valsi>
+
+<valsi word="sparpu'eraria" type="fu'ivla"><definition>$s_1$ is a kudzu/kwao krua  plant (genus Pueraria) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41942</definitionid></valsi>
 
 <valsi word="sparpulikaria" type="fu'ivla"><definition>$s_1$ is a fleabane (genus Pulicaria) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38759</definitionid></valsi>
@@ -19706,6 +19998,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="spartragopogo" type="fu'ivla"><definition>$s_1$ is a salsify/goatsbeard (genus Tragopogon) of species/cultivar $s_2$.</definition>
 <definitionid>38739</definitionid></valsi>
 
+<valsi word="spartrifoli" type="fu'ivla"><definition>$s_1$ is a clover/trefoil (genus Trifolium) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41932</definitionid><notes>Shamrock (={citno} {spartrifoli};{sparcemro}). Four-leaf clover (={pezvonmei}/{fungau} spartrifoli).</notes></valsi>
+
 <valsi word="spartrikocentro" type="fu'ivla"><definition>$s_1$ is an orchid of genus Trichocentrum of species/strain/cultivar $s_2$.</definition>
 <definitionid>41330</definitionid></valsi>
 
@@ -19738,6 +20033,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="sparxiacintu" type="fu'ivla"><definition>$x_1$ is a hyacinth (genus Hyacinthus) of species/strain $x_2$.</definition>
 <definitionid>38428</definitionid></valsi>
+
+<valsi word="sparximene'a" type="fu'ivla"><definition>$s_1$ is a algarrobo/azúcar huayo/jatobá/plant of genus Hymenaea, of species/strain/cultivar $s_2$.</definition>
+<definitionid>41901</definitionid></valsi>
 
 <valsi word="sparxipokrepi" type="fu'ivla"><definition>$s_1$ is a plant of genus Hippocrepis of species/strain/cultivar $s_2$.</definition>
 <definitionid>41618</definitionid></valsi>
@@ -19817,6 +20115,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="spatrkroku" type="fu'ivla"><definition>$s_1$ is a plant of genus Crocus of species/cultivar $s_2$.</definition>
 <definitionid>38692</definitionid></valsi>
 
+<valsi word="spatrlenti" type="fu'ivla"><definition>$s_1$ is a lentil plant (genus Lens) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41949</definitionid><notes>See also: lentil (={debrlenti})</notes></valsi>
+
 <valsi word="spatrleoxari" type="fu'ivla"><definition>$x_1$ is a water chestnut (plant) of species/variety $x_2$.</definition>
 <definitionid>13966</definitionid><notes>see also {stagrleoxari}</notes></valsi>
 
@@ -19859,8 +20160,14 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="spatrsprekelia" type="fu'ivla"><definition>$s_1$ is an aztec lily (genus Sprekelia) of species/strain/cultivar $s_2$.</definition>
 <definitionid>38617</definitionid></valsi>
 
+<valsi word="spatrstragalu" type="fu'ivla"><definition>$s_1$ is a milk-vetch/locoweed/goat's-thorn  plant (genus Astragalus) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41931</definitionid></valsi>
+
 <valsi word="spatrstrongilodo" type="fu'ivla"><definition>$s_1$ is a jade vine/emerald vine (genus Strongylodon) of species/strain/cultivar $s_2$.</definition>
 <definitionid>41624</definitionid><notes>The superficially similar red jade vine, Mucuna bennetti, is a species belonging to a different genus.</notes></valsi>
+
+<valsi word="spatrtermopsi" type="fu'ivla"><definition>$s_1$ is a goldenbanner (genus Thermopsis) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41966</definitionid></valsi>
 
 <valsi word="spatrvanda" type="fu'ivla"><definition>$s_1$ is an orchid of genus Vanda of species/strain/cultivar $s_2$.</definition>
 <definitionid>41352</definitionid></valsi>
@@ -19943,8 +20250,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="spuda" type="gismu"><rafsi>spu</rafsi><definition>$x_{1}$ answers/replies to/responds to person/object/event/situation/stimulus $x_{2}$ with response $x_{3}$.</definition>
 <definitionid>1078</definitionid><notes>$x_3$ also answer/reply.  If $x_2$ is a person/object, it will usually require "tu'a" indicating that the reply/response is to that person/object doing something.  "tu'a" may not be needed if the person/object itself is the stimulus, rather than something it is doing. See also {cusku}, {preti}, {nabmi}, {danfu}, {frati}, {cpedu}.</notes></valsi>
 
-<valsi word="spusku" type="lujvo"><definition>$x_1$ is a speaker responding/answering with said $x_2$ (sedu'u/text/lu'e concept) to $x_3$ with expression medium $x_4$ with stimulus $x_5$.</definition>
-<definitionid>9837</definitionid></valsi>
+<valsi word="spusku" type="lujvo"><definition>$x_1$ gives reply/answer/responds with $x_2$ (sedu'u/text/lu'e concept) to $x_3$ via expressive medium $x_4$, about subject $x_5$.</definition>
+<definitionid>42015</definitionid><notes>See {cusku}, {reisku}, {piksku}</notes></valsi>
 
 <valsi word="sputu" type="gismu"><rafsi>put</rafsi><rafsi>pu'u</rafsi><definition>$x_{1}$ spits/expectorates $x_{2}$ [predominantly liquid] from $x_{3}$ to/onto $x_{4}$.</definition>
 <definitionid>1079</definitionid><notes>Saliva/spit/sputum/spittle (= {molselpu'u}).  See also {jetce}, {kafke}, {vamtu}.</notes></valsi>
@@ -20925,6 +21232,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="tecyse'u" type="lujvo"><definition>$s_1$ is committed to $s_2$ with service $s_3$</definition>
 <definitionid>16903</definitionid></valsi>
 
+<valsi word="tecyselci'i" type="lujvo"><definition>$c_2$ is a hobbyist/collector/etc. of $c_1=s_1$.</definition>
+<definitionid>41983</definitionid><notes>See also {steci}, {se}, {cinri}.</notes></valsi>
+
 <valsi word="tecyvla" type="lujvo"><definition>$v_1$ is a term/jargon (from a specialised area of knowledge) meaning $v_2=s_2$ in language $v_3$.</definition>
 <definitionid>17446</definitionid><notes>Cf. {valsi}, {steci}, {bangu}.</notes></valsi>
 
@@ -21053,6 +21363,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="teni'i" type="cmavo cluster"><selmaho>BAI*</selmaho><definition>nibli modal, 3rd place                            entailment under logic system ...</definition>
 <definitionid>2250</definitionid></valsi>
+
+<valsi word="tenpi'o" type="lujvo"><definition>$x_1$ is an accordion.</definition>
+<definitionid>41955</definitionid></valsi>
 
 <valsi word="tepa'a" type="cmavo cluster"><selmaho>BAI*</selmaho><definition>panra modal, 3rd place (property)                 contrastingly; contrasting in property ...</definition>
 <definitionid>2251</definitionid></valsi>
@@ -21627,6 +21940,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="titspi" type="lujvo"><definition>$s_1=t_1$ is a sweet/candy/confect.</definition>
 <definitionid>18567</definitionid><notes>Cf. {spisa}, {titla}, {titnanba}, {sairfa'o}.</notes></valsi>
 
+<valsi word="titygejyspa" type="lujvo"><definition>$s_1=g_1$ is a licorice/liquorice  plant (genus Glycyrrhiza) of species/strain/cultivar $s_2$.</definition>
+<definitionid>41948</definitionid></valsi>
+
+<valsi word="titygenja" type="lujvo"><definition>$g_1=t_1$ is a liquorice/licorice root of plant/species $g_2$.</definition>
+<definitionid>41947</definitionid><notes>See also: licorice plant (={titygejyspa}).</notes></valsi>
+
 <valsi word="tityzme" type="lujvo"><definition>$g_1$ is a melon of cultivar $g_2$.</definition>
 <definitionid>18664</definitionid><notes>Cf. {titla}, {guzme}, {clazme}, {guzmrkukurbita}.</notes></valsi>
 
@@ -21740,6 +22059,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="tolci'oze'a" type="lujvo"><definition>$x1=c1=z1$ grows old by amount $x2=z3$</definition>
 <definitionid>35269</definitionid></valsi>
+
+<valsi word="tolcilce" type="lujvo"><definition>(adjective:) $c_1$ is tame / “un-wild”.</definition>
+<definitionid>41879</definitionid><notes>See also: {cilce}, {to'e}</notes></valsi>
 
 <valsi word="tolckape" type="lujvo"><definition>$c_1$ is safe for $c_2$ under conditions $c_3$</definition>
 <definitionid>16543</definitionid><notes>from {to'e} {ckape} c.f. {nurxru} {tolnu'a}</notes></valsi>
@@ -21984,6 +22306,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="tolxu'a" type="lujvo"><definition>$x_1$ (agent) denies that $x_2$ (du'u) is true.</definition>
 <definitionid>18717</definitionid><notes>Cf. {to'e}, {xusra}, {natfe}, {nafmupli}, {nafxu'a}.</notes></valsi>
 
+<valsi word="tolylau" type="lujvo"><definition>$x_1$ is soft/quiet/making only a bit of noise, at observation point $x_2$ by standard $x_3$.</definition>
+<definitionid>42029</definitionid><notes>"Silent" is {smaji}, whereas tolylau refers to a small amount of sound. Likewise, "totally noisy" is {tolsma}, which is even greater than {smaji}. {smaji} &lt; {tolylau} &lt; {cladu} &lt; {tolsma}.</notes></valsi>
+
 <valsi word="tolylaxygau" type="lujvo"><definition>$g_1$ unbalances $l_1$ with force $l_2$.</definition>
 <definitionid>18868</definitionid><notes>Cf. {to'e}, {lanxe}, {gasnu}.</notes></valsi>
 
@@ -22176,6 +22501,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="tsani" type="gismu"><rafsi>tan</rafsi><definition>$x_{1}$ is an expanse of sky/the heavens at place $x_{2}$; [celestial].</definition>
 <definitionid>1193</definitionid><notes>See also {gapru}, {kensa}, {tarci}, {terdi}.</notes></valsi>
 
+<valsi word="tsapei" type="lujvo"><definition>$p_1=t_1$ meditates (thinks hard; possibly with psuedo-religious motivation) on subject concept $p_2$.</definition>
+<definitionid>41974</definitionid><notes>See also {tsali} and {pensi}.</notes></valsi>
+
 <valsi word="tsapi" type="gismu"><definition>$x_{1}$ is a seasoning/condiment/spice causing flavor/effect $x_{2}$ (event/property).</definition>
 <definitionid>1194</definitionid><notes>Also: $x_1$ flavors $x_2$ (tu'a).  See also {vrusi}.</notes></valsi>
 
@@ -22250,6 +22578,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="tsiselcigla" type="lujvo"><definition>$c_2=t_1$ is semen secreted by organism $c_3$ for producing offspring $t_3$.</definition>
 <definitionid>15472</definitionid></valsi>
+
+<valsi word="tsispa" type="lujvo"><definition>$x_1=t_2$ is a spermatophyte/phanerogam producing seed(s) $t_1$, of species/strain/cultivar $s_2$</definition>
+<definitionid>41918</definitionid></valsi>
 
 <valsi word="tsukini" type="fu'ivla"><definition>$x_1$ is a zucchini squash (L. cucurbita pepo).</definition>
 <definitionid>14578</definitionid><notes>A long, dark-green type of {guzme} eaten raw or cooked.</notes></valsi>
@@ -22337,6 +22668,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="tumsfe" type="lujvo"><definition>$s_1$ is the ground of land $s_2=t_1$ at location $t_2$.</definition>
 <definitionid>17454</definitionid><notes>Cf. {sefta}, {tumla}.</notes></valsi>
+
+<valsi word="tumspa" type="lujvo"><definition>$s_1$ is a land plant/embryophyta/metaphyta/plantae sensu strictissimo of species/strain/cultivar $s_2$ at location $t_2$.</definition>
+<definitionid>41917</definitionid><notes>This group includes the liverworts, hornworts, mosses, and vascular plants, as well as fossil plants similar to these surviving groups.</notes></valsi>
 
 <valsi word="tumyma'e" type="lujvo"><definition>$m_1$ is a vehicle carrying $m_2$ in/on terrain/land surface $t_1=m_3$, propelled by $m_4$.</definition>
 <definitionid>38817</definitionid><notes>See also {matrytu'ama'e}.</notes></valsi>
@@ -22932,6 +23266,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="viknu" type="gismu"><rafsi>vik</rafsi><definition>$x_{1}$ is thick/viscous under conditions $x_{2}$.</definition>
 <definitionid>1228</definitionid><notes>See also {denmi}, {snipa}.</notes></valsi>
 
+<valsi word="vikrceratonia" type="fu'ivla"><definition>$v_1$ is made of/contains/is a quantity of carob syrup from carob pods $x_2$, thick under conditions $v_2$.</definition>
+<definitionid>41907</definitionid><notes>Carob syrup (={satyviknu} be lo rutrceratonia; or {vikrceratonia}).</notes></valsi>
+
 <valsi word="vikselcigla" type="lujvo"><definition>$x_1$ is mucus produced by organ/membrane $x_2$ in body $x_3$</definition>
 <definitionid>20446</definitionid></valsi>
 
@@ -23397,8 +23734,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="xagzenri'a" type="lujvo"><definition>$r_1$ (event/state/process) improves $z_1=x_1$ for $x_2$ by amount $z_3$ under conditions $r_3$.</definition>
 <definitionid>16506</definitionid><notes>Cf. {xamgu}, {zenba}, {rinka}, {xagzengau}.</notes></valsi>
 
-<valsi unofficial="true" word="xai" type="experimental cmavo"><selmaho>COI</selmaho><definition>vocative: generalised vocative</definition>
-<definitionid>38184</definitionid><notes>the most generalised member of selmaho COI roughly corresponding to Italian "ciao", "hi/bye", "hey!" simultaneously</notes></valsi>
+<valsi unofficial="true" word="xai" type="experimental cmavo"><selmaho>KOhA5</selmaho><definition>they.(repeat &gt;1 preceding sumti)</definition>
+<definitionid>2501</definitionid><notes>repeats two or more preceding sumti, not one plural sumti</notes></valsi>
 
 <valsi word="xairgau" type="lujvo"><definition>$g_1$ causes event $x_1$ which injures/harms/damages victim $x_2$ in property $x_3$ (ka) resulting in injury $x_4$ (state).</definition>
 <definitionid>15411</definitionid><notes>Made from {xrani} + {gasnu}.</notes></valsi>
@@ -23580,6 +23917,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="xarju" type="gismu"><rafsi>xaj</rafsi><definition>$x_{1}$ is a pig/hog/swine/[boar] [pork/ham/bacon-producer] of species/breed $x_{2}$.</definition>
 <definitionid>1270</definitionid><notes>Sow (= {fetxarju}), boar (= {nakyxarju}), pork (= {xajre'u}), piglet (= {citxarju}).  See also {mabru}, {cange}.</notes></valsi>
+
+<valsi word="xarna'u" type="lujvo"><definition>$x_1$ is an imaginary number.</definition>
+<definitionid>13820</definitionid><notes>See also {tolxarna'u}, {mrena'u}, {lujna'u}, {ka'o}</notes></valsi>
 
 <valsi word="xarnu" type="gismu"><definition>$x_{1}$ is stubborn/willfully opposing/resisting $x_{2}$ about $x_{3}$ (event/state).</definition>
 <definitionid>1271</definitionid><notes>$x_2$ may be a person, a state or condition, or a force; the essence is willful resistance.  See also {tinsa}, {pante}, {bapli}, {fapro}.</notes></valsi>
@@ -23867,7 +24207,7 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <definitionid>1289</definitionid><notes>See also {carce}, {karce}, {pulni}, {tutci}.</notes></valsi>
 
 <valsi word="xismalsi" type="lujvo"><definition>$x_1=m_1=xr_1$ is a Christian (Catholic/Protestant/Anglican/etc.) church at location/serving area $x_3=m_3$</definition>
-<definitionid>20607</definitionid><notes>Doesn't tosmabru due to -ls- being a impermissible initial pair and doesn't distinguish the type of Christianity. cf. {xriso} and {malsi}</notes></valsi>
+<definitionid>20607</definitionid><notes>Doesn't distinguish the type of Christianity. cf. {xriso} and {malsi}</notes></valsi>
 
 <valsi word="xispo" type="gismu"><rafsi>xip</rafsi><definition>$x_{1}$ reflects Hispano-American culture/nationalities in aspect $x_{2}$.</definition>
 <definitionid>1290</definitionid><notes>Refers to Spanish-speaking Latin-American countries, not Brazil/Guyana.  See also {merko}, {mexno}, {spano}, {ketco}, {bemro}, {gento}.</notes></valsi>
@@ -23938,8 +24278,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi unofficial="true" word="xo'ai" type="experimental cmavo"><selmaho>SE</selmaho><definition>conversion: move 5th place to 1st position. Everything else stays in the same order.</definition>
 <definitionid>37910</definitionid><notes>Before: x1 x2 x3 x4 x5, after: x5 x1 x2 x3 x4. Has the same effect as "xe ve te se". Proposed rafsi: -xoz-</notes></valsi>
 
-<valsi unofficial="true" word="xo'e" type="experimental cmavo"><selmaho>PA</selmaho><definition>elliptical/unspecified number.</definition>
-<definitionid>18316</definitionid><notes>See also {tu'o}, {xo}, {zo'e}, {co'e}, and {do'e}.</notes></valsi>
+<valsi unofficial="true" word="xo'e" type="experimental cmavo"><selmaho>PA5</selmaho><definition>elliptical/unspecified number.</definition>
+<definitionid>18316</definitionid><notes>See also {no'o}, {tu'o}, {xo}, {zo'e}, {co'e}, and {do'e}.</notes></valsi>
 
 <valsi unofficial="true" word="xo'i" type="experimental cmavo"><selmaho>XOhI</selmaho><definition>Extracts selbri from a tag, inverse of fi'o</definition>
 <definitionid>20726</definitionid><notes>xo'i bau is equivalent to bangu, xo'i fi'o broda is equivalent to broda</notes></valsi>
@@ -24070,6 +24410,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <valsi word="xumjimcelxa'i" type="lujvo"><definition>$x_1 = c_1$ is a gun/chemically launched metal slug throwing weapon for use against $x_2$ by $x_3$; weapon fires metallic objects $x_4$ using chemical propellant $x_5$.</definition>
 <definitionid>15409</definitionid><notes>Cf. {xilcelxa'i}, {mi'ircelxa'i}, {clacelxa'i}, {janjaknyxa'i}, {celgunta}.  Made from {xukmi} + {jinme} + {cecla} + {xarci}.</notes></valsi>
 
+<valsi word="xumnritrina" type="fu'ivla"><definition>$x_1$ is an instance of erythravine with purity $x_3$.</definition>
+<definitionid>41934</definitionid><notes>See also: coral tree (={ricnritrina}).</notes></valsi>
+
 <valsi word="xumrberili" type="fu'ivla"><definition>$x_1$ is an instance of beryllium (Be) with purity $x_3$.</definition>
 <definitionid>41709</definitionid><notes>See also beryl (={kunrberili}) and chrysoberyl (={kunrkrisoberili}).</notes></valsi>
 
@@ -24120,6 +24463,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="xurdo" type="gismu"><rafsi>xur</rafsi><rafsi>xu'o</rafsi><definition>$x_{1}$ reflects Urdu language/culture/nationality in aspect $x_{2}$.</definition>
 <definitionid>1303</definitionid><notes>See also {kisto}, {srito}, {xindo}.</notes></valsi>
+
+<valsi word="xuslogji" type="lujvo"><definition>$l_1$ [rules/methods] is a propositional logic for deducing/concluding/inferring/reasoning to/about $l_2$ (du'u) with propositions $xu_2$.</definition>
+<definitionid>42027</definitionid></valsi>
 
 <valsi word="xusra" type="gismu"><rafsi>xus</rafsi><rafsi>xu'a</rafsi><definition>$x_{1}$ (agent) asserts/claims/declares $x_{2}$ (du'u) is true [can be used for epistemology of authority].</definition>
 <definitionid>1304</definitionid><notes>Also: $x_1$ states/says that/affirms/purports to know that $x_2$.  (cf. natfe which is propositional and non-agentive, nupre)</notes></valsi>
@@ -24357,6 +24703,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="zdadi'u" type="lujvo"><definition>$x_1$ is a building that is the house/home/nest/den of/for $x_2$.</definition>
 <definitionid>15809</definitionid><notes>From {zdani} {dinju}.</notes></valsi>
+
+<valsi word="zdaga'u" type="lujvo"><definition>$g_1$ is an attic of house $z_1$, which is inhabited by $z_2$.</definition>
+<definitionid>41976</definitionid><notes>See also: {zdani}, {galtu}.</notes></valsi>
 
 <valsi word="zdakarce" type="lujvo"><definition>$z_2=k_1$ is a van/mobile home/motor home for $z_1=k_2$, propelled by $k_3$.</definition>
 <definitionid>38829</definitionid></valsi>
@@ -24702,9 +25051,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <valsi word="zilpa'a" type="lujvo"><definition>$x_1$ has probability $x_2$ of occurring.</definition>
 <definitionid>13789</definitionid><notes>See also {cu'o}, {la'erlai}</notes></valsi>
-
-<valsi word="zilselfat" type="cmene"><definition>$f_1$ is irreversible/one way/only one direction</definition>
-<definitionid>36707</definitionid><notes>f_2 was removed with zi'o</notes></valsi>
 
 <valsi word="zilzba" type="lujvo"><definition>$x_1$ is made/built of/from materials/parts/components $x_2$</definition>
 <definitionid>37959</definitionid></valsi>
@@ -25803,6 +26149,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="bergamot orange" valsi="bergamia"/>
 
+<nlword word="bear goo" sense="metaphysics" valsi="bergu"/>
+
 <nlword word="north of you" valsi="bermau"/>
 
 <nlword word="farther north" valsi="bermau"/>
@@ -25968,6 +26316,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="MP" sense="military police" valsi="bilpulji"/>
 
 <nlword word="is a octet" valsi="bimei"/>
+
+<nlword word="wallpaper" sense="wall decoration" valsi="bimkemnipyple" place="1"/>
 
 <nlword word="is eighth among" valsi="bimoi"/>
 
@@ -26485,6 +26835,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="prenex" valsi="brili'e" place="1"/>
 
+<nlword word="predicate logic" valsi="brilogji"/>
+
 <nlword word="bridi-tail" valsi="brirebla"/>
 
 <nlword word="British" valsi="brito"/>
@@ -26975,6 +27327,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="is going to" valsi="capu'o"/>
 
+<nlword word="cautious" valsi="capyju'i"/>
+
 <nlword word="careful" valsi="capyju'i"/>
 
 <nlword word="waterspout" valsi="carbi'e"/>
@@ -27369,8 +27723,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="savage" sense="person" valsi="cicre'a"/>
 
-<nlword word="wild forest" valsi="cicricfoi"/>
-
 <nlword word="wildcraft" valsi="cicycrepu"/>
 
 <nlword word="hare" valsi="cicyractu"/>
@@ -27551,9 +27903,9 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="attracted" sense="sexually" valsi="cinmle" place="2"/>
 
-<nlword word="sexy" valsi="cinmle"/>
-
 <nlword word="voluptuous" valsi="cinmle"/>
+
+<nlword word="sexy" valsi="cinmle"/>
 
 <nlword word="hot" sense="attractive" valsi="cinmle"/>
 
@@ -27767,6 +28119,14 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="strange" valsi="cizra"/>
 
+<nlword word="locust bean gum" valsi="ckabrceratonia"/>
+
+<nlword word="carob gum" valsi="ckabrceratonia"/>
+
+<nlword word="E410" sense="food additive" valsi="ckabrceratonia"/>
+
+<nlword word="carobin" valsi="ckabrceratonia"/>
+
 <nlword word="gum arabic" sense="gum (genus Akacia)" valsi="ckabrkacia"/>
 
 <nlword word="rubber" valsi="ckabu"/>
@@ -27877,6 +28237,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="loud" valsi="cladu"/>
 
+<nlword word="tower" sense="building" valsi="clagaldi'u" place="1"/>
+
 <nlword word="grape tomato" valsi="clajbatamca"/>
 
 <nlword word="limousine" valsi="clakarce" place="1"/>
@@ -27944,6 +28306,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="decrease" sense="become smaller" valsi="cmabi'o"/>
 
 <nlword word="tininess observer" valsi="cmacai" place="3"/>
+
+<nlword word="small arm" valsi="cmacelxa'i"/>
+
+<nlword word="gun" sense="small arm" valsi="cmacelxa'i"/>
 
 <nlword word="mathematics" valsi="cmaci"/>
 
@@ -28723,19 +29089,17 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="spokeswoman" sense="non-gender-neutral version of spokesperson" valsi="cuska'i"/>
 
-<nlword word="audience" sense="receiver of expression" valsi="cusku" place="3"/>
-
-<nlword word="mention" valsi="cusku"/>
-
 <nlword word="express" valsi="cusku"/>
 
 <nlword word="listener" valsi="cusku" place="3"/>
 
 <nlword word="expression" sense="expressed information" valsi="cusku" place="2"/>
 
-<nlword word="medium" sense="communication format" valsi="cusku" place="4"/>
-
 <nlword word="say" valsi="cusku"/>
+
+<nlword word="audience" sense="receiver of expression" valsi="cusku" place="3"/>
+
+<nlword word="mention" valsi="cusku"/>
 
 <nlword word="expresser" valsi="cusku" place="1"/>
 
@@ -28874,6 +29238,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="pendulum" valsi="dadysli"/>
 
 <nlword word="answer" sense="respond to a question" valsi="dafsku"/>
+
+<nlword word="find solution" valsi="dafyfa'i"/>
 
 <nlword word="road user" valsi="dagypli"/>
 
@@ -29077,7 +29443,17 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="island" valsi="daplu"/>
 
-<nlword word="curse" valsi="dapma"/>
+<nlword word="curse" sense="fate" valsi="dapma"/>
+
+<nlword word="to cuss" sense="to curse saying..." valsi="dapsku"/>
+
+<nlword word="curser" valsi="dapsku" place="1"/>
+
+<nlword word="cursed" valsi="dapsku" place="3"/>
+
+<nlword word="medium" sense="communication format" valsi="dapsku" place="4"/>
+
+<nlword word="curse" sense="text to curse someone/something" valsi="dapsku" place="2"/>
 
 <nlword word="armadillo" valsi="dapsodi"/>
 
@@ -29243,6 +29619,22 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="pod" sense="legume fruit" valsi="debgrute"/>
 
+<nlword word="earthnut" sense="peanut" valsi="debnraki"/>
+
+<nlword word="pygmy nut" sense="peanut" valsi="debnraki"/>
+
+<nlword word="peanut" sense="legume seed (genus Arachis)" valsi="debnraki"/>
+
+<nlword word="monkey nut" sense="peanut" valsi="debnraki"/>
+
+<nlword word="pig nut" sense="peanut" valsi="debnraki"/>
+
+<nlword word="goober pea" sense="peanut" valsi="debnraki"/>
+
+<nlword word="ground nut" sense="peanut" valsi="debnraki"/>
+
+<nlword word="locust bean" sense="bean (genus Ceratonia)" valsi="debrceratonia"/>
+
 <nlword word="chickpea" sense="bean (from plant Cicer arietinum)" valsi="debrcice"/>
 
 <nlword word="ceci bean" sense="bean (from plant Cicer arietinum)" valsi="debrcice"/>
@@ -29281,11 +29673,21 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="lentil" sense="leguminous  seed (Lens culinaris)" valsi="debrlenti"/>
 
+<nlword word="lupini bean" valsi="debrlupini"/>
+
+<nlword word="lupin bean" valsi="debrlupini"/>
+
+<nlword word="lima bean" sense="bean (Phaseolus lunatus)" valsi="debrmoce"/>
+
 <nlword word="nuña bean" sense="leguminous  seed (Phaseolus vulgaris subsp. nunas)" valsi="debrnuna"/>
+
+<nlword word="yam bean" sense="bean (genus Pachyrhizus)" valsi="debrpakirizu"/>
 
 <nlword word="pea" sense="leguminous  seed (Pisum sativum)" valsi="debrpisu"/>
 
 <nlword word="jicama" valsi="debysamcu"/>
+
+<nlword word="legume" sense="plant (family Fabaceae)" valsi="debyspa"/>
 
 <nlword word=".1" valsi="decti"/>
 
@@ -29595,6 +29997,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="floor" sense="level of building" valsi="dijysenta"/>
 
+<nlword word="architecture" sense="science" valsi="dijyzbaske" place="1"/>
+
 <nlword word="electric" valsi="dikca"/>
 
 <nlword word="pay salary" valsi="dikle'i"/>
@@ -29655,7 +30059,11 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="choke" sense="intransitive" valsi="dirva'u"/>
 
+<nlword word="for a short time" valsi="ditcma"/>
+
 <nlword word="have time" valsi="ditka'e"/>
+
+<nlword word="for a long time" valsi="ditybra"/>
 
 <nlword word="low" valsi="dizlo"/>
 
@@ -30192,6 +30600,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="drift dive" valsi="falni'ajirkla"/>
 
 <nlword word="sail" valsi="falnu"/>
+
+<nlword word="meteor" valsi="falplini" place="1"/>
 
 <nlword word="conclude" sense="finish by expressing" valsi="famsku"/>
 
@@ -31777,7 +32187,7 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="Iceland" valsi="island"/>
 
-<nlword word="Icelandic" sense="country" valsi="islenska"/>
+<nlword word="Icelandic" sense="culture" valsi="islenska"/>
 
 <nlword word="ism" valsi="ismo"/>
 
@@ -32457,6 +32867,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="vocational school" valsi="jibycu'e"/>
 
+<nlword word="work" sense="job" valsi="jibykai"/>
+
 <nlword word="strike" sense="stop working and complain" valsi="jibypante"/>
 
 <nlword word="striker" sense="complainer" valsi="jibypante" place="1"/>
@@ -32481,11 +32893,17 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="division" sense="biology" valsi="jicymivykle"/>
 
+<nlword word="pretend" sense="deceive" valsi="jifkritrazu'e"/>
+
 <nlword word="pseudocoelomate" valsi="jifselbetfu" place="1"/>
 
 <nlword word="pseudocoelom" valsi="jifselbetfu" place="2"/>
 
+<nlword word="illusion" sense="optical" valsi="jifselvi'a" place="1"/>
+
 <nlword word="wrong" sense="asserting something incorrect" valsi="jifxu'a"/>
+
+<nlword word="lie" sense="knowingly claim untruth" valsi="jifyjunxu'a"/>
 
 <nlword word="intuit" valsi="jijnu"/>
 
@@ -32632,6 +33050,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="dive" sense="jumps/falls into liquid" valsi="jirsu'u"/>
 
 <nlword word="juice" valsi="jisra"/>
+
+<nlword word="pineapple juice" valsi="jisrnxananase" place="1"/>
 
 <nlword word="apron" sense="clean-keeping garment" valsi="jisystota'u"/>
 
@@ -33005,6 +33425,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="Monk's Coffee" sense="liqueur coffee" valsi="kafrbenediktine"/>
 
+<nlword word="Kentucky coffee" sense="coffee from trees of genus Gymnocladus" valsi="kafrgimnocladu"/>
+
 <nlword word="cappuccino" sense="coffee beverage" valsi="kafrkapucino"/>
 
 <nlword word="karsk" sense="liqueur coffee" valsi="kafrkarska"/>
@@ -33368,8 +33790,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="salamander" sense="amphibian" valsi="kaurdata"/>
 
 <nlword word="common sense" valsi="kaurselju'o"/>
-
-<nlword word="cowboy" sense="person; specific cultural image" valsi="kauvboi"/>
 
 <nlword word="capture" valsi="kavbu"/>
 
@@ -34095,6 +34515,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="square" sense="four sided shape" valsi="kurfa"/>
 
+<nlword word="right-angle" valsi="kurjga"/>
+
 <nlword word="take care of" valsi="kurji"/>
 
 <nlword word="bitter" valsi="kurki"/>
@@ -34353,8 +34775,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="work of art" valsi="lardai"/>
 
-<nlword word="artist" valsi="larfi'i"/>
-
 <nlword word="art gallery" valsi="larmuzga"/>
 
 <nlword word="gallery" sense="institution that exhibits art" valsi="larmuzga"/>
@@ -34402,8 +34822,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="punctuation mark" valsi="lau"/>
 
 <nlword word="Laotze" valsi="lauDZIS"/>
-
-<nlword word="quiet" sense="low noise level" valsi="lauble"/>
 
 <nlword word="weak" sense="low noise level" valsi="lauble"/>
 
@@ -35457,7 +35875,7 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="U.S." valsi="merko"/>
 
-<nlword word="American" sense="U.S." valsi="merko"/>
+<nlword word="American" valsi="merko"/>
 
 <nlword word="ray-finned fish" valsi="merlanu"/>
 
@@ -35482,6 +35900,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="US dollar" valsi="meryru'u"/>
 
 <nlword word="Sister" sense="family relation" valsi="mes"/>
+
+<nlword word="metaphor" sense="figurative expression" valsi="metfo"/>
 
 <nlword word="methane" valsi="metxani"/>
 
@@ -35741,6 +36161,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="Egypt" valsi="misrygu'e"/>
 
+<nlword word="water lily" sense="plant (genus Nymphaea)" valsi="misrylatna"/>
+
+<nlword word="Egyptian lotus" sense="plant (genus Nymphaea)" valsi="misrylatna"/>
+
 <nlword word="papyrus" sense="writing material" valsi="misryple"/>
 
 <nlword word="papyrus" sense="plant" valsi="misryplespa"/>
@@ -35796,6 +36220,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="nature" valsi="mivmu'e"/>
 
 <nlword word="life-goal" valsi="mivmu'i"/>
+
+<nlword word="immortal" valsi="mivnalsti"/>
 
 <nlword word="life" sense="process of living" valsi="mivru'e"/>
 
@@ -36161,7 +36587,7 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="post" sense="send mail" valsi="mrilu"/>
 
-<nlword word="mail" sense="send mail" valsi="mrilu"/>
+<nlword word="mail" valsi="mrilu"/>
 
 <nlword word="discussion group" sense="electronic mailing list" valsi="mriste"/>
 
@@ -36279,11 +36705,17 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="cocuswood" sense="wood (genus Brya)" valsi="mudrbri'a"/>
 
+<nlword word="redbud" sense="wood (genus Cercis)" valsi="mudrcerci"/>
+
+<nlword word="sandalwood" sense="wood (genus Adenanthera)" valsi="mudrdenantera"/>
+
 <nlword word="afzelia" sense="timber" valsi="mudrfselia"/>
 
 <nlword word="pod mahogany" sense="timber" valsi="mudrfselia"/>
 
 <nlword word="doussie" sense="timber" valsi="mudrfselia"/>
+
+<nlword word="Kentucky coffeetree" sense="wood (genus Gymnocladus)" valsi="mudrgimnocladu"/>
 
 <nlword word="Congo copal wood" sense="wood (genus Guibourtia)" valsi="mudrguiborti"/>
 
@@ -36315,6 +36747,18 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="pine wood" sense="lumber" valsi="mudrpinu"/>
 
+<nlword word="red sandalwood" sense="wood (genus Pterocarpus)" valsi="mudrpterokarpu"/>
+
+<nlword word="padauk" sense="wood (genus Pterocarpus)" valsi="mudrpterokarpu"/>
+
+<nlword word="barwood" sense="wood (genus Pterocarpus)" valsi="mudrpterokarpu"/>
+
+<nlword word="logwood" sense="wood (genus Haematoxylum)" valsi="mudrxematoksilu"/>
+
+<nlword word="algarrobo" sense="wood (genus Hymenaea)" valsi="mudrximene'a"/>
+
+<nlword word="jatobá" sense="wood (genus Hymenaea)" valsi="mudrximene'a"/>
+
 <nlword word="termite" valsi="mudyctijalra"/>
 
 <nlword word="Thursday" valsi="mudydei"/>
@@ -36328,6 +36772,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="lumberjack" valsi="mudyka'apre"/>
 
 <nlword word="sawdust" valsi="mudypu'o"/>
+
+<nlword word="woody plant" valsi="mudyspa"/>
 
 <nlword word="adze" sense="woodworking tool" valsi="mudyxultci"/>
 
@@ -36567,6 +37013,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="vector" sense="n-dimensional" valsi="nacmei"/>
 
+<nlword word="array" sense="vector" valsi="nacmeimei"/>
+
+<nlword word="vector array" valsi="nacmeimei"/>
+
+<nlword word="matrix" valsi="nacmeimei"/>
+
 <nlword word="norm" sense="absolute value" valsi="nacnilbra"/>
 
 <nlword word="absolute value" sense="operation result" valsi="nacnilbra"/>
@@ -36581,11 +37033,11 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="bridi only if" valsi="nagi'a"/>
 
-<nlword word="bean of India" sense="Nelumbo nucifera" valsi="naglatna"/>
+<nlword word="bean of India" sense="plant (Nelumbo nucifera)" valsi="naglatna"/>
 
-<nlword word="sacred lotus" sense="Nelumbo nucifera" valsi="naglatna"/>
+<nlword word="sacred lotus" sense="plant (Nelumbo nucifera)" valsi="naglatna"/>
 
-<nlword word="Indian lotus" sense="Nelumbo nucifera" valsi="naglatna"/>
+<nlword word="Indian lotus" sense="plant (Nelumbo nucifera)" valsi="naglatna"/>
 
 <nlword word="deny last bridi" valsi="nago'i"/>
 
@@ -36634,6 +37086,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="patriarch" valsi="nakydzetru" place="1"/>
 
 <nlword word="unroll" sense="intransitive" valsi="nalbolbi'o"/>
+
+<nlword word="improvise" valsi="nalbrezu'e"/>
 
 <nlword word="non-Jewish" valsi="nalbro"/>
 
@@ -36762,6 +37216,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="free-diver" valsi="nalvaxni'ajirpre"/>
 
 <nlword word="unrepentant" valsi="nalxe'u"/>
+
+<nlword word="tolerate" valsi="nalzaucru"/>
 
 <nlword word="unremorseful" valsi="nalzungi"/>
 
@@ -37272,6 +37728,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="Norway" sense="country" valsi="norgo"/>
 
 <nlword word="Norwegian" sense="people" valsi="norgo"/>
+
+<nlword word="half-naked" valsi="norlunbe" place="1"/>
 
 <nlword word="Norman" valsi="normano"/>
 
@@ -38091,6 +38549,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="lemon" valsi="pelnimre"/>
 
+<nlword word="lemon juice" valsi="pelnimryjisra" place="1"/>
+
 <nlword word="apricot" valsi="pelsmela"/>
 
 <nlword word="yellow" valsi="pelxu"/>
@@ -38147,6 +38607,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="considerate" sense="thoughtful of others" valsi="pesku'i"/>
 
+<nlword word="to be metaphorically described" valsi="pesna"/>
+
 <nlword word="cognition" sense="mental function" valsi="pesru'e"/>
 
 <nlword word="hypothesize" valsi="pesti'i"/>
@@ -38174,6 +38636,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="deciduous" valsi="pezyfaltricu"/>
 
 <nlword word="deciduous tree" valsi="pezyfaltricu"/>
+
+<nlword word="sunlight" valsi="pezysolrygu'i" place="1"/>
+
+<nlword word="illuminate" valsi="pezysolrygu'i" place="2"/>
+
+<nlword word="foliage" valsi="pezysolrygu'i" place="3"/>
 
 <nlword word="dock" sense="sorrel" valsi="pezyxruba"/>
 
@@ -38225,11 +38693,7 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="beg" valsi="pikci"/>
 
-<nlword word="remark" sense="express a comment" valsi="piksku"/>
-
-<nlword word="observe" sense="express a comment" valsi="piksku"/>
-
-<nlword word="comment" sense="express a comment" valsi="piksku"/>
+<nlword word="make comment" valsi="piksku"/>
 
 <nlword word="ticket" valsi="pikta"/>
 
@@ -38459,13 +38923,13 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="apple" valsi="plise"/>
 
+<nlword word="apple juice" valsi="plisyjisra" place="1"/>
+
 <nlword word="pome" sense="fruit" valsi="plisysmigrute"/>
 
 <nlword word="apple subtribe plant" sense="plant (subtribe Malinae)" valsi="plisysmispa"/>
 
 <nlword word="apple tree" valsi="plisytricu"/>
-
-<nlword word="apple seed" valsi="plisytsi"/>
 
 <nlword word="plane" sense="2-D space" valsi="plita"/>
 
@@ -38620,8 +39084,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="passenger aircraft" valsi="previnji"/>
 
 <nlword word="airliner" valsi="previnji"/>
-
-<nlword word="statue" valsi="prexra"/>
 
 <nlword word="portrait" sense="picture" valsi="prexra"/>
 
@@ -38977,6 +39439,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="oil palm" sense="tree" valsi="raspalma"/>
 
+<nlword word="karanja oil" valsi="rasrmiletia"/>
+
+<nlword word="honge oil" valsi="rasrmiletia"/>
+
+<nlword word="pongamia oil" valsi="rasrmiletia"/>
+
 <nlword word="oil lamp" sense="using animal or vegetable products" valsi="rastergu'i"/>
 
 <nlword word="oilbird" valsi="rasycpi"/>
@@ -39287,6 +39755,16 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="green tea" valsi="ri'ortcati"/>
 
+<nlword word="green plant" sense="plant strict sense" valsi="ri'ospa"/>
+
+<nlword word="chlorobionta" sense="plant strict sense" valsi="ri'ospa"/>
+
+<nlword word="plant" sense="strict sense" valsi="ri'ospa"/>
+
+<nlword word="viridiplantae" sense="plant strict sense" valsi="ri'ospa"/>
+
+<nlword word="viridiphyta" sense="plant strict sense" valsi="ri'ospa"/>
+
 <nlword word="on the right of" valsi="ri'u"/>
 
 <nlword word="restrained" valsi="ri'urgau" place="2"/>
@@ -39317,6 +39795,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="rich" valsi="ricfu"/>
 
+<nlword word="flame tree" sense="tree (genus Erythrina)" valsi="ricnritrina"/>
+
+<nlword word="coral tree" sense="tree (genus Erythrina)" valsi="ricnritrina"/>
+
 <nlword word="Mountain Ebony" sense="tree (genus Bauhinia)" valsi="ricrbau'inia"/>
 
 <nlword word="orchid tree" sense="tree (genus Bauhinia)" valsi="ricrbau'inia"/>
@@ -39337,9 +39819,43 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="cherry" sense="tree" valsi="ricrceraso"/>
 
+<nlword word="St John's-bread" sense="tree (genus Ceratonia)" valsi="ricrceratonia"/>
+
+<nlword word="carob tree" sense="tree (genus Ceratonia)" valsi="ricrceratonia"/>
+
+<nlword word="redbud" sense="tree (genus Cercis)" valsi="ricrcerci"/>
+
 <nlword word="cinnamon tree" sense="genus Cinnamomum" valsi="ricrcinamomu"/>
 
+<nlword word="rosewood" sense="tree (genus Dalbergia)" valsi="ricrdalbergia"/>
+
+<nlword word="zebrawood" sense="tree (genus Dalbergia)" valsi="ricrdalbergia"/>
+
+<nlword word="kingwood" sense="tree (genus Dalbergia)" valsi="ricrdalbergia"/>
+
+<nlword word="African blackwood" sense="tree (genus Dalbergia)" valsi="ricrdalbergia"/>
+
+<nlword word="tracwood" sense="tree (genus Dalbergia)" valsi="ricrdalbergia"/>
+
+<nlword word="pinkwood" sense="tree (genus Dalbergia)" valsi="ricrdalbergia"/>
+
+<nlword word="cocobolo" sense="tree (genus Dalbergia)" valsi="ricrdalbergia"/>
+
+<nlword word="tulipwood" sense="tree (genus Dalbergia)" valsi="ricrdalbergia"/>
+
 <nlword word="poinciana" sense="tree (genus Delonix )" valsi="ricrdeloni"/>
+
+<nlword word="peacock flower fence" sense="tree (genus Adenanthera)" valsi="ricrdenantera"/>
+
+<nlword word="red beadtree" sense="tree (genus Adenanthera)" valsi="ricrdenantera"/>
+
+<nlword word="coralwood " sense="tree (genus Adenanthera)" valsi="ricrdenantera"/>
+
+<nlword word="saga" sense="tree (genus Adenanthera)" valsi="ricrdenantera"/>
+
+<nlword word="Barbados pride" sense="tree (genus Adenanthera)" valsi="ricrdenantera"/>
+
+<nlword word="sandalwood" sense="tree (genus Adenanthera)" valsi="ricrdenantera"/>
 
 <nlword word="diplotropis" sense="tree (genus Diplotropis)" valsi="ricrdiplotropi"/>
 
@@ -39348,6 +39864,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="amherstia" sense="tree (genus Amherstia )" valsi="ricrfokaji"/>
 
 <nlword word="orchid tree" sense="tree (genus Amherstia )" valsi="ricrfokaji"/>
+
+<nlword word="soap tree" sense="tree (genus Gymnocladus)" valsi="ricrgimnocladu"/>
+
+<nlword word="Kentucky coffeetree" sense="tree (genus Gymnocladus)" valsi="ricrgimnocladu"/>
+
+<nlword word="locust tree" sense="tree (genus Gleditsia)" valsi="ricrgleditsia"/>
 
 <nlword word="gossweilerodendron " sense="tree" valsi="ricrgosueilerodendro"/>
 
@@ -39371,11 +39893,23 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="canella" sense="tree" valsi="ricrkanela"/>
 
+<nlword word="caragana" sense="tree (genus Caragana)" valsi="ricrkaragana"/>
+
+<nlword word="cassia" sense="tree (genus Cassia)" valsi="ricrkasia"/>
+
 <nlword word="Blackbean tree" sense="tree (genus Castanospermum)" valsi="ricrkastanospermu"/>
 
 <nlword word="Moreton Bay chestnut" sense="tree (genus Castanospermum)" valsi="ricrkastanospermu"/>
 
 <nlword word="yellowwood" sense="tree (genus Cladrastis)" valsi="ricrkladrasti"/>
+
+<nlword word="tulang" sense="tree (genus Koompassia)" valsi="ricrko'ompasia"/>
+
+<nlword word="mengaris" sense="tree (genus Koompassia)" valsi="ricrko'ompasia"/>
+
+<nlword word="mopani" sense="tree (genus Colophospermum)" valsi="ricrkolofospermu"/>
+
+<nlword word="mopane" sense="tree (genus Colophospermum)" valsi="ricrkolofospermu"/>
 
 <nlword word="tī" sense="tree (genus Cordyline)" valsi="ricrkordiline"/>
 
@@ -39393,7 +39927,11 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="ipil-ipil tree" sense="tree (genus Leucaena)" valsi="ricrle'ucena"/>
 
-<nlword word="leadtree" sense="tree (genus Leucaena)" valsi="ricrle'ucena"/>
+<nlword word="leadtree" sense="tree (genus Leucaena)" valsi="ricrle'ukena"/>
+
+<nlword word="maackia" sense="tree (genus Maackia)" valsi="ricrmakia"/>
+
+<nlword word="milletia" sense="tree (genus Millettia)" valsi="ricrmiletia"/>
 
 <nlword word="nutmeg tree" sense="genus Myristica" valsi="ricrmiristika"/>
 
@@ -39423,7 +39961,31 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="Nedun tree" sense="tree (genus Pericopsis)" valsi="ricrperikopsi"/>
 
+<nlword word="padauk" sense="tree (genus Pterocarpus)" valsi="ricrpterokarpu"/>
+
+<nlword word="sandalwood" sense="tree (genus Pterocarpus)" valsi="ricrpterokarpu"/>
+
+<nlword word="muninga" sense="tree (genus Pterocarpus)" valsi="ricrpterokarpu"/>
+
+<nlword word="barwood" sense="tree (genus Pterocarpus)" valsi="ricrpterokarpu"/>
+
+<nlword word="mututi" sense="tree (genus Pterocarpus)" valsi="ricrpterokarpu"/>
+
+<nlword word="red sanders" sense="tree (genus Pterocarpus)" valsi="ricrpterokarpu"/>
+
+<nlword word="Indian kino tree" sense="tree (genus Pterocarpus)" valsi="ricrpterokarpu"/>
+
+<nlword word="wild teak" sense="tree (genus Pterocarpus)" valsi="ricrpterokarpu"/>
+
+<nlword word="Pagoda tree" sense="tree (genus Styphnolobium)" valsi="ricrstifnolobi"/>
+
+<nlword word="Eve's Necklace" sense="tree (genus Styphnolobium)" valsi="ricrstifnolobi"/>
+
+<nlword word="Coralbean" sense="tree (genus Styphnolobium)" valsi="ricrstifnolobi"/>
+
 <nlword word="theobroma" sense="tree (genus Theobroma)" valsi="ricrte'obroma"/>
+
+<nlword word="logwood" sense="tree (genus Haematoxylum)" valsi="ricrxematoksilu"/>
 
 <nlword word="forest tree" valsi="rictu'a" place="2"/>
 
@@ -39466,6 +40028,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="rhyme" valsi="rimni"/>
 
 <nlword word="drain" valsi="rinci"/>
+
+<nlword word="Indian" sense="Native American" valsi="rindo"/>
+
+<nlword word="Native American" valsi="rindo"/>
 
 <nlword word="restrain" valsi="rinju"/>
 
@@ -39538,6 +40104,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="emotional" valsi="ro'i"/>
 
 <nlword word="denying emotion" valsi="ro'inai"/>
+
+<nlword word="artist" valsi="ro'ixra" place="3"/>
+
+<nlword word="statue" valsi="ro'ixra" place="1"/>
 
 <nlword word="physical" valsi="ro'o"/>
 
@@ -39787,6 +40357,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="kind of umbellifer" valsi="rulsantyspa" place="2"/>
 
+<nlword word="magnoliophyta" valsi="rulspa"/>
+
 <nlword word="angiosperm" valsi="rulspa"/>
 
 <nlword word="melt" sense="agentive" valsi="rumgau"/>
@@ -39855,6 +40427,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="cherry" sense="fruit" valsi="rutrceraso"/>
 
+<nlword word="carob pod" sense="fruit (genus Ceratonia)" valsi="rutrceratonia"/>
+
 <nlword word="cherimoya" sense="fruit (Annona cherimoya)" valsi="rutrcerimoia"/>
 
 <nlword word="pond-apple" sense="fruit (Annona glabra)" valsi="rutrglabra"/>
@@ -39868,6 +40442,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="guaje" sense="pod (genus Akacia)" valsi="rutrkacia"/>
 
 <nlword word="flowering quince" sense="fruit (genus Chaenomeles)" valsi="rutrkenomele"/>
+
+<nlword word="phakatin" sense="pod (genus Leucaena)" valsi="rutrle'ukena"/>
 
 <nlword word="acerola" valsi="rutrmalpigi"/>
 
@@ -39912,6 +40488,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="sugar-apple" sense="fruit (Annona squamosa)" valsi="rutrskuamosa"/>
 
 <nlword word="vanilla pod" valsi="rutrvanila"/>
+
+<nlword word="algarrobo" sense="fruit (genus Hymaneae)" valsi="rutrximene'a"/>
+
+<nlword word="jatobá" sense="fruit (genus Hymaneae)" valsi="rutrximene'a"/>
 
 <nlword word="fruit salad" valsi="rutsalta"/>
 
@@ -39964,6 +40544,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="match" sense="incendiary device" valsi="sacki"/>
 
 <nlword word="phosphorus" valsi="sackycmu"/>
+
+<nlword word="matchbox" valsi="sackyta'e" place="1"/>
 
 <nlword word="decimal" valsi="saclu"/>
 
@@ -40056,6 +40638,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="palm lily" sense="edible root (genus Cordyline)" valsi="samcrkordiline"/>
 
 <nlword word="yam" valsi="samcrniame"/>
+
+<nlword word="yam bean" sense="edible root (genus Pachyrhizus)" valsi="samcrpakirizu"/>
 
 <nlword word="Indian breadroot" sense="edible root (genus Pediomelum)" valsi="samcrpediomelu"/>
 
@@ -40300,6 +40884,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="steppe" valsi="sastu'a"/>
 
 <nlword word="rush leek" sense="Allium schoenoprasum" valsi="sasysluni"/>
+
+<nlword word="sedge" sense="plant (family Cyperaceae)" valsi="sasysmispa"/>
 
 <nlword word="exact" valsi="satci"/>
 
@@ -40995,7 +41581,7 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="habitat" valsi="selxa'u"/>
 
-<nlword word="reed" sense="musical" valsi="selxagri"/>
+<nlword word="reed" sense="for an instrument" valsi="selxagri"/>
 
 <nlword word="harmed" sense="having been harmed" valsi="selxai"/>
 
@@ -41168,8 +41754,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="simulate" valsi="sezmlugau"/>
 
 <nlword word="affect" valsi="sezmlugau"/>
-
-<nlword word="pretend" valsi="sezmlugau"/>
 
 <nlword word="launch oneself" valsi="sezre'o"/>
 
@@ -41383,6 +41967,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="snore" sense="breath while sleeping" valsi="sipyva'u"/>
 
+<nlword word="straight angle" valsi="sirjga"/>
+
 <nlword word="straight" sense="of a line" valsi="sirji"/>
 
 <nlword word="fur" valsi="sirsunla"/>
@@ -41539,7 +42125,7 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="wave" sense="move something from side to side" valsi="sligau"/>
 
-<nlword word="solid" sense="not liquid or gaseous" valsi="sligu"/>
+<nlword word="solid" valsi="sligu"/>
 
 <nlword word="oscillate" valsi="slilu"/>
 
@@ -41650,8 +42236,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="polyseme" valsi="smuvrici" place="1"/>
 
 <nlword word="vague" valsi="smuvrici"/>
-
-<nlword word="polysemous" valsi="smuvrici"/>
 
 <nlword word="success" sense="achievement" valsi="snada" place="1"/>
 
@@ -41921,6 +42505,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="polytheist" valsi="sorselcei"/>
 
+<nlword word="polysemous" valsi="sorselsmu"/>
+
 <nlword word="dormitory" valsi="sorsipydi'u"/>
 
 <nlword word="frequent" sense="occuring many times" valsi="soryroi"/>
@@ -41978,6 +42564,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="polish" valsi="spali"/>
 
 <nlword word="Spanish" valsi="spano"/>
+
+<nlword word="peanut" sense="plant (genus Arachis)" valsi="spanraki"/>
 
 <nlword word="acis" sense="plant (genus Acis)" valsi="sparaci"/>
 
@@ -42091,6 +42679,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="goldenstar" sense="plant (genus Bloomeria)" valsi="sparblomeria"/>
 
+<nlword word="bobgunnia" sense="plant (genus Bobgunnia)" valsi="sparbobgunia"/>
+
 <nlword word="brassavola" sense="orchid (genus Brassavola)" valsi="sparbrasavola"/>
 
 <nlword word="spider orchid" sense="orchid (genus Brassia)" valsi="sparbrasia"/>
@@ -42120,6 +42710,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="holdback" sense="plant (genus Caesalpinia)" valsi="sparcesalpino"/>
 
 <nlword word="nicker" sense="plant (genus Caesalpinia)" valsi="sparcesalpino"/>
+
+<nlword word="cicer" sense="plant (genus Cicer)" valsi="sparcice"/>
 
 <nlword word="blue sow thistle" sense="plant (genus Cicerbita)" valsi="sparcicerbita"/>
 
@@ -42153,6 +42745,14 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="broom" sense="plant (genus Cytisus)" valsi="sparcitisu"/>
 
+<nlword word="lobster claw" sense="plant (genus Clianthus)" valsi="sparcli'antu"/>
+
+<nlword word="parrot's bill" sense="plant (genus Clianthus)" valsi="sparcli'antu"/>
+
+<nlword word="Kakabeak" sense="plant (genus Clianthus)" valsi="sparcli'antu"/>
+
+<nlword word="parrot's bea" sense="plant (genus Clianthus)" valsi="sparcli'antu"/>
+
 <nlword word="marsh orchid" sense="orchid (genus Dactylorhiza)" valsi="spardaktiloriza"/>
 
 <nlword word="spotted orchid" sense="orchid (genus Dactylorhiza)" valsi="spardaktiloriza"/>
@@ -42170,6 +42770,14 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="giant groundsel" sense="plant (genus Dendrosenecio)" valsi="spardendrosenecio"/>
 
 <nlword word="derris" sense="plant (genus Derris)" valsi="sparderi"/>
+
+<nlword word="tick-trefoil" sense="plant (genus Desmodium)" valsi="spardesmodi"/>
+
+<nlword word="hitch hikers" sense="plant (genus Desmodium)" valsi="spardesmodi"/>
+
+<nlword word="beggar lice" sense="plant (genus Desmodium)" valsi="spardesmodi"/>
+
+<nlword word="tick clover" sense="plant (genus Desmodium)" valsi="spardesmodi"/>
 
 <nlword word="harebells" sense="plant (genus Dierama)" valsi="spardi'erama"/>
 
@@ -42202,6 +42810,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="giant spear lily" sense="plant (genus Doryanthes)" valsi="spardori'ante"/>
 
 <nlword word="gomea lily" sense="plant (genus Doryanthes)" valsi="spardori'ante"/>
+
+<nlword word="dorycnium" sense="plant (genus Dorycnium)" valsi="spardoricni"/>
 
 <nlword word="leopard's bane" sense="plant (genus Doronicum)" valsi="spardoroniku"/>
 
@@ -42275,6 +42885,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="phaedranassa" sense="plant (genus Phaedranassa)" valsi="sparfedranasa"/>
 
+<nlword word="physostigma" sense="plant (genus Physostigma)" valsi="sparfisostigma"/>
+
 <nlword word="yellowtop" sense="plant (genus Flaveria)" valsi="sparflaveria"/>
 
 <nlword word="lady's slipper" sense="orchid (genus Phragmipedium)" valsi="sparfragmipedi"/>
@@ -42345,6 +42957,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="marigold" sense="plant (genus Calendula)" valsi="sparkalendula"/>
 
+<nlword word="powder puff" sense="plant (genus Calliandra)" valsi="sparkaliandra"/>
+
+<nlword word="fairy duster" sense="plant (genus Calliandra)" valsi="sparkaliandra"/>
+
 <nlword word="Venus's slipper" sense="orchid (genus Calypso)" valsi="sparkalipso"/>
 
 <nlword word="fairy slipper" sense="orchid (genus Calypso)" valsi="sparkalipso"/>
@@ -42366,6 +42982,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="catananche" sense="plant (genus Catananche)" valsi="sparkatananke"/>
 
 <nlword word="blue cupidone" sense="plant (genus Catananche)" valsi="sparkatananke"/>
+
+<nlword word="kennedia" sense="plant (genus Kennedia)" valsi="sparkenedia"/>
 
 <nlword word="flowering quince" sense="plant (genus Chaenomeles)" valsi="sparkenomele"/>
 
@@ -42413,6 +43031,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="tickseed" sense="plant (genus Coreopsis)" valsi="sparkore'opsi"/>
 
+<nlword word="flame pea" sense="plant (genus Chorizema)" valsi="sparkorizema"/>
+
+<nlword word="crown vetch" sense="plant (genus Coronilla)" valsi="sparkoronila"/>
+
+<nlword word="scorpion vetch" sense="plant (genus Coronilla)" valsi="sparkoronila"/>
+
 <nlword word="chrysanth" sense="plant (genus Chrysantemum)" valsi="sparkrisantemu"/>
 
 <nlword word="mum" sense="plant (genus Chrysantemum)" valsi="sparkrisantemu"/>
@@ -42424,6 +43048,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="coppertips" sense="plant (genus Crocosmia)" valsi="sparkrokosmia"/>
 
 <nlword word="montbretia" sense="plant (genus Crocosmia)" valsi="sparkrokosmia"/>
+
+<nlword word="locoweed" sense="plant (genus Oxytropis)" valsi="sparksitropi"/>
+
+<nlword word="crazyweed" sense="plant (genus Oxytropis)" valsi="sparksitropi"/>
+
+<nlword word="bushclover" sense="plant (genus Kummerowia)" valsi="sparkumerovia"/>
 
 <nlword word="hyacinth bean" sense="plant (genus Lablab)" valsi="sparlablabi"/>
 
@@ -42475,7 +43105,15 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="lancepod" sense="plant (genus Lonchocarpus)" valsi="sparlonkokarpu"/>
 
+<nlword word="deervetch" sense="plant (genus Lotus)" valsi="sparlota"/>
+
+<nlword word="bird's-foot" sense="plant (genus Lotus)" valsi="sparlota"/>
+
 <nlword word="jewel orchid" sense="orchid (genus Ludisia)" valsi="sparludisi'a"/>
+
+<nlword word="lupine" sense="plant (genus Lupinus)" valsi="sparlupini"/>
+
+<nlword word="lupin" sense="plant (genus Lupinus)" valsi="sparlupini"/>
 
 <nlword word="masdevallia" sense="orchid (genus Masdevallia)" valsi="sparmadevalia"/>
 
@@ -42492,6 +43130,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="adder's mouth" sense="orchid (genus Malaxis)" valsi="sparmalaksi"/>
 
 <nlword word="daisy" sense="plant (genus Mauranthemum)" valsi="sparmaurantemu"/>
+
+<nlword word="burclover" sense="plant (genus Medicago)" valsi="sparmedika"/>
+
+<nlword word="medick" sense="plant (genus Medicago)" valsi="sparmedika"/>
 
 <nlword word="blackfoot" sense="plant (genus Melampodium)" valsi="sparmelampodi"/>
 
@@ -42538,6 +43180,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="neottia" sense="orchid (genus Neottia)" valsi="sparne'otia"/>
 
 <nlword word="neotinea" sense="orchid (genus Neotinea)" valsi="sparne'otine'a"/>
+
+<nlword word="water mimosa" sense="plant (genus Neptunia)" valsi="sparneptunia"/>
+
+<nlword word="yellow-puff" sense="plant (genus Neptunia)" valsi="sparneptunia"/>
+
+<nlword word="sensitive plant" sense="plant (genus Neptunia)" valsi="sparneptunia"/>
 
 <nlword word="nerine" sense="plant (genus Nerine)" valsi="sparnerine"/>
 
@@ -42601,9 +43249,13 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="paphiopedilum" sense="orchid (genus Paphiopedilum)" valsi="sparpafiopedilu"/>
 
+<nlword word="yam bean" sense="plant (genus Pachyrhizus)" valsi="sparpakirizu"/>
+
 <nlword word="papilionanthe" sense="orchid (genus Papilionanthe)" valsi="sparpapilionante"/>
 
 <nlword word="parasenecio" sense="plant (genus Parasenecio)" valsi="sparparasenekio"/>
+
+<nlword word="palo verde" sense="plant (genus Parkinsonia)" valsi="sparparkinsonia"/>
 
 <nlword word="Indian breadroot" sense="plant (genus Pediomelum)" valsi="sparpediomelu"/>
 
@@ -42652,6 +43304,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="psychopsis" sense="orchid (genus Psychopsis)" valsi="sparpsikopsi"/>
 
 <nlword word="psophocarpus" sense="plant (genus Psophocarpus)" valsi="sparpsofokarpu"/>
+
+<nlword word="kudzu" sense="plant (genus Pueraria)" valsi="sparpu'eraria"/>
 
 <nlword word="fleabane" sense="plant (genus Pulicaria)" valsi="sparpulikaria"/>
 
@@ -42723,6 +43377,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="goatsbeard" sense="plant (genus Tragopogon)" valsi="spartragopogo"/>
 
+<nlword word="trefoil" sense="plant (genus Trifolium)" valsi="spartrifoli"/>
+
+<nlword word="shamrock" sense="plant (genus Trifolium)" valsi="spartrifoli"/>
+
+<nlword word="clover" sense="plant (genus Trifolium)" valsi="spartrifoli"/>
+
 <nlword word="trichocentrum" sense="orchid (genus Trichocentrum)" valsi="spartrikocentro"/>
 
 <nlword word="Apostle's iris" sense="plant (genus Trimezia)" valsi="spartrimezi'a"/>
@@ -42754,6 +43414,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="herminium" sense="orchid (genus Herminium)" valsi="sparxermini"/>
 
 <nlword word="hyacinth" sense="plant (genus Hyacinthus)" valsi="sparxiacintu"/>
+
+<nlword word="algarrobo" sense="tree (genus Hymenaea)" valsi="sparximene'a"/>
+
+<nlword word="jatobá" sense="tree (genus Hymenaea)" valsi="sparximene'a"/>
 
 <nlword word="hippocrepis" sense="plant (genus Hippocrepis)" valsi="sparxipokrepi"/>
 
@@ -42841,6 +43505,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="crocus" sense="plant (genus Crocus)" valsi="spatrkroku"/>
 
+<nlword word="lentil plant" sense="plant (genus Lens)" valsi="spatrlenti"/>
+
 <nlword word="monstera" sense="genus Monstera" valsi="spatrmonstera"/>
 
 <nlword word="spider orchid" sense="orchid (genus Ophrys)" valsi="spatrofri"/>
@@ -42867,9 +43533,17 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="aztec lily" sense="plant (genus Sprekelia)" valsi="spatrsprekelia"/>
 
+<nlword word="milk-vetch" sense="plant (genus Astragalus)" valsi="spatrstragalu"/>
+
+<nlword word="locoweed" sense="plant (genus Astragalus)" valsi="spatrstragalu"/>
+
+<nlword word="goat's-thorn" sense="plant (genus Astragalus)" valsi="spatrstragalu"/>
+
 <nlword word="jade vine" sense="plant (genus Strongylodon)" valsi="spatrstrongilodo"/>
 
 <nlword word="emerald vine" sense="plant (genus Strongylodon)" valsi="spatrstrongilodo"/>
+
+<nlword word="goldenbanner" sense="plant (genus Thermopsis)" valsi="spatrtermopsi"/>
 
 <nlword word="vanda" sense="orchid (genus Vanda)" valsi="spatrvanda"/>
 
@@ -42934,6 +43608,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="stomp" sense="crush using limbs" valsi="spostapa"/>
 
 <nlword word="reply" valsi="spuda"/>
+
+<nlword word="replier" valsi="spusku" place="1"/>
 
 <nlword word="respond" valsi="spusku"/>
 
@@ -43917,6 +44593,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="under logic system" valsi="teni'i"/>
 
+<nlword word="accordion" valsi="tenpi'o"/>
+
 <nlword word="contrasting property" valsi="tepa'a"/>
 
 <nlword word="usage for purpose" valsi="tepi'o"/>
@@ -44355,6 +45033,14 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="sweet" sense="candy" valsi="titspi"/>
 
+<nlword word="liquorice" sense="plant (genus Glycyrrhiza)" valsi="titygejyspa"/>
+
+<nlword word="licorice" sense="plant (genus Glycyrrhiza)" valsi="titygejyspa"/>
+
+<nlword word="liquorice root" valsi="titygenja"/>
+
+<nlword word="licorice root" valsi="titygenja"/>
+
 <nlword word="television" valsi="tivni"/>
 
 <nlword word="Daughter" valsi="tix"/>
@@ -44452,6 +45138,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="old" valsi="tolci'o"/>
 
 <nlword word="grow old" sense="increase in oldness" valsi="tolci'oze'a"/>
+
+<nlword word="tame" sense="opposite of “wild”" valsi="tolcilce"/>
 
 <nlword word="safe for" valsi="tolckape"/>
 
@@ -44787,6 +45475,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="disclaim" sense="negate" valsi="tolxu'a"/>
 
+<nlword word="quiet" sense="low noise level" valsi="tolylau"/>
+
+<nlword word="soft" sense="sound" valsi="tolylau"/>
+
 <nlword word="destroy equilibrium" valsi="tolylaxygau"/>
 
 <nlword word="unbalance" sense="transitive" valsi="tolylaxygau"/>
@@ -44969,6 +45661,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="sky" valsi="tsani"/>
 
+<nlword word="meditate" sense="thinking hard" valsi="tsapei"/>
+
 <nlword word="seasoning" valsi="tsapi"/>
 
 <nlword word="cinnamon" sense="spice (genus Cinnamomum)" valsi="tsaprcinamomu"/>
@@ -45051,6 +45745,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="vanilla seed" valsi="tsirvanila"/>
 
+<nlword word="spermatophyte" valsi="tsispa"/>
+
+<nlword word="phanerogam" valsi="tsispa"/>
+
 <nlword word="zucchini" valsi="tsukini"/>
 
 <nlword word="tsunami" valsi="tsunami"/>
@@ -45116,6 +45814,12 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="land" valsi="tumla"/>
 
 <nlword word="ground" sense="land surface" valsi="tumsfe"/>
+
+<nlword word="embryophyta" sense="plant strictest sense" valsi="tumspa"/>
+
+<nlword word="land plant" sense="plant strictest sense" valsi="tumspa"/>
+
+<nlword word="metaphyta" sense="plant strictest sense" valsi="tumspa"/>
 
 <nlword word="vehicle" sense="land transport" valsi="tumyma'e"/>
 
@@ -45615,6 +46319,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="viscous" valsi="viknu"/>
 
+<nlword word="carob syrup" valsi="vikrceratonia"/>
+
 <nlword word="mucus" valsi="vikselcigla"/>
 
 <nlword word="mistletoe" valsi="viktsispa"/>
@@ -46047,7 +46753,7 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="improve" sense="caused by event/state/process" valsi="xagzenri'a"/>
 
-<nlword word="vocative" valsi="xai"/>
+<nlword word="they" valsi="xai"/>
 
 <nlword word="to injure" valsi="xairgau"/>
 
@@ -46218,6 +46924,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="warthog" valsi="xarjrngiri"/>
 
 <nlword word="pig" valsi="xarju"/>
+
+<nlword word="imaginary number" valsi="xarna'u" place="1"/>
 
 <nlword word="stubborn" valsi="xarnu"/>
 
@@ -46615,6 +47323,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 
 <nlword word="gun" sense="weapon" valsi="xumjimcelxa'i" place="1"/>
 
+<nlword word="erythravine" sense="substance" valsi="xumnritrina"/>
+
 <nlword word="beryllium" valsi="xumrberili"/>
 
 <nlword word="boron" valsi="xumrbura"/>
@@ -46666,6 +47376,8 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="Urdu" sense="language" valsi="xurbau"/>
 
 <nlword word="Urdu" valsi="xurdo"/>
+
+<nlword word="propositional logic" valsi="xuslogji"/>
 
 <nlword word="declare" sense="claim" valsi="xusra"/>
 
@@ -46888,6 +47600,10 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="house" valsi="zdadi'u" place="1"/>
 
 <nlword word="home" sense="building" valsi="zdadi'u"/>
+
+<nlword word="attic" valsi="zdaga'u" place="1"/>
+
+<nlword word="dweller" valsi="zdaga'u" place="3"/>
 
 <nlword word="motor home" valsi="zdakarce"/>
 
@@ -47186,12 +47902,6 @@ See also nuña bean (={debrnuna}).</notes></valsi>
 <nlword word="property" sense="quality" valsi="zilkai"/>
 
 <nlword word="number" sense="to total in number" valsi="zilkancu"/>
-
-<nlword word="one way" valsi="zilselfat"/>
-
-<nlword word="irreversible" valsi="zilselfat"/>
-
-<nlword word="only one direction" valsi="zilselfat"/>
 
 <nlword word="made of" valsi="zilzba"/>
 
