@@ -287,9 +287,6 @@
 <valsi word="brili'e" type="lujvo"><definition>$x_1$ noi sumti porsi cu lidne $x_2$ noi bridi $x_3$ boi $x_4$</definition>
 <definitionid>13920</definitionid><notes>{bridi} {lidne}; {zo'u}</notes></valsi>
 
-<valsi word="brirebla" type="lujvo"><definition>$x_1$ rebla $x_2$ noi bridi $x_3$ boi $x_4$ .i $x_1$ vasru $x_3$ joi lei sumti poi se lidne $x_3$</definition>
-<definitionid>13555</definitionid><notes>{bridi} {rebla}</notes></valsi>
-
 <valsi word="broda" type="gismu"><rafsi>rod</rafsi><definition>pamoi brika'i .i ka'e se snigau sepi'o zo cei</definition>
 <definitionid>13681</definitionid><notes>{snigau} {brika'i}; {cei}</notes></valsi>
 
@@ -668,6 +665,9 @@
 <valsi word="dabytadji" type="lujvo"><definition>$x_1$ tadji lo nu damba kei $x_2$ gau $x_3$ poi ke'a damba</definition>
 <definitionid>15426</definitionid><notes>lo se damba .e lo te damba cu so'a roi na srana lo tadji .i zbasu fi zo {damba} ce'o zo {tadji}</notes></valsi>
 
+<valsi word="dafyfa'i" type="lujvo"><definition>$x_1$ facki lo du'u ma kau danfu $x_2$ kei zi'o</definition>
+<definitionid>42079</definitionid></valsi>
+
 <valsi word="dai" type="cmavo"><selmaho>UI5</selmaho><definition>tcita le se cusku le du'u le cusku cu cnikansa  </definition>
 <definitionid>13268</definitionid><notes>{cnikansa}</notes></valsi>
 
@@ -745,6 +745,12 @@
 
 <valsi word="dilcu" type="gismu"><definition>$x_1$ te fatri $x_3$ boi $x_2$ .i $x_1$ nu'a fe'i $x_2$ boi $x_3$</definition>
 <definitionid>13950</definitionid><notes>{fatri}; {fe'i}</notes></valsi>
+
+<valsi word="ditcma" type="lujvo"><definition>$x_1$ cmalu lo ka ce'u se ditcu ma kau kei $x_2$</definition>
+<definitionid>42008</definitionid></valsi>
+
+<valsi word="ditybra" type="lujvo"><definition>$x_1$ barda lo ka ce'u se ditcu ma kau kei $x_2$</definition>
+<definitionid>42006</definitionid></valsi>
 
 <valsi word="djekarni" type="lujvo"><definition>$x_1$ karni $x_2$ boi $x_3$ boi $x_4$ di'i ku ca ro djedi</definition>
 <definitionid>19769</definitionid><notes>{djedi} {karni}</notes></valsi>
@@ -1003,6 +1009,9 @@
 
 <valsi word="frigau" type="lujvo"><definition>$x_1$ gasnu lo nu $x_2$ lifri $x_3$</definition>
 <definitionid>15729</definitionid><notes>{lifri} {gasnu}</notes></valsi>
+
+<valsi word="frinyna'u" type="lujvo"><definition>$x_1$ namcu gi'e du su'o frinu be lo mulna'u bei lo mulna'u</definition>
+<definitionid>41845</definitionid><notes>{frinu} {namcu}; {tolfrinyna'u}, {xarna'u}, {tolxarna'u}, {mrena'u}, {lujna'u}</notes></valsi>
 
 <valsi word="fu" type="cmavo"><selmaho>FA</selmaho><definition>tcita le se li'erla'i sumti le du'u ri sumti fi li mu</definition>
 <definitionid>13497</definitionid></valsi>
@@ -1447,6 +1456,12 @@
 
 <valsi word="jibykai" type="lujvo"><definition>.i $x_1$ ckaji lo se jibri be $x_1$</definition>
 <definitionid>41323</definitionid><notes>.i .e'u zgana ge zo'e ne zo {gunka} gi zo'e ne zo {jibri}</notes></valsi>
+
+<valsi word="jifkritrazu'e" type="lujvo"><definition>$x_1$ zukte lo ka ce'u tarti $x_2$ kei lo nu $x_3$ krici $x_4$ noi ke'a jitfa $x_5$</definition>
+<definitionid>41997</definitionid></valsi>
+
+<valsi word="jifyjunxu'a" type="lujvo"><definition>$x_1$ xusra $x_2$ noi $x_1$ djuno lo du'u ke'a jitfa $x_3$</definition>
+<definitionid>42002</definitionid></valsi>
 
 <valsi word="jikmenbi'a" type="lujvo"><definition>$x_1$ menbi'a $x_2$ noi srana lo nu jikca kei $x_3$</definition>
 <definitionid>19654</definitionid><notes>{jikca} {menbi'a} {menli} {bilma} {ka'enri'u}</notes></valsi>
@@ -2085,6 +2100,9 @@
 <valsi word="momlai" type="lujvo"><definition>$x_1$ klani $x_2$ le ka vo'a me vo'e moi $x_3$ boi $x_4$ </definition>
 <definitionid>13889</definitionid><notes>{moi} zei {klani}</notes></valsi>
 
+<valsi word="mrena'u" type="lujvo"><definition>$x_1$ namcu gi'e se tenfa lo na'e mleca be li no li re</definition>
+<definitionid>41838</definitionid><notes>dunli zo {tolxarna'u} lo ka ce'u smuni .i {merli} {namcu}; {xarna'u}, {lujna'u}</notes></valsi>
+
 <valsi word="mrobi'o" type="lujvo"><definition>$x_1$ binxo lo morsi $x_2$</definition>
 <definitionid>7802</definitionid><notes>{morsi} {binxo}; {pavzilcatra}</notes></valsi>
 
@@ -2097,8 +2115,8 @@
 <valsi word="mu'a" type="cmavo"><selmaho>UI3</selmaho><definition>tcita le se cusku le du'u la'e ri mupli</definition>
 <definitionid>2583</definitionid><notes>{mupli}</notes></valsi>
 
-<valsi word="mu'e" type="cmavo"><rafsi>muf</rafsi><selmaho>NU1</selmaho><definition>galfi lo bridi lo brivla .i $x_1$ mokca fasnu gi'e se sinxa le bridi</definition>
-<definitionid>13659</definitionid><notes>{mokca} {fasnu}</notes></valsi>
+<valsi word="mu'e" type="cmavo"><rafsi>muf</rafsi><selmaho>NU1</selmaho><definition>dunli lu nu co'i ku li'u</definition>
+<definitionid>41993</definitionid></valsi>
 
 <valsi word="mu'i" type="cmavo"><selmaho>BAI</selmaho><definition>fi'o mukti</definition>
 <definitionid>2659</definitionid><notes>{mukti}</notes></valsi>
@@ -2226,6 +2244,9 @@
 <valsi word="nalxe'u" type="lujvo"><definition>$x_1$ na'e xenru $x_2$</definition>
 <definitionid>14167</definitionid><notes>{na'e} {xenru}; {nalzungi}; {u'ucu'i}</notes></valsi>
 
+<valsi word="nalzaucru" type="lujvo"><definition>$x_1$ curmi $x_2$ noi $x_1$ ke'a na'e zanru ku'o $x_3$</definition>
+<definitionid>41995</definitionid></valsi>
+
 <valsi word="nalzungi" type="lujvo"><definition>$x_1$ na'e zungi $x_2$</definition>
 <definitionid>14169</definitionid><notes>{na'e} {zungi}; {nalxe'u}; {u'ucu'i}</notes></valsi>
 
@@ -2246,6 +2267,9 @@
 
 <valsi word="nauspe" type="lujvo"><definition>$x_1$ speni $x_2$ boi $x_3$ gi'e nanmu</definition>
 <definitionid>19680</definitionid><notes>{nanmu} {speni}</notes></valsi>
+
+<valsi word="navni" type="gismu"><definition>$x_1$ se gunma lo pabimoi be lo klesi be lo dikni cartu be lo'i ratni gi'e me $x_2$ noi ratni li re .a pano .a pabi .a cixa .a muvo .a bixa</definition>
+<definitionid>41837</definitionid><notes>lo ratni be li papabi ji'a cu se gunma lo pabimoi be lo klesi be lo dikni cartu be lo'i {ratni} gi'e ku'i na navni to ko karbi zu'i zo {xukmi} .e zo {gapci} .e zo {tolfragapci} toi</notes></valsi>
 
 <valsi word="ne" type="cmavo"><selmaho>GOI</selmaho><definition>noi ke'a srana</definition>
 <definitionid>13431</definitionid><notes>{noi} {srana}</notes></valsi>
@@ -2577,6 +2601,9 @@
 <valsi word="peisku" type="lujvo"><definition>$x_1$ cusku pensi $x_2$</definition>
 <definitionid>15451</definitionid><notes>srana lo tavla nu pensi .i zbasu fi zo {pensi} ce'o zo {cusku}</notes></valsi>
 
+<valsi word="pelnimryjisra" type="lujvo"><definition>$j_1$ jisra $j_2=n_1$ po'u loi pelnimre</definition>
+<definitionid>42198</definitionid></valsi>
+
 <valsi word="pelxu" type="gismu"><rafsi>pel</rafsi><definition>$x_1$ skari lo'e makcu pelnimre .a lo'e solxrula .a lo'e gusni poi jbini lo'e crino ku joi lo'e narju le ka boxna clani</definition>
 <definitionid>13357</definitionid><notes>{skari}; {pelnimre}; {solxrula}; {crino}; {narju}</notes></valsi>
 
@@ -2624,6 +2651,9 @@
 
 <valsi word="plika'e" type="lujvo"><definition>$x_1$ kakne lo nu $x_1$ pilno $x_2$ $x_3$ kei $x_4$</definition>
 <definitionid>15346</definitionid><notes>krasi fi la ma'oste</notes></valsi>
+
+<valsi word="plisyjisra" type="lujvo"><definition>$j_1$ jisra $j_2=p_1$ po'u loi plise</definition>
+<definitionid>42195</definitionid></valsi>
 
 <valsi word="plisytsi" type="lujvo"><definition>$p_1=t_1$ tsiju lo plise</definition>
 <definitionid>41756</definitionid></valsi>
@@ -2780,6 +2810,9 @@
 
 <valsi word="refcfari'a" type="lujvo"><definition>$x_1$ rinka lo krefu be lo nu $x_2$ cfari bei $x_3$</definition>
 <definitionid>2620</definitionid><notes>{refcfa}</notes></valsi>
+
+<valsi word="rei" type="cmavo"><selmaho>PA2</selmaho><definition>saclu li pavo li paxa</definition>
+<definitionid>13530</definitionid><notes>{xei}</notes></valsi>
 
 <valsi word="relcinpa'i" type="lujvo"><definition>$x_1$ cinse prami lo fetsi jo'u lo nakni</definition>
 <definitionid>15679</definitionid><notes>{re} {cinse} {prami}</notes></valsi>
@@ -2954,6 +2987,9 @@
 
 <valsi word="sa'u" type="cmavo"><selmaho>UI3</selmaho><definition>tcita le se cusku le du'u la'e ri sampu</definition>
 <definitionid>13247</definitionid><notes>{sampu}</notes></valsi>
+
+<valsi word="sackyta'e" type="lujvo"><definition>$t_1$ tanxe loi sacki ku $t_3$</definition>
+<definitionid>41891</definitionid></valsi>
 
 <valsi word="sai" type="cmavo"><selmaho>CAI</selmaho><definition>tcita le se cusku le du'u la'e ri tsali le ka se cinmo le cusku</definition>
 <definitionid>13305</definitionid><notes>{cinmo} {tsali}</notes></valsi>
@@ -3239,6 +3275,9 @@
 
 <valsi word="sorprekarce" type="lujvo"><definition>$x_1$ karce $x_2$ no'u so'i prenu $x_3$</definition>
 <definitionid>19781</definitionid><notes>{so'i} {prenu} {karce}</notes></valsi>
+
+<valsi word="sorselsmu" type="lujvo"><definition>$x_1$ se smuni be so'i da $x_2$</definition>
+<definitionid>42010</definitionid></valsi>
 
 <valsi word="soryroi" type="lujvo"><definition>$x_1$ cu fasnu so'i roi $x_2$ </definition>
 <definitionid>41462</definitionid></valsi>
@@ -3936,7 +3975,7 @@
 <valsi word="xadzengu'a" type="lujvo"><definition>$x_1$ gunka $x_2$ lo ka lo xadni be ce'u cu zenba lo ka kanro .a lo ka tsali</definition>
 <definitionid>41378</definitionid><notes>{xadni} {zenba} {gunka}</notes></valsi>
 
-<valsi unofficial="true" word="xai" type="experimental cmavo"><selmaho>KOhA</selmaho><definition>ri .ebo ra .a ri .ebo ru .a ra .ebo ra .a ra .ebo ru .a ru .ebo ru .a ri .ebo ra .ebo ru</definition>
+<valsi unofficial="true" word="xai" type="experimental cmavo"><selmaho>KOhA5</selmaho><definition>ri .ebo ra .a ri .ebo ru .a ra .ebo ra .a ra .ebo ru .a ru .ebo ru .a ri .ebo ra .ebo ru</definition>
 <definitionid>38193</definitionid></valsi>
 
 <valsi word="xairgau" type="lujvo"><definition>$x_1$ gasnu $x_2$ poi ke'a xrani $x_3$ $x_4$ $x_5$</definition>
@@ -3996,8 +4035,8 @@
 <valsi word="xo" type="cmavo"><selmaho>PA5</selmaho><definition>preti le du'u makau namcu</definition>
 <definitionid>13500</definitionid><notes>{namcu} {preti}</notes></valsi>
 
-<valsi unofficial="true" word="xo'e" type="experimental cmavo"><selmaho>PA</selmaho><definition>zo'e ze'ei pa</definition>
-<definitionid>38181</definitionid></valsi>
+<valsi unofficial="true" word="xo'e" type="experimental cmavo"><selmaho>PA5</selmaho><definition>zo'e ze'ei pa</definition>
+<definitionid>38181</definitionid><notes>namcu .i se zilkancu zo'e to ko karbi ti zo {no'o} .e zo {zo'e} .e zo {tu'o} .e zo {xo} .e zo {co'e} .e zo {do'e} toi</notes></valsi>
 
 <valsi word="xracku" type="lujvo"><definition>$x_1$ cukta $x_2$ boi $x_3$ boi $x_4$ boi $x_5$ se pi'o so'i pixra</definition>
 <definitionid>19710</definitionid><notes>{pixra} {cukta}</notes></valsi>
@@ -4212,6 +4251,9 @@
 <valsi word="zu'unai" type="cmavo cluster"><selmaho>UI*</selmaho><definition>tcita le se cusku le du'u la'e ri zildau la'e le se tcita be zo zu'u</definition>
 <definitionid>13664</definitionid><notes>{zu'u} {nai}; {zildau}</notes></valsi>
 
+<valsi word="zukte" type="gismu"><rafsi>zuk</rafsi><rafsi>zu'e</rafsi><definition>$x_1$ gasnu lo nu $x_1$ ckaji $x_2$ kei mu'i lo nu $x_1$ kanpe lo nu lo nu $x_1$ ckaji $x_2$ cu se jalge $x_3$</definition>
+<definitionid>41956</definitionid></valsi>
+
 <valsi word="zvada'o" type="lujvo"><definition>$x_1$ darno $x_2$ lo ka ce'u ma kau zvati</definition>
 <definitionid>41657</definitionid></valsi>
 
@@ -4362,8 +4404,6 @@
 <nlword word="brika'i" valsi="brika'i"/>
 
 <nlword word="brili'e" valsi="brili'e"/>
-
-<nlword word="brirebla" valsi="brirebla"/>
 
 <nlword word="broda" valsi="broda"/>
 
@@ -4539,6 +4579,8 @@
 
 <nlword word="da'u" valsi="da'u"/>
 
+<nlword word="dafyfa'i" valsi="dafyfa'i"/>
+
 <nlword word="dai" valsi="dai"/>
 
 <nlword word="darsygau" valsi="darsygau"/>
@@ -4576,6 +4618,10 @@
 <nlword word="di'u" valsi="di'u"/>
 
 <nlword word="dilcu" valsi="dilcu"/>
+
+<nlword word="ditcma" valsi="ditcma"/>
+
+<nlword word="ditybra" valsi="ditybra"/>
 
 <nlword word="djekarni" valsi="djekarni"/>
 
@@ -4929,6 +4975,10 @@
 
 <nlword word="ji'u" valsi="ji'u"/>
 
+<nlword word="jifkritrazu'e" valsi="jifkritrazu'e"/>
+
+<nlword word="jifyjunxu'a" valsi="jifyjunxu'a"/>
+
 <nlword word="jikmenbi'a" valsi="jikmenbi'a"/>
 
 <nlword word="jmina" valsi="jmina"/>
@@ -5155,8 +5205,6 @@
 
 <nlword word="litru" valsi="litru"/>
 
-<nlword word="lo" valsi="lo"/>
-
 <nlword word="lo'a" valsi="lo'a"/>
 
 <nlword word="lo'e" valsi="lo'e"/>
@@ -5281,8 +5329,6 @@
 
 <nlword word="mu'a" valsi="mu'a"/>
 
-<nlword word="mu'e" valsi="mu'e"/>
-
 <nlword word="mu'i" valsi="mu'i"/>
 
 <nlword word="mu'o" valsi="mu'o"/>
@@ -5348,6 +5394,8 @@
 <nlword word="nalmu'o" valsi="nalmu'o"/>
 
 <nlword word="nalxe'u" valsi="nalxe'u"/>
+
+<nlword word="nalzaucru" valsi="nalzaucru"/>
 
 <nlword word="nalzungi" valsi="nalzungi"/>
 
@@ -5635,6 +5683,8 @@
 
 <nlword word="refcfari'a" valsi="refcfari'a"/>
 
+<nlword word="rei" valsi="rei"/>
+
 <nlword word="relnacmei" valsi="relnacmei"/>
 
 <nlword word="remnkimi" valsi="remnkimi"/>
@@ -5852,6 +5902,8 @@
 <nlword word="sorju'o" valsi="sorju'o"/>
 
 <nlword word="sorprekarce" valsi="sorprekarce"/>
+
+<nlword word="sorselsmu" valsi="sorselsmu"/>
 
 <nlword word="soryroi" valsi="soryroi"/>
 
@@ -6340,6 +6392,8 @@
 <nlword word="zu'u" valsi="zu'u"/>
 
 <nlword word="zu'unai" valsi="zu'unai"/>
+
+<nlword word="zukte" valsi="zukte"/>
 
 <nlword word="zvada'o" valsi="zvada'o"/>
 

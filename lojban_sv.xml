@@ -3032,21 +3032,21 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="klinga" sense="vass metalldel" valsi="balre"/>
 
-<nlword word="förra" sense="tidsföljd" valsi="balvi" place="2"/>
-
-<nlword word="succedera" sense="komma efter" valsi="balvi"/>
-
 <nlword word="komma efter" sense="tidsföljd" valsi="balvi"/>
-
-<nlword word="efterträda" valsi="balvi"/>
 
 <nlword word="efterträdare" valsi="balvi"/>
 
 <nlword word="följa efter" sense="tidsföljd" valsi="balvi"/>
 
-<nlword word="senare" sense="tidsföljd" valsi="balvi" place="1"/>
-
 <nlword word="framtid" sense="ospecificerad" valsi="balvi"/>
+
+<nlword word="förra" sense="tidsföljd" valsi="balvi" place="2"/>
+
+<nlword word="succedera" sense="komma efter" valsi="balvi"/>
+
+<nlword word="efterträda" valsi="balvi"/>
+
+<nlword word="senare" sense="tidsföljd" valsi="balvi" place="1"/>
 
 <nlword word="bortom" valsi="bancu"/>
 
@@ -3156,10 +3156,6 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="tillräckligt för ändamål" valsi="banzu" place="2"/>
 
-<nlword word="räcka" sense="tillräcklig" valsi="banzu"/>
-
-<nlword word="lagom mängd" valsi="banzu" place="1"/>
-
 <nlword word="tillfyllest" sense="tillräcklig" valsi="banzu"/>
 
 <nlword word="förslå" valsi="banzu"/>
@@ -3169,6 +3165,10 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 <nlword word="villkor för att vara tillräckligt" valsi="banzu" place="3"/>
 
 <nlword word="lagom" sense="tillräcklig" valsi="banzu"/>
+
+<nlword word="lagom mängd" valsi="banzu" place="1"/>
+
+<nlword word="räcka" sense="tillräcklig" valsi="banzu"/>
 
 <nlword word="tvinga" valsi="bapli"/>
 
@@ -3290,19 +3290,19 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="bitare" valsi="batci" place="1"/>
 
-<nlword word="bettställe" valsi="batci" place="3"/>
-
-<nlword word="klämma" sense="greppa hårt" valsi="batci"/>
-
 <nlword word="bitredskap" sense="bita" valsi="batci" place="4"/>
 
 <nlword word="bita" valsi="batci"/>
 
-<nlword word="klämd" valsi="batci"/>
+<nlword word="bettställe" valsi="batci" place="3"/>
+
+<nlword word="klämma" sense="greppa hårt" valsi="batci"/>
+
+<nlword word="biten" valsi="batci" place="2"/>
 
 <nlword word="bitsk" valsi="batci"/>
 
-<nlword word="biten" valsi="batci" place="2"/>
+<nlword word="klämd" valsi="batci"/>
 
 <nlword word="knappförsedd" valsi="batke" place="2"/>
 
@@ -4708,9 +4708,9 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="besynnerlig" valsi="cizra"/>
 
-<nlword word="egendomlig" valsi="cizra"/>
-
 <nlword word="udda" sense="konstig" valsi="cizra"/>
+
+<nlword word="egendomlig" valsi="cizra"/>
 
 <nlword word="bisarr" sense="konstig" valsi="cizra"/>
 
@@ -5000,17 +5000,17 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="krypa" valsi="cpare"/>
 
-<nlword word="kräla" valsi="cpare"/>
-
 <nlword word="kravla" valsi="cpare"/>
 
-<nlword word="kravlare" valsi="cpare" place="1"/>
+<nlword word="klättra" valsi="cpare"/>
+
+<nlword word="kräla" valsi="cpare"/>
 
 <nlword word="klätterunderlag" valsi="cpare" place="2"/>
 
-<nlword word="klättringsriktning" valsi="cpare" place="3"/>
+<nlword word="kravlare" valsi="cpare" place="1"/>
 
-<nlword word="klättra" valsi="cpare"/>
+<nlword word="klättringsriktning" valsi="cpare" place="3"/>
 
 <nlword word="klättringshjälpmedel" valsi="cpare" place="4"/>
 
@@ -5296,19 +5296,19 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="motståndare" sense="i strid/bråk" valsi="damba" place="2"/>
 
-<nlword word="strida" valsi="damba"/>
-
 <nlword word="trätoämne" sense="ämne att bråka över" valsi="damba" place="3"/>
 
 <nlword word="bråka" sense="slåss" valsi="damba"/>
 
-<nlword word="slåss" valsi="damba"/>
+<nlword word="fighter" sense="slagskämpe" valsi="damba"/>
+
+<nlword word="strida" valsi="damba"/>
 
 <nlword word="slagskämpe" valsi="damba" place="1"/>
 
-<nlword word="kämpa" sense="strida" valsi="damba"/>
+<nlword word="slåss" valsi="damba"/>
 
-<nlword word="fighter" sense="slagskämpe" valsi="damba"/>
+<nlword word="kämpa" sense="strida" valsi="damba"/>
 
 <nlword word="slaginstrumentredskap" sense="exv klubba, trumpinne etc." valsi="damri" place="2"/>
 
@@ -5408,19 +5408,19 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="Darussalam" valsi="darusLAM"/>
 
-<nlword word="klippa till" sense="slag" valsi="darxi"/>
-
-<nlword word="bråkstake" valsi="darxi" place="1"/>
-
-<nlword word="träffyta" sense="ställe där slag/stöt har träffat" valsi="darxi" place="4"/>
-
 <nlword word="slå" valsi="darxi"/>
-
-<nlword word="slaghjälpmedel" valsi="darxi" place="3"/>
 
 <nlword word="slagen" sense="blivit träffad av slag/stöt" valsi="darxi" place="2"/>
 
 <nlword word="prygla" valsi="darxi"/>
+
+<nlword word="bråkstake" valsi="darxi" place="1"/>
+
+<nlword word="klippa till" sense="slag" valsi="darxi"/>
+
+<nlword word="träffyta" sense="ställe där slag/stöt har träffat" valsi="darxi" place="4"/>
+
+<nlword word="slaghjälpmedel" valsi="darxi" place="3"/>
 
 <nlword word="stöta" sense="slå till" valsi="darxi"/>
 
@@ -6122,15 +6122,15 @@ Namnet Zimbabwe är härlett från dzimba dzemabwe, vilket på språket shona be
 
 <nlword word="åtskilja" sense="dela upp i delar" valsi="fendi"/>
 
-<nlword word="indela" valsi="fendi"/>
-
-<nlword word="delare" sense="(agent) delar in/upp ngt i delar" valsi="fendi" place="1"/>
-
 <nlword word="del" sense="del av det uppdelade" valsi="fendi" place="3"/>
 
 <nlword word="uppdelad" valsi="fendi" place="2"/>
 
 <nlword word="sära" sense="dela upp i delar" valsi="fendi"/>
+
+<nlword word="delare" sense="(agent) delar in/upp ngt i delar" valsi="fendi" place="1"/>
+
+<nlword word="indela" valsi="fendi"/>
 
 <nlword word="dela" sense="även dela in/dela upp" valsi="fendi"/>
 

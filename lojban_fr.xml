@@ -10,7 +10,7 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <valsi word="badna" type="gismu"><definition>$x_1$ est une banane d'espèce $x_2$</definition>
 <definitionid>14469</definitionid></valsi>
 
-<valsi word="badri" type="gismu"><rafsi>dri</rafsi><definition>$x_1$ est triste/déprimé à propos de $x_1$ (abstrait)</definition>
+<valsi word="badri" type="gismu"><rafsi>dri</rafsi><definition>$x_1$ est triste/déprimé à propos de $x_2$ (abstrait)</definition>
 <definitionid>20615</definitionid><notes>Voir aussi {klaku}, {gleki}, {betri}, {cinmo}, {junri}.</notes></valsi>
 
 <valsi word="bajra" type="gismu"><rafsi>baj</rafsi><definition>$x_1$ court sur $x_2$ (surface) en se servant de jambe(s)/membre(s) $x_3$ ayant comme démarche $x_4$.</definition>
@@ -184,6 +184,12 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <valsi word="gugdrxelvo" type="fu'ivla"><definition>$g_1$ est la Suisse</definition>
 <definitionid>13608</definitionid></valsi>
 
+<valsi word="jgari" type="gismu"><rafsi>jai</rafsi><definition>$x_{1}$ saisit/s'empare de/tient/s'agrippe à $x_{2}$ par $x_{3}$ (partie de $x_{1}$) à l'endroit $x_{4}$ (partie de $x_{2}$).</definition>
+<definitionid>41875</definitionid><notes>poignée de main (= {xanjaisi'u}); tenir dans les mains (= {xanjai}); poignée (= {jaitci}).  Voir aussi {ralte}, {pencu}, {darxi}, {batke}, {rinju}.</notes></valsi>
+
+<valsi word="jgena" type="gismu"><rafsi>jge</rafsi><definition>$x_{1}$ est un noeud dans/entre $x_{2}$ (objet/jo'u-objets).</definition>
+<definitionid>41876</definitionid><notes>Voir aussi {pluja}, {julne}, {lasna}, {skori}.</notes></valsi>
+
 <valsi word="jimpe" type="gismu"><rafsi>jmi</rafsi><definition>$x_1$ comprends que le fait $x_2$ (du'u) est vrai à propos du sujet $x_3$</definition>
 <definitionid>20585</definitionid></valsi>
 
@@ -312,6 +318,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <nlword word="banane" sense="banane fruit ou banane plantain (utilisée comme un légume)" valsi="badna" place="1"/>
 
 <nlword word="espèce de banane" sense="espèce de la banane ; par exemple : Gros Michel (Canaries), Grande Naine (Cameroun, Antilles), Payo (Antilles, Amérique centrale), Cavendish (Côte-d'Ivoire)" valsi="badna" place="2"/>
+
+<nlword word="malheureux" sense="triste" valsi="badri"/>
 
 <nlword word="déprimé" valsi="badri"/>
 
@@ -534,6 +542,12 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <nlword word="causer" valsi="gasnu"/>
 
 <nlword word="faire en sorte" valsi="gasnu"/>
+
+<nlword word="saisir" valsi="jgari"/>
+
+<nlword word="tenir" sense="saisir" valsi="jgari"/>
+
+<nlword word="noeud" valsi="jgena" place="1"/>
 
 <nlword word="comprendre" valsi="jimpe"/>
 
