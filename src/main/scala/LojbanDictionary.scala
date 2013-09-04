@@ -32,6 +32,15 @@ import _root_.android.provider.SearchRecentSuggestions
 import _root_.android.content.Context
 import _root_.android.content.SharedPreferences
 
+import _root_.com.android.vending.billing.IInAppBillingService
+import _root_.android.content.ComponentName
+import _root_.android.content.ServiceConnection
+import _root_.android.os.IBinder
+import _root_.java.util.ArrayList
+import scala.collection.JavaConversions._
+import _root_.org.json.JSONObject
+import _root_.android.app.PendingIntent
+
 class MySuggestionProviderClass extends SearchRecentSuggestionsProvider {
 	setupSuggestions("lojban dictionary", 1);
 }
@@ -167,12 +176,36 @@ class LojbanDictionary extends Activity with TypedActivity {
 		input.setAdapter(adapter)
 	}
 
+	var mService: IInAppBillingService = null
+	val mServiceConn = new ServiceConnection () {
+		override def onServiceDisconnected(
+			name: ComponentName) {
+			mService = null
+		}
+		override def onServiceConnected(
+			name: ComponentName,
+			service: IBinder) {
+			mService = IInAppBillingService.Stub.
+				asInterface(service)
+		}
+	}
+
+	override def onDestroy() {
+		super.onDestroy();
+		if (mServiceConn != null) {
+			unbindService(mServiceConn)
+		}
+	}
+
 	override def onCreate(bundle: Bundle) {
 		Log.d("LojbanDictionary", "onCreate")
 		super.onCreate(bundle)
 		requestWindowFeature(Window.FEATURE_NO_TITLE)
 		setContentView(R.layout.main)
 		input.setAdapter(adapter)
+		bindService(new
+			Intent("com.android.vending.billing.InAppBillingService.BIND"),
+				mServiceConn, Context.BIND_AUTO_CREATE)
 
 /*
 		val test = spr.getInt("DATA1", 0);
@@ -280,16 +313,54 @@ class LojbanDictionary extends Activity with TypedActivity {
 	}
 
 	override def onCreateOptionsMenu(menu: Menu): Boolean = {
-		menu.add(Menu.NONE, 1, 1, "lo se cuxna")
+		menu.add(Menu.NONE, 2, 2, "lo se cuxna")
+		if (spr.getBoolean("sarji", false) == false) {
+			menu.add(Menu.NONE, 1, 1, "ko sarji")
+		}
 		menu.add(Menu.NONE, 0, 0, "vimcu lo vreji")
 		return super.onCreateOptionsMenu(menu)
 	}
 
 	override def onOptionsItemSelected(item: MenuItem): Boolean = {
 		item.getItemId() match {
-		case 1 =>
+		case 2 =>
 			val intent = new Intent(this, classOf[Preference])
 			startActivity(intent)
+		case 1 =>
+			val skuList = new ArrayList[String]();
+			skuList.add("sarji")
+			val querySkus = new Bundle()
+			querySkus.putStringArrayList("ITEM_ID_LIST", skuList)
+			val skuDetails = mService.getSkuDetails(
+				3, getPackageName(), "inapp", querySkus)
+			val response = skuDetails.getInt("RESPONSE_CODE")
+			if (response == 0) {
+				val responseList: ArrayList[String]
+					= skuDetails.getStringArrayList(
+						"DETAILS_LIST")
+				for (thisResponse <- responseList) {
+					val obj = new JSONObject(thisResponse)
+					val sku = obj.getString("productId")
+					val price = obj.getString("price")
+					Toast.makeText(this, sku,
+						Toast.LENGTH_SHORT).show()
+					Toast.makeText(this, price,
+						Toast.LENGTH_SHORT).show()
+					val buyIntentBundle = mService.
+						getBuyIntent(3, getPackageName(),
+							sku, "inapp", "hoge")
+					val pendingIntent: PendingIntent =
+						buyIntentBundle.
+							getParcelable("BUY_INTENT")
+					startIntentSenderForResult(
+						pendingIntent.getIntentSender(),
+						1001, new Intent(),
+						Integer.valueOf(0),
+						Integer.valueOf(0),
+						Integer.valueOf(0))
+				}
+			}
+			spre.putBoolean("sarji", true)
 		case 0 =>
 			Log.d("LojbanDictionary", "history.clear will do")
 			history.clear
