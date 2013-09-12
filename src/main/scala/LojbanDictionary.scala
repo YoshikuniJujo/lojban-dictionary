@@ -313,6 +313,21 @@ class LojbanDictionary extends Activity with TypedActivity {
 	}
 
 	override def onCreateOptionsMenu(menu: Menu): Boolean = {
+		val ownedItems = mService.getPurchases(
+			3, getPackageName(), "inapp", null)
+		val response = ownedItems.getInt("RESPONSE_CODE")
+		if (response == 0) {
+			val ownedSkus = ownedItems.getStringArrayList(
+				"INAPP_PURCHASE_ITEM_LIST")
+			val purchaseDataList = ownedItems.getStringArrayList(
+				"INAPP_PURCHASE_DATA_LIST")
+			for (i <- 0 until purchaseDataList.size()) {
+				val sku = ownedSkus.get(i)
+				if (sku == "sarji") spre.putBoolean("sarji", true)
+				else spre.putBoolean("sarji", false)
+			}
+		}
+
 		menu.add(Menu.NONE, 2, 2, "lo se cuxna")
 		if (spr.getBoolean("sarji", false) == false) {
 			menu.add(Menu.NONE, 1, 1, "ko sarji")
