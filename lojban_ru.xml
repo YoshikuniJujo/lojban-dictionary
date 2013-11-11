@@ -62,8 +62,8 @@
 <valsi word="ainai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>междометие: намерение - отсутствие решения - отказ/отклонение</definition>
 <definitionid>36820</definitionid><notes>См. также {termu'i}, {terzu'e}, {seljdi}, {selcu'a}.</notes></valsi>
 
-<valsi word="akti" type="fu'ivla"><definition>$x_1$ способен выполнять функции/готов к использованию для $x_2$; $x_1$ - операбельный operable, действующий, работоспособный, функционирующий, несломанный, активный</definition>
-<definitionid>39111</definitionid><notes>См. также {spofu}, {ka'e} se {pilno}</notes></valsi>
+<valsi word="akti" type="fu'ivla"><definition>$x_1$ выполняет функции/выполняет операцию $x_2$; $x_1$ - функционирующий, действующий, активный, работает</definition>
+<definitionid>39111</definitionid><notes>См. также {ca'a} se {pilno}, {tolspofu}</notes></valsi>
 
 <valsi word="alpaka" type="fu'ivla"><definition>$x_1$ - это альпака, пака (Lama pacos) породы $x_2$</definition>
 <definitionid>39128</definitionid><notes>См. {kumte}</notes></valsi>
@@ -73,6 +73,9 @@
 
 <valsi word="angeli" type="fu'ivla"><definition>$x_1$ - ангел/ангелы.</definition>
 <definitionid>37925</definitionid></valsi>
+
+<valsi word="anste" type="fu'ivla"><definition>$x_1$ отчаялся/чувствует отчаяние/Angst</definition>
+<definitionid>42500</definitionid><notes>Только одно sumti-место; для выражения "страха из-за чего-либо" используйте {terpa}</notes></valsi>
 
 <valsi word="anxodi" type="fu'ivla"><definition>$x_1$ - это анод/положительный электрод.</definition>
 <definitionid>39090</definitionid><notes>См. также {ionti}, {katxodi}</notes></valsi>
@@ -86,11 +89,17 @@
 <valsi word="arxokuna" type="fu'ivla"><definition>$x_1$ - это енот вида $x_2$</definition>
 <definitionid>37971</definitionid><notes>Синонимы {prokioni}, {lumge'u}</notes></valsi>
 
+<valsi word="asna" type="fu'ivla"><definition>$x_1$ - это позиция тела/поза/стойка/асана тела $x_2$, характеризуемая свойством/(множеством) свойств $x_3$ (ka).</definition>
+<definitionid>42367</definitionid><notes>См. se {morna}</notes></valsi>
+
 <valsi word="au" type="cmavo"><selmaho>UI1</selmaho><definition>междометие: желание - равнодушие - отвращение</definition>
 <definitionid>36821</definitionid><notes>См. также {djica}.</notes></valsi>
 
 <valsi word="aucu'i" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>междометие: желание - равнодушие - отвращение</definition>
 <definitionid>36822</definitionid><notes>См. также {djica}.</notes></valsi>
+
+<valsi word="aufklerunge" type="fu'ivla"><definition>$x_1$ (процесс/концепция) является просвещением в смысле философии $x_2$</definition>
+<definitionid>42456</definitionid></valsi>
 
 <valsi word="aunai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>междометие: желание - равнодушие - отвращение</definition>
 <definitionid>36823</definitionid><notes>См. также {djica}.</notes></valsi>
@@ -186,8 +195,8 @@
 <valsi word="balvi" type="gismu"><rafsi>bav</rafsi><definition>$x_1$ происходит в будущем относительно/позже чем/после $x_2$; $x_1$ — потом, позже; $x_2$ — перед, раньше</definition>
 <definitionid>35341</definitionid><notes>Также: следует за, преемник; только об упорядочении во времени (иначе нужно использовать {lidne}); $x_1$ может перекрываться во времени с $x_2$, если только $x_1$ продолжается впоследствии; будущее в сугубом смысле: {cfabalvi}; по умолчанию $x_2$ — настоящее время: $x_1$ произойдет в будущем {lidne} (предшествовать), {cabna} (одновременно), {purci} (раньше), {farna} (направление)</notes></valsi>
 
-<valsi unofficial="true" word="bamju" type="experimental gismu"><definition>$x_1$ - это бамбук (Bambuseae) рода/вида $x_2$.</definition>
-<definitionid>36750</definitionid><notes>Ср. {spati}, {tricu}.</notes></valsi>
+<valsi unofficial="true" word="bambu" type="experimental gismu"><definition>$x_1$ - это бамбук (Bambuseae) рода/вида $x_2$.</definition>
+<definitionid>42442</definitionid><notes>Ср. {spati}, {tricu}.</notes></valsi>
 
 <valsi word="bancu" type="gismu"><rafsi>bac</rafsi><definition>$x_1$ находится за пределом/границей/рубежом $x_2$, ограничивающим $x_3$ по свойству/величине $x_4$ ({ka}/{ni})</definition>
 <definitionid>35342</definitionid><notes>Также: по ту сторону, превышает, выходит за/через, переступает пределы; по другую сторону границы, но не обязательно непосредственно «напротив» или на кратчайшем (в каком-то смысле) расстоянии (ср. {ragve}); не обязательно также речь идет о положении в пространстве {dukse} (избыток), {ragve} (напротив [по ту сторону]), {zmadu} (превосходить), {kuspe} (простираться)</notes></valsi>
@@ -300,6 +309,9 @@
 <valsi word="benji" type="gismu"><rafsi>bej</rafsi><rafsi>be'i</rafsi><definition>$x_1$ передает/посылает $x_2$ (сообщение/груз) получателю/приемнику $x_3$ с передатчика/источника $x_4$ посредством (носителя/среды) $x_5$</definition>
 <definitionid>35366</definitionid><notes>Также: делится, распространяет; не предполагается (полное) отчуждение от источника/ $x_5$ - носитель. См. также {muvdu} (двигаться), {dunda} (давать), {mrilu} (посылать), {nirna} (нерв), {xruti} (возвращать), {cradi} (радио), {tivni} (телевещание), {preja} (простираться [до чего-либо]), {be'i}, {bevri} (нести), {mrilu} (посылать), {tcana} (станция)</notes></valsi>
 
+<valsi unofficial="true" word="bergu" type="experimental gismu"><definition>$x_1$ относится к метафизике 'вязкого медведя' в аспекте $x_2$</definition>
+<definitionid>42004</definitionid><notes>См. http://mw.lojban.org/index.php/jbocre:_Bear_goo</notes></valsi>
+
 <valsi word="bersa" type="gismu"><rafsi>bes</rafsi><rafsi>be'a</rafsi><definition>$x_1$ — сын матери/отца/родителей $x_2$ (не обязательно биологический)</definition>
 <definitionid>35367</definitionid><notes>{verba} (ребенок), {nanla} (мальчик), {nakni} (самец), {nanmu} (мужчина), {patfu} (отец), {mamta} (мать), {bruna} (брат), {rirni} (родитель), {rorci} (порождать), {panzi} (потомок), {tixnu} (дочь)</notes></valsi>
 
@@ -338,6 +350,9 @@
 
 <valsi word="bi'unai" type="cmavo cluster"><selmaho>UI*3</selmaho><definition>междометие-рассуждение: новая представляемая информация - ранее представленная информация</definition>
 <definitionid>36959</definitionid><notes>См. также {nindatni}, {saurdatni}.</notes></valsi>
+
+<valsi word="bicysakta" type="lujvo"><definition>$x_1=s_1$ - это мёд с цветка $x_2=s_2$ состава $x_3=s_3$.</definition>
+<definitionid>42433</definitionid><notes>{bifce} {sakta}</notes></valsi>
 
 <valsi word="bidju" type="gismu"><definition>$x_1$ — бусина/бисер (форма) из материала $x_2$</definition>
 <definitionid>35373</definitionid><notes>{bolci} (шар), {canre} (песок), {lakse} (воск), {dirgo} (капля)</notes></valsi>
@@ -2092,7 +2107,7 @@
 <valsi word="ge'o" type="cmavo"><selmaho>BY1</selmaho><definition>сдвигает буквенные символы в греческий алфавит</definition>
 <definitionid>37131</definitionid></valsi>
 
-<valsi word="ge'u" type="cmavo"><selmaho>GEhU</selmaho><definition>опускаемый терминатор: оканчивает придаточную/модальную фразу; обычно опускаемо в несоставных фразах</definition>
+<valsi word="ge'u" type="cmavo"><selmaho>GEhU</selmaho><definition>опускаемый терминатор: оканчивает придаточную фразу из серии GOI; обычно опускаем в несоставных фразах</definition>
 <definitionid>37132</definitionid></valsi>
 
 <valsi word="gei" type="cmavo"><selmaho>VUhU2</selmaho><definition>тринарный математический оператор: на порядок/значение/основание; [b * (c в степени a)]</definition>
@@ -2614,6 +2629,9 @@
 <valsi word="jeftu" type="gismu"><rafsi>jef</rafsi><definition>$x_1$ длится $x_2$ недель (по умолчанию 1 неделю) по стандарту $x_3$</definition>
 <definitionid>35791</definitionid><notes>$x_3$: в разных культурах неделя может содержать меньше или больше 7 дней, напр., быть привязана к промежуткам между рыночными днями; эта неделя: {cabjeftu}; следующая неделя: {bavlamjeftu}; прошлая неделя: {prulamjeftu} {detri} (дата), {djedi} (сутки), {masti} (месяц [промежуток времени]), {nanca} (год)</notes></valsi>
 
+<valsi word="jefyfa'o" type="lujvo"><definition>$x_1$ - это конец недели/уик-энд недели $x_2$</definition>
+<definitionid>42455</definitionid></valsi>
+
 <valsi word="jegvo" type="gismu"><rafsi>jeg</rafsi><rafsi>je'o</rafsi><definition>$x_1$ отражает общую иудео-христианско-мусульманскую культуру/религию в аспекте $x_2$</definition>
 <definitionid>35792</definitionid><notes>Также: авраамитский {lijda} (религия), {muslo} (исламский), {dadjo} (даоистский), {xriso} (христианский)</notes></valsi>
 
@@ -2844,6 +2862,9 @@
 
 <valsi word="ju'e" type="cmavo"><selmaho>JOI</selmaho><definition>нечёткий не-логический союз: аналогичен простому ".i"</definition>
 <definitionid>37200</definitionid></valsi>
+
+<valsi unofficial="true" word="ju'ei" type="experimental cmavo"><selmaho>JUhEI</selmaho><definition>разделитель bridi с узкой областью охвата; аналогичен {.i}, но не завершает при этом абстракцию или придаточное предожение.</definition>
+<definitionid>42360</definitionid><notes>'nu broda ju'ei brode' эквивалентно 'nu ju'e gi broda gi brode'. Аналогично тому, как 'ko'a noi broda ju'ei brode' эквивалентно 'ko'a noi ju'e gi broda gi brode'.</notes></valsi>
 
 <valsi word="ju'i" type="cmavo"><selmaho>COI</selmaho><definition>звательная частица: внимательность - вольно - игнорируй меня</definition>
 <definitionid>37201</definitionid></valsi>
@@ -3131,6 +3152,9 @@
 <valsi word="kerlo" type="gismu"><rafsi>ker</rafsi><definition>$x_1$ — ухо (часть тела) $x_2$</definition>
 <definitionid>35901</definitionid><notes>Метафора: сенсорный аппарат, сбор информации {kanla} (глаз), {savru} (шум), {smaji} (молчать), {tirna} (слышать), {ractu} (заяц)</notes></valsi>
 
+<valsi word="kernauke" type="fu'ivla"><definition>$x_1$ - корнуоллский в аспекте $x_2$</definition>
+<definitionid>42354</definitionid></valsi>
+
 <valsi word="kernelo" type="fu'ivla"><definition>$x_1$ is a сердцевина/ядро/центр of $x_2$; $x_1$ - центральный</definition>
 <definitionid>38121</definitionid><notes>См. также {centero}, {midju}</notes></valsi>
 
@@ -3365,7 +3389,7 @@
 <valsi word="kukte" type="gismu"><rafsi>kuk</rafsi><definition>$x_1$ вкусный/приятный для наблюдателя/чувства $x_2$; $x_1$ — деликатес</definition>
 <definitionid>35942</definitionid><notes>{gusta} (ресторан), {ralci} (хрупкий), {vrusi} (вкус), {cpina} (резкий [острый/раздражающий])</notes></valsi>
 
-<valsi word="kulnu" type="gismu"><rafsi>klu</rafsi><definition>$x_1$ (масса идей, обычаев, умений, искусств) есть культура нации/этноса $x_2$ (масса)</definition>
+<valsi word="kulnu" type="gismu"><rafsi>klu</rafsi><definition>$x_1$ (масса идей, обычаев, умений, искусств) есть культура нации/этоса $x_2$ (масса)</definition>
 <definitionid>35943</definitionid><notes>Прилагательное: $x_1$ — этнический; $x_2$ — *не* лицо: культура есть общее достояние людей, а не свойство индивидуума {ka'u}, {ku'u}, {natmi} (народ), {cecmu} (сообщество [организмов])</notes></valsi>
 
 <valsi word="kumfa" type="gismu"><rafsi>kum</rafsi><rafsi>ku'a</rafsi><definition>$x_1$ — комната/помещение/зал/{камера} в сооружениии $x_2$, окруженная перегородками/стенами/потолком/полом $x_3$ (масса/{jo'u})</definition>
@@ -3421,9 +3445,6 @@
 
 <valsi word="la'o" type="cmavo"><selmaho>ZOI</selmaho><definition>отграниченное не-ложбанское имя; получающаяся sumti-цитата рассматривается как имя</definition>
 <definitionid>37257</definitionid></valsi>
-
-<valsi unofficial="true" word="la'oi" type="experimental cmavo"><selmaho>ZOhOI</selmaho><definition>не-ложбанское имя из одного слова; цитирует одно не-ложбанское слово, разделяемое паузами; это слово рассматривается как имя</definition>
-<definitionid>37932</definitionid><notes>См. также {la'o}, {zo'oi}.</notes></valsi>
 
 <valsi word="la'u" type="cmavo"><selmaho>BAI</selmaho><definition>модальный предлог от klani, 1-ое место (количество)                   измеряемое ...(чем); в количестве ..., (скольки)</definition>
 <definitionid>37258</definitionid></valsi>
@@ -3591,6 +3612,9 @@
 <valsi word="lenku" type="gismu"><rafsi>lek</rafsi><definition>$x_1$ — холодный/прохладный относительно стандарта $x_2$</definition>
 <definitionid>35979</definitionid><notes>{glare} (горячий), {bisli} (лед)</notes></valsi>
 
+<valsi word="lenu" type="cmavo cluster"><selmaho>LE*</selmaho><definition>описывает специфическое событие: краткая форма записи сочетания {le nu}, идентичная ему в значении.</definition>
+<definitionid>42441</definitionid><notes>Добавлено в словарь по причине того, что обучающиеся часто ищут слово {lenu}, не осознавая, что это то же самое, что и {le} {nu}, и, не находя его, испытываают затруднения.</notes></valsi>
+
 <valsi word="lerci" type="gismu"><rafsi>lec</rafsi><definition>$x_1$ (событие) происходит поздно по стандарту $x_2$</definition>
 <definitionid>35980</definitionid><notes>{clira} (рано)</notes></valsi>
 
@@ -3722,6 +3746,9 @@
 
 <valsi word="loldi" type="gismu"><rafsi>lol</rafsi><rafsi>loi</rafsi><definition>$x_1$ — пол/дно $x_2$ (чего)</definition>
 <definitionid>36001</definitionid><notes>Этаж/уровень здания: {setloi}, {dijysenta} {bitmu} (стена), {drudi} (крыша), {dertu} (почва), {dizlo} (низкий), {cnita} (под), {zbepi} (подставка), {sarji} (поддерживать [помогать]), {serti} (лестница)</notes></valsi>
+
+<valsi word="lonu" type="cmavo cluster"><selmaho>LE*</selmaho><definition>описывает событие: краткая форма записи сочетания {lo nu}, идентичная ему в значении.</definition>
+<definitionid>42440</definitionid><notes>Добавлено в словарь по причине того, что обучающиеся часто ищут слово {lonu}, не осознавая, что это то же самое, что и {lo} {nu}, и, не находя его, испытываают затруднения.</notes></valsi>
 
 <valsi word="lorxu" type="gismu"><rafsi>lor</rafsi><rafsi>lo'u</rafsi><definition>$x_1$ — лисица, лиса (дикий представитель семейства собачьих с пушистым хвостом) вида/разновидности $x_2$</definition>
 <definitionid>36002</definitionid><notes>{gerku} (собака)</notes></valsi>
@@ -3943,9 +3970,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="me'o" type="cmavo"><selmaho>LI</selmaho><definition>математическое выражение (невычисленное); превращает невычисленное математическое выражение в sumti</definition>
 <definitionid>37322</definitionid></valsi>
 
-<valsi unofficial="true" word="me'oi" type="experimental cmavo"><selmaho>MEhOI</selmaho><definition>не-ложбанская brivla</definition>
-<definitionid>37947</definitionid><notes>Быстрый способ заимствования иностранных слов в ложбан. Также известна как "стадия-0 fu'ivla". Эквивалентна {me'ei} {zo'oi}.</notes></valsi>
-
 <valsi word="me'u" type="cmavo"><selmaho>MEhU</selmaho><definition>опускаемый терминатор: окончание sumti, которая была преобразована в selbri; обычно опускаемо</definition>
 <definitionid>37323</definitionid></valsi>
 
@@ -3984,6 +4008,9 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <valsi word="merli" type="gismu"><rafsi>mre</rafsi><definition>$x_1$ измеряет/оценивает $x_2$ (величину) в $x_3$ единиц по шкале $x_4$ ({si'o}), с точностью/погрешностью $x_5$</definition>
 <definitionid>36050</definitionid><notes>{kancu} (пересчитывать), {rupnu} (денежная единица), {fepni} (стоить [в копейках/центах и пр.]), {dekpu} (иметь объем [неметрический]), {gutci} (измеряться [в футах/дюймах и пр.]), {minli} (миля), {merli} (измерять), {bunda} (весить [в неметрических единицах]), {ckilu} (шкала), {gradu} (градус), {satci} (точный [об измерении]), {centi} (санти), {cimde} (измерение [пространственное]), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто), {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {kramu} (акр), {litce} (литр), {manri} (эталон), {megdo} (мега), {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико), {terto} (тера), {xatsi} (атто), {xecto} (гекто), {xexso} (экса), {zepti} (зепто), {zetro} (зетта)</notes></valsi>
+
+<valsi unofficial="true" word="metfo" type="experimental gismu"><definition>$x_1$ (bridi) - это метафора/образное выражение, имеющее буквальное значение $x_2$</definition>
+<definitionid>42355</definitionid><notes>См. {sidysmu}, {tanru}, {pesna}, {pe'a}, {ve} {lujvo}, {cimjvo}</notes></valsi>
 
 <valsi word="mexno" type="gismu"><rafsi>mex</rafsi><definition>$x_1$ — мексиканский в аспекте $x_2$</definition>
 <definitionid>36051</definitionid><notes>{xispo} (латиноамериканский), {bemro} (североамериканский), {spano} (испанский)</notes></valsi>
@@ -4752,6 +4779,9 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="palne" type="gismu"><definition>$x_1$ — поднос/противень/{поддон} с содержимым $x_2$, из материала $x_3$</definition>
 <definitionid>36141</definitionid><notes>$x_2$: содержимое м.б. потенциальным: «для $x_2$»; Также: поддон, когда используется для переноски, а не стационарно; поднос имеет плоское дно и неглубокий, или без ободка, обычно переносимый {tansi} (миска), {patxu} (котел), {palta} (тарелка), {ckana} (кровать)</notes></valsi>
 
+<valsi unofficial="true" word="palpi" type="experimental gismu"><definition>$x_1$ пальпирует/чувствует $x_2$ (структуру поверхности)</definition>
+<definitionid>42421</definitionid><notes>См. {pencu}, {sefta}, {ganse}</notes></valsi>
+
 <valsi word="palta" type="gismu"><definition>$x_1$ — тарелка/блюдо/блюдце (плоское/умеренно вогнутое ложе для пищи) из материала $x_2$</definition>
 <definitionid>36142</definitionid><notes>{ckana} (кровать), {palne} (поднос), {kabri} (чашка), {tansi} (миска), {ckana} (кровать)</notes></valsi>
 
@@ -4810,7 +4840,7 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <definitionid>36150</definitionid><notes>$x_3$ — единственная разница между $x_1$ и $x_2$: {terpanra} с переставленными местами); $x_1$ и $x_2$ аналогичны/подобны/конгруэнтны; параллелизм указывает на исключительное сходство/соответствие между сравниваемыми объектами, взятыми как целое, обычно по ряду признаков, акцент при этом делается на небольшом количестве различий {pa'a}, {mintu} (идентичный), {simsa} (похожий), {girzu} (группа), {vrici} (разнообразный), {frica} (отличаться)</notes></valsi>
 
 <valsi word="pante" type="gismu"><rafsi>pat</rafsi><definition>$x_1$ протестует против/возражает на/жалуется на $x_2$ (событие/состояние) аудитории $x_3$ действием $x_4$</definition>
-<definitionid>36151</definitionid><notes>$x_4$ — событие или {tu'a} оборот {xarnu} (сопротивляться [противостоять])</notes></valsi>
+<definitionid>36151</definitionid><notes>$x_4$ — событие или {tu'a} оборот. См. {xarnu}  - 'сопротивляться/противостоять'</notes></valsi>
 
 <valsi word="panzi" type="gismu"><rafsi>paz</rafsi><definition>$x_1$ — (биологический) потомок/отпрыск/ребенок/гибрид родителя(ей) $x_2$</definition>
 <definitionid>36152</definitionid><notes>{grute} (плод [фрукт]), {verba} (ребенок), {bersa} (сын), {tixnu} (дочь), {se} {rorci} (порождать), {patfu} (отец)</notes></valsi>
@@ -4823,9 +4853,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <valsi word="parbi" type="gismu"><rafsi>pab</rafsi><definition>$x_1$ ({me'o}/дробь) есть пропорция/доля $x_2$ (количество) по отношению к $x_3$ (количество); «$x_1$=$x_2$/$x_3$»</definition>
 <definitionid>36154</definitionid><notes>Также: $x_1$ — отношение/пропорция/дробь: $x_2$ — делимое/числитель, $x_3$ — делитель/знаменатель {frinu} (дробь), {dilcu} (частное [от деления]), {mekso} (формула)</notes></valsi>
-
-<valsi word="parcicize" type="fu'ivla"><definition>$x_1$ - это 1337/leet в аспекте/свойстве $x_2$ (ka) согласно стандарту $x_3$.</definition>
-<definitionid>39120</definitionid><notes>Псевдоформа английского правописания. Использует символы, не входящие в английский алфавит, которые заменяют схожие буквы алфавита буквами, имеющими чисто поверхностное сходство; также проводится фонетическая замена конечного «s» на «z», «(c)ks» на «x».</notes></valsi>
 
 <valsi word="pare" type="cmavo cluster"><selmaho>PA*</selmaho><definition>число/количество: 12 [двенадцать]</definition>
 <definitionid>37450</definitionid></valsi>
@@ -4934,6 +4961,9 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <valsi word="perli" type="gismu"><rafsi>per</rafsi><definition>$x_1$ — груша (фрукт) вида/сорта $x_2$</definition>
 <definitionid>36167</definitionid><notes>{grute} (плод [фрукт])</notes></valsi>
+
+<valsi unofficial="true" word="pesna" type="experimental gismu"><definition>$x_1$: его свойства представлены метафорой $x_2$ в измерении $x_3$+1,2</definition>
+<definitionid>42353</definitionid><notes>x3 может включать ссылки на x1 и x2. См. {pe'a}, {sidysmu}, {tanru}, {metfo}, {ve} {lujvo}, {cimjvo}</notes></valsi>
 
 <valsi word="pesxu" type="gismu"><rafsi>pex</rafsi><definition>$x_1$ — паста/тесто/замазка/гуща (твердое, влажное вещество мягкой консистенции) состава $x_2$</definition>
 <definitionid>36168</definitionid><notes>$x_2$: содержит $x_2$, не обязательно полное описание состава {marxa} (мять), {kliti} (глина), {tarla} (смола)</notes></valsi>
@@ -5279,6 +5309,9 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <valsi word="ra'a" type="cmavo"><selmaho>BAI</selmaho><definition>модальный предлог от srana, 1-ое место                            к которому причастно/имеет отношение ... (в целом более, специфичное)</definition>
 <definitionid>37511</definitionid></valsi>
+
+<valsi word="ra'abri" type="lujvo"><definition>$x_1$ - это придаточное предложение, присоединённое к аргументу $x_2$ со сказуемым отношением $x_3$ среди аргументов $x_4$.</definition>
+<definitionid>42356</definitionid><notes>См. {noi}, {poi}</notes></valsi>
 
 <valsi word="ra'e" type="cmavo"><selmaho>PA3</selmaho><definition>цифра/число: следуют повторяющиеся цифры (период) в десятичной дроби</definition>
 <definitionid>37512</definitionid></valsi>
@@ -6248,6 +6281,9 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="smaji" type="gismu"><rafsi>sma</rafsi><definition>$x_1$ — молчит/безмолвствует/не воспринимается в точке наблюдения $x_2$ по критерию $x_3$</definition>
 <definitionid>36376</definitionid><notes>{kerlo} (ухо), {panpi} (в мире), {savru} (шум), {tirna} (слышать)</notes></valsi>
 
+<valsi unofficial="true" word="smaka" type="experimental gismu"><definition>$x_1$ чувствует вкус $x_2$ (какой)</definition>
+<definitionid>42420</definitionid><notes>См. {tasta}, {vrusi}, {ganse}, {palpi}, {viska}</notes></valsi>
+
 <valsi word="smani" type="gismu"><definition>$x_1$ — обезьяна/примат вида/разновидности $x_2$</definition>
 <definitionid>36377</definitionid><notes>{mabru} (зверь), {danlu} (животное)</notes></valsi>
 
@@ -6330,8 +6366,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="softo" type="gismu"><rafsi>sof</rafsi><definition>$x_1$ относится к Российской Империи / СССР / экс-СССР / СНГ / советской культуре/национальности в аспекте $x_2$</definition>
 <definitionid>36392</definitionid><notes>{rusko} (русский), {vukro} (украинский), {slovo} (славянский)</notes></valsi>
 
-<valsi word="sofybakni" type="lujvo"><definition>$x_1=b_1=s_1$ - это советская корова вида/породы $x_2=b_2$ и отражающая СССР/экс-СССР [Советскую] культуру/национальность в аспекте $x_3=s_2$.</definition>
-<definitionid>38123</definitionid><notes>Почему бы и не дать определение для этого слова :) Dcnhtxftncz в шуточной фразе .o'i mu sofybakni cu zvati le purdi, в которой собраны все буквы ложбанского алфавита.</notes></valsi>
+<valsi word="sofybakni" type="lujvo"><definition>$x_1=b_1=s_1$ - это советская корова/бык/теленок вида/породы $x_2=b_2$ и отражающая СССР/экс-СССР [Советскую] культуру/национальность в аспекте $x_3=s_2$.</definition>
+<definitionid>38123</definitionid><notes>Почему бы и не дать определение для этого слова :). Встречается в шуточной фразе .o'i mu sofybakni cu zvati le purdi, в которой собраны все буквы ложбанского алфавита.</notes></valsi>
 
 <valsi word="soi" type="cmavo"><selmaho>SOI</selmaho><definition>междометие-рассуждение: маркёр возвратных/взаимных/обоюдных sumti; обозначает обоюдные отношения между sumti ( переводится как "друг друга" и пр.)</definition>
 <definitionid>37680</definitionid></valsi>
@@ -6577,6 +6613,9 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="sumne" type="gismu"><definition>$x_1$ обоняет/чувствует запах (предмета) $x_2$; $x_2$ пахнет/имеет ощутимый запах для наблюдателя $x_1$</definition>
 <definitionid>36446</definitionid><notes>{nazbi} (нос), {panci} (запах), {cpina} (резкий [острый/раздражающий]), {ganse} (чувствовать [ощущать]), {zgana} (наблюдать)</notes></valsi>
 
+<valsi word="sumtcita" type="lujvo"><definition>$x_1$ - это предлог (sumti-метка), показывающая информацию x2</definition>
+<definitionid>42352</definitionid><notes>См. {sumti}, {tcita}, {sumsmi}, {gadri}</notes></valsi>
+
 <valsi word="sumti" type="gismu"><rafsi>sum</rafsi><rafsi>su'i</rafsi><definition>$x_1$ (текст) — sumti (аргумент) selbri $x_2$ (текст), заполняющий место $x_3$ (вид/число)</definition>
 <definitionid>36447</definitionid><notes>{bridi} (), {darlu} (отстаивать [позицию]), {gismu} ()</notes></valsi>
 
@@ -6702,6 +6741,9 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <valsi unofficial="true" word="tasmi" type="experimental gismu"><definition>$x_1$ - особенность/манера, согласно которой происходит активность/событие $x_2$</definition>
 <definitionid>38126</definitionid><notes>gismu для {tai}</notes></valsi>
+
+<valsi unofficial="true" word="tasta" type="experimental gismu"><definition>$x_1$ - это вкус (ощущение) $x_2$ (чего)</definition>
+<definitionid>42419</definitionid><notes>См. {smaka}, {vrusi}, {kukte}, {krumami}, {silna}</notes></valsi>
 
 <valsi word="tatpi" type="gismu"><rafsi>ta'i</rafsi><definition>$x_1$ утомлен усилием/ситуацией $x_2$ (событие); $x_1$ устал/нуждается в отдыхе</definition>
 <definitionid>36475</definitionid><notes>{cikna} (бодрствовать), {sipna} (спать), {surla} (отдыхать)</notes></valsi>
@@ -7024,6 +7066,9 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="toknu" type="gismu"><rafsi>tok</rafsi><definition>$x_1$ — печь/духовка (замкнутое пространство для разогрева содержимого) для выпечки/разогрева/сушки $x_2$ (чего)</definition>
 <definitionid>36511</definitionid><notes>{nanba} (хлеб)</notes></valsi>
 
+<valsi word="tolcilce" type="lujvo"><definition>$c_1$ - приручённый/'домашний'/не-дикий</definition>
+<definitionid>42483</definitionid><notes>См. {to'e} {cilce}</notes></valsi>
+
 <valsi word="tolcri" type="lujvo"><definition>$x_1$ находит $x_2$ в месте $x_3$</definition>
 <definitionid>41613</definitionid><notes>См. {cirko}, {sisku}, {facki}</notes></valsi>
 
@@ -7033,8 +7078,11 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="toldrpleksipi" type="fu'ivla"><definition>$x_1$ - это бабочка-монарх (данаида) подвида $x_2$.</definition>
 <definitionid>39118</definitionid><notes>Представитель вида Danaus plexippus. См. {toldi}.</notes></valsi>
 
+<valsi word="tolspofu" type="lujvo"><definition>$x_1$ способен выполнять функции/готов к использованию для $x_2$; $x_1$ - операбельный, действующий, несломанный, работоспособный</definition>
+<definitionid>42271</definitionid><notes>См. также {ka'e} se {pilno}, {spofu}</notes></valsi>
+
 <valsi word="tolylau" type="lujvo"><definition>$x_1$ - тихий/слабый/мягкий/негромкий/приглушённый звук в точке наблюдения $x_2$ согласно стандарту $x_3$; $x_1$ производит мало шума</definition>
-<definitionid>42221</definitionid><notes>"Бесшумный" - это {smaji}, в то время как tolylau относится к небольшому количеству звука. Подобным образом, "абсолютно шумный" - это {tolsma}, громче, чем {smaji}. {smaji} &lt; {tolylau} &lt; {cladu} &lt; {tolsma}.</notes></valsi>
+<definitionid>42221</definitionid><notes>"Бесшумный" - это {smaji}, в то время как tolylau относится к небольшому количеству звука. Подобным образом, "абсолютно шумный" - это {tolsma}, громче, чем {cladu}. {smaji} &lt; {tolylau} &lt; {cladu} &lt; {tolsma}.</notes></valsi>
 
 <valsi word="tonga" type="gismu"><rafsi>tog</rafsi><rafsi>to'a</rafsi><definition>$x_1$ — тон/нота частоты/высоты $x_2$, производимый источником $x_3$</definition>
 <definitionid>36513</definitionid><notes>{rilti} (ритм), {zgike} (музыка), {janbe} (гонг), {siclu} (свистеть)</notes></valsi>
@@ -7127,7 +7175,7 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <definitionid>36534</definitionid><notes>Метафора: красноватый, хороший проводник электричества {jinme} (металл), {lastu} (латунь), {ransu} (бронза)</notes></valsi>
 
 <valsi word="tunlo" type="gismu"><rafsi>tul</rafsi><rafsi>tu'o</rafsi><definition>$x_1$ глотает $x_2$</definition>
-<definitionid>36535</definitionid><notes>Обратите внимание, что у этого gismu нет второго аргумента (что именно глотается). За это отвечает соответствующий аргумент в lujvo, использующих [tunlo].  $x_1$ проглатывает (еду/напиток) $x_2$: {tulpinxe}, {tulcti}, {ctitu'o}; пожирает, заглатывает: {galxycti}, {galxynerbi'o}, {galxygre} {citka} (есть), {pinxe} (пить), {galxe} (горло)</notes></valsi>
+<definitionid>36535</definitionid><notes>$x_1$ проглатывает (еду/напиток) $x_2$: {tulpinxe}, {tulcti}, {ctitu'o}; пожирает, заглатывает: {galxycti}, {galxynerbi'o}, {galxygre} {citka} (есть), {pinxe} (пить), {galxe} (горло)</notes></valsi>
 
 <valsi word="tunta" type="gismu"><rafsi>tun</rafsi><definition>$x_1$ (заостренный объект) колет/давит/тыкает/упирается в $x_2$ (ощущающий субъект)</definition>
 <definitionid>36536</definitionid><notes>Активное действие (тычет, пихает, колет): {tungau}, {tunzu'e} {balre} (клинок), {dakfu} (нож), {darxi} (ударять), {fanza} (раздражать [беспокоить]), {jicla} (перемешивать), {katna} (разрезать), {tikpa} (пинать)</notes></valsi>
@@ -7224,9 +7272,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <valsi word="uitki" type="fu'ivla"><definition>$x_1$ - это вики/вики-сайт/совместно разрабатываемый веб-сайт с тематикой/содержимым $x_2$.</definition>
 <definitionid>39117</definitionid></valsi>
-
-<valsi word="uitkipedia" type="fu'ivla"><definition>$x_1$ относится к Википедии в аспекте $x_2$.</definition>
-<definitionid>39116</definitionid><notes>См. {uitki}.</notes></valsi>
 
 <valsi word="uo" type="cmavo"><selmaho>UI1</selmaho><definition>междометие: полнота - неполнота</definition>
 <definitionid>36922</definitionid><notes>См. также {mulno}, {mansa}, {fanmo}, {snada}.</notes></valsi>
@@ -7541,7 +7586,7 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="vu'i" type="cmavo"><selmaho>LAhE</selmaho><definition>определитель sumti: последовательность, получаемая из множества или составленная из элементов/компонентов; порядок нечёткий</definition>
 <definitionid>37834</definitionid></valsi>
 
-<valsi word="vu'o" type="cmavo"><selmaho>VUhO</selmaho><definition>связывает придаточное предложение/фразу, чтобы охватить в последующей мысли все сложные или логически связанные sumti</definition>
+<valsi word="vu'o" type="cmavo"><selmaho>VUhO</selmaho><definition>присоединяет в последующей мысли придаточное предложение/фразу, которая охватит при этом все сложные или логически связанные sumti</definition>
 <definitionid>37835</definitionid></valsi>
 
 <valsi word="vu'u" type="cmavo"><selmaho>VUhU1</selmaho><definition>n-арный математический оператор: минус; оператор вычитания; [(((a - b) - c) - ...)]</definition>
@@ -7637,8 +7682,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="xarju" type="gismu"><rafsi>xaj</rafsi><definition>$x_1$ — свинья/кабан/вепрь вида/разновидности $x_2$</definition>
 <definitionid>36603</definitionid><notes>Свинья, свиноматка: {fetxarju}, хряк, кабан: {nakyxarju}, поросенок: {citxarju}; свинина: {xajre'u} {mabru} (зверь), {cange} (ферма)</notes></valsi>
 
-<valsi word="xarnu" type="gismu"><definition>$x_1$ сопротивляется/сознательно противостоит $x_2$ (кому/чему) в отношении $x_3$ (событие/состояние); $x_1$ — упорный/упрямый</definition>
-<definitionid>36604</definitionid><notes>$x_2$ м.б. лицо, состояние или условие, или сила; определяющим является сознательное сопротивление {tinsa} (жесткий), {pante} (протестовать), {bapli} (заставлять), {fapro} (противостоять)</notes></valsi>
+<valsi word="xarnu" type="gismu"><definition>$x_1$ сопротивляется/сознательно противостоит $x_2$ (кому/чему) в отношении $x_3$ (события/состояния); $x_1$ — упорный/упрямый</definition>
+<definitionid>36604</definitionid><notes>$x_2$ может быть лицом, состоянием или условием, или силой; определяющим является сознательное сопротивление. См. {tinsa} - 'жесткий', {pante} - 'жаловаться', {bapli} - 'заставлять', {fapro} - 'противостоять'</notes></valsi>
 
 <valsi word="xasli" type="gismu"><definition>$x_1$ — осел вида/породы $x_2$</definition>
 <definitionid>36605</definitionid><notes>{xirma} (лошадь), {kumte} (верблюд)</notes></valsi>
@@ -7695,8 +7740,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="xendo" type="gismu"><rafsi>xed</rafsi><rafsi>xe'o</rafsi><definition>$x_1$ проявляет доброту/участие к $x_2$ действием/поведением $x_3$</definition>
 <definitionid>36617</definitionid><notes>{cinmo} (эмоциональный), {kecti} (сочувствовать), {pendo} (друг), {kusru} (обижать)</notes></valsi>
 
-<valsi word="xenru" type="gismu"><rafsi>xer</rafsi><rafsi>xe'u</rafsi><definition>$x_1$ сожалеет/{грустит/горюет} о $x_2$ (абстракция)</definition>
-<definitionid>36618</definitionid><notes>$x_1$ раскаивается/чувствует угрызения совести по поводу $x_2$: {zugyxe'u} {.u'u}, {zungi} (раскаиваться)</notes></valsi>
+<valsi word="xenru" type="gismu"><rafsi>xer</rafsi><rafsi>xe'u</rafsi><definition>$x_1$ сожалеет/грустит/горюет о $x_2$ (абстракция)</definition>
+<definitionid>36618</definitionid><notes>См. {zungi} - 'раскаиваться, чувствовать угрызения совести', {.u'u} - 'Извините!'</notes></valsi>
 
 <valsi word="xexso" type="gismu"><rafsi>xex</rafsi><definition>$x_{1}$ составляет $10^{18}$ раз/крат $x_{2}$ (чего) в аспекте/измерении $x_{3}$ (по умолчанию единицы)</definition>
 <definitionid>36619</definitionid><notes>{grake} (грамм), {mitre} (метр), {snidu} (секунда), {stero} (стерадиан), {delno} (кандела), {molro} (моль [единица количества вещества]), {kelvo} (кельвин), {xampo} (ампер), {gradu} (градус), {litce} (литр), {merli} (измерять), {centi} (санти), {decti} (десятый [доля 1/10]), {dekto} (дека), {femti} (фемто), {gigdo} (гига), {gocti} (йокто), {gotro} (йотта), {kilto} (кило), {megdo} (мега), {mikri} (микро), {milti} (милли), {nanvi} (нано), {petso} (пета), {picti} (пико), {terto} (тера), {xatsi} (атто), {xecto} (гекто), {zepti} (зепто), {zetro} (зетта)</notes></valsi>
@@ -7819,8 +7864,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="za'u" type="cmavo"><selmaho>PA3</selmaho><definition>цифра/число: больше чем; также употребляется для обозначения множественного числа; множественное число</definition>
 <definitionid>37857</definitionid></valsi>
 
-<valsi word="zabna" type="gismu"><rafsi>zan</rafsi><rafsi>za'a</rafsi><definition>$x_1$ is благоприятный/великолепный/'классный'/превосходный/первоклассный/выдающийся/отличный/замечательный/славный/похвальный/очаровательный/laudable/likable/симпатичный/wonderful/достойный похвал/высококачественный/выского качества/'клёвый'/крутой в свойстве $x_2$ согласно стандарту $x_3$; $x_1$ - потрясный в аспекте $x_2$ согласно $x_3$ (кому/чему)</definition>
-<definitionid>36640</definitionid><notes>{banli} (роскошный), {funca} (зависеть от удачи), {mabla} (негативный [о значении/смысле слова]), {xamgu} (хороший), {vrude} (праведный). Старое определение слова: $x_1$ — позитивное/одобрительное/благоприятное значение/употребление/коннотация (слов) $x_2$, используемое $x_3$ (кем)</notes></valsi>
+<valsi word="zabna" type="gismu"><rafsi>zan</rafsi><rafsi>za'a</rafsi><definition>$x_1$ is благоприятный/великолепный/'классный'/превосходный/первоклассный/выдающийся/отличный/замечательный/славный/похвальный/очаровательный/симпатичный/достойный похвал/высококачественный/высокого качества/'клёвый'/крутой в свойстве $x_2$ согласно стандарту $x_3$; $x_1$ - потрясный в аспекте $x_2$ согласно $x_3$ (кому/чему)</definition>
+<definitionid>36640</definitionid><notes>См. {banli} - 'роскошный', {funca} - 'зависеть от удачи', {mabla} - 'негативный (о значении/смысле слова), {xamgu} - 'хороший', {vrude} - 'праведный'. Старое определение слова: $x_1$ — позитивное/одобрительное/благоприятное значение/употребление/коннотация (слов) $x_2$, используемое $x_3$ (кем)</notes></valsi>
 
 <valsi word="zai" type="cmavo"><selmaho>LAU</selmaho><definition>2-словный буквенный символ/сдвиг: за ним следует название альтернативного алфавита, а далее строка на этом алфавите</definition>
 <definitionid>37858</definitionid></valsi>
@@ -7994,9 +8039,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <valsi word="zo'ocu'i" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>модификатор междометия: шучу - скучно - серьёзно</definition>
 <definitionid>37883</definitionid><notes>См. также {xajmi}, {junri}.</notes></valsi>
 
-<valsi unofficial="true" word="zo'oi" type="experimental cmavo"><selmaho>ZOhOI</selmaho><definition>цитирует следующее не-ложбанское слово (только одно слово); цитирует одно не-ложбанское слово, отграниченное паузами (в речи) или пробелами (на письме)</definition>
-<definitionid>37934</definitionid><notes>См. также {zo}, {zoi}, {la'oi}.</notes></valsi>
-
 <valsi word="zo'onai" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>модификатор междометия: шучу - скучно - серьёзно</definition>
 <definitionid>37884</definitionid><notes>См. также {xajmi}, {junri}.</notes></valsi>
 
@@ -8034,7 +8076,7 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <definitionid>36667</definitionid><notes>{gurni} (зерно)</notes></valsi>
 
 <valsi word="zungi" type="gismu"><rafsi>zug</rafsi><definition>$x_1$ раскаивается/винит себя/испытывает угрызения совести по поводу $x_2$</definition>
-<definitionid>36668</definitionid><notes>{.u'u}, {cinmo} (эмоциональный), {xenru} (сожалеть), {zekri} (преступление)</notes></valsi>
+<definitionid>36668</definitionid><notes>{u'u}, {cinmo} - 'испытывать эмоции', {xenru} - 'сожалеть', {zekri} - 'преступление'</notes></valsi>
 
 <valsi word="zunle" type="gismu"><rafsi>zul</rafsi><definition>$x_1$ находится слева/по левую руку от $x_2$ для (воображаемого) наблюдателя, смотрящего от $x_2$ в сторону/в системе отсчета $x_3$</definition>
 <definitionid>36669</definitionid><notes>$x_3$ задает ориентацию $x_2$ {zu'a}, {pritu} (справа), {mlana} (сбоку), {crane} (перед), {trixe} (сзади), {farna} (направление)</notes></valsi>
@@ -8101,6 +8143,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="ангел" valsi="angeli"/>
 
+<nlword word="Angst" sense="отчаяние" valsi="anste"/>
+
 <nlword word="анод" valsi="anxodi"/>
 
 <nlword word="цапля" valsi="arda"/>
@@ -8109,9 +8153,19 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="енот" sense="животное" valsi="arxokuna"/>
 
+<nlword word="поза" sense="тела" valsi="asna" place="1"/>
+
+<nlword word="стойка" valsi="asna"/>
+
+<nlword word="принимать позу" sense="тела" valsi="asna" place="2"/>
+
+<nlword word="асана" valsi="asna"/>
+
 <nlword word="желание" valsi="au"/>
 
 <nlword word="равнодушие" valsi="aucu'i"/>
+
+<nlword word="просвещение" valsi="aufklerunge"/>
 
 <nlword word="отвращение" valsi="aunai"/>
 
@@ -8199,7 +8253,7 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="будущий" valsi="balvi" place="1"/>
 
-<nlword word="бамбук" valsi="bamju"/>
+<nlword word="бамбук" valsi="bambu"/>
 
 <nlword word="заграничный" valsi="bancu"/>
 
@@ -8325,6 +8379,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="получатель" valsi="benji" place="3"/>
 
+<nlword word="вязкий медведь" sense="метафизика" valsi="bergu"/>
+
 <nlword word="родитель сына" valsi="bersa" place="2"/>
 
 <nlword word="сын" valsi="bersa"/>
@@ -8360,6 +8416,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="новая информация" valsi="bi'u"/>
 
 <nlword word="старая информация" valsi="bi'unai"/>
+
+<nlword word="мёд" valsi="bicysakta"/>
 
 <nlword word="материал бусины" valsi="bidju" place="2"/>
 
@@ -10299,6 +10357,10 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="неделя" valsi="jeftu" place="1"/>
 
+<nlword word="конец недели" sense="суббота, воскресенье" valsi="jefyfa'o"/>
+
+<nlword word="уик-энд" sense="выходные дни" valsi="jefyfa'o"/>
+
 <nlword word="абрамический" valsi="jegvo"/>
 
 <nlword word="абстракция истины" valsi="jei"/>
@@ -10841,6 +10903,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="ухо" valsi="kerlo"/>
 
+<nlword word="корнуоллский" valsi="kernauke"/>
+
 <nlword word="сердцевина" sense="ядро" valsi="kernelo"/>
 
 <nlword word="центральный" valsi="kernelo"/>
@@ -11129,8 +11193,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="называемый (не-ложбанское имя следует)" valsi="la'o"/>
 
-<nlword word="не-ложбанское имя из одного слова" valsi="la'oi"/>
-
 <nlword word="в количестве ...(скольки)" valsi="la'u"/>
 
 <nlword word="в каком количестве?" valsi="la'u ma"/>
@@ -11335,6 +11397,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="холодный" valsi="lenku"/>
 
+<nlword word="специфическое событие (чего)" valsi="lenu"/>
+
 <nlword word="поздно" valsi="lerci" place="1"/>
 
 <nlword word="буква" valsi="lerfu"/>
@@ -11446,6 +11510,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="ложбанский" valsi="lojbo"/>
 
 <nlword word="пол (дно)" valsi="loldi" place="1"/>
+
+<nlword word="событие (чего)" valsi="lonu"/>
 
 <nlword word="лисица" valsi="lorxu"/>
 
@@ -11643,10 +11709,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="математическое выражение ..." valsi="me'o"/>
 
-<nlword word="не-ложбанская brivla" valsi="me'oi"/>
-
-<nlword word="заимствованная brivla" valsi="me'oi"/>
-
 <nlword word="окончание преобразования из sumti в selbri" valsi="me'u"/>
 
 <nlword word="лоб" valsi="mebri" place="1"/>
@@ -11684,6 +11746,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="измерять" valsi="merli"/>
 
 <nlword word="измеряющий" valsi="merli" place="1"/>
+
+<nlword word="метафора" sense="образное выражение" valsi="metfo"/>
 
 <nlword word="мексиканский" valsi="mexno" place="1"/>
 
@@ -12325,6 +12389,10 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="поднос" valsi="palne"/>
 
+<nlword word="пальпировать" valsi="palpi"/>
+
+<nlword word="чувствовать структуру поверхности" valsi="palpi"/>
+
 <nlword word="тарелка" valsi="palta" place="1"/>
 
 <nlword word="во-первых" valsi="pamai"/>
@@ -12373,6 +12441,10 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="подобный" valsi="panra" place="1"/>
 
+<nlword word="жалующийся на" valsi="pante" place="1"/>
+
+<nlword word="жаловаться на" valsi="pante"/>
+
 <nlword word="возражающий на" valsi="pante" place="1"/>
 
 <nlword word="возражать на" valsi="pante"/>
@@ -12386,8 +12458,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="страница" valsi="papri" place="1"/>
 
 <nlword word="пропорция" valsi="parbi"/>
-
-<nlword word="leet" valsi="parcicize"/>
 
 <nlword word="12" valsi="pare"/>
 
@@ -12486,6 +12556,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="груша" valsi="perli" place="1"/>
 
 <nlword word="вид груши" valsi="perli" place="2"/>
+
+<nlword word="метафорически описываемый как" valsi="pesna"/>
 
 <nlword word="тесто" valsi="pesxu" place="1"/>
 
@@ -12822,6 +12894,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="недавняя sumti" valsi="ra"/>
 
 <nlword word="к которому имеет отношение" valsi="ra'a"/>
+
+<nlword word="придаточное" sense="предложение" valsi="ra'abri"/>
 
 <nlword word="следуют повторяющиеся цифры десятичной дроби" valsi="ra'e"/>
 
@@ -13691,6 +13765,10 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="молчать" valsi="smaji"/>
 
+<nlword word="чувствовать вкус" valsi="smaka"/>
+
+<nlword word="смаковать" valsi="smaka"/>
+
 <nlword word="обезьяна" valsi="smani" place="1"/>
 
 <nlword word="персик" sense="плод" valsi="smela"/>
@@ -14017,6 +14095,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="запах" valsi="sumne" place="2"/>
 
+<nlword word="предлог" valsi="sumtcita"/>
+
 <nlword word="аргумент предиката" valsi="sumti" place="1"/>
 
 <nlword word="вид чеснока" valsi="sunga" place="2"/>
@@ -14128,6 +14208,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="жаждать" valsi="taske"/>
 
 <nlword word="особенность" sense="манера" valsi="tasmi"/>
+
+<nlword word="вкус" sense="ощущение" valsi="tasta" place="1"/>
 
 <nlword word="утомлённый" valsi="tatpi"/>
 
@@ -14393,6 +14475,10 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="печь" valsi="toknu"/>
 
+<nlword word="приручённый" valsi="tolcilce"/>
+
+<nlword word="домашний" sense="антоним к слову 'дикий'" valsi="tolcilce"/>
+
 <nlword word="находить" valsi="tolcri"/>
 
 <nlword word="бабочка" valsi="toldi"/>
@@ -14400,6 +14486,12 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="вид бабочки" valsi="toldi" place="2"/>
 
 <nlword word="бабочка-монарх" valsi="toldrpleksipi"/>
+
+<nlword word="работоспособный" valsi="tolspofu"/>
+
+<nlword word="действующий" sense="работоспособный" valsi="tolspofu"/>
+
+<nlword word="операбельный" valsi="tolspofu"/>
 
 <nlword word="негромкий" valsi="tolylau"/>
 
@@ -14582,8 +14674,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="вики-сайт" valsi="uitki"/>
 
 <nlword word="вики" valsi="uitki"/>
-
-<nlword word="Википедия" valsi="uitkipedia"/>
 
 <nlword word="полнота" valsi="uo"/>
 
@@ -14957,7 +15047,7 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="свинья" valsi="xarju"/>
 
-<nlword word="упрямый" valsi="xarnu"/>
+<nlword word="упрямый" valsi="xarnu" place="1"/>
 
 <nlword word="вид осла" valsi="xasli" place="2"/>
 
@@ -15006,6 +15096,8 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="добрый" valsi="xendo"/>
 
 <nlword word="сожалеть" valsi="xenru"/>
+
+<nlword word="горевать" valsi="xenru"/>
 
 <nlword word="сожалеющий" valsi="xenru" place="1"/>
 
@@ -15145,7 +15237,11 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 
 <nlword word="благоприятное" valsi="zabna"/>
 
+<nlword word="первоклассный" valsi="zabna"/>
+
 <nlword word="'классное'" valsi="zabna"/>
+
+<nlword word="превосходный" valsi="zabna"/>
 
 <nlword word="выбирает алфавит" valsi="zai"/>
 
@@ -15306,8 +15402,6 @@ See also {mau'i}, {dau'i}, {sai}</notes></valsi>
 <nlword word="смайлик" valsi="zo'obu"/>
 
 <nlword word="скучно" valsi="zo'ocu'i"/>
-
-<nlword word="не-ложбанская цитата из одного слова" valsi="zo'oi"/>
 
 <nlword word="серьёзно" valsi="zo'onai"/>
 

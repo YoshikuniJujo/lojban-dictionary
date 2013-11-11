@@ -145,6 +145,9 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <valsi word="citka" type="gismu"><rafsi>cti</rafsi><definition>$x_1$ mange $x_2$</definition>
 <definitionid>20497</definitionid></valsi>
 
+<valsi word="cizra" type="gismu"><rafsi>ciz</rafsi><definition>$x_{1}$ est étrange/bizarre/déviant/ selon $x_{2}$ à propos de $x_{3}$ (ka).</definition>
+<definitionid>42256</definitionid><notes>Également étranger, mystérieux, louche, inhabituel, exotique. Voir aussi {ranxi}, {rirci}, {fange}, {banli}.</notes></valsi>
+
 <valsi word="ckaji" type="gismu"><rafsi>kai</rafsi><definition>$x_1$ est caractérisé par/manifeste la propriété $x_2$ (ka)</definition>
 <definitionid>20511</definitionid><notes>Voir {jarco}, {tcini}, et (tcaci} ainsi que {kai}.</notes></valsi>
 
@@ -181,6 +184,9 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <valsi word="gasnu" type="gismu"><rafsi>gau</rafsi><definition>$x_1$ [entité capable d'exercer un choix librement] est la cause de / fait en sorte que se produise $x_2$</definition>
 <definitionid>20583</definitionid></valsi>
 
+<valsi word="gleki" type="gismu"><rafsi>gek</rafsi><rafsi>gei</rafsi><definition>$x_{1}$ est  heureux / joyeux / content / allègre à propos de $x_{2}$ (évènement/état).</definition>
+<definitionid>42258</definitionid><notes>Voir aussi {badri}, {cinmo}.</notes></valsi>
+
 <valsi word="gugdrxelvo" type="fu'ivla"><definition>$g_1$ est la Suisse</definition>
 <definitionid>13608</definitionid></valsi>
 
@@ -204,6 +210,9 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 
 <valsi word="kenyDAS" type="cmene"><definition>le Canada</definition>
 <definitionid>16862</definitionid><notes>Cf. {KEnydys}, {kadnygu'e}, {gugdecu'a}.</notes></valsi>
+
+<valsi word="klaku" type="gismu"><rafsi>kak</rafsi><definition>$x_{1}$ pleure $x_{2}$ à propos/à cause de $x_{3}$ (évènement/état).</definition>
+<definitionid>42257</definitionid><notes>Voir aussi {badri}, {krixa}.</notes></valsi>
 
 <valsi word="korgretro" type="lujvo"><definition>$t_1$ contrôle $g_1=t_2$ qui passe $g_2=k_1$ vers $g_3=k_2$ de $g_4=k_2$</definition>
 <definitionid>13156</definitionid><notes>voir aussi {natmi}, {pagre}, {jaspu}</notes></valsi>
@@ -264,6 +273,9 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 
 <valsi word="rinka" type="gismu"><rafsi>rik</rafsi><rafsi>ri'a</rafsi><definition>$x_1$ [événement/état] est la cause physique de $x_2$ [événement/état] à condition que $x_3$ soit remplie</definition>
 <definitionid>20560</definitionid></valsi>
+
+<valsi word="roi" type="cmavo"><rafsi>rom</rafsi><rafsi>roi</rafsi><selmaho>ROI</selmaho><definition>Nom qui se joint à un adjectif numéral pour indiquer qu’un fait s’est produit ou s’est répété; Par défaut dix fois.</definition>
+<definitionid>42259</definitionid></valsi>
 
 <valsi word="selklucipra" type="lujvo"><definition>$x_1=c_1$ est un examen/un test/une épreuve permettant de vérifier si $x_2=k_2=c_3$ appartient à la culture $x_3=k_1=c_2$</definition>
 <definitionid>20686</definitionid><notes>Voir également {kulnu} et {cipra}.</notes></valsi>
@@ -485,6 +497,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 
 <nlword word="manger" valsi="citka"/>
 
+<nlword word="étrange" valsi="cizra"/>
+
 <nlword word="propriété" valsi="ckaji"/>
 
 <nlword word="caractéristique" valsi="ckaji"/>
@@ -543,6 +557,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 
 <nlword word="faire en sorte" valsi="gasnu"/>
 
+<nlword word="heureux" valsi="gleki"/>
+
 <nlword word="saisir" valsi="jgari"/>
 
 <nlword word="tenir" sense="saisir" valsi="jgari"/>
@@ -560,6 +576,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <nlword word="carcajou" valsi="karkaju"/>
 
 <nlword word="Canada" valsi="kenyDAS"/>
+
+<nlword word="pleurer" valsi="klaku"/>
 
 <nlword word="douane" valsi="korgretro"/>
 
@@ -604,6 +622,8 @@ Voir également {krixa}, {cusku}, {casnu}, {tavla}, {voksa}, {pinka}.</notes></v
 <nlword word="personne" valsi="prenu"/>
 
 <nlword word="lapin" valsi="ractu"/>
+
+<nlword word="fois" sense="nom commun" valsi="roi"/>
 
 <nlword word="examen de culture" valsi="selklucipra"/>
 

@@ -11,14 +11,47 @@
 <valsi word="a'acu'i" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>無頓着／無愛想 （ a'a 謹聴／注目 - a'acu'i 無頓着／無愛想 - a'anai 忌避）</definition>
 <definitionid>42012</definitionid><notes>心態詞； 懇ろさを欠いた気持； 気に留めない情況「zo'e .a'acu'i pu ca'o klama／誰だか気に留めなかったが、来ていた人はいた」「.a'a cu'i ko denpa lo nu mi mulgau ti／ちょっとこれ終わるまで待ってて」 ・読み方： アハシュヒ ・関連語： {nalju'i}, {re'i} {nai}</notes></valsi>
 
+<valsi word="a'anai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>忌避 （ a'a 謹聴／注目 - a'acu'i 無頓着／無愛想 - a'anai 忌避）</definition>
+<definitionid>42030</definitionid><notes>心態詞； 対応するの嫌う気持； 相手にしたくない気持「やってられないよ」「.a'anai za'u re'u judri srera fonxa／もう嫌だ、また間違い電話だ」「.a'a nai mi na tirna／知ーらないっと」 ・読み方： アハナイ  ・関連語： {rivbi}</notes></valsi>
+
+<valsi word="a'e" type="cmavo"><selmaho>UI1</selmaho><definition>警戒／注意 （ a'e 警戒／注意 - a'enai 消耗）</definition>
+<definitionid>42031</definitionid><notes>心態詞； 物事にたいして警戒する／感覚を鋭敏にする気持「.a'e ba vlile tcima／嵐の恐れがある」「.a'e le cabdei ba xamgu djedi／今日はいい日になりそうだ」 ・読み方： アヘ  ・関連語： {sanji}, {cikna}</notes></valsi>
+
+<valsi word="a'enai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>消耗 （ a'e 警戒／注意 - a'enai 消耗）</definition>
+<definitionid>42032</definitionid><notes>心態詞； 物事に対して感覚が鈍る／疲労した気持ち「.a'enai do ranji bacru／きみの長話にはうんざりだ」「.a'e nai mi klama lo ckana／ふぅ、やれやれ、寝るか」 ・読み方： アヘナイ  ・関連語： {tatpi}</notes></valsi>
+
+<valsi word="a'i" type="cmavo"><selmaho>UI1</selmaho><definition>努力 （ a'i 努力 - a'icu'i 余裕 - a'inai 休息）</definition>
+<definitionid>42036</definitionid><notes>心態詞； 努める、頑張る気持「.a'i limna koi lo dukti zbani／なんとか対岸まで泳ぐ」「le lenku dilnu cu sutkla a'idai／寒い雲がいそぐ」（山頭火『行乞記（二）』）「.a'i mi ze'a ba ralte／このまま頑張る」「.a'i mi ba gasnu lo nu do cikna binxo／お前を起こすのは一苦労だ」 ・読み方： アヒ  ・関連語： {gunka}, {slunandu}, {troci}, {selprogunka}, {fu'i} {nai}</notes></valsi>
+
+<valsi word="a'icu'i" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>余裕 （ a'i 努力 - a'icu'i 余裕 - a'inai 休息）</definition>
+<definitionid>42037</definitionid><notes>心態詞； 頑張らなくてもいいという気持「.a'icu'i le vi nabmi cu ka'e se danfu／この問題は簡単に解ける」「.a'i cu'i ti frili／こんなの簡単」 ・読み方： アヒシュヒ  ・関連語： {selfrili}, {fu'i}</notes></valsi>
+
+<valsi word="a'inai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>休息 （ a'i 努力 - a'icu'i 余裕 - a'inai 休息）</definition>
+<definitionid>42038</definitionid><notes>心態詞； 頑張らずに休む／怠ける気持 「.a'i nai cikre ta／直すのやーめた」・読み方： アヒナイ  ・関連語： {toltoi}, {cando}, {guksurla}</notes></valsi>
+
 <valsi word="a'o" type="cmavo"><selmaho>UI1</selmaho><definition>希望 （ a'o 希望 - a'onai 絶望）</definition>
 <definitionid>15792</definitionid><notes>心態詞； それについて望みをかける気持「.a'o do nelci le se dunda／あなたがそのプレゼントを気に入ってくれるといいな」 ・読み方： アホ  ・関連語： {pacna}</notes></valsi>
+
+<valsi word="a'onai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>絶望 （ a'o 希望 - a'onai 絶望）</definition>
+<definitionid>42039</definitionid><notes>心態詞； それについて望めることが無いという気持「.a'onai ri'a le vi fagma'afesti lo vinji na'e ka’e vofli／この火山灰のせいで飛行機は飛べそうもない」「.a'o nai ro da ca se cirko／絶望的だ、全員亡くなっているだろう」 ・読み方： アホナイ  ・関連語： {tolpacna}</notes></valsi>
 
 <valsi word="a'u" type="cmavo"><selmaho>UI1</selmaho><definition>関心 （ a'u 関心 - a'ucu'i 無関心 - a'unai 反感）</definition>
 <definitionid>15794</definitionid><notes>心態詞； それに好奇心を覚えて惹きつけられる気持「a'u ta mo／わぁ、なぁにそれ？」「.a'u ma ba'o se lifri do／どんなことがあったの？」 ・読み方： アフ  ・関連語： {selci'i}, {kurji}</notes></valsi>
 
+<valsi word="a'ucu'i" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>無関心 （ a'u 関心 - a'ucu'i 無関心 - a'unai 反感）</definition>
+<definitionid>42042</definitionid><notes>心態詞； それについて興味が湧かない情況「.a'ucu'i ko'a mi nelci／彼女が私を慕っていることなんかどうでも良い」「.a'u cu'i na cuntu mi／私には関係ない」 ・読み方： アフシュヒ ・関連語： {nalselci'i}</notes></valsi>
+
+<valsi word="a'unai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>反感 （ a'u 関心 - a'ucu'i 無関心 - a'unai 反感）</definition>
+<definitionid>42043</definitionid><notes>心態詞； それに醜悪さを覚えて拒んでしまう気持「a'unai ta mo／げっ、なんじゃそれ？」「.a'u nai ta panci simsa lo kalci／うげぇ、それなんかうんこ臭い」 ・読み方： アフナイ ・関連語： {selrigni}</notes></valsi>
+
 <valsi word="abu" type="cmavo cluster"><selmaho>BY*</selmaho><definition>a ： 字詞</definition>
 <definitionid>41164</definitionid><notes>「.abu lerfu／a は文字だ」 ・読み方： アブ</notes></valsi>
+
+<valsi word="ai" type="cmavo"><selmaho>UI1</selmaho><definition>志向 （ ai 志向 - aicu'i 不断 - ainai 無為）</definition>
+<definitionid>42033</definitionid><notes>心態詞； それを行為する、それにたいして働きかけるつもりがある気持「mi ai gasnu／私がやりましょう」「klama tu ai pei／あそこに行くつもりですか？」「.ai le mi cukta do sidju gi'e pacnygau／私の本であなたを助け、あなたが希望を持てるようにするつもりだ」 ・読み方： アイ  ・関連語： {zukte}, {platu}</notes></valsi>
+
+<valsi word="aicu'i" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>不断 （ ai 志向 - aicu'i 不断 - ainai 無為）</definition>
+<definitionid>42034</definitionid><notes>心態詞； それをするかどうか決断できていない気持； 気乗り薄な情況「どうしよっかなー」「.ai cu'i mi ti ba te vecnu／これ買おうかな、やめとこうかな」 ・読み方： アイシュヒ  ・関連語： {norzu'e}, {norpla}</notes></valsi>
 
 <valsi word="ainai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>無為 （ ai 志向 - aicu'i 不断 - ainai 無為）</definition>
 <definitionid>42035</definitionid><notes>心態詞； それをするつもりがない／その予定ではない／不作為の気持 「.ainai vecnu ti／これは売り物ではありません」「.ai nai mi gunka ca le pavdei／私は月曜日に働くつもりはない」「.ai nai mi jmina lo valsi poi mi finti／我流の言葉を言い足すつもりはない」「.ai nai do pu se xrani／あなたを傷つけるつもりはなかった」 ・読み方： アイナイ  ・関連語： {selsnuti}</notes></valsi>
@@ -26,8 +59,23 @@
 <valsi word="au" type="cmavo"><selmaho>UI1</selmaho><definition>欲求 （ au 欲求 - aucu'i 無欲求 - aunai 抵抗）</definition>
 <definitionid>15793</definitionid><notes>心態詞； それを欲し求める気持「.au mi binxo lo cakcurnu／私は貝になりたい」「.au lo tricu cu krati lo ro se genja gi'e sfasa lo kusru be gy／樹木は根のあるものたちを代表して、ひどいことをする奴を罰してほしい」 ・読み方： アウ  ・関連語： {djica}</notes></valsi>
 
+<valsi word="aucu'i" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>無欲求 （ au 欲求 - aucu'i 無欲求 - aunai 抵抗）</definition>
+<definitionid>42040</definitionid><notes>心態詞； それを特に欲しくはないという気持「.aucu'i klama la vonplin.／火星に行けなくても良い」「.au cu'i makau jinga／誰が勝っても良い」 ・読み方： アウシュヒ  ・関連語： {nordji}</notes></valsi>
+
+<valsi word="aunai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>抵抗 （ au 欲求 - aucu'i 無欲求 - aunai 抵抗）</definition>
+<definitionid>42041</definitionid><notes>心態詞； それが嫌で手中にしたくない気持「.aunai mi cliva／離れたくない」 ・読み方： アウナイ  ・関連語： {toldji}</notes></valsi>
+
 <valsi word="ba" type="cmavo"><selmaho>PU</selmaho><definition>未来 ： 間制詞（時間・方向）； [sumti] の左に付いて、その [sumti] よりも以降の時点で [selbri] が起こることを表す； sumti は省略できる； sumti を欠いて selbri の左隣に来るときはその selbri と一体化して１つの selbri とみなされる（従ってこれをそのまま冠詞で sumti 化できる）</definition>
 <definitionid>40678</definitionid><notes>・読み方： バ</notes></valsi>
+
+<valsi word="ba'a" type="cmavo"><selmaho>UI2</selmaho><definition>予期 （ ba'a 予期 - ba'acu'i 経験 - ba'anai 回想）</definition>
+<definitionid>42044</definitionid><notes>心態詞；「ba'a do bazu djuno／そのうちわかるだろうよ」 ・読み方： バハ  ・関連語： {bavykri}, {lifri}, {morji}</notes></valsi>
+
+<valsi word="ba'acu'i" type="cmavo cluster"><selmaho>UI*2</selmaho><definition>経験 （ ba'a 予期 - ba'acu'i 経験 - ba'anai 回想）</definition>
+<definitionid>42045</definitionid><notes>心態詞；「ba'a cu'i ca gi pensi gi nu'o co'u se marce／あるある、考え事してて、降りるはずの駅で降り損なうの」 ・読み方： バハシュヒ</notes></valsi>
+
+<valsi word="ba'anai" type="cmavo cluster"><selmaho>UI*2</selmaho><definition>回想 （ ba'a 予期 - ba'acu'i 経験 - ba'anai 回想）</definition>
+<definitionid>42046</definitionid><notes>心態詞；「.ua ba'anai／あっ、思い出した」「ba'anai ba'o xaksu lo silna／そういえば、塩を切らしてたな」 ・読み方： バハナイ</notes></valsi>
 
 <valsi word="ba'e" type="cmavo"><selmaho>BAhE</selmaho><definition>強調 ： 次に来る語を強調する</definition>
 <definitionid>40704</definitionid><notes>・読み方： バヘ</notes></valsi>
@@ -91,9 +139,8 @@
 <definitionid>39244</definitionid><notes>「lo balji be la likoris. cu vindu mutce／ヒガンバナの球根は毒性が強い」 ・大意： 球根 ・読み方： バルゥジ ・語呂合わせ：  バルブ、bulb,jing（茎） ・関連語： {punli}, {batke}
 </notes></valsi>
 
-<valsi word="balni" type="gismu"><definition>$x_1$ は $x_2$ （種類）のウシ属動物</definition>
-<definitionid>39245</definitionid><notes>「la juliet. bu'u lo balni cu tavla la noi bartu romeon.／ジュリエットがバルコニーから外のロミオに語りかける」 ・大意： バルコニー ・読み方： バルゥニ  ・語呂合わせ： ＜バック肉＞, vaca,niu（牛）,ox ・関連語： {kajna}
-</notes></valsi>
+<valsi word="balni" type="gismu"><definition>$x_1$ は $x_2$ （構造体）のバルコニー／さじき／ベランダ／張り出し</definition>
+<definitionid>39245</definitionid><notes>「la juliet. bu'u lo balni cu tavla la noi bartu romeon.／ジュリエットがバルコニーから外のロミオに語りかける」 ・大意： バルコニー ・読み方： バルゥニ  ・語呂合わせ： balcon ・関連語： {kajna}</notes></valsi>
 
 <valsi word="balre" type="gismu"><rafsi>ba'e</rafsi><definition>$x_1$ は $x_2$ （武器／道具）の刃</definition>
 <definitionid>39246</definitionid><notes>「lo se balre cu se darxi zbasu／刃物を鍛造する」 ・大意： 刃 ・読み方： バルゥレ  ・語呂合わせ：  blade,ren（刃） ・関連語： {dakfu}, {tunta}, {tutci}, {guska}, {kinli}, {katna}
@@ -218,6 +265,15 @@
 <valsi word="be'o" type="cmavo"><selmaho>BEhO</selmaho><definition>sumti 接続終了 ： 境界詞； brivla に BE BEI で繋げた sumti の末尾を示す</definition>
 <definitionid>40712</definitionid><notes>・読み方： ベホ</notes></valsi>
 
+<valsi word="be'u" type="cmavo"><selmaho>UI5</selmaho><definition>欠如 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）</definition>
+<definitionid>42047</definitionid><notes>心態詞（修飾系）何も感じない。「be'u ro'a lo zdacau cu me pa litru／ルンペンのひとり旅はさみしいね」（山頭火『行乞記（二）』） ・読み方： ベフ  ・関連語： {claxu}, {nitcu}, {mansa}</notes></valsi>
+
+<valsi word="be'ucu'i" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>有 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）</definition>
+<definitionid>42048</definitionid><notes>心態詞（修飾系）何らかの感情が有る。 ・読み方： ベフシュヒ</notes></valsi>
+
+<valsi word="be'unai" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>充溢 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）</definition>
+<definitionid>42049</definitionid><notes>心態詞（修飾系）感情に溢れている。 ・読み方： ベフナイ</notes></valsi>
+
 <valsi word="bebna" type="gismu"><rafsi>beb</rafsi><definition>$x_1$ は $x_2$ （性質）に関して愚か／ばかげている／思慮が無い；  $x_1$ は阿呆／馬鹿</definition>
 <definitionid>39264</definitionid><notes>「fi lo sevzi ka bebna cu klaku je klaku .ei／自分の愚劣に泣け、泣け」（山頭火『行乞記（二）』） ・大意： 愚か ・読み方： ベブナ ・語呂合わせ： ＜ベビーない＞, boob ・関連語： {fenki}, {xajmi}, {prije}, {fliba}
 </notes></valsi>
@@ -285,6 +341,9 @@
 
 <valsi word="bi'unai" type="cmavo cluster"><selmaho>UI*3</selmaho><definition>古情報 （ bi'u 新情報 - bi'unai 古情報）</definition>
 <definitionid>20637</definitionid><notes>心態詞「あの件についてですが」「bi'unai ko sorcu benji pleji lo binra jdini ti／さきほどの件ですが、賠償金はこちらに振り込んでください。（振り込め詐欺）」 ・読み方： ビフナイ</notes></valsi>
+
+<valsi word="bicysakta" type="lujvo"><definition>$x_1=s_1$ は花 $x_2=s_2$ ・成分 $x_3=s_3$ の蜂蜜</definition>
+<definitionid>42432</definitionid><notes>{bifce} {sakta}</notes></valsi>
 
 <valsi word="bidju" type="gismu"><definition>$x_1$ は $x_2$ （素材）の数珠／ビーズ</definition>
 <definitionid>39273</definitionid><notes>・大意： 数珠 ・読み方： ビヂュ ・語呂合わせ： ＜美度十分＞, ビーズ,  bead, ju(珠)  ・関連語： {bolci}, {canre}, {lakse}, {dirgo}
@@ -446,7 +505,7 @@
 <definitionid>41181</definitionid><notes>「denpa bu／ . （ロジバンの休止記号）」「slaka bu／ , （ロジバンの音節区切り記号）」「uibu／ ＼(^o^)／」「zo'o bu／ ;-)」 ・大意： 字詞造成 ・読み方： ブ</notes></valsi>
 
 <valsi word="bu'a" type="cmavo"><rafsi>bul</rafsi><selmaho>GOhA</selmaho><definition>量化型 selbri 変数１ ： 代詞（selbri）； 量化可能な selbri 変数の１つ目</definition>
-<definitionid>41252</definitionid><notes>・大意： 某 selbri 一 ・読み方： ブハ ・関連語： {broda}</notes></valsi>
+<definitionid>41252</definitionid><notes>「ganai tinbe lo menli gi se bradi .i ganai jinru lo se cinmo gi se fleca'e .i ganai xarnu gi to'e zifre .i ro bu'a zo'u se gu bu'a gi lo prenu cecmu cu se xabju co nandu／智に働けば角が立つ。情に棹させば流される。意地を通せば窮屈だ。とかくに人の世は住みにくい。」（漱石『草枕』） ・大意： 某 selbri 一 ・読み方： ブハ ・関連語： {broda}</notes></valsi>
 
 <valsi word="bu'e" type="cmavo"><selmaho>GOhA</selmaho><definition>量化型 selbri 変数２ ： 代詞（selbri）； 量化可能な selbri 変数の２つ目</definition>
 <definitionid>40715</definitionid><notes>・読み方： ブヘ</notes></valsi>
@@ -503,6 +562,9 @@
 <valsi word="ca'a" type="cmavo"><rafsi>caz</rafsi><selmaho>CAhA</selmaho><definition>実際に ： 相制詞（モダリティ）；</definition>
 <definitionid>41169</definitionid><notes>・大意： 実際に ・読み方： ・関連語： {cabna}, {ca}</notes></valsi>
 
+<valsi word="ca'e" type="cmavo"><selmaho>UI2</selmaho><definition>定義</definition>
+<definitionid>42050</definitionid><notes>心態詞（認識系）； それがどうであるかを定義しようとしている認識態度「ca'e le mi tubnu cu na'ebo marna tubnu／俺のパイプはマリファナじゃねえ、俺がそう言うんだから間違いねえ」「ca'e le re do cu simxu speni／ここに二人を夫婦とする」 ・読み方： シャヘ  ・関連語： {mitcu'a}, {mitsmu}</notes></valsi>
+
 <valsi word="ca'i" type="cmavo"><selmaho>BAI</selmaho><definition>~の権限で ： catni 法制詞, $x_1$</definition>
 <definitionid>40910</definitionid><notes>・読み方： シャヒ</notes></valsi>
 
@@ -533,6 +595,9 @@
 
 <valsi word="cafne" type="gismu"><rafsi>caf</rafsi><definition>$x_1$ （事）は $x_2$ （基準）において頻繁／しょっちゅう／頻発する／よくある</definition>
 <definitionid>40538</definitionid><notes>・大意： 頻繁 ・読み方： シャフネ  ・語呂合わせ： ＜車夫寝る＞, can(常), often ・関連語： {rirci}, {fadni}, {kampu}, {rapli}, {krefu}, {lakne}, {piso'iroi}</notes></valsi>
+
+<valsi word="cai" type="cmavo"><selmaho>CAI</selmaho><definition>烈</definition>
+<definitionid>42192</definitionid><notes>心態詞； 心情や態度の強烈性を表す 「.uucai blabi kerfa filcni／あはれむべきかな、白髪のセンチメンタリスト！」（山頭火『行乞記（二）』）</notes></valsi>
 
 <valsi word="cakla" type="gismu"><definition>$x_1$ は $x_2$ （種類）のチョコレート／ココア</definition>
 <definitionid>39314</definitionid><notes>・大意： チョコレート ・読み方： シャクルゥア  ・語呂合わせ： ＜しゃくなランチ＞, ショコラ ・関連語： {ckafi}
@@ -1167,6 +1232,9 @@
 <valsi word="cu'e" type="cmavo"><selmaho>CUhE</selmaho><definition>制詞質問 ： どの制詞が当てはまるかをその箇所に置いて尋ねる</definition>
 <definitionid>40917</definitionid><notes>・読み方： シュヘ</notes></valsi>
 
+<valsi word="cu'i" type="cmavo"><selmaho>CAI</selmaho><definition>中性</definition>
+<definitionid>42193</definitionid><notes>心態詞（修飾系）； 尺度上の中間</notes></valsi>
+
 <valsi word="cu'o" type="cmavo"><selmaho>MOI</selmaho><definition>確率selbri ： 数詞を確率selbriに変換する； １（事）は２（条件）において n の確率で起こる</definition>
 <definitionid>40918</definitionid><notes>・読み方： シュホ</notes></valsi>
 
@@ -1530,6 +1598,9 @@ d3は交流電源、直流電源、マイナス極、プラス極など
 <definitionid>39490</definitionid><notes>・大意： 放射 ・読み方： ディルシェ  ・関連語： {gusni}
 </notes></valsi>
 
+<valsi word="dircynavni" type="lujvo"><definition>$x_1$ はラドン (Rn)</definition>
+<definitionid>42255</definitionid><notes>{dirce} {navni}; {ratni}</notes></valsi>
+
 <valsi word="dirgo" type="gismu"><rafsi>dig</rafsi><definition>$x_1$ は $x_2$ （物質）の雫／滴</definition>
 <definitionid>40412</definitionid><notes>x1を包む物質としてx3の追加も。 ・大意： 雫 ・読み方： ディルゴ  ・関連語： {daplu}, {bidju}
 </notes></valsi>
@@ -1678,8 +1749,47 @@ d3は交流電源、直流電源、マイナス極、プラス極など
 <valsi word="e" type="cmavo"><selmaho>A</selmaho><definition>sumti 論理積（AND）／～と～ ： 接続詞（論理・後置・sumti）； 前部と後部は共に真</definition>
 <definitionid>41192</definitionid><notes>「ko seka'a selkansa lo mapku .e lo pinxe djacu／帽子と飲み水を持参してください」 ・読み方： エ</notes></valsi>
 
+<valsi word="e'a" type="cmavo"><selmaho>UI1</selmaho><definition>許可 （ e'a 許可 - e'anai 禁止）</definition>
+<definitionid>42052</definitionid><notes>心態詞； それをしてもいい、そうであってもいいということを権威者として表す気持「.e'a do ze'a pa nanca ba xabju lo vi gugde／この国に1年間滞在することを許可する」「.e'a do tsebi'o／お座りになっても構いませんよ」 ・読み方： エハ  ・関連語： {curmi}</notes></valsi>
+
+<valsi word="e'anai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>禁止 （ e'a 許可 - e'anai 禁止）</definition>
+<definitionid>42053</definitionid><notes>心態詞； それをしてはならないということを権威者として表す気持「.e'anai ma'ersrogau／駐車禁止」「.e'a nai do ti stali／ここに立ち止まらないでください」 ・読み方： エハナイ  ・関連語： {tolcru}</notes></valsi>
+
+<valsi word="e'e" type="cmavo"><selmaho>UI1</selmaho><definition>奨励 （ e'e 奨励 - e'enai 阻止）</definition>
+<definitionid>42054</definitionid><notes>心態詞； 励ます／挑発する気持 「do .e'e tigni lo ralju prenu／きみは主役にピッタリだ」「.e'e mi te jinga xu kau／私に勝てるかな」「.e'e ko jarco lo se kakne be do／お前の能力を見せつけてやれ！」「.e'e mi do bajra jivna fe'e co'u le karce／さあこい！車のところまで競走だ！」 ・読み方： エヘ  ・関連語： {talsa}</notes></valsi>
+
+<valsi word="e'enai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>阻止 （ e'e 奨励 - e'enai 阻止）</definition>
+<definitionid>42055</definitionid><notes>心態詞； 落胆させる／阻止する気持 「悪いけど」「.e'e nai mi bilga lo nu zukte lo drata／悪いけど他にやることがあるので」 ・読み方： エヘナイ  ・関連語： {zunti}, {dicra}</notes></valsi>
+
+<valsi word="e'i" type="cmavo"><selmaho>UI1</selmaho><definition>制約 （ e'i 制約 - e'inai 放任）</definition>
+<definitionid>42058</definitionid><notes>心態詞； それについて制約を与える／求める／義務を負わせる気持 「lo nu ko cadzu cu rinju lo pelxu dasri .e'i／黄色い線の内側をお歩きください」「.e'i ko ta mi dunda／それをこっちによこせ」 ・読み方： エヒ  ・関連語： {minde}, {ri'urgau}</notes></valsi>
+
+<valsi word="e'inai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>放任 （ e'i 制約 - e'inai 放任）</definition>
+<definitionid>42059</definitionid><notes>心態詞； それについて制約を与えない／求めない／解放する気持 「.e'inai lebna ti／ご自由にお取りください」「.e'i nai ko zukte lo se djica be do／好きなようにしなさい」 ・読み方： エヒナイ  ・関連語： {zi'ergau}</notes></valsi>
+
+<valsi word="e'o" type="cmavo"><selmaho>UI1</selmaho><definition>要請 （ e'o 要請 - e'onai 提供）</definition>
+<definitionid>42060</definitionid><notes>心態詞； それをしてほしいという気持「してください」「おねがいします」「.e'o [do] vimku'a jinsa ralte／トイレをきれいに」「.e'o do dunda le silna mi／塩をいただけるかしら」「.e'o na ku ca'o lo nu zgike cu ze'o zo'i klama／演奏中に出入りしないでください」 ・読み方： エホ  ・関連語： {cpedu}, {pe'u}</notes></valsi>
+
+<valsi word="e'onai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>提供 （ e'o 要請 - e'onai 提供）</definition>
+<definitionid>42061</definitionid><notes>心態詞； それをしてあげるという気持 「どうぞ」「.e'o nai ko lebna lo titla／まあどうぞ、甘いものでも」  ・読み方： エホナイ   ・関連語： {friti}</notes></valsi>
+
+<valsi word="e'u" type="cmavo"><selmaho>UI1</selmaho><definition>提案 （ e'u 提案 - e'ucu'i 放棄 - e'unai 警告）</definition>
+<definitionid>42062</definitionid><notes>心態詞； 行為や概念を勧める気持「どうぞこれを」「これなどどうでしょう」「.e'u mi'o salci／お祝いしよう」 ・読み方： エフ  ・関連語： {stidi}</notes></valsi>
+
+<valsi word="e'ucu'i" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>放棄 （ e'u 提案 - e'ucu'i 放棄 - e'unai 警告）</definition>
+<definitionid>42063</definitionid><notes>心態詞； 行為や概念を勧めとどまる気持「いや、なんでもありません」「.e'u cu'i do pinxe lo xalka／飲むなとは言わないが、お勧めはしない」 ・読み方： エフシュヒ</notes></valsi>
+
+<valsi word="e'unai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>警告 （ e'u 提案 - e'ucu'i 放棄 - e'unai 警告）</definition>
+<definitionid>42064</definitionid><notes>心態詞； 行為や概念を勧めない、控えるよう求める気持「よしたほうがいいでしょう」「.e'u nai do kargau le moklu／あなたは口を開かないほうが良い」 ・読み方： エフナイ  ・関連語： {kajde}, {o'i}</notes></valsi>
+
 <valsi word="ebu" type="cmavo cluster"><selmaho>BY*</selmaho><definition>e ： 字詞</definition>
 <definitionid>41206</definitionid><notes>「lo fasybau zo'u mutce pilno .ebu／フランス語はeの字をよく使う」 ・読み方： エブ</notes></valsi>
+
+<valsi word="ei" type="cmavo"><selmaho>UI1</selmaho><definition>義務 （ ei 義務 - einai 自由）</definition>
+<definitionid>42056</definitionid><notes>心態詞； それが義務である／当然であると見なす気持 「jisri'a ei／掃除しなくちゃだめでしょ」「lo datplinypre cu ei zasti／異星人は存在するにちがいない」「.ei lo verba gau cpacu lo nu ctuca／こどもに教育を受けさせる義務がある」「.ei mi cliva co'o／もう行かないと。バイバイ」「.ei le jatna cu ckeji／ボスは恥ずべきだな」「.ei do djuno／あなたは知っているはずだ／べきだ」 ・読み方： エイ  ・関連語： {bilga}</notes></valsi>
+
+<valsi word="einai" type="cmavo cluster"><selmaho>UI*1</selmaho><definition>自由 （ ei 義務 - einai 自由）</definition>
+<definitionid>42057</definitionid><notes>心態詞； それが義務ではない／そうである必要はないと見なす気持 「.einai do mi spuda／返信してくれなくても良い」「.ei nai do tolnurcni／怖がらなくても良い」 ・読み方： エイナイ  ・関連語： {zifre}</notes></valsi>
 
 <valsi word="enai" type="cmavo cluster"><selmaho>A*</selmaho><definition>sumti ～だが～ではない ： 接続詞（論理・後置・sumti）； 前部は真で後部は偽</definition>
 <definitionid>41205</definitionid><notes>「lo'e spencida cu zvati lo dzipo .enai lo tolzi'o／ペンギンは南極に居るが北極には居ない」 ・読み方： エナイ</notes></valsi>
@@ -1735,6 +1845,9 @@ d3は交流電源、直流電源、マイナス極、プラス極など
 <valsi word="fange" type="gismu"><definition>$x_1$ は $x_2$ にたいして $x_3$ （性質）の点で異質／外来／別世界的／風変わり</definition>
 <definitionid>39517</definitionid><notes>・大意： 異質 ・読み方： ファンゲ  ・語呂合わせ： ＜ファンの元気＞ ・関連語： {cizra}, {jbena}, {ckini}
 </notes></valsi>
+
+<valsi word="fangynavni" type="lujvo"><definition>$x_1$ はキセノン (Xe)</definition>
+<definitionid>42252</definitionid><notes>{fange} {navni}; {ratni}</notes></valsi>
 
 <valsi word="fanmo" type="gismu"><rafsi>fam</rafsi><rafsi>fa'o</rafsi><definition>$x_1$ は $x_2$ （物／過程）の終わり</definition>
 <definitionid>39518</definitionid><notes>終了状態全般。達成／完了しているとはかぎらない。 ・大意： 終わり ・読み方： ファンモ  ・語呂合わせ： ＜ファン燃え尽きて＞ ・関連語： {krasi}, {cfari}, {mulno}, {sisti}, {denpa}, {jipno}, {kojna}, {traji}, {krasi}
@@ -1918,6 +2031,9 @@ d3は交流電源、直流電源、マイナス極、プラス極など
 <definitionid>39542</definitionid><notes>「オカリナ」「尺八」「呼子笛（ホイッスル）」など ・大意： 無簧楽器 ・読み方： フゥルァニ  ・関連語： {zgike}
 </notes></valsi>
 
+<valsi word="fleca'e" type="lujvo"><definition>$x_1$ は $x_2$ を押し流す $x_3$ の流れ</definition>
+<definitionid>42282</definitionid><notes>{flecu} {catke}</notes></valsi>
+
 <valsi word="flecu" type="gismu"><rafsi>fle</rafsi><definition>$x_1$ は $x_2$ の／における、 $x_3$ （終点）へ $x_4$ （始点）からの流れ；  $x_2$ は流れる</definition>
 <definitionid>39543</definitionid><notes>・大意： 流れる ・読み方： フゥルェシュ  ・関連語： {rirxe}, {senta}, {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, {litki}, {ciblu}
 </notes></valsi>
@@ -2028,6 +2144,12 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <valsi word="fu'e" type="cmavo"><selmaho>FUhE</selmaho><definition>係り範囲の開始 ： ある語が修飾する／係る範囲の始点を表す； 修飾語は fu'e の直後に置く</definition>
 <definitionid>40744</definitionid><notes>・読み方： フヘ</notes></valsi>
 
+<valsi word="fu'i" type="cmavo"><selmaho>UI5</selmaho><definition>簡単 （ fu'i 簡単 - fu'inai 困難）</definition>
+<definitionid>42065</definitionid><notes>心態詞（修飾系）； ・読み方： フヒ  ・関連語： {frili}</notes></valsi>
+
+<valsi word="fu'inai" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>困難 （ fu'i 簡単 - fu'inai 困難）</definition>
+<definitionid>42066</definitionid><notes>心態詞（修飾系）； ・読み方： フヒナイ</notes></valsi>
+
 <valsi word="fu'o" type="cmavo"><selmaho>FUhO</selmaho><definition>係り範囲の終了 ： ある語が修飾する／係る範囲の終点を表す</definition>
 <definitionid>40745</definitionid><notes>・読み方： フホ</notes></valsi>
 
@@ -2066,6 +2188,15 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <valsi word="ga'e" type="cmavo"><selmaho>BY1</selmaho><definition>大文字変換 ： 字詞を大文字に変換する</definition>
 <definitionid>40749</definitionid><notes>・読み方： ガヘ</notes></valsi>
 
+<valsi word="ga'i" type="cmavo"><selmaho>UI5</selmaho><definition>上位 （ ga'i 上位 - ga'icu'i タメ - ga'inai 下位）</definition>
+<definitionid>42067</definitionid><notes>心態詞（修飾系）「高慢」「横柄」 ・読み方： ガヒ  ・関連語： {gapru}, {cnita}</notes></valsi>
+
+<valsi word="ga'icu'i" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>タメ （ ga'i 上位 - ga'icu'i タメ - ga'inai 下位）</definition>
+<definitionid>42068</definitionid><notes>心態詞（修飾系） ・読み方： ガヒシュヒ</notes></valsi>
+
+<valsi word="ga'inai" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>下位 （ ga'i 上位 - ga'icu'i タメ - ga'inai 下位）</definition>
+<definitionid>42069</definitionid><notes>心態詞（修飾系）「従順」 ・読み方： ガヒナイ</notes></valsi>
+
 <valsi word="ga'o" type="cmavo"><selmaho>GAhO</selmaho><definition>包含間隔 ： 合間を表す bi'i や bi'o の左か右に付いて、その側の sumti が間隔範疇に含まれることを表す； 含まれないのを表すのは ke'i； 「A ga'obi'ike'i B／A（含む）からB（含まない）まで」</definition>
 <definitionid>40751</definitionid><notes>・読み方： ガホ</notes></valsi>
 
@@ -2096,7 +2227,7 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 </notes></valsi>
 
 <valsi word="ganai" type="cmavo cluster"><selmaho>GA*</selmaho><definition>論理含有／～なら～ ： 接続詞（論理・前置・sumti/bridi/文）； 前部が真なら後部は真； 後部は gi で繋ぐ</definition>
-<definitionid>41187</definitionid><notes>「ju'ocu'i mi ganai na ca'o litru gi ka'enai te pemrxaiku／私は旅に出てゐなければ句は出来ないのかも知れない」（山頭火『行乞記（二）』） ・読み方： ガナイ</notes></valsi>
+<definitionid>41187</definitionid><notes>「ganai tinbe lo menli gi se bradi .i ganai jinru lo se cinmo gi se fleca'e .i ganai xarnu gi to'e zifre .i ro bu'a zo'u se gu bu'a gi lo prenu cecmu cu se xabju co nandu／智に働けば角が立つ。情に棹させば流される。意地を通せば窮屈だ。とかくに人の世は住みにくい。」（漱石『草枕』） ・読み方： ガナイ</notes></valsi>
 
 <valsi word="ganlo" type="gismu"><rafsi>ga'o</rafsi><definition>$x_1$ は $x_2$ （経路）にたいして閉まっている</definition>
 <definitionid>39566</definitionid><notes>・大意： 閉鎖 ・読み方： ガンルォ  ・関連語： {kalri}, {pagre}, {canko}, {vorme}, {zunti}
@@ -2160,7 +2291,7 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <valsi word="ge'o" type="cmavo"><selmaho>BY1</selmaho><definition>ギリシャ文字変換 ： 字詞をギリシャ文字に変換する</definition>
 <definitionid>40756</definitionid><notes>・読み方： ゲホ</notes></valsi>
 
-<valsi word="ge'u" type="cmavo"><selmaho>GEhU</selmaho><definition>関係詞＆法制句終止 ： 境界詞； 関係詞と法制の句の終わりを示す</definition>
+<valsi word="ge'u" type="cmavo"><selmaho>GEhU</selmaho><definition>関係句終止 ： 境界詞； GOI類で開かれた関係句の終わりを示す</definition>
 <definitionid>40757</definitionid><notes>・読み方： ゲフ</notes></valsi>
 
 <valsi word="gei" type="cmavo"><selmaho>VUhU2</selmaho><definition>指数 ： 数理演算子（3変数）；b × (c [デフォルトで 10] の a 乗)</definition>
@@ -2315,7 +2446,7 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 </notes></valsi>
 
 <valsi word="gu" type="cmavo"><selmaho>GA</selmaho><definition>～にかかわらず ： 接続詞（論理・前置・sumti/bridi/文）； 前部は真、後部がどうであるかにかかわらず； 後部は gi で繋ぐ</definition>
-<definitionid>40686</definitionid><notes>・読み方： グ</notes></valsi>
+<definitionid>40686</definitionid><notes>「ganai tinbe lo menli gi se bradi .i ganai jinru lo se cinmo gi se fleca'e .i ganai xarnu gi to'e zifre .i ro bu'a zo'u se gu bu'a gi lo prenu cecmu cu se xabju co nandu／智に働けば角が立つ。情に棹させば流される。意地を通せば窮屈だ。とかくに人の世は住みにくい。」（漱石『草枕』） ・読み方： グ</notes></valsi>
 
 <valsi word="gu'a" type="cmavo"><selmaho>GUhA</selmaho><definition>tanru 論理和（OR）／～や～ ： 接続詞（論理・前置・tanru）； 前部と後部はどちらか或いは共に真； 後部は gi で繋ぐ</definition>
 <definitionid>40769</definitionid><notes>・読み方： グハ</notes></valsi>
@@ -2909,6 +3040,9 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>39676</definitionid><notes>・大意： 角（つの） ・読み方： ジルナ  ・語呂合わせ： つのいじるな ・関連語： {jgalu}, {bongu}
 </notes></valsi>
 
+<valsi word="jirvi'odja" type="lujvo"><definition>$x_1=v_1=c_1$ は $x_2=j_2$ に漬けた保存食</definition>
+<definitionid>42437</definitionid><notes>$x_2=j_2$ は塩 (= {silna})・酢 (= {slami})・アルコール (= {xalka})・砂糖 (= {sakta})・蜂蜜 (= {bicysakta})・醤油 (= {sobysanso})・味噌 (= {furso'epesxu})・麹 (= {mledi} {pesxu}) など。 {jinru} {vitno} {cidja}, {slamystogau}.</notes></valsi>
+
 <valsi word="jisra" type="gismu"><definition>$x_1$ は $x_2$ （原料／種類）の汁／ジュース</definition>
 <definitionid>39677</definitionid><notes>・大意： 汁 ・読み方： ジスラ  ・語呂合わせ： 汁の字すら, ji（汁）, juice ・関連語： {pinxe}, {djacu}, {grute}, {stagi}
 </notes></valsi>
@@ -2964,7 +3098,7 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>40643</definitionid><notes>・大意： 一緒に（非混合） ・読み方： ジョフ</notes></valsi>
 
 <valsi word="joi" type="cmavo"><rafsi>jol</rafsi><rafsi>joi</rafsi><selmaho>JOI</selmaho><definition>一緒（混合） ： 接続詞（非論理・sumti/selbri）； 事物や性質が混合的に一緒であることを表す； 数学的群を形成する</definition>
-<definitionid>41225</definitionid><notes>「mi joi ko'o bevri lo pipno／私と彼女が一緒にピアノを運ぶ」「jobu／＆マーク」 ・大意： 一緒に（混合） ・読み方： ジョイ</notes></valsi>
+<definitionid>41225</definitionid><notes>「mi joi ko'o bevri lo pipno／私と彼女が一緒にピアノを運ぶ」 ・大意： 一緒に（混合） ・読み方： ジョイ</notes></valsi>
 
 <valsi word="jonai" type="cmavo cluster"><selmaho>JA*</selmaho><definition>tanru 排他的論理和（XOR） ： 接続詞（論理）； 前部と後部はどちらかだけ真</definition>
 <definitionid>41083</definitionid><notes>・読み方： ジョナイ</notes></valsi>
@@ -2999,7 +3133,7 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>42093</definitionid><notes>心態詞（修飾系）； それについてよく知っている／確信できる「確かに」「まちがいなく」「lo xalka cu pe'a selklaku je'i kau cniselva'u .i ju'o naje／酒は涙か溜息か、――たしかに溜息だよ。」（山頭火『行乞記（二）』） ・読み方： ジュホ  ・関連語： {birti}, {cumki}</notes></valsi>
 
 <valsi word="ju'ocu'i" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>不確信 （ ju'o 確信 - ju'ocu'i 不確信 - ju'onai 不可能）</definition>
-<definitionid>42094</definitionid><notes>心態詞（修飾系）； それについて定かなところはわからない／確信できない「ju'ocu'i mi ganai na ca'o litru gi ka'enai te pemrxaiku／私は旅に出てゐなければ句は出来ないのかも知れない」（山頭火『行乞記（二）』） ・読み方： ジュホシュヒ</notes></valsi>
+<definitionid>42094</definitionid><notes>心態詞（修飾系）； それについて定かなところはわからない／確信できない「ju'ocu'i mi ga ca'o litru ginai ka'e te pemrxaiku／私は旅に出てゐなければ句は出来ないのかも知れない」（山頭火『行乞記（二）』） ・読み方： ジュホシュヒ</notes></valsi>
 
 <valsi word="ju'onai" type="cmavo cluster"><selmaho>UI*5</selmaho><definition>不可能 （ ju'o 確信 - ju'ocu'i 不確信 - ju'onai 不可能）</definition>
 <definitionid>42095</definitionid><notes>心態詞（修飾系）； それについて不可能であると確信する 「ありえない」 ・読み方： ジュホナイ</notes></valsi>
@@ -3700,6 +3834,9 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>39794</definitionid><notes>・大意： 怠惰 ・読み方： ルァズニ  ・語呂合わせ： lazyに ・関連語： {nejni}, {vreta}, {gunka}
 </notes></valsi>
 
+<valsi word="laznynavni" type="lujvo"><definition>$x_1$ はアルゴン (Ar)</definition>
+<definitionid>42246</definitionid><notes>{lazni} {navni}; {ratni}</notes></valsi>
+
 <valsi word="lazyzukykei" type="lujvo"><definition>$x_1$ はままごとをする</definition>
 <definitionid>16890</definitionid></valsi>
 
@@ -4211,6 +4348,9 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>40454</definitionid><notes>「du」と違い、x1と x2 は実体が別個。「この花は（x1）ウチで飾っているもの（ x2 ）と同じです」。 ・大意： 同種 ・読み方： ミントゥ  ・語呂合わせ： &lt;みんなツール＞,同種のミントぅ ・関連語： {panra}, {satci}, {mapti}, {simsa}, {drata}, {dunli}, {du}, {simxu}
 </notes></valsi>
 
+<valsi word="mipnavni" type="lujvo"><definition>$x_1$ はクリプトン (Kr)</definition>
+<definitionid>42249</definitionid><notes>{mipri} {navni}; {ratni}</notes></valsi>
+
 <valsi word="mipri" type="gismu"><rafsi>mip</rafsi><definition>$x_1$ は $x_2$ を $x_3$ から、 $x_4$ （方法）によって匿う／隠す／秘密にする</definition>
 <definitionid>39867</definitionid><notes>・大意： 匿う ・読み方： ミプリ  ・関連語： {stace}, {mifra}, {sivni}, {djuno}, {cirko}, {jarco}
 </notes></valsi>
@@ -4520,7 +4660,7 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>19681</definitionid><notes>{nanmu} {speni}</notes></valsi>
 
 <valsi word="navni" type="gismu"><definition>$x_1$ は $x_2$ （元素）の貴ガス</definition>
-<definitionid>39910</definitionid><notes>天然にある貴ガスは、ヘリウム He、ネオン Ne、アルゴン Ar、クリプトン Kr、キセノン Xe、ラドン Rn。 ・大意： 貴ガス ・読み方： ナヴニ  ・関連語： {xukmi}, {gapci}; {tolfragapci}</notes></valsi>
+<definitionid>39910</definitionid><notes>天然にある貴ガスは、ヘリウム He、ネオン Ne、アルゴン Ar、クリプトン Kr、キセノン Xe、ラドン Rn。 ・大意： 貴ガス ・読み方： ナヴニ  ・関連語： {xukmi}, {gapci}; {tolfragapci}; {solnavni}, {ninynavni}, {laznynavni}, {mipnavni}, {fangynavni}, {dircynavni}.</notes></valsi>
 
 <valsi word="naxle" type="gismu"><rafsi>nax</rafsi><rafsi>xle</rafsi><definition>$x_1$ は $x_2$ （終点）・ $x_3$ （起点）・ $x_4$ （経路）の運河／海峡</definition>
 <definitionid>39911</definitionid><notes>・大意： 運河 ・読み方： ナクゥルェ  ・関連語： {pluta}, {rirxe}, {klaji}, {dargu}
@@ -4600,6 +4740,9 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <valsi word="ninmu" type="gismu"><rafsi>nim</rafsi><rafsi>ni'u</rafsi><definition>$x_1$ は女（の人）</definition>
 <definitionid>39920</definitionid><notes>セクシズムを避けるなら「prenu」か「remna」。 ・大意： 女 ・読み方： ニンム  ・語呂合わせ： 女の任務 ・関連語： {nanmu}, {remna}, {prenu}, {makcu}, {nixli}
 </notes></valsi>
+
+<valsi word="ninynavni" type="lujvo"><definition>$x_1$ はネオン (Ne)</definition>
+<definitionid>42243</definitionid><notes>{cnino} {navni}; {ratni}</notes></valsi>
 
 <valsi word="nirna" type="gismu"><rafsi>nir</rafsi><definition>$x_1$ は $x_2$ （本体）の神経（神経網）／ニューロン</definition>
 <definitionid>39921</definitionid><notes>比喩として「ネットワーク」なども。 ・大意： 神経 ・読み方： ニルナ  ・語呂合わせ： 神経煮るな ・関連語： {ve} {benji}
@@ -5934,6 +6077,9 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <valsi word="sela'u" type="cmavo cluster"><selmaho>BAI*</selmaho><definition>～を数量単位として ： klani 法制詞, $x_2$</definition>
 <definitionid>41097</definitionid><notes>・読み方： セルァフ</notes></valsi>
 
+<valsi word="selbritcita" type="lujvo"><definition>$x_1$ は $x_2$ （情報）を表す selbri のタグ</definition>
+<definitionid>42276</definitionid><notes>{selbri} {tcita}; {se} {bridi}.</notes></valsi>
+
 <valsi word="selci" type="gismu"><rafsi>sle</rafsi><definition>$x_1$ は $x_2$ （本体）の細胞／分子／原子／最小単位</definition>
 <definitionid>40093</definitionid><notes>・大意： 分子 ・読み方： セルゥシ  ・語呂合わせ： セル、室 ・関連語： {kantu}; {ratni}, {gradu}
 </notes></valsi>
@@ -6405,6 +6551,9 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>40161</definitionid><notes>・大意： 金（きん） ・読み方： ソルゥジ  ・関連語： {ricfu}, {rijno}, {narju}, {pelxu}
 </notes></valsi>
 
+<valsi word="solnavni" type="lujvo"><definition>$x_1$ はヘリウム (He)</definition>
+<definitionid>42240</definitionid><notes>{solri} {navni}; {ratni}</notes></valsi>
+
 <valsi word="solri" type="gismu"><rafsi>sol</rafsi><definition>$x_1$ は $x_2$ （惑星）の太陽／恒星</definition>
 <definitionid>40162</definitionid><notes>・大意： 太陽 ・読み方： ソルゥリ  ・関連語： {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi}, {tarci}
 </notes></valsi>
@@ -6637,6 +6786,9 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>40203</definitionid><notes>・大意： 嗅ぐ ・読み方： スムネ  ・語呂合わせ： 嗅ぐっす胸を ・関連語： {nazbi}, {panci}, {cpina}, {ganse}, {zgana}
 </notes></valsi>
 
+<valsi word="sumtcita" type="lujvo"><definition>$x_1$ は $x_2$ （情報）を表す sumti のタグ</definition>
+<definitionid>42275</definitionid><notes>{sumti} {tcita}</notes></valsi>
+
 <valsi word="sumti" type="gismu"><rafsi>sum</rafsi><rafsi>su'i</rafsi><definition>$x_1$ は $x_2$ （述語／関数）の場所 $x_3$ （種類／番号）を占める項 </definition>
 <definitionid>40204</definitionid><notes>・大意： 項 ・読み方： スムティ  ・関連語： {bridi}, {gismu}
 </notes></valsi>
@@ -6747,7 +6899,7 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>40218</definitionid><notes>植物原料であって製品ではない。 ・大意： タバコ（葉） ・読み方： タンコ  ・語呂合わせ： tabako ・関連語： {sigja}, {marna}
 </notes></valsi>
 
-<valsi word="tanru" type="gismu"><rafsi>tau</rafsi><definition>$x_1$ は、 $x_2$ が $x_3$ を修飾し、 $x_4$ を意味する複合語</definition>
+<valsi word="tanru" type="gismu"><rafsi>tau</rafsi><definition>$x_1$ は、 $x_2$ が $x_3$ を修飾し、 $x_4$ を意味する、使用法／例文 $x_5$ における複合語</definition>
 <definitionid>40479</definitionid><notes>x2 と x3 は、「文字列」か「概念」。 ・大意： 複合語 ・読み方： タンル  ・関連語： {gismu}, {smuni}
 </notes></valsi>
 
@@ -7653,7 +7805,7 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <definitionid>40308</definitionid><notes>・大意： 飛ぶ ・読み方： ヴォフゥルィ  ・語呂合わせ： ｆｌｙ ・関連語： {cipni}, {klama}, {vinji}
 </notes></valsi>
 
-<valsi word="voi" type="cmavo"><definition>叙述 bridi ： 関係詞（非制限）； 左の sumti を主観的に叙述する bridi を結びつける； この bridi が真に sumti に当てはまるとは限らない</definition>
+<valsi word="voi" type="cmavo"><selmaho>NOI</selmaho><definition>叙述 bridi ： 関係詞（非制限）； 左の sumti を主観的に叙述する bridi を結びつける； この bridi が真に sumti に当てはまるとは限らない</definition>
 <definitionid>41068</definitionid><notes>・読み方： ヴォイ</notes></valsi>
 
 <valsi word="voksa" type="gismu"><rafsi>vok</rafsi><rafsi>vo'a</rafsi><definition>$x_1$ は $x_2$ （本体）の声</definition>
@@ -8237,17 +8389,43 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="無頓着" valsi="a'acu'i"/>
 
-<nlword word="希望" valsi="a'o"/>
+<nlword word="忌避" valsi="a'anai"/>
+
+<nlword word="注意" valsi="a'e"/>
+
+<nlword word="消耗" valsi="a'enai"/>
+
+<nlword word="余裕" valsi="a'icu'i"/>
+
+<nlword word="休息" valsi="a'inai"/>
+
+<nlword word="絶望" valsi="a'onai"/>
 
 <nlword word="関心" valsi="a'u"/>
 
 <nlword word="興味" valsi="a'u"/>
+
+<nlword word="無関心" valsi="a'ucu'i"/>
+
+<nlword word="志向" valsi="ai"/>
+
+<nlword word="不断" valsi="aicu'i"/>
 
 <nlword word="無為" valsi="ainai"/>
 
 <nlword word="欲求" valsi="au"/>
 
 <nlword word="欲望" valsi="au"/>
+
+<nlword word="無欲求" valsi="aucu'i"/>
+
+<nlword word="抵抗" valsi="aunai"/>
+
+<nlword word="予期" valsi="ba'a"/>
+
+<nlword word="経験" valsi="ba'acu'i"/>
+
+<nlword word="回想" valsi="ba'anai"/>
 
 <nlword word="誇張" valsi="ba'u"/>
 
@@ -8276,6 +8454,14 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <nlword word="長距離走" valsi="bajyjvi"/>
 
 <nlword word="かけっこ" valsi="bajyjvi"/>
+
+<nlword word="桟敷" sense="劇場" valsi="balni"/>
+
+<nlword word="ベランダ" valsi="balni"/>
+
+<nlword word="張り出し" sense="構造" valsi="balni"/>
+
+<nlword word="バルコニー" valsi="balni"/>
 
 <nlword word="スーパーマーケット" valsi="balzai"/>
 
@@ -8343,11 +8529,19 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="銀行員" valsi="baxseljibri"/>
 
+<nlword word="欠如" valsi="be'u"/>
+
+<nlword word="有" valsi="be'ucu'i"/>
+
+<nlword word="充溢" valsi="be'unai"/>
+
 <nlword word="北風" valsi="berbi'e"/>
 
 <nlword word="新情報" valsi="bi'u"/>
 
 <nlword word="古情報" valsi="bi'unai"/>
+
+<nlword word="蜂蜜" valsi="bicysakta" place="1"/>
 
 <nlword word="デコボコ" valsi="bonsfe"/>
 
@@ -8359,11 +8553,15 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="もう感じず" valsi="bu'onai"/>
 
+<nlword word="定義" valsi="ca'e"/>
+
 <nlword word="今日" valsi="cabdei"/>
 
 <nlword word="本日" valsi="cabdei"/>
 
 <nlword word="同日" valsi="cabdei"/>
+
+<nlword word="烈" valsi="cai"/>
 
 <nlword word="書いて表現する" valsi="ci'asku"/>
 
@@ -8421,6 +8619,8 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="けいこ" sense="稽古" valsi="crezenzu'e"/>
 
+<nlword word="中性" sense="尺度" valsi="cu'i"/>
+
 <nlword word="サロペット" valsi="cutygaipalku"/>
 
 <nlword word="オーバーオール" valsi="cutygaipalku"/>
@@ -8455,6 +8655,10 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="電力供給する" valsi="dicysabji"/>
 
+<nlword word="ラドン" valsi="dircynavni" place="1"/>
+
+<nlword word="Rn" sense="ラドン" valsi="dircynavni"/>
+
 <nlword word="日刊紙" valsi="djekarni"/>
 
 <nlword word="新聞" sense="日刊紙" valsi="djekarni"/>
@@ -8477,6 +8681,32 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="水素爆弾" sense="爆弾" valsi="drojbama"/>
 
+<nlword word="許可" valsi="e'a"/>
+
+<nlword word="禁止" valsi="e'anai"/>
+
+<nlword word="奨励" valsi="e'e"/>
+
+<nlword word="阻止" valsi="e'enai"/>
+
+<nlword word="制約" valsi="e'i"/>
+
+<nlword word="放任" valsi="e'inai"/>
+
+<nlword word="要請" valsi="e'o"/>
+
+<nlword word="提供" valsi="e'onai"/>
+
+<nlword word="提案" valsi="e'u"/>
+
+<nlword word="放棄" valsi="e'ucu'i"/>
+
+<nlword word="警告" valsi="e'unai"/>
+
+<nlword word="義務" valsi="ei"/>
+
+<nlword word="自由" valsi="einai"/>
+
 <nlword word="調査" sense="陸地の探険" valsi="faktumli'u"/>
 
 <nlword word="冒険" sense="陸地の探検" valsi="faktumli'u"/>
@@ -8496,6 +8726,10 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <nlword word="探査" sense="陸地の探検" valsi="faktumli'u"/>
 
 <nlword word="踏査" sense="陸地の探検" valsi="faktumli'u"/>
+
+<nlword word="Xe" sense="キセノン" valsi="fangynavni"/>
+
+<nlword word="キセノン" valsi="fangynavni" place="1"/>
 
 <nlword word="訳本" valsi="fanvycukta"/>
 
@@ -8517,11 +8751,25 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="議案" valsi="flakamni" place="2"/>
 
+<nlword word="押し流す" valsi="fleca'e" place="1"/>
+
+<nlword word="流される" valsi="fleca'e" place="2"/>
+
 <nlword word="電話する" sense="通信" valsi="fongau"/>
 
 <nlword word="イチゴ" valsi="fragari" place="1"/>
 
 <nlword word="有理数" sense="実数" valsi="frinyna'u"/>
+
+<nlword word="簡単" valsi="fu'i"/>
+
+<nlword word="困難" valsi="fu'inai"/>
+
+<nlword word="上位" valsi="ga'i"/>
+
+<nlword word="タメ" valsi="ga'icu'i"/>
+
+<nlword word="下位" valsi="ga'inai"/>
 
 <nlword word="不特定の態度" valsi="ge'e"/>
 
@@ -8705,6 +8953,12 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="分類" sense="自閉症の分類" valsi="jikmenbi'a" place="2"/>
 
+<nlword word="なれずし" valsi="jirvi'odja"/>
+
+<nlword word="漬物" valsi="jirvi'odja"/>
+
+<nlword word="ピクルス" valsi="jirvi'odja"/>
+
 <nlword word="肯定" sense="メタ言語" valsi="jo'a"/>
 
 <nlword word="そのとおり" sense="正しい" valsi="jo'a"/>
@@ -8722,6 +8976,8 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <nlword word="まちがいなく" valsi="ju'o"/>
 
 <nlword word="不確信" valsi="ju'ocu'i"/>
+
+<nlword word="かもしれない" valsi="ju'ocu'i"/>
 
 <nlword word="わからない" valsi="ju'ocu'i"/>
 
@@ -8787,8 +9043,6 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="蓋然性" valsi="la'a"/>
 
-<nlword word="かもしれない" valsi="la'a"/>
-
 <nlword word="もしかして" valsi="la'a"/>
 
 <nlword word="たぶん" valsi="la'a"/>
@@ -8820,6 +9074,10 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <nlword word="クレーン" sense="クレーン車" valsi="lafydadykarce"/>
 
 <nlword word="アートギャラリー" valsi="larmuzga"/>
+
+<nlword word="アルゴン" valsi="laznynavni" place="1"/>
+
+<nlword word="Ar" sense="アルゴン" valsi="laznynavni"/>
 
 <nlword word="ままごと" sense="遊び" valsi="lazyzukykei"/>
 
@@ -8888,6 +9146,10 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <nlword word="医薬品" valsi="micyxu'i"/>
 
 <nlword word="薬品" sense="医薬品" valsi="micyxu'i"/>
+
+<nlword word="クリプトン" valsi="mipnavni" place="1"/>
+
+<nlword word="Kr" sense="クリプトン" valsi="mipnavni"/>
 
 <nlword word="実数" sense="複素数" valsi="mrena'u"/>
 
@@ -8974,6 +9236,10 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 <nlword word="奥様" sense="女性配偶者" valsi="nimspe"/>
 
 <nlword word="嫁" sense="女性配偶者" valsi="nimspe"/>
+
+<nlword word="ネオン" valsi="ninynavni" place="1"/>
+
+<nlword word="Ne" sense="ネオン" valsi="ninynavni"/>
 
 <nlword word="授業方法／講義方法" valsi="nunctu" place="6"/>
 
@@ -9253,6 +9519,10 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="表現" sense="文字列" valsi="sedu'u"/>
 
+<nlword word="述語のタグ" valsi="selbritcita"/>
+
+<nlword word="タグ" sense="述語のタグ" valsi="selbritcita"/>
+
 <nlword word="暗号化する" sense="暗号" valsi="selmifybi'o"/>
 
 <nlword word="貯蓄する" valsi="selsrodi'i"/>
@@ -9307,11 +9577,19 @@ BAI類のひとつであるtecu'uを用いて電話の着信者を指定でき�
 
 <nlword word="ズボン下" valsi="sivypalku"/>
 
+<nlword word="He" sense="ヘリウム" valsi="solnavni"/>
+
+<nlword word="ヘリウム" valsi="solnavni" place="1"/>
+
 <nlword word="バス" sense="乗り物" valsi="sorprekarce"/>
 
 <nlword word="一般には" valsi="su'a"/>
 
 <nlword word="特殊化" valsi="su'anai"/>
+
+<nlword word="項のタグ" valsi="sumtcita"/>
+
+<nlword word="タグ" sense="項のタグ" valsi="sumtcita"/>
 
 <nlword word="東風" valsi="sunbi'e"/>
 
